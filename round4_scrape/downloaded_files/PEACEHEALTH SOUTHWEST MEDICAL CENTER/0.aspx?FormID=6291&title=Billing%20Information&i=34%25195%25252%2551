@@ -1,0 +1,726 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head id="Head2"><!--begin skinning file Head.txt-->
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N7F5KD');</script>
+<!-- End Google Tag Manager -->
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<script type="text/javascript">
+//<![CDATA[
+var ph_styleLibrary = "/Style%20Library";
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+WebFontConfig = {
+	google: {
+		families: ["Open Sans:400,400italic,600,600italic,300,300italic:latin"]
+	}
+};
+
+if (document.documentMode) {
+	delete WebFontConfig.google;
+	if (document.documentMode >= 9) {
+		WebFontConfig.custom = {
+			families: ["Open Sans"], 
+			urls: [ph_styleLibrary + "/ph-design-natural/styles/webfonts-ie-9-10.css"]
+		}
+	} else {
+		WebFontConfig.custom = {
+			families: ["IE-OpenSans", "IE-OpenSans-Italic", "IE-OpenSans-SemiBold", "IE-OpenSans-SemiBold-Italic", "IE-OpenSans-Light", "IE-OpenSans-Light-Italic"], 
+			urls: [ph_styleLibrary + "/ph-design-natural/styles/webfonts-ie.css"]
+		}
+	}
+}
+
+(function() {
+	var wf = document.createElement('script');
+	wf.src = '//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+	wf.type = 'text/javascript';
+	wf.async = 'true';
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(wf, s);
+})();
+//]]>
+</script>
+
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ph-web/styles/ph-sp.css" />
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ph-web/styles/ph.css" />
+<!--[if gt IE 9]><!-->
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ph-web/styles/ph-flex.css" />
+<!--<![endif]-->
+<!--[if gte IE 9]><!-->
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ph-web/styles/ph-responsive.css" />
+<!--<![endif]-->
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ph-web/styles/ph-comp.css" />
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ph-design-natural/styles/ph-natural.css" />
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ph-site-org/styles/ph-org.css" />
+
+<link rel="stylesheet" type="text/css" media="print" href="/Style%20Library/ph-web/styles/ph-print.css" />
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src='/Style%20Library/ph-web/scripts/html5shiv-printshiv.js'></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+<script type="text/javascript" src="/Style%20Library/ph-web/scripts/jquery-2.1.1.min.js"></script>
+<!--<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ph-web/scripts/jquery-ui-1.9.2.custom/css/ph-jq-ui/jquery-ui-1.9.2.custom.min.css" /> 
+<script type="text/javascript" src="/Style%20Library/ph-web/scripts/jquery-ui-1.9.2.custom/js/jquery-ui-1.9.2.custom.min.js"></script>
+
+<!--plugins-->
+<script type="text/javascript" src="/Style%20Library/ph-web/scripts/plugins/json3/json3.min.js"></script>
+<script type="text/javascript" src="/Style%20Library/ph-web/scripts/plugins/jquery-rss/jquery.rss.min.js"></script>
+<script type="text/javascript" src="/Style%20Library/ph-web/scripts/plugins/jq-cookie/jquery.cookie.js"></script>
+
+<!--ph Base scripts-->
+<script type="text/javascript" src="/Style%20Library/ph-web/scripts/ph.js"></script>
+<script type="text/javascript" src="/Style%20Library/ph-web/scripts/ph-jq.js"></script>
+<script type="text/javascript" src="/Style%20Library/ph-web/scripts/ph-sp.js"></script>
+<script type="text/javascript" src="/Style%20Library/ph-site-org/scripts/ph-org.js"></script>
+<!--[if gte IE 9]><!-->
+<script type="text/javascript" src="/Style%20Library/ph-web/scripts/ph-responsive.js"></script>
+<!--<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ph-web/scripts/plugins/ph-youtube/ph-youtube.css" />
+<script type="text/javascript" src="/Style%20Library/ph-web/scripts/plugins/ph-youtube/ph-youtube.js"></script>
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/Style%20Library/ph-web/scripts/ph-ie78.js"></script>
+<![endif]-->
+
+<!--[if IE 9]>
+<script type="text/javascript" src="/Style%20Library/ph-web/scripts/ph-ie9.js"></script>
+<![endif]-->
+
+<!--end PeaceHealth styles and scripts-->
+
+<script type="text/javascript">
+//<![CDATA[
+
+/**
+*	PH functions 
+**/
+        function DoSearch(evt) {
+        	if (evt) {
+        		evt.preventDefault();
+        	}
+            var searchtext = document.getElementById('ctl00_txtsearch').value;
+            if (searchtext == '')
+                alert('Please enter keyword to search');
+            else
+                window.location = '/Pages/Search.aspx?k=' + encodeURIComponent(searchtext);
+        }
+
+        function searchKeyPress(e) {
+            // look for window.event in case event isn't passed in 
+            if (e.keyCode == 13) {
+                DoSearch();
+                e.keyCode = 0;
+            }
+        }
+
+//]]>
+</script>
+
+
+<script type="text/javascript" src="/Style%20Library/ph-design-natural/scripts/ph-natural-ready.js"></script>
+<script type="text/javascript" src="/Style%20Library/ph-site-org/scripts/ph-org-ready.js"></script>
+
+<!--end skinning file Head.txt-->
+<link rel="stylesheet" type="text/css" href="/standard/css/1.2/internet.css" /><link rel="stylesheet" type="text/css" href="App.css" />
+    <script type="text/javascript" src="/standard/js/base.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="jquery.inputmask-0.3.5.js"></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+<script type="text/javascript" src="jquery.inputmask-3.1.6.2.js"></script>
+<!--<![endif]-->
+
+    <title>
+	Help & Feedback
+</title></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N7F5KD"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="s4-workspace" class="s4-nosetwidth ph-design-natural ph-site-org">
+	<div id="s4-bodyContainer">
+
+		<div class="ph-sp-scrollContainer">
+
+			<div id="s4-statusbarcontainer" class="ph-master-container-statusBar">
+				<div id="pageStatusBar" class="s4-status-s1 noindex">
+				</div>
+			</div>
+
+			<div class="ph-master-container-header" role="banner">
+				<header id="ph-pageHeader" class="ph-pageHeader">
+					<div id="ph-pageHeaderContents" class="ph-pageHeader-contents ph-util-clearfix noindex">
+						<div class="ph-pageHeader-logoContainer ph-media-nonPrint">
+							<a id="ctl00_PlaceHolderMain_PH_LogoLink" href="/"><img id="ph-logo" class="ph-pageHeader-logo" src="/Style%20Library/ph-web/images/ph-web.svg" alt="PeaceHealth logo" /></a>
+						</div>
+							<!--
+                                                          <div role="search" class="ph-pageHeader-searchBox ph-ui-field searchBox noindex" id="ph-searchBox">
+
+            <div id="ctl00_PlaceHolderMain_PH_SearchBoxCustom" class="ph-ui-customSearchBox">
+	
+<script type="text/javascript">
+//<![CDATA[
+function DoSearch(evt) {
+                if (evt) {
+                                evt.preventDefault();
+                }
+                var searchtext = txtsearch.value;
+                if (searchtext !== '') {
+                                window.location = '/Pages/Search.aspx?k=' + encodeURIComponent(searchtext);
+                }
+}
+
+function searchKeyPress(e) {        // look for window.event in case event isn't passed in 
+                if (e.keyCode == 13) {
+                                DoSearch();
+                                e.keyCode = 0;
+                }
+}
+//]]>
+</script>
+<span class="ph-ui-lineGroup">
+                <input type="text" name="k" id="txtsearch" class="ph-ui-searchInput" onkeypress="searchKeyPress(event);" size="20" title="Search PeaceHealth" placeholder="Search" /><a href="/Pages/Search.aspx" onclick="DoSearch(event);"><img src="/Style%20Library/ph-web/images/ss-button-search.png" alt="Search" class="ph-ui-searchIcon" /></a>
+</span>
+            
+</div>
+
+                                                          </div><!--end #ph-searchBox-->
+						
+
+						<!--begin global navigation-->
+						<div class="ph-globalNav-contents">
+							<nav id="ph-nav-global" class="ph-nav-global" role="navigation">
+								<div class="noindex">
+									
+								</div><!--end .noindex-->
+							</nav><!--end #nav-->
+						</div><!--end global navigation-->
+
+					</div><!--end .ph-header-contents-->
+				</header>
+			</div><!--end .ph-master-container-header-->
+
+			<div class="ph-master-container-globalNav">
+
+				<div id="ph-titleWrapper" class="ph-layout-container-title noindex">
+					<div class="ph-ui-sectionTitle ph-color-whiteFg">
+						<h1></h1>
+					</div>
+				</div><!--end #ph-titleWrapper-->
+
+
+				<div id="ph-responsive-topNavigation-container">
+					<div id="ph-responsive-topNavigation-controls" class="ph-media-ss-responsive">
+<!--[if gt IE 8]><!-->
+						<span id="ph-responsive-menuExpander" class="ph-media-ss-button">
+<svg class="ph-media-ss-button-menu" xmlns="http://www.w3.org/2000/svg" version="1.1" 
+		viewBox="0 0 105 105">
+	<title>show menu</title>
+	<rect class="ph-svg-buttonBg" x="0" y="0" width="105" height="105" fill="#005695"/>
+	<line class="ph-svg-buttonFg" x1="22" y1="30" x2="83" y2="30" stroke="#ffffff" stroke-width="9px" stroke-linecap="round"/>
+	<line class="ph-svg-buttonFg" x1="22" y1="53" x2="83" y2="53" stroke="#ffffff" stroke-width="9px" stroke-linecap="round"/>
+	<line class="ph-svg-buttonFg" x1="22" y1="76" x2="83" y2="76" stroke="#ffffff" stroke-width="9px" stroke-linecap="round"/>
+</svg>
+						</span>
+<!--<![endif]-->
+					</div><!--end #ph-topNavigation-controls-->
+					<div id="ph-responsive-topNavigation-contents">
+					</div><!--end #ph-responsive-topNavigation-contents-->
+				</div><!--end #ph-topNavigation-container-->
+
+				<div class="ph-globalNav-contents">
+
+						<div class="ph-ui-sectionTitle ph-color-whiteFg">
+
+						</div>
+
+				</div><!--end .ph-globalNav-contents-->				
+
+			</div><!--end .ph-master-container-globalNav-->
+
+			<div class="ph-master-container-layout ph-util-clearfix">
+				<div id="s4-mainarea">
+					<div id="MSO_ContentTable">
+							<a name="mainContent"></a>										
+
+<div id="ph-responsive-pageLayout" class="ph-pageLayout-mono ph-util-clearfix">
+          <div id="ph-responsive-main" class="ph-layout-container-main" role="main">
+<div id="phWrap"> 
+
+<div id="phWrap">
+
+    <form name="PageForm" method="post" action="./default.aspx?FormID=6291&amp;title=Billing+Information&amp;i=34%25195%25252%2551" id="PageForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTEyNDc2MTA0Nw9kFgICBQ9kFgICAw9kFgJmD2QWBgIHDxYCHgdWaXNpYmxlaGQCDQ9kFgJmD2QWAgIBD2QWAgIBDxBkZBYAZAIPD2QWEgIBDxYEHglpbm5lcmh0bWwFE0hlbHAgJmFtcDsgRmVlZGJhY2sfAGdkAgMPZBYCAgEPDxYCHgRUZXh0BTlGZWVkYmFjayBpcyB0eXBpY2FsbHkgcmV2aWV3ZWQgTW9uZGF5LUZyaWRheSwgOGFtIHRvIDVwbS5kZAIHDw8WAh8CBacCPHA+UGxlYXNlIGZpbGwgaW4gdGhlIGluZm9ybWF0aW9uIGJlbG93LiBXaGVuIGZpbmlzaGVkLCBjbGljayB0aGUgPGI+U2VuZCBGZWVkYmFjazwvYj4gYnV0dG9uLjwvcD48cD48YSBocmVmPSIgaHR0cHM6Ly9waGVhbHRoLm15Lndvcmtmcm9udC5jb20vcmVxdWVzdHM/YWN0aXZlVGFiPXRhYi1uZXctaGVscFJlcXVlc3QmcHJvamVjdElEPTVjYWU1NWFlMDE1YWVkYTg2MDg1MWVhZWFmMzRjNGM4JnBhdGg9Ij4oUGVhY2VIZWFsdGggQ2FyZWdpdmVyczogUmVxdWVzdCBDb250ZW50IFVwZGF0ZXMgSGVyZSk8L2E+PC9wPmRkAg0PZBYEAgIPZBYCAgEPZBYCZg8QZGQWAWZkAgQPZBYCAgEPZBYCZg8QZGQWAWZkAg8PFgIfAGhkAhEPFgIfAGgWAgIJDxYCHwBoZAITDxYCHwBoZAIZD2QWAgIBD2QWAmYPZBYCAgEPDxYCHwBoZGQCGw8WAh8AaBYEAgMPD2Q8KwAGAGQCBQ8UKwACDxYEHhJNdWx0aVNvcnREaXJlY3Rpb24LKidTeXN0ZW0uV2ViLlVJLldlYkNvbnRyb2xzLlNvcnREaXJlY3Rpb24BHhNNdWx0aVNvcnRFeHByZXNzaW9uBQxTZW50RGF0ZVRpbWVkZGQYAQUNRm9ybURldGFpbCRMVg8UKwAOZGRkZAUMU2VudERhdGVUaW1lAgFkZGRkZGRmAv////8PZMfNwOqTZL/8VeYk5Ghc37CyoewxECBdLvOY7GgU+Zdz" />
+
+<script type="text/javascript">
+//<![CDATA[
+var getQueryParam = function getQueryParam(param) {
+	var query = window.location.search.substring(1);
+	var vars = query.split("&");
+	for (var i = 0; i < vars.length; i++) {
+		var nvPair = vars[i].split("=");
+		if (nvPair[0] === param) {
+			return decodeURIComponent(nvPair[1]);
+		}
+	}
+	return "";
+};
+
+$(document).ready(function () {
+
+	//change the email address
+	$('#FormDetail_FormDescription a[href*="mailto"]').attr("href", "mailto:DLSYSInternetGovernance@peacehealth.org");
+
+	//change the 'OK' button to say "Send Feedback"
+	$('.OKButton').val("Send Feedback");
+
+	//visible fields
+	var medCtrField = $('#FormDetail_Question68861');
+
+	//diagnostic fields
+	var referrerField = $('#FormDetail_Question68851');
+	var referrerPageTitleField = $('#FormDetail_Question68864');
+	var userAgentField = $('#FormDetail_Question68852');
+	var documentModeField = $('#FormDetail_Question68853');
+	var localeField = $('#FormDetail_Question68857');
+	var cookiesEnabledField = $('#FormDetail_Question68858');
+	var screenResolutionField = $('#FormDetail_Question68862');
+	var ipField = $('#FormDetail_Question68863');
+
+
+	//do some things when in user mode, but not when reviewing responses
+	if (window.location.href.toLowerCase().indexOf("form.aspx") >= 0 || window.location.href.toLowerCase().indexOf("default.aspx") >= 0) {
+
+		//list the referring page title and URL
+		referrerField.val(document.referrer);
+		referrerPageTitleField.val(getQueryParam("title"));
+
+		//pre-select medical center based on referring URL
+		var medCtrKeys = {
+			"/ketchikan": "378774", 
+			"/ketchikan-medical-center": "378774", 
+			"/cottage-grove": "378775", 
+			"/cottage-grove-medical-center": "378775", 
+			"/peace-harbor": "378776", 
+			"/peace-harbor-medical-center": "378776", 
+			"/sacred-heart-riverbend": "378777", 
+			"/sacred-heart-university-district": "378778", 
+			"/st-john": "378779", 
+			"/st-john-medical-center": "378779", 
+			"/st-joseph": "378780", 
+			"/st-joseph-medical-center": "378780", 
+			"/peace-island": "378781", 
+			"/peace-island-medical-center": "378781", 
+			"/southwest": "378782", 
+			"/southwest-medical-center": "378782", 
+      "/united-general": "378783", 
+      "/united-general-medical-center": "378783"
+		};
+		for (var key in medCtrKeys) {
+			if (medCtrKeys.hasOwnProperty(key)) {
+				if (document.referrer.indexOf(key) >= 0) {
+					try {
+						var option = $('option[value="' + medCtrKeys[key] + '"]');
+						var optionIndex = option.get(0).index;
+						medCtrField.get(0).selectedIndex = optionIndex;
+						break;
+					} catch (exc) {
+						//no-op
+					}
+				}
+			}
+		}
+
+
+		//collect user agent diagnostics
+
+		//user agent
+		userAgentField.val(navigator.userAgent);
+
+		//IE document mode
+		if (navigator.userAgent.indexOf("MSIE") >= 0 && document.documentMode) {
+			documentModeField.val(document.documentMode);
+		} else {
+			documentModeField.val("N/A");
+		}
+
+		//locale
+		var locale = window.navigator.userLanguage || window.navigator.language;
+		localeField.val(locale);
+
+		//cookies enabled?
+		cookiesEnabledField.val(navigator.cookieEnabled);
+
+		//screen resolution
+		try {
+			screenResolutionField.val(screen.width + "\u00D7" + screen.height);
+		} catch (exc) {
+			//no-op
+		}
+
+		//IP field
+		var ipVal = "";
+		if (window.location.search.length >= 1) {
+			var ipVal = getQueryParam("i");
+			ipVal = ipVal.replace(/%/g, ".");
+			ipField.val(ipVal);
+		}
+
+
+		//hide diagnostic fields
+		$(':contains("User Agent Diagnostic Information")').closest("tr").css("display", "none");
+		var fieldsToHide = [referrerField, referrerPageTitleField, localeField, cookiesEnabledField, userAgentField, documentModeField, screenResolutionField, ipField];
+		$.each(fieldsToHide, function (index, item) {
+			item.attr("readonly", "readonly");
+			item.parents('tr').css("display", "none");
+		});
+
+		//hide the "form description" label
+    $('#FormDetail_FormDescriptionLabel').css("display", "none");
+		//hide the 'OK/Save' button that displays above the form
+		$('#FormDetail_SaveRow2').css("display", "none");
+
+    $('#FormDetail_DirectionsLabel').css("margin-top", "1em");
+
+    //modify the link to the Content Update form to include the original referrer
+    //https://app.peacehealth.org/Form/default.aspx?FormID=5265
+    var contentUpdateLink = $('a[href*="5265"]');
+    var contentUpdateUrl;
+    if (document.referrer) {
+      contentUpdateUrl = contentUpdateLink.attr("href");
+      contentUpdateUrl += "&referrer=" + encodeURI(document.referrer);
+      contentUpdateLink.attr("href", contentUpdateUrl);
+    }
+    if (referrerPageTitleField.val()) {
+      contentUpdateUrl = contentUpdateLink.attr("href");
+      contentUpdateUrl += "&title=" + encodeURI(referrerPageTitleField.val());
+      contentUpdateLink.attr("href", contentUpdateUrl);
+    }
+
+
+		
+	} else {
+		var uaIdentifierSrc = "http://www.useragentstring.com/?uas=" + encodeURI(userAgentField.val()) + "&getText=all";
+		var uaIdentifierLink = $('<br/><a id="userAgentInfo" href="' + uaIdentifierSrc + '" target="_blank">User Agent Details</a>');
+		userAgentField.after(uaIdentifierLink);
+	}
+});
+
+//]]>
+</script><script type="text/javascript">$(document).ready(function(){});</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="4ED32B68" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdACa/kR5Xb//qvRMPXzPVENgae32S7Zxbi13sy5CdOpokOCcaOMvpZGkLBSVQnUMFEUYwpLeSMdve82ZtAi/4PG+SMsz6FiF+9qYh5R3Wmcrk+rpJxTysJAWlatO8G2LkW0SNirMdHiQefGaYPzfAsTTsL5ZtvhJ4P319aHMrrxtZw0q67+4GIOdFKfPhU1c6cEYmJB48X+8alXQWSmjhoY+erLs1Qym9rP80M0FZ5SkLCzoqBH5JG7d2XId6Ckbwd2epYcSvpPVV1AoENMbPZfvWCp6mhsUVVwlJWMVoueDvoJbT7TAn+f+RBW+HJZVdcQEMXC233WMc077lIbfCtcR5Z4wOOsTzd2qHbzPTP3o/u+nU9jOgZNRD0wZM68mDI0Lauyu4OCsil0nVA3LnnVaPy74M3z7F9XnTs8XjoO9XbNFUJA/+65xBK5nCp3hk6UTDjVgX8mjNl8/ZL3iSXSvojKqHa4PFzDwJeyXZBbc9mFIYgnf1jEvYGaaclRDmD2JyJwibKdgz+s2q2yFHWXev74QsOQY7KVJl+hmQSjSPLaXgNpUqoOIO+WpcKHF2TIYZOSWPsMCeP4j6kIfureaFbZzZnnnbFcOmfr6Hb0LhveO8mykhsjWlpRzRzPF09RCKexhpbtKP2SiyJFCR+NV8YRam12aq8EJ77w4tjgaIBN+a9MNi/Ky8+IsMG6i2IPl4xsKWe664m6f6BaN/QhfWLKIQMXMpzb7AY+8WKpA9BPqHfIVeIUI726y5tIJw/D2Lp7G9s1mOG/hTq2B8xlPdxI0UVg/f6KlotkW4/xdVMCnumd1bm1QS1/864QpmWC7eIXsMey55xchIOZW79r1I" />
+    
+    <div id="FormDetail_FormTool">
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("form").submit(function (event) {
+            setTimeout(function () {
+                $("input:submit").attr("disabled", true);
+                $("input:submit").attr("value", "Saving");
+            }, 100);
+        });
+    });
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('*[readonly="readonly"]').css('color', '#888888');
+    });
+</script>
+
+
+
+
+
+
+
+<span id="FormDetail_EntireForm">
+    <h2 id="FormDetail_InternetTitle">Help &amp; Feedback</h2>
+
+    <h2 id="FormDetail_FormDescriptionLabel">Form Description</h2><span id="FormDetail_FormDescription">Feedback is typically reviewed Monday-Friday, 8am to 5pm.</span>
+    <h2 id="FormDetail_DirectionsLabel">Directions</h2>
+    <span id="FormDetail_Directions"><p>Please fill in the information below. When finished, click the <b>Send Feedback</b> button.</p><p><a href=" https://phealth.my.workfront.com/requests?activeTab=tab-new-helpRequest&projectID=5cae55ae015aeda860851eaeaf34c4c8&path=">(PeaceHealth Caregivers: Request Content Updates Here)</a></p></span>
+    <span id="FormDetail_RequiredInstructions">Questions marked with a <span style="color:Red">red *</span> require a response.</span>
+    <br />
+    <br />
+    <table id="FormDetail_SaveRow2">
+	<tr>
+		<td colspan="2">
+                <input type="submit" name="FormDetail$OKButton2" value="Save" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;FormDetail$OKButton2&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="FormDetail_OKButton2" class="OKButton" />
+            </td>
+	</tr>
+</table>
+
+
+    <table id="FormDetail_FormRows" class="standardForm" border="0">
+	<tr class="odd">
+		<td align="right" width="200"><span><label><span class="required">*</span> Name:</label></span></td><td><input name="FormDetail$Question68860" type="text" size="60" id="FormDetail_Question68860" Autocomplete="Off" /></td>
+	</tr><tr class="even">
+		<td align="right" width="200"><span><label><span class="required">*</span> Your email address and/or phone number (required for a response):</label></span></td><td><input name="FormDetail$Question68856" type="text" size="60" id="FormDetail_Question68856" Autocomplete="Off" /></td>
+	</tr><tr class="odd">
+		<td align="right" width="200"><span><label><span class="required">*</span> Type of issue:</label></span></td><td><select name="FormDetail$Question68850" id="FormDetail_Question68850">
+			<option selected="selected" value="" style="color:#aaaaaa;">Select one</option>
+			<option value="378762">Broken link</option>
+			<option value="378763">Browser problem or Error message</option>
+			<option value="378764">Career, Jobs or R&#233;sum&#233; [support desk  (360) 729-1495]</option>
+			<option value="378770">Concern or Complaint</option>
+			<option value="378766">Content correction (incorrect spelling, missing information, wrong phone number)</option>
+			<option value="378765">Find a Doctor</option>
+			<option value="378773">Mobile App</option>
+			<option value="378767">My PeaceHealth (logon, password, other)</option>
+			<option value="378768">Usability or Navigation</option>
+			<option value="378771">Search, Can&#39;t locate</option>
+			<option value="378769">Suggestion or Compliment</option>
+			<option value="378772">WiFi issue</option>
+
+		</select></td>
+	</tr><tr class="even">
+		<td align="right" width="200"><span><label><span class="required">*</span> Issue Details - Include web page address: <br /><em style="color: #B30838;">(Please DO NOT enter confidential information here)</em></label></span></td><td><textarea name="FormDetail$Question68854" rows="4" cols="60" id="FormDetail_Question68854" Autocomplete="Off">
+</textarea></td>
+	</tr><tr class="odd">
+		<td align="right" width="200"><span><label>Medical Center</label></span></td><td><select name="FormDetail$Question68861" id="FormDetail_Question68861">
+			<option selected="selected" value="" style="color:#aaaaaa;">Select one</option>
+			<option value="378775">PeaceHealth Cottage Grove Community Medical Center - Cottage Grove OR</option>
+			<option value="378774">PeaceHealth Ketchikan Medical Center - Ketchikan AK</option>
+			<option value="378776">PeaceHealth Peace Harbor Medical Center - Florence OR</option>
+			<option value="378781">PeaceHealth Peace Island Medical Center - Friday Harbor WA</option>
+			<option value="378777">PeaceHealth Sacred Heart Medical Center at RiverBend - Springfield OR</option>
+			<option value="378778">PeaceHealth Sacred Heart Medical Center University District - Eugene OR</option>
+			<option value="378782">PeaceHealth Southwest Medical Center - Vancouver WA</option>
+			<option value="378779">PeaceHealth St. John Medical Center - Longview WA</option>
+			<option value="378780">PeaceHealth St. Joseph Medical Center - Bellingham WA</option>
+			<option value="378783">PeaceHealth United General Medical Center - Sedro-Woolley WA</option>
+
+		</select></td>
+	</tr><tr class="even">
+		<td align="right" width="200"><span><label>Referring Page URL</label></span></td><td><input name="FormDetail$Question68851" type="text" size="60" id="FormDetail_Question68851" Autocomplete="Off" /></td>
+	</tr><tr class="odd">
+		<td align="right" width="200"><span><label>Referring Page Title</label></span></td><td><input name="FormDetail$Question68864" type="text" size="60" id="FormDetail_Question68864" Autocomplete="Off" /></td>
+	</tr><tr class="even">
+		<td class="formRowHeader" align="left" colspan="2" width="600"><span>User Agent Diagnostic Information</span></td>
+	</tr><tr class="even">
+		<td align="right" width="200"><span><label>User agent</label></span></td><td><input name="FormDetail$Question68852" type="text" size="60" id="FormDetail_Question68852" Autocomplete="Off" /></td>
+	</tr><tr class="odd">
+		<td align="right" width="200"><span><label>IE Document Mode</label></span></td><td><input name="FormDetail$Question68853" type="text" size="60" id="FormDetail_Question68853" Autocomplete="Off" /></td>
+	</tr><tr class="even">
+		<td align="right" width="200"><span><label>Locale</label></span></td><td><input name="FormDetail$Question68857" type="text" size="60" id="FormDetail_Question68857" Autocomplete="Off" /></td>
+	</tr><tr class="odd">
+		<td align="right" width="200"><span><label>Cookies enabled?</label></span></td><td><input name="FormDetail$Question68858" type="text" size="60" id="FormDetail_Question68858" Autocomplete="Off" /></td>
+	</tr><tr class="even">
+		<td align="right" width="200"><span><label>Screen Resolution</label></span></td><td><input name="FormDetail$Question68862" type="text" size="60" id="FormDetail_Question68862" Autocomplete="Off" /></td>
+	</tr><tr class="odd">
+		<td align="right" width="200"><span><label>IP Address</label></span></td><td><input name="FormDetail$Question68863" type="text" size="60" id="FormDetail_Question68863" Autocomplete="Off" /></td>
+	</tr>
+</table>
+
+    
+    
+    <table class="standardForm">
+        
+        
+        
+    </table>
+    <table id="FormDetail_SaveRow">
+	<tr>
+		<td>
+                <input type="submit" name="FormDetail$OKButton" value="Save" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;FormDetail$OKButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="FormDetail_OKButton" class="OKButton" />
+            </td>
+	</tr>
+	<tr>
+		<td>
+                <br />
+                <br />
+                
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                
+            </td>
+	</tr>
+</table>
+
+    </span>
+
+</div>
+<!-- End EntireForm-->
+
+
+    </form>
+    </div>
+</div><!--end .phWrap-->
+</div><!--end .ph-layout-container-main-->
+</div><!--end .ph-pageLayout-mono-->
+
+					</div><!--end #MSO_ContentTable-->
+				</div><!--end #s4-mainarea-->
+			</div><!--end .ph-master-container-layout-->
+
+			<div class="ph-master-container-footer ph-color-darkBg ph-color-neutral s4-notdlg noindex" role="contentinfo">
+
+				<footer id="ph-pageFooter" class="ph-pageFooter ph-pageLayout-mono">
+
+					<div class="ph-pageFooter-contents noindex">
+
+						<div class="ph-pageFooter-bottomLinks ph-util-4cols ph-util-clearfix ph-ui-verticalSeparated noindex">
+
+							<div class="ph-pageFooter-bottomLinks-hospitals ph-util-col-double noindex">
+								<h3>PeaceHealth<br/>Medical Centers</h3>
+
+<!--begin WebPartPages:DataFormWebPart-->
+<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td valign="top"><div id="WebPartWPQ2" width="100%" class="noindex"><div id="ph-pageFooter-medicalCenters-1" class="ph-pageFooter-stateGroup noindex">
+  <h4>Alaska</h4>
+  <ul class="ph-pageFooter-mc-state">
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/ketchikan" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Ketchikan</span> ▪ <span class="ph-pageFooter-mc-name">PeaceHealth Ketchikan Medical Center</span></a></li>
+  </ul>
+</div>
+<div id="ph-pageFooter-medicalCenters-2" class="ph-pageFooter-stateGroup noindex">
+  <h4>Oregon</h4>
+  <ul class="ph-pageFooter-mc-state">
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/cottage-grove/" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Cottage Grove</span> ▪ <span class="ph-pageFooter-mc-name">PeaceHealth Cottage Grove Community Medical Center</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/sacred-heart-university-district" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Eugene</span> ▪ <span class="ph-pageFooter-mc-name">PeaceHealth Sacred Heart Medical Center University District</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/peace-harbor" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Florence</span> ▪ <span class="ph-pageFooter-mc-name">PeaceHealth Peace Harbor Medical Center</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/sacred-heart-riverbend/" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Springfield</span> ▪ <span class="ph-pageFooter-mc-name">PeaceHealth Sacred Heart Medical Center at RiverBend</span></a></li>
+  </ul>
+</div>
+<div id="ph-pageFooter-medicalCenters-3" class="ph-pageFooter-stateGroup noindex">
+  <h4>Washington</h4>
+  <ul class="ph-pageFooter-mc-state">
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/st-joseph/" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Bellingham</span> ▪ <span class="ph-pageFooter-mc-name">PeaceHealth St. Joseph Medical Center</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/peace-island/" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Friday Harbor</span> ▪ <span class="ph-pageFooter-mc-name">PeaceHealth Peace Island Medical Center</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/st-john" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Longview</span> ▪ <span class="ph-pageFooter-mc-name">PeaceHealth St. John Medical Center</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/united-general" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Sedro-Woolley</span> ▪ <span class="ph-pageFooter-mc-name">PeaceHealth United General Medical Center</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/southwest" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Vancouver</span> ▪ <span class="ph-pageFooter-mc-name">PeaceHealth Southwest Medical Center</span></a></li>
+  </ul>
+</div></div></td>
+	</tr>
+</table>
+<!--end WebPartPages:DataFormWebPart-->
+							</div><!--end .ph-pageFooter-bottomLinks-hospitals-->
+
+							<div class="ph-pageFooter-bottomLinks-phmg ph-util-col noindex">
+								<h3>PeaceHealth <span class="ph-util-nobr">Medical Group</span></h3>
+
+<!--begin WebPartPages:DataFormWebPart-->
+<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td valign="top"><div id="WebPartWPQ3" width="100%" class="noindex"><div id="ph-pageFooter-medicalGroups-1" class="ph-pageFooter-stateGroup noindex">
+  <h4>Alaska</h4>
+  <ul class="ph-pageFooter-mc-state">
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/phmg/ketchikan-craig/?srcNav=footer_craig" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Craig</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/phmg/ketchikan-craig/" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Ketchikan</span></a></li>
+  </ul>
+</div>
+<div id="ph-pageFooter-medicalGroups-2" class="ph-pageFooter-stateGroup noindex">
+  <h4>Oregon</h4>
+  <ul class="ph-pageFooter-mc-state">
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/phmg/cottage-grove/" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Cottage Grove</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/phmg/cottage-grove/?srcNav=footer_Creswell" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Creswell</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/phmg/cottage-grove/?srcNav=footer_Dexter" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Dexter</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/phmg/eugene-springfield/" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Eugene</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/phmg/florence" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Florence</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/phmg/eugene-springfield/?srcNav=footer_Springfield" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Springfield</span></a></li>
+  </ul>
+</div>
+<div id="ph-pageFooter-medicalGroups-3" class="ph-pageFooter-stateGroup noindex">
+  <h4>Washington</h4>
+  <ul class="ph-pageFooter-mc-state">
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/phmg/bellingham-lynden" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Bellingham</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/phmg/sedro-woolley?srcNav=footer_Burlington" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Burlington</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/phmg/longview" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Longview</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/phmg/bellingham-lynden?srcNav=footer_Lynden" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Lynden</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/phmg/sedro-woolley" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Sedro&#x2011;Woolley</span></a></li>
+    <li class="ph-pageFooter-mc-facility"><a href="http://www.peacehealth.org/phmg/vancouver" class="ph-pageFooter-mc-link"><span class="ph-pageFooter-mc-city">Vancouver</span></a></li>
+  </ul>
+</div></div></td>
+	</tr>
+</table>
+<!--end WebPartPages:DataFormWebPart-->
+
+							</div><!--end .ph-pageFooter-bottomLinks-phmg-->
+
+							<div class="ph-pageFooter-bottomLinks-phLabs ph-util-col noindex">
+								<h3>Patient Safety and Quality</h3>
+								<p>
+									<a id="ctl00_ph_pageFooter_PH_AccreditationLink" href="http://www.peacehealth.org/patient-safety-and-quality/Pages/Default.aspx">
+										Learn about PeaceHealth&#x2019;s commitment to quality and safety
+									</a>
+								</p>
+								<p>
+									<a href="http://www.peacehealth.org/research-and-clinical-trials/Pages/Default.aspx">Research and Clinical Trials</a>
+								</p>
+								<p>
+									<a id="ctl00_ph_pageFooter_ForMedProLink" class="ph-ui-ctaButton forMedPro" href="http://www.peacehealth.org/about-peacehealth/medical-professionals/Pages/Default.aspx">For Medical Professionals</a>
+								</p>
+								<p>
+									<a id="ctl00_ph_pageFooter_VolunteerLink" class="ph-ui-ctaButton volunteeratPH" href="http://www.peacehealth.org/shared-pages/Pages/_volunteers-default.aspx?from=/about-peacehealth">Volunteer at PeaceHealth</a>
+								</p>
+								<p>
+									<a id="ctl00_ph_pageFooter_FoundationLink" class="ph-ui-ctaButton" href="http://www.peacehealth.org/foundation">PeaceHealth Foundations</a>
+								</p>
+
+								<div id="ctl00_ph_pageFooter_PH_PageFooterActions" class="ph-pageFooter-actions noindex">
+	
+									<a id="ctl00_ph_pageFooter_PH_FooterActionPrint" class="ph-action-print" href="javascript:window.print();">
+										<img src="/Style%20Library/ph-web/images/social/printer-28x28.png" alt="" />
+									</a>
+									<a id="ctl00_ph_pageFooter_PH_FooterActionEmail" class="ph-action-email" href="mailto:?subject=PeaceHealth%20Medical%20System&amp;body=http://www.peacehealth.org/Pages/systemlanding.aspx">
+										<img src="/Style%20Library/ph-web/images/social/email-28x28.png" alt="" />
+									</a>
+									<a id="ctl00_ph_pageFooter_PH_FooterActionFacebook" class="ph-action-follow-facebook" href="https://www.facebook.com/PeaceHealth">
+										<img src="/Style%20Library/ph-web/images/social/facebook-u6555.png" alt="" />
+									</a>
+									
+									<a id="ctl00_ph_pageFooter_PH_FooterActionYouTube" class="ph-action-youtube" href="https://www.youtube.com/user/PeaceHealth">
+										<img src="/Style%20Library/ph-web/images/social/youtube-u6669.png" alt="" />
+									</a>
+								
+</div>
+
+							</div><!--end .ph-pageFooter-bottomLinks-labs-->
+
+						</div><!--end .ph-pageFooter-bottomLinks"-->
+
+						<p class="ph-pageFooter-footerLinks">
+							<a href="http://www.peacehealth.org/about-peacehealth/Pages/terms-and-conditions.aspx">Terms &amp; Conditions</a> | 
+							<a href="http://www.peacehealth.org/Documents/2015NPPEnglishFinal.pdf">Notice of Privacy Practices</a> | 
+							<a href="http://www.peacehealth.org/about-peacehealth/Pages/contact-peacehealth.aspx">Contact Us</a> | 
+							<a href="http://www.peacehealth.org/">PeaceHealth Home</a> | 
+							<a href="http://www.peacehealth.org/about-peacehealth/for-employees/Pages/Default.aspx">For Employees</a> | 
+							<a href="http://www.peacehealth.org/about-peacehealth/media/Pages/Default.aspx">For the Media</a> | 
+							<a href="http://www.peacehealth.org/about-peacehealth/vendors/Pages/Default.aspx">For Vendors</a>
+						</p><!--end .ph-pageFooter-footerLinks-->
+
+						<p class="ph-pageFooter-copyright">&copy; 2015&#x0020;PeaceHealth. All rights reserved.</p>
+					</div><!--end .ph-footer-contents-->
+				</footer><!--end #footer-->
+
+			</div><!--end .ph-master-container-footer-->
+
+
+</body>
+</html>

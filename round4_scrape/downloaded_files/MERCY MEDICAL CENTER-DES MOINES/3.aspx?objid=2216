@@ -1,0 +1,369 @@
+
+<!DOCTYPE html>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head id="ctl00_Head1"><title>
+	MercyOne
+</title>
+    <!-- meta info GroupLevelFlexPoints -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta charset="utf-8" /><meta name="author" /><meta name="keywords" /><meta name="description" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!--[if IE 7 ]><html lang="en" class="innerpage no-js ie7"><![endif]-->
+    <!--[if IE 8 ]><html lang="en" class="innerpage no-js ie8"><![endif]-->
+    <!--[if IE 9 ]><html class="ie9" lang="en"><![endif]-->
+    <!--[if (gt IE 9)|!(IE)]><html lang="en"><![endif]-->
+
+    <link id="ctl00_lnkAppleIcon" href="../Company/MercyMedical/icon/apple-touch-icon.png" rel="apple-touch-icon" /><link id="ctl00_linkIcon" rel="icon" type="image/ico" href="../Company/MercyMedical/icon/favicon.png" />
+
+	<!-- stylesheet -->
+    <!-- Will be replace by the a single css i.e. Enbridge.css -->
+    <link id="ctl00_Link1" href="../App_Themes/RedesignCss/MercyMedical.css" rel="stylesheet" type="text/css" media="all" />
+
+	<!--font include-->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" />    
+
+    <!-- Internal script -->
+    <script src="/Script/Validation.js" type="text/javascript"></script>
+
+    <!--scripts include-->
+    <script src="/Scripts/Redesign2014/jquery-1.11.2.js" type="text/javascript"></script>
+
+    <script src="/Scripts/Redesign2014/jquery.custom-scrollbar.js" type="text/javascript"></script>
+    <script src="/Scripts/Redesign2014/jquery.easing.1.3.js" type="text/javascript"></script>
+    <script src="/Scripts/Redesign2014/jquery.flexslider-min.js" type="text/javascript"></script>
+    
+    <script src="/Scripts/Redesign2014/jquery.isotope.min.js" type="text/javascript"></script>
+    <script src="/Scripts/Redesign2014/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+    <script src="/Scripts/Redesign2014/jquery.tweet.min.js" type="text/javascript"></script>
+    <script src="/Scripts/Redesign2014/jquery-ui.min.js" type="text/javascript"></script>
+	
+    
+	<script src="/Scripts/Redesign2014/camera.min.js" type="text/javascript"></script>
+	<script src="/Scripts/Redesign2014/owl.carousel.min.js" type="text/javascript"></script>
+	<script src="/Scripts/Redesign2014/scripts.js" type="text/javascript"></script>
+    <script src="/Scripts/Redesign2014/retina.js" type="text/javascript"></script>
+    <script src="/Scripts/Redesign2014/waypoints.min.js" type="text/javascript"></script>
+
+    <script src="/Scripts/Redesign2014/elevatezoom.min.js" type="text/javascript"></script>
+    <script src="/Scripts/Redesign2014/jquery.fancybox-1.3.4.js" type="text/javascript"></script>
+    <script src="/Scripts/modernizr-2.6.2.js" type="text/javascript"></script>   
+
+     <!--[if lt IE 9]>
+        <link  href="/Scripts/Redesign2014/bootstrap4ie8.css" rel="stylesheet" type="text/css" media="all" />        
+        <script src="/Scripts/Redesign2014/jquery.placeholder.min.js" type="text/javascript"></script>            
+        <script  src="/Scripts/Redesign2014/html5shiv.js" type="text/javascript"></script>  
+        <script src="/Scripts/Redesign2014/respond.min.js" type="text/javascript"></script>
+        <script src="/Scripts/checked-polyfill.js" type="text/javascript"></script>
+        <script src="/Scripts/Redesign2014/ie8.js" type="text/javascript"></script>      
+    <![endif]-->
+
+    <script src="/Scripts/Redesign2014/js.cookie.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        function SetLocalOffSetCookie() {
+            var today = new Date();
+            //Cookies.remove('localoffset');
+           //Cookies.set('localoffset', today.getTimezoneOffset(), { expires: 1 }); // Expired 1 day
+           Cookies.set('localoffset', today.getTimezoneOffset());
+        }
+    </script>
+
+<script src="../ucontrols/scripts/logincontrol.js" type="text/javascript"></script>
+</head>
+
+<body onload="SetLocalOffSetCookie()">
+    <!-- **** 
+
+        NOTES:  
+        Moved the form tag down below, wrap it around the body content control 
+        because the menu can not be insde a form tag 
+
+    *** -->
+    
+
+    <!--boxed layout-->
+    <div class="boxed_layout relative w_xs_auto page_background_image">
+        <div class="clearfix boxed_shadow_forsite" > <!-- style="box-shadow:2px 3px 2px 3px #B5B5B5" -->
+            <!-- HEADER: Banner, ect. -->
+            
+            <header role="banner">
+                <div class="HeaderBackgroundImg">
+                <div id="ctl00_pnlTopLinks">
+	
+			        <!--header top part-->
+			        <section class="h_top_part">
+				        <div class="container">
+					        <div class="row clearfix">
+						        <div class="col-lg-4 col-md-4 col-sm-5 t_xs_align_c">
+							        <!-- Hidden <p class="f_size_small">Welcome! Please <a href="#" data-popup="#login_popup">Log In</a></p>-->
+						        </div>
+						        <div class="col-lg-4 col-md-4 col-sm-2 t_align_c t_xs_align_c">
+							        <!--<p class="f_size_small">Toll Free: <b class="color_dark">(800) 123-1234</b></p>
+						        --></div>
+                                <div id="ctl00_pnlTopNav">
+		
+							        
+                                    <div id="ctl00_pnlLogin">
+			
+                                            <nav class="col-lg-4 col-md-4 col-sm-5 t_align_r t_xs_align_c">
+								            <ul class="d_inline_b horizontal_list clearfix f_size_small users_nav">
+                                                <li><span class="fw_medium"><a href="../Services/Default.aspx?ct=2" id="ctl00_aLogin" class="default_t_color2"><i class="fa fa-user"></i> Log In</a></span></li>
+                                            </ul>
+							            </nav>
+                                    
+		</div>
+								
+	</div>
+					        </div>
+				        </div>
+			        </section>
+
+			        <!--header bottom part-->
+			        <section class="h_bot_part container">
+				        <div class="clearfix row" >
+					        <div class="col-lg-6 col-md-6 col-sm-4 t_xs_align_c">
+						        <!--<a href="../Services/default.aspx" id="ctl00_linkHdr" class="logo m_xs_bottom_15 d_xs_inline_b">-->
+					                <img src="../Company/MercyMedical/Header.png" id="ctl00_imgLogo" style="max-height:120px" />
+						        <!--</a>-->
+					        </div>
+                            
+				        </div>
+			        </section>
+                
+</div>
+                </div>
+                <div id="ctl00_pnlMenu">
+	
+				    <!--main menu container-->
+				    <div id="ctl00_navMenu_plMenu">
+		
+
+        <!--main menu container-->
+        <section class="menu_wrap relative MainMenuColor">
+			<div class="container clearfix">
+			    <!--button for responsive menu-->
+                <!-- Changed from <button /> to <div /> tag -->
+			    <div id="menu_button" class="r_corners centered_db d_none tr_all_hover d_xs_block m_bottom_10">
+                    <span class="centered_db r_corners"></span> <span class="centered_db r_corners"></span> <span class="centered_db r_corners"></span>
+                </div>
+			    <!--main menu-->
+			    <nav role="navigation" class=" f_xs_none d_xs_none" style="margin-left:auto; margin-right:auto;">	
+				    <ul class="horizontal_list main_menu clearfix" style="width:100%; display:inline-block;">
+    
+        </ul>
+       </nav>
+       </div>
+    </section>
+    
+
+	</div>
+                
+</div>
+		    </header>
+
+            <!-- CONTENT -->
+            <form name="aspnetForm" method="post" action="./Login.aspx?objid=2216" id="aspnetForm" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;LoginButton&#39;);">
+<input type="hidden" name="ctl00_ScriptManager1_HiddenField" id="ctl00_ScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="acoz5+KDZrEPERXEriF1anxObqj+axkXqH8qsNA/edEkjA/eLK9fCqSsJLaRtgZQInvSkJkCUW3St6kcayjChJHqLD4yP2nQazHQU2CnBbY/zD9QxXJHW8Izjv9iQ21PPgg2YzJtknX0aBo74eYija1IEgBdvYQUDxGTTjGuUme5YCDlP1FdXaYk/mjW9IxBoe0adURhCJ82Lcv5c3HfxqExwAdmb5HufKKr0UJTXnw9VoTOqyQDO41WP0DTlYR7ctlpfsrsLK6fMbO7LU95QPuASb5ignzwVyR6rlAbq/LzOHLGE7QomBmuOfTXu7dmxGE6iGuex8ETZLYIAv/nxPKZsZ1OvAkwdNahxfyP1YAl9tzScpPYCJ2nwFocxNmBcd/AynR3Ahg6wQbDPkQEZojvStxYYWYEBEQLewrtlt9mCnIS4DrvVRy5QpwZ/PbXmB7wqvJ0VFtcMfQxlvVQlA1mSjD0uSouNq2hTLNeJLx84nFTMLYSz4sb+KlMfttKAyqRoWzdq12fUmeRuwdKQpwKShoFSmKFzD1/2FPA+5erH8DlUU6mfpqt89sfuBa/C+cOV6HrGKX+Wf3a4OeLhlVi9bIkCe6gCviFDoohZ3EkV4Ufcur9CBWGmE1dGqjlzI1ASfLmDuW2U8GWtVp7CI6CQz5OwAXUMyPeDbI2d/pimachB8puJNkFdo4solcIuYn1Di2HMP3Ea9yye5FuV1mFXEvbIgNrM4QRM2vhMcu3ljrHC+sSvzvW77l2rz86LqNrgp0nvT4K8ww2woKgPwFZGsVn1pk1ECkOv3f3qNbeys5gtso7c/Ia+qQUGGyS005O0CTVW2ncrJoEzEnDBeQVkrw/NAsVK8jewFlZzC5hbJDcm88/85ePFky+JI7vEHCG/YRjyoq52Tf05Hmy/axSmLY=" />
+
+
+<script src="/ScriptResource.axd?d=TyoDjsEdEhR07zmmu_Nk4j82si4KXiTOoDOW3v-CIlk6usS0kFu-PjHUu3Hk84GmN2X9DqwPhjT0OTclh3MjHC8InvbLcZcBrCOIttiSg9059Bc10&amp;t=ffffffffe4ec58b9" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="328AC506" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+                
+                
+                <!-- Handle default image button click -->
+                <input type="submit" style="position: absolute; left: -100px; top: -100px; width: 0px;
+                height: 0px;" onclick="javascript: return false;" />
+                <div>
+                    
+                    
+    <!-- Zone 1 -->
+    <div class="container m_bottom_20 m_top_20">
+    <div class="d3Slide sliderhidesmxs">
+        <img src="../Company/MercyMedical/images/LB_Login_Page.jpg" alt="Rewards Login Page Banner" />
+    </div>
+</div>
+<div style="clear: both;"></div>
+    <div id="cmsPageContent" class="container" style="background-color: #FFFFFF; text-align: center;">
+        <!-- Zone 2 -->
+        <div style="background-color: #E1E1e1" class="m_bottom_20">
+  
+
+<div class="accordion" style="min-width: 270px; max-width: 80%; margin-left: auto; margin-right: auto; border: #636363 thick; padding:20px 0 20px 0;">
+    
+    <div class="accordion_item r_corners shadow wrapper m_bottom_5" style="display:none;">
+        <h3 id="h3Login3" class="bg_light_color_1 color_dark a_title relative tr_all_hover">On-Site Login
+			<span class="minus_icon tr_all_hover">-</span>
+            <span class="plus_icon tr_all_hover">+</span>
+        </h3>
+        <div class="bg_light_color_3 a_content">
+                        
+            <ol class="pctahideonlysmxs">                
+                <li class="t_align_l"><span class="fw_medium">1. Click On-Site Login Button</span> to login using on-site/work credentials when using on-site/work network.<br /></li>
+                <li class="t_align_l">Call&nbsp;<i class="fa fa-phone"></i>1-800-875-8284 between 8:00 am and 5:00 pm Central Time for help, please ask for Customer Service.</li>
+            </ol>
+            <br />
+            
+            <div class="LoginFieldCenter" style="text-align: center; padding-top: 5px;">
+                <input type="submit" name="OnSiteLoginButton" value="On-Site Login" id="OnSiteLoginButton" tabindex="3" class="SubmitButton" />
+                <div style="text-align: center; padding-top: 5px;">
+                    <p style="color: red; text-align: center; padding-bottom: 5px;">
+                        
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="accordion_item r_corners shadow wrapper m_bottom_5">
+        <h3 id="h3Login1" class="color_light active a_title relative tr_all_hover">Username & Password Entry
+			<span class="minus_icon tr_all_hover">-</span>
+            <span class="plus_icon tr_all_hover">+</span>
+        </h3>
+        <div class="bg_light_color_3 a_content">
+            <div class="bg_light_color_3">
+    <ol class="pctahideonlysmxs">
+        <li class="t_align_l m_bottom_20"><strong>1. Enter your username</strong> in the User Name field in the form below.
+        </li>
+        <li class="t_align_l m_bottom_20">
+            <strong>2. Enter your password</strong> in the Password field in the form below.</li>
+        <li class="t_align_l m_bottom_20">
+            <strong>3. Click the Login button!</strong><br />
+        </li>
+        <li class="t_align_l">If you have forgotten your password, click the Forgot Password link below and an email will be sent to the Award Headquarters (<a runat="server" href="../UAdministration/PasswordGlobalFlex.aspx" target="_blank">or click here</a>). Call 1-800-875-8284 between 8:00 am and 5:00 pm Central Time, and ask for Customer Service.</li>
+    </ol>
+    <br class="pctahideonlysmxs" />
+    <div class="t_align_l m_bottom_10 pctahideonlylgmd">
+        Forgot your password? Click the Forgot Password link below and an email will be sent to the Award Headquarters (<a runat="server" href="../UAdministration/PasswordGlobalFlex.aspx" target="_blank">or click here</a>).
+        Call 1-800-875-8284 between 8:00 am and 5:00 pm Central Time, and ask for Customer Service.
+    </div>
+</div>
+            <div class="Login_InnerBox">
+                <br />
+                <div class="LoginParamterLabelBox">
+                    <h3 class="LoginParamterLabel">
+                        <span>User Name:</span>
+                    </h3>
+                </div>
+                <div class="LoginFieldCenter">
+                    <input id="txtUserName" name="txtUserName" type="text" maxlength="150" tabindex="1" value="" autofocus />
+                </div>
+                <div class="LoginParamterLabelBox">
+                    <h3 class="LoginParamterLabel">
+                        <span>Password:</span>
+                    </h3>
+                </div>
+                <div class="LoginFieldCenter">
+                    <input id="txtPassword" name="txtPassword" type="password" maxlength="150" tabindex="2" />
+                </div>
+                <div class="LoginFieldCenter" style="text-align: center; padding-top: 5px;">
+                    <input type="submit" name="LoginButton" value="Login" id="LoginButton" tabindex="3" class="SubmitButton" />
+                    <div style="text-align: center; padding-top: 5px;">
+                        <p style="color: red; text-align: center; padding-bottom: 5px;">
+                            
+                        </p>
+                    </div>
+                </div>
+                <div class="LoginFieldCenter" style="padding-top: 5px; padding-bottom: 5px;">
+                    <a href="../UAdministration/PasswordGlobalFlex.aspx">Forgot Password</a>
+                </div>
+            </div>
+            
+        </div>
+    </div>    
+     
+    <div class="accordion_item r_corners shadow wrapper m_bottom_5">
+        <h3 id="h3Login2" class="bg_light_color_1 color_dark a_title relative tr_all_hover">Invitation Code Entry
+			<span class="minus_icon tr_all_hover">-</span>
+            <span class="plus_icon tr_all_hover">+</span>
+        </h3>
+        <div class="bg_light_color_3 a_content">
+            <div class="bg_light_color_3 m_bottom_10">
+    <ol class="pctahideonlysmxs">
+        <li class="t_align_l"><strong>1. Enter your Invitation Code</strong> in the Invitation # field in the form below.<br />
+        </li>
+        <li class="t_align_l">
+            <br />
+            <strong>2. Click Submit Invitation!</strong><br />
+        </li>
+        <li class="t_align_l"><i class="fa fa-phone"></i>Call 1-800-875-8284 between 8:00 am and 5:00 pm Central Time, and ask for Customer Service.</li>
+    </ol>
+    <br class="pctahideonlysmxs" />
+    <div class="t_align_l pctahideonlylgmd">
+        Need help? Call 1-800-875-8284 between 8:00 am and 5:00 pm Central Time, and ask for Customer Service.
+    </div>
+</div>
+            <div class="Login_InnerBox">
+                <br />
+                <div class="LoginParamterLabelBox">
+                    <h3 class="LoginParamterLabel">
+                        <span>Invitation Code:</span>
+                    </h3>
+                </div>
+                <div class="LoginFieldCenter">
+                    <input name="txtInvitation" type="text" maxlength="25" id="txtInvitation" tabindex="1" title="Invitation Number" class="loginTextBox" value="" autofocus />
+                </div>
+                <div class="LoginFieldCenter" style="text-align: center; padding-top: 5px;">
+                    <input type="submit" name="InvitationButton" value="Submit Invitation" id="InvitationButton" tabindex="3" class="SubmitButton" />
+                    <div style="text-align: center; padding-top: 5px;">
+                        <p style="color: red; text-align: center; padding-bottom: 5px;">
+                            
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>    
+</div>
+
+
+</div>
+        <!-- Zone 3 -->
+        
+    </div>
+
+                </div>  
+            
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ctl00_ScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+</script>
+</form>
+
+            <!-- FOOTER -->
+            <section>
+			    
+    <!--Footer-->
+	<footer id="footer">
+        <div class="footer_top_part">
+			<div class="container">
+                <div class="row clearfix">
+					<div class="footer_bottom_part">
+					    <div class="container clearfix t_mxs_align_c footerfontcolor">
+						    Powered by Incentive Services. &copy; 2019. 
+                            <span style="float:right; ">
+                                
+                                
+                            </span> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+	</footer>
+
+		    </section>
+    
+        </div>
+    </div>
+
+    <button class="t_align_c r_corners tr_all_hover animate_ftl" id="go_to_top"><i class="fa fa-angle-up"></i></button>
+    
+</body>
+</html>

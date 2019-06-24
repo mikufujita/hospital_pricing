@@ -1,0 +1,991 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head><title>
+	Services and Locations - Roper St. Francis - Roper St. Francis
+</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="description" content="Roper St. Francis Healthcare has more than 90 facilities and doctors office throughout the Charleston area. " />
+        <meta name="keywords" content="" />
+        <meta name="author" content="Krista Robertson" />
+        <meta name="copyright" content="Copyright 2019 Roper St. Francis" />
+
+        
+        <link href="/skins/treeview/treeview.css" rel="stylesheet" type="text/css" media="all" />
+      
+
+        
+
+        <meta content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0" name="viewport">
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <link rel="stylesheet" type="text/css" href="https://docasap.com/l_css/white-label.css" media="screen" />
+        <link href="/upload/templates/Styles/Design001/bootstrap.min.css" rel="stylesheet" media="all" />
+        <link href="/upload/templates/Styles/Design001/bootstrap-theme.css" rel="stylesheet" media="all" />
+        <link rel="stylesheet" href="/upload/templates/Styles/Design001/owl.carousel.css" media="all" />
+        <link rel="stylesheet" href="/upload/templates/Styles/Design001/owl.theme.css" media="all" />
+        <link href="/upload/templates/Styles/Design001/megamenu.css" rel="stylesheet" media="all" />
+        <link href="/upload/templates/Styles/Design001/style.css" rel="stylesheet" media="all" />
+        <link href="/upload/templates/Styles/Design001/print.css" rel="stylesheet" media="print">
+        <link rel="icon" href="/images/design001/ico/favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="/images/design001/ico/favicon.ico">
+        <link rel="apple-touch-icon" href="/Images/Design001/ico/icon57.png" sizes="57x57">
+        <link rel="apple-touch-icon" href="/Images/Design001/ico/icon72.png" sizes="72x72">
+        <link rel="apple-touch-icon" href="/Images/Design001/ico/icon76.png" sizes="76x76">
+        <link rel="apple-touch-icon" href="/Images/Design001/ico/icon114.png" sizes="114x114">
+        <link rel="apple-touch-icon" href="/Images/Design001/ico/icon120.png" sizes="120x120">
+        <link rel="apple-touch-icon" href="/Images/Design001/ico/icon144.png" sizes="144x144">
+        <link rel="apple-touch-icon" href="/Images/Design001/ico/icon152.png" sizes="152x152">
+
+        <link rel="stylesheet" href="/upload/templates/Styles/Design001/nivo-slider.css" media="all" />
+        <link rel="stylesheet" href="/upload/templates/Styles/Design001/themes/default/default.css" media="all" />
+        <meta name="msapplication-TileImage" content="/Images/Design001/ico/favicon-144.png">
+        <meta name="msapplication-TileColor" content="#334177" />
+        <meta name="application-name" content="name" />
+        <meta name="msapplication-square70x70logo" content="/Images/Design001/ico/tile-tiny.png" />
+        <meta name="msapplication-square150x150logo" content="/Images/Design001/ico/tile-square.png" />
+        <meta name="msapplication-wide310x150logo" content="/Images/Design001/ico/tile-wide.png" />
+        <meta name="msapplication-square310x310logo" content="/Images/Design001/ico/tile-large.png" />
+
+        <link href="/styles/design001.css" rel="stylesheet" type="text/css" />
+        <link href="/Styles/JQueryUI/smoothness/jquery-ui-1.8.11.custom.css" rel="stylesheet" type="text/css" />
+
+        <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/json2/20110223/json2.js"></script><script type="text/javascript" src="/Scripts/Design001/jquery-1.11.0.min.js"></script><script type="text/javascript" src="/Scripts/namespace.js"></script><script type="text/javascript" src="/Scripts/SpecialCharacterUtilities.js"></script>
+
+        
+        <script src="/Scripts/Design001/jquery-migrate-1.2.1.min.js"></script>
+
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and
+            media queries -->
+        <!--[if lt IE 9]>
+            <script src="/Scripts/Design001/html5shiv.js"></script>
+            <script src="/Scripts/Design001/respond.min.js"></script>
+            <![endif]-->
+        <script src="/Scripts/Design001/bootstrap.min.js"></script>
+        <script src="/Scripts/Design001/owl.carousel.min.js"></script>
+        <script src="/Scripts/Design001/jquery.easing-1.3.min.js"></script>
+        <script src="/Scripts/Design001/scripts.js"></script>
+        <script src="/scripts/global_bookmark.js" type="text/javascript"></script>
+        <script src="/scripts/global_iframe.js" type="text/javascript"></script>
+        <script src="/scripts/global_print.js" type="text/javascript"></script>
+        <script src="/scripts/global_swfobject.js" type="text/javascript"></script>
+        <script src="/Scripts/Utilities/CareTech.CMS.Utilities.TextResizer.js" type="text/javascript"></script>
+        <script src="/Scripts/jquery-ui.custom.min.js" type="text/javascript"></script>
+        <script src="/MediaGallery/Scripts/jquery.nivo.slider.js" type="text/javascript"></script>
+        <script src="/MediaGallery/Scripts/jquery.cw.mediagallery.js" type="text/javascript"></script>
+
+
+        
+
+    
+    <link href="/ServicesLocations/Styles/styles.css" rel="stylesheet" type="text/css" />
+    <link href="/ServicesLocations/Styles/custom.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        #detail_map_canvas {
+            margin: 0px;
+        }
+        label
+        {
+            font-weight: normal !important;
+        }
+    </style>
+    <script type="text/javascript" src="/ServicesLocations/mapfunctions.js"></script>
+
+
+    <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-MFMK7HB');</script>
+    
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-4326436-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function () {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	<link href="https://www.rsfh.com/serviceslocations/locationmaps.aspx" rel="canonical" /><link href="https://d35islomi5rx1v.cloudfront.net/ajaxz/2014.3.1209/TabStrip.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="https://d35islomi5rx1v.cloudfront.net/ajaxz/2014.3.1209/Default/TabStrip.Default.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+<body id="ctl00_CWBody">
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MFMK7HB" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    <form method="post" action="/serviceslocations/LocationMaps.aspx?id=27&amp;sid=1" id="aspnetForm">
+<input type="hidden" name="ctl00_ctl03_TSM" id="ctl00_ctl03_TSM" value="" />
+<input type="hidden" name="ctl00_ctl04_TSSM" id="ctl00_ctl04_TSSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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588LQvH80/I8Stg9kUWjkj/G8LL4TajkV/+1fvYX+/HS294GLYGfUX6fKDSh536qspO8Lyt0WaJ9/cDgLTF9dVGzv8I2AL85MF8/316q1CegqS1+QyeIcn2D8sUmZ+F5HaFnko84CrrcYsz1NYN894t76+pvp/xsUYf3pMNNxw6rsQ56uvazqen6w3DUcxbUVwLjPKTXcg94Y3USrNV2UTqneMozX6o15bXQj9XaNTFapFs0vLPA87+yfk3pnYC1zl3iWbDtYnnpUx4rv/22dX2MjfvrWkeUy9Lw4qxfI+m7OMvUt9C3gkuMDvSEZx327LetLehBlxDVOr2WC2Df0ZnfhxfjY4T/3Fey/HfWRDEZPA9ZKe+Ag/f0ws0Ua4E9APhwGexSfjNrmpfcZZIvpfEe89L69WDPyWUd6oHFnM6X+Cr9PnD9yHdTO9uOdItyuenzd/Oeq2fnAcn0ni5Om+HiSh4U9a+8sXBkfk2WO28cCp1idIklUW0Ayl2CvD8Azoep9RlqVp/FeajvVVF/i3p9Vse76PW019yHsZKblPNe8k2OqK6Sz7c2WU705b1r/8iY1YRMbnxYV3DPn8vuwJyvxqd9lutsL0q1yCWqxe3zL9R74DIOq0muZjXJ+0IK21LuNvg97EfG29hdowV4v2tyE/BMzZo1CUd8l3rIQE4u7bO6LPwdNfrhM/4hreQfks4lXfCe3pDx1/ky80ulfqLVXHBWdmiMBNOxHcuRoqG1fA2t2IlYTEXJ4wcCYEhxQIzXfQ3L+hL4wPZ9Sf1FOU7rqjttqTa1VKfcTsXO53vXSN5GHfabwckjc9T5TJ9ZFXbR/XhfCR6xcUym/zb9w4/T4Ofml24b55G+3v34OViMj//n//xfCxgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WDQUiY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMiRydHNTTFRhYgUqY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMiRjYmxTZXJ2aWNlTGlzdCQwBSpjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIyJGNibFNlcnZpY2VMaXN0JDEFKmN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjIkY2JsU2VydmljZUxpc3QkMgUqY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMiRjYmxTZXJ2aWNlTGlzdCQzBSpjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIyJGNibFNlcnZpY2VMaXN0JDQFKmN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjIkY2JsU2VydmljZUxpc3QkNQUqY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMiRjYmxTZXJ2aWNlTGlzdCQ2BSpjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIyJGNibFNlcnZpY2VMaXN0JDcFKmN0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjIkY2JsU2VydmljZUxpc3QkOAUqY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyMiRjYmxTZXJ2aWNlTGlzdCQ5BStjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIyJGNibFNlcnZpY2VMaXN0JDEwBStjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIyJGNibFNlcnZpY2VMaXN0JDEwo47apeok57rIVIfNOnej7wGlcj8=" />
+
+
+<script src="https://ajax.aspnetcdn.com/ajax/4.5.2/1/MicrosoftAjax.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=mtdNSAgmoBMzjOwzt6Btymj8Vpo2Vikc-R7S25LbPwe-Q17d-8Q8e4eY318kCzpVMwCyVrg30GOCBg-xYto7oBLO-MRmflXaT_j3VUrryG07dsHumqACDZQZKGWjMT7YJrMfckzySQzX6O7sbZPiAiHTqbM1&t=2b48f70a"><\/script>');//]]>
+</script>
+
+<script src="https://d2i2wahzwrm1n5.cloudfront.net/ajaxz/2014.3.1209/Common/Core.js" type="text/javascript"></script>
+<script src="https://d2i2wahzwrm1n5.cloudfront.net/ajaxz/2014.3.1209/Common/jQuery.js" type="text/javascript"></script>
+<script src="https://d2i2wahzwrm1n5.cloudfront.net/ajaxz/2014.3.1209/Common/jQueryPlugins.js" type="text/javascript"></script>
+<script src="https://d2i2wahzwrm1n5.cloudfront.net/ajaxz/2014.3.1209/Common/Scrolling/ScrollingScripts.js" type="text/javascript"></script>
+<script src="https://d2i2wahzwrm1n5.cloudfront.net/ajaxz/2014.3.1209/Common/Navigation/NavigationScripts.js" type="text/javascript"></script>
+<script src="https://d2i2wahzwrm1n5.cloudfront.net/ajaxz/2014.3.1209/Common/Navigation/OverlayScript.js" type="text/javascript"></script>
+<script src="https://d2i2wahzwrm1n5.cloudfront.net/ajaxz/2014.3.1209/TabStrip/RadTabStripScripts.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="ED34A108" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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" />
+        
+        
+<div class="headerFixed"> 
+  <div class="headerTopRow hidden-sm hidden-xs">
+    <DIV class="container">
+      <div class="row grid">
+        <div class="col-md-5">
+            <span class="mCallLabel">
+HAVE A QUESTION? Need a doctor referral?</span> <a href="tel:843-402-2273" class="mCall">Call (843) 402-CARE</a>
+        </div>
+        <div class="col-md-7">
+            <div class="socialLinksBox">
+<ul class="socialLinks">
+    <li><a href="/about/">About Us</a><span>|</span></li>
+    <li><a href="/contact/">Contact Us</a><span>|</span></li>
+    <li><a href="/news-center/">For Media<span>|</span></a></li>
+    <li><a href="/health-professionals/">For Health Professionals<span>|</span></a></li>
+    <li><a href="https://www.facebook.com/roperstfrancis" target="_BLANK" class="icon facebook" title="Facebook"></a></li>
+    <li><a href="https://www.instagram.com/roperstfrancis/" target="_BLANK" class="icon instagram" title="Instagram"></a></li>
+    <li><a href="https://twitter.com/roperstfrancis/" target="_BLANK" class="icon twitter" title="Twitter"></a></li>
+    <li><a href="https://www.youtube.com/user/RoperStFrancis" target="_BLANK" class="icon youtube" title="Youtube"></a></li>
+    <li><a href="https://communities.rsfh.com/" target="BLANK" class="icon blog" title="Blog"></a></li>
+</ul>
+</div>
+        </div>
+      </div>
+    </DIV>
+  </div>
+  <div class="headerRow hidden-sm hidden-xs">
+    <div class="container">
+      <div class="row grid">
+        <div class="col-md-6 col-sm-6 col-xs-12 logoWrap">
+            <a href="/"><img alt="Roper St. Francis" class="img-responsive" style="height: 62px; width: 384px; border: 0px solid;" src="/Images/Design001/logo.png" /></a>
+        </div>
+          
+        <div class="col-md-6 col-sm-6" >
+          <div class="row grid" >
+              <div class="col-md-4 " >
+                 <a href="https://secure5.revation.com/chat/?im=chat@ropersaintfrancis.com&group=ropersaintfrancis" target="_blank"> <img src="/images/design001/Chatbar.png" alt="Chat now" class="chat-bar-icon" /></a>
+              </div>
+            <div class="col-md-8 col-sm-9 searchWrap" >
+                <div id="ctl00_HeaderControl_pnlSearch">
+	
+                    <div class="form-search input-group">
+                        <input name="ctl00$HeaderControl$SearchText" type="text" id="ctl00_HeaderControl_SearchText" class="form-control input-sm" placeholder="Search Our Site" aria-label="Search Our Site" />
+                        <span class="input-group-btn">
+                            <a id="ctl00_HeaderControl_SearchButton" class="btn btn-group" href="javascript:__doPostBack(&#39;ctl00$HeaderControl$SearchButton&#39;,&#39;&#39;)"><i class="fa fa-search"></i></a>
+                        </span>
+                    </div>
+                
+</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="navRow">
+    <div class="container">
+      <div class="row grid">
+        
+<script language="javascript">
+    function open_ddl(s) {
+        document.getElementById(s).size = 6
+    }
+
+    function close_ddl(s) {
+        document.getElementById(s).size = 1
+    }
+</script>
+<nav class="navbar navbar-custom" role="navigation">
+    <div class="navbar-header collapsed">
+        <div class="navbar-left-toggle">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><span class="sr-only">Toggle navigation</span></button>
+        </div>
+        <a href="#" class="nav-brand">
+            <img src="/Images/Design001/logo.png" alt="Roper St. Francis" class="img-responsive"></a>
+        <div class="search-toggle"><a href="#" class="dropdown-toggle" data-toggle="collapse" data-target="#msearch"><i class="fa fa-search"></i></a></div>
+    </div>
+    <div class="msearch collapse" id="msearch">
+        <div class="mSearchWrap">
+            <div class="form-search">
+                <div class="input-group">
+                    <input type="text" class="form-control input-sm" placeholder="Search Our Site">
+                    <span class="input-group-btn">
+                        <button class="btn btn-group" type="submit"><i class="fa fa-search"></i></button>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="navbar-collapse navbar-ex1-collapse collapse in" style="height: auto;">       
+        <ul class="nav navbar-nav" id="megamenu">           
+            <li>  
+                           
+                <a href="https://findadoctor.rsfh.com/">Find A Doctor <b class="fa fa-caret-down"></b></a>
+                <div class="dropBox dropdown_3columns">
+                    <div class="row grid">
+                        <div class="col-md-3">
+<asp:literal id="litFadText" runat="server">
+<h5>Find a Doctor</h5>
+<p>Find the right doctor for you by searching through our online directory or by calling our physician referral line at (843) 402-CARE.</p>
+</asp:literal></div>
+                        <div class="col-md-3">
+                            <h5><label for="ctl00_HeaderControl_MegaMenu_txtFadLastName" id="ctl00_HeaderControl_MegaMenu_lblFadLastName">Search by Physician Name</label></h5>
+                            <div class="input-group">
+                                <input name="ctl00$HeaderControl$MegaMenu$txtFadLastName" type="text" id="ctl00_HeaderControl_MegaMenu_txtFadLastName" class="form-control mmControl" />
+                                <span class="input-group-btn">
+                                    <a id="ctl00_HeaderControl_MegaMenu_btnFadSearch001" class="btn btn-red btn-sm input-sm" href="javascript:__doPostBack(&#39;ctl00$HeaderControl$MegaMenu$btnFadSearch001&#39;,&#39;&#39;)">GO</a></span>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <h5><label for="ctl00_HeaderControl_MegaMenu_ddlFadSpecialties" id="ctl00_HeaderControl_MegaMenu_lblFadSpecialties">Search by Specialty</label></h5>
+                            <div class="input-group">
+                                <select name="ctl00$HeaderControl$MegaMenu$ddlFadSpecialties" id="ctl00_HeaderControl_MegaMenu_ddlFadSpecialties" class="form-control mmControl" onmouseover="open_ddl(this.id)" onmouseleave="close_ddl(this.id)">
+	<option value="-1">Any</option>
+	<option value="114">Allergy/Immunology</option>
+	<option value="115">Anesthesiology</option>
+	<option value="279">Audiology</option>
+	<option value="116">Bariatric Surgery</option>
+	<option value="261">Breast Surgery</option>
+	<option value="309">Cardiac Surgery</option>
+	<option value="118">Cardiovascular Disease</option>
+	<option value="280">Chiropractic</option>
+	<option value="120">Colorectal Surgery</option>
+	<option value="122">Dermatology</option>
+	<option value="274">Electrophysiology</option>
+	<option value="123">Emergency Medicine</option>
+	<option value="124">Endocrinology</option>
+	<option value="318">Express Care</option>
+	<option value="272">Extensivist</option>
+	<option value="126">Gastroenterology</option>
+	<option value="127">General Surgery</option>
+	<option value="294">Gynecologic Oncology</option>
+	<option value="128">Gynecology</option>
+	<option value="302">Hospice</option>
+	<option value="132">Hospitalist</option>
+	<option value="135">Infectious Disease</option>
+	<option value="297">Massage Therapy</option>
+	<option value="247">Maternal Fetal Medicine</option>
+	<option value="139">Medical Genetics</option>
+	<option value="306">Midwife</option>
+	<option value="140">Neonatology</option>
+	<option value="141">Nephrology</option>
+	<option value="142">Neurology</option>
+	<option value="275">Neurology Hospitalist</option>
+	<option value="143">Neurosurgery</option>
+	<option value="144">Obstetrics &amp; Gynecology</option>
+	<option value="273">Occupational Medicine</option>
+	<option value="146">Oncology/Hematology</option>
+	<option value="147">Ophthalmology</option>
+	<option value="295">Optometry</option>
+	<option value="148">Oral &amp; Maxillofacial Surgery</option>
+	<option value="259">Orthopaedic Surgery</option>
+	<option value="151">Otolaryngology</option>
+	<option value="152">Pain Management</option>
+	<option value="153">Palliative Care</option>
+	<option value="154">Pathology</option>
+	<option value="157">Pediatrics</option>
+	<option value="158">Physical Medicine &amp; Rehabilitation</option>
+	<option value="160">Plastic Surgery</option>
+	<option value="161">Podiatry</option>
+	<option value="311">Primary Care</option>
+	<option value="162">Psychiatry</option>
+	<option value="271">Psychology</option>
+	<option value="254">Pulmonary Disease and /or Critical Care</option>
+	<option value="164">Radiation Oncology</option>
+	<option value="165">Radiology</option>
+	<option value="312">Research</option>
+	<option value="166">Rheumatology</option>
+	<option value="167">Thoracic Surgery</option>
+	<option value="168">Urology</option>
+	<option value="169">Vascular Surgery</option>
+	<option value="291">Wound Care</option>
+
+</select>
+                                <span class="input-group-btn mmTop">
+                                    <a id="ctl00_HeaderControl_MegaMenu_btnFadSearch002" class="btn btn-red btn-sm input-sm" href="javascript:__doPostBack(&#39;ctl00$HeaderControl$MegaMenu$btnFadSearch002&#39;,&#39;&#39;)">GO</a></span>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <h5><label for="ctl00_HeaderControl_MegaMenu_ddlFadCity" id="ctl00_HeaderControl_MegaMenu_lbFadCity">Search by City</label></h5>
+                            <div class="input-group">
+                                <select name="ctl00$HeaderControl$MegaMenu$ddlFadCity" id="ctl00_HeaderControl_MegaMenu_ddlFadCity" class="form-control mmControl" onmouseover="open_ddl(this.id)" onmouseleave="close_ddl(this.id)">
+	<option value="-1">Any</option>
+	<option value="Augusta">Augusta</option>
+	<option value="Beaufort">Beaufort</option>
+	<option value="Charleston">Charleston</option>
+	<option value="Charleston AFB">Charleston AFB</option>
+	<option value="Charlotte">Charlotte</option>
+	<option value="Daniel Island">Daniel Island</option>
+	<option value="Goose Creek">Goose Creek</option>
+	<option value="Hollywood">Hollywood</option>
+	<option value="Johns Island">Johns Island</option>
+	<option value="Ladson">Ladson</option>
+	<option value="McClellanville">McClellanville</option>
+	<option value="Moncks Corner">Moncks Corner</option>
+	<option value="Mount Pleasant">Mount Pleasant</option>
+	<option value="Murrells Inlet">Murrells Inlet</option>
+	<option value="North Charleston">North Charleston</option>
+	<option value="Pawleys Island">Pawleys Island</option>
+	<option value="Pittsburgh">Pittsburgh</option>
+	<option value="Saint George">Saint George</option>
+	<option value="Savannah">Savannah</option>
+	<option value="Spartanburg">Spartanburg</option>
+	<option value="Sullivans Island">Sullivans Island</option>
+	<option value="Summerville">Summerville</option>
+	<option value="Varnville">Varnville</option>
+	<option value=" Walterboro"> Walterboro</option>
+	<option value=""></option>
+
+</select>
+                                <span class="input-group-btn mmTop">
+                                    <a id="ctl00_HeaderControl_MegaMenu_btnFadSearch003" class="btn btn-red btn-sm input-sm" href="javascript:__doPostBack(&#39;ctl00$HeaderControl$MegaMenu$btnFadSearch003&#39;,&#39;&#39;)">GO</a></span>
+                            </div>
+                        </div>
+                    </div>
+                </div> 
+                                  
+            </li>
+          
+            
+                    <li>
+                        <a href="/serviceslocations/LocationMaps.aspx?id=27&sid=1" >Locations </a>
+                    </li>
+                
+                    <li>
+                        <a href="/medical-services/" >Medical Services <b class="fa fa-caret-down"></b></a><div class="dropBox dropdown_3columns">
+<div class="row grid">
+<div class="col-md-4"><a href="/heart-vascular/" class="btn btn-red btn-md btn-full input-space">Heart &amp; Vascular</a> <a href="/orthopedics/" class="btn btn-red btn-md btn-full input-space">Orthopaedics - Bone &amp; Joint</a> <a href="/womens-health/" class="btn btn-red btn-md btn-full input-space">Women's Health (Obstetrics &amp; Gynecology)</a><a href="/bariatrics/" class="btn btn-red btn-md btn-full input-space">Bariatrics &amp; Weight Loss Surgery</a> <a href="/cancer-care/" class="btn btn-red btn-md btn-full input-space">Cancer Care &amp; Oncology</a> <a href="/brain-spine-nerve/" class="btn btn-red btn-md btn-full input-space">Brain, Spine &amp; Nerve (Neuroscience)</a> </div>
+<div class="col-md-4">
+<h3>Medical Services</h3>
+As a comprehensive healthcare system, Roper St. Francis Healthcare has more than 22 different departments and service lines to cover all your healthcare needs.
+<ul>
+    <li><a href="/cbri/"><strong>Research and Innovation Center</strong></a></li>
+    <li><a href="/diabetes/"><strong>Diabetes Treatment</strong></a></li>
+    <li><a href="/digestive-health/"><strong>Digestive Health</strong></a></li>
+    <li><a href="/emergency-services/"><strong>Emergency Services</strong></a></li>
+    <li><a href="/eye-care-center/"><strong>Eye Care</strong></a></li>
+    <li><a href="/home-care/"><strong>Home Care Services</strong></a></li>
+</ul>
+</div>
+<div class="col-md-4">
+<ul>
+    <li><a href="/home-care/hospice/"><strong>Hospice Care</strong></a></li>
+<li><a href="/imaging-services/"><strong>Imaging Services</strong></a></li>
+    <li><a href="/palliative-care/"><strong>Palliative Care</strong></a></li>
+    <li><a href="/rehabilitation-services/"><strong>Rehabilitation Services</strong></a></li>
+    <li><a href="/sleep/"><strong>Sleep Disorders</strong></a></li>
+    <li><strong><a href="/orthopedics/sports-medicine/">Sports Medicine</a></strong></li>
+    <li><a href="/surgical-services/"><strong>Surgical Services</strong></a></li>
+    <li><strong><a href="/heart-vascular/wound-care/">Wound Management </a><br>
+    </strong></li>
+    <a href="/medical-services/" class="btn btn-red btn-md btn-full input-space">View All Services</a> </ul>
+    </div>
+    </div>
+    </div>
+                    </li>
+                
+                    <li>
+                        <a href="/patients-visitors-info/" >Patients & Visitors <b class="fa fa-caret-down"></b></a><div class="dropBox dropdown_3columns">
+<div class="row grid">
+<div class="col-md-3">
+<h3>General Information<br>
+by Hospital</h3>
+<ul>
+    <li><a href="/st-francis-hospital/">Bon Secours St. Francis Hospital</a></li>
+    <li><a href="/mount-pleasant-hospital/">Roper St. Francis Mount Pleasant Hospital</a></li>
+    <li><a href="/roper-hospital/">Roper Hospital </a></li>
+    <li><a href="/berkeley-hospital/">Roper St. Francis Berkeley Hospital</a></li>
+    <li><a href="/rehab-hospital/">Roper Rehabilitation Hospital</a></li>
+    <li><a href="/virtual-tours/">Virtual Tours</a></li>
+</ul>
+<ul>
+    <li><a href="/phone-directory/">Phone Directory</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h3>For Patients</h3>
+<ul>
+    <li><a href="/advance-directives/">Advance Directives</a></li>
+    <li><a href="/billing-financial-assistance/">Billing and Financial Assistance</a></li>
+    <li><a href="/hospitalist-services/">Hospitalist Services</a></li>
+    <li><a href="/pastoral-care-services/">Pastoral Care Services</a></li>
+    <li><a href="/patient-family-experience-council/">Patient Family Experience Council</a></li>
+    <li><a href="/patient-forms-information/">Patient Forms and Information</a></li>
+    <li><a href="/myhealth/">MyHealth Patient Portal</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h3>For Visitors</h3>
+<ul>
+    <li><a href="/locations/">Maps &amp; Directions</a></li>
+    <li><a href="/visiting-hours/">Visiting Hours</a></li>
+    <li><a href="/gift-shops/">Gift Shops and Stores</a></li>
+    <li><a href="/travel-information/">Travel Information</a></li>
+    <li><a href="/dining-services/">Dining Services</a></li>
+   <!-- <li><a href="/egreeting/" target="_self">Send a patient an e-greeting</a></li>-->
+    <li><a href="/caring-bridge/">Connect with a patient with Caring Bridge</a></li>
+</ul>
+</div>
+<div class="col-md-3"> <img src="/upload/images/Patients%20and%20Visitors/patient_visitors_2.jpg" alt="Patients &amp; Visitors" style="width: 208px; height: 208px;"> </div>
+</div>
+</div>
+                    </li>
+                
+                    <li>
+                        <a href="/community/" >Community <b class="fa fa-caret-down"></b></a><div class="dropBox dropdown_3columns">
+<div class="row grid">
+<div class="col-md-3">
+<h3><a href="https://callcenter.rsfh.com/WLP2/#!/classes/search">Events</a></h3>
+<br>
+<img class="img-responsive" src="/upload/images/Community/community_events.jpg" alt="Community Events" style="width: 250px; height: 161px;"> </div>
+<div class="col-md-3">
+<h3><a href="https://www.rsfhfoundation.org/" target="_blank">Roper St. Francis Foundation</a></h3>
+<img class="img-responsive" src="/upload/images/Community/helipad.jpg" alt="Roper Hospital Helipad" width="240" style="width: 250px; height: 161px;"> </div>
+<div class="col-md-3">
+<h3>How you can help</h3>
+<ul>
+    <li> <a href="https://www.rsfhfoundation.org/donate" target="_blank">Donate Now</a> </li>
+    <li> <a href="https://www.rsfhfoundation.org/waystogive" target="_blank">Ways to Give</a></li>
+    <li><a href="/acts-of-kindness/">Acts of Kindness</a></li>
+    <li><a href="https://www.rsfhfoundation.org/honor" target="_blank">Honor a Caregiver</a></li>
+    <li><a href="/mission-department/">Community Outreach</a></li>
+    <li><a href="/volunteer/">Volunteer Information</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<h3>Education &amp; Wellness</h3>
+<ul>
+    
+    <li><a href="/calendar/">Classes &amp; Events</a></li>
+ <li><a href="https://communities.rsfh.com">Health Hub Blog</a></li>
+    <li><a href="http://housecallsmagazine.rsfh.com/" target="_blank">House Calls Magazine</a></li>
+    <li><a href="/mentoring-programs/">Mentoring Programs</a></li>
+    <li> <a href="/healthlink-newsletter/">Newsletter</a></li>
+    <li><a href="/video/" target="_self">Video Library</a></li>
+</ul>
+</div>
+</div>
+</div>
+                    </li>
+                
+	<li><div class="menu-msearchbtn visible-md visible-lg"><a href="/schedule-an-appointment/" class="btn btn-menu btn-full btn-white">SCHEDULE AN APPOINTMENT</a></div></li>
+	<li><div class="msearchbtn visible-sm visible-xs"><a href="/schedule-an-appointment/" class="btn btn-menu btn-full btn-white">SCHEDULE AN APPOINTMENT</a></div></li>
+	<li class="visible-sm visible-xs" ><a href="tel:843-402-2273" style="text-align:center;margin:6px 0px">Call Us (843) 402-CARE</a></li>
+        </ul>
+
+
+    </div>
+</nav>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+        <div id="ctl00_BannerControl_BannerPanel" class="heroRow contentBanner">
+	
+    <div class="container"><h2 id="bannerTitle">Services and Locations</h2></div>
+
+</div>
+
+<div class="hero-quick-wrap">
+    <div class="hero-quick-links shadow">
+        <div class="quickLinksWrap boxAccord">
+        <h4 class="box-title">I would like to: <span class="quick-icon"></span></h4>
+        <ul class="quickLinks box-pane" style="display:none">
+            <li><a href="/insurance-billing/online-bill-pay/" class="icon-bill">Pay a Bill Online</a></li>
+<li><a href="https://www.rsfhfoundation.org/waystogive" class="icon-gift" target="_blank">Make a Gift</a></li>
+<li><a href="https://healthlibrary.rsfh.com/" class="icon-hi" target="_self">Get Health Information</a></li>
+<li><a href="/calendar/" class="icon-classes">Find Classes &amp; Events</a></li>
+<li><a href="/mammo/" class="icon-mam">Schedule a Mammogram</a></li>
+<li><a href="/caring-bridge/" class="icon-connect">Connect with a Patient</a></li>
+<!--<li><a href="/egreeting/" target="_self">Send e-greeting</a></li>-->
+<li><a href="/myhealth/" class="icon-myhealth">Visit MyHealth Patient Portal</a></li>
+<li><a href="/healthlink-newsletter/" class="icon-newsletter">Sign-up for Newsletters</a></li>
+<li><a href="/careers/" class="icon-career">Find a Career</a></li>
+<li></li>
+        </ul>
+        </div>
+    </div>
+</div>
+
+        
+<script type="text/javascript">
+	var myTextResizer = new CareTech.CMS.Utilities.TextResizer("PageContent");
+</script>
+<div class="trailRow">
+  <div class="container">
+    <div class="row grid">
+      <div class="col-md-9 col-sm-9">
+        <div class="trail">
+            <a href="/">Home</a> / Locations
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-3 hidden-sm hidden-xs">
+        <ul class="textSize">
+          <li class="textSizeLabel">Text Size:</li>
+          <li class="fontSml"><a href="#" onclick="myTextResizer.doResize(-1);return false;">A</a></li>
+          <li class="fontMed"><a href="#" onclick="myTextResizer.doResize(0);return false;">A</a></li>
+          <li class="fontLrg"><a href="#" onclick="myTextResizer.doResize(1);return false;">A</a></li>
+          <li class="printPage"><a href="javascript:void(printSpecial('printReady','001'))">Print</a></li>
+          <li class="emailPage"><a href="/Email/" onclick="javascript:window.open('/Email/?sid=1&amp;did=1&amp;url=' + escape(window.location) + '&amp;title=' + encodeURIComponent('Services and Locations - Roper St. Francis - Roper St. Francis') + '&amp;HideDesign=1','_blank','width=500,height=550,directories=no,toolbar=0,status=0,resizable=0,menubar=0,location=0');return false;">Email</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+        
+        <div class="contentRow">
+            <div class="container">
+                <div class="row grid">
+                    <div id="ctl00_TaxonomyAndContentPanel" class="col-xs-12 pull-right">
+	
+                        <div id="ctl00_ContentPanel" class="contentWrap col-xs-12">
+		
+                            <div id="printReady">
+                                <div id="PageTitle" class="pageTitle">
+                                    <h1>Services and Locations</h1>
+                                </div>
+                                <div id="PageContent" class="content">
+                                    <p>Roper St. Francis is the Lowcountry&rsquo;s most comprehensive healthcare network, with more than 90 facilities and doctors offices, including&nbsp;three full-service hospitals, conveniently located throughout the region. Our excellence in compassionate, quality care is supported by our investment in state-of-the-art facilities utilizing the most advanced medical technologies.&nbsp;</p>
+                                    
+
+                                    
+    <div class="services">
+
+        
+
+        <div id="ctl00_ContentPlaceHolder2_rtsSLTab" class="RadTabStrip RadTabStrip_Default RadTabStripTop_Default RadTabStripTop">
+			<!-- 2014.3.1209.40 --><input id="ctl00_ContentPlaceHolder2_rtsSLTab_ClientState" name="ctl00_ContentPlaceHolder2_rtsSLTab_ClientState" type="hidden" />
+		</div>
+
+        <div style="padding-bottom: 10px; font-size: 14px;">
+            Use the interactive map below to find Roper St. Francis services near you.  To narrow
+            your search check the appropriate box for the type(s) of care you need. Results will automatically appear.
+        </div>
+
+        <div class="DrivingDirectionsContainer" id="drivingDirections" style="display: none">
+            <span class="DrivingDirectionsHeader">Driving Directions to</span>
+            <div id="endLocation"></div>
+            <div class="drivingDirectionsButtons">
+                <input type="button" value="Hide" id="btnHideDrivingDirections" />
+                <input type="button" value="Print" id="btnPrintDrivingDirections" />
+                <input type="hidden" id="fromAddress" />
+                <input type="hidden" id="toAddress" />
+            </div>
+            <div id="drivingDirectionsList"></div>
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-3 col-sm-12" id="leftColumn">
+            <div class="mapAddressListWrap">
+                <div class="mapAddressListBoxWrapper">
+                    <div class="mapAddressListBox">
+                        <div id="locationList">
+                            
+                                    <div class="mapAddressListItem">
+                                        <div style="float: right;">
+                                            <img id="ctl00_ContentPlaceHolder2_rptLocations_ctl00_imgMarker" class="mapMarker" src="/upload/ServicesLocations/Images/service002.png" /></div>
+                                        <div class="mapAddressListName"><a href='/?sid=1&id=536'>Roper Hospital</a></div>
+                                        <div class="mapAddressListAdd">
+                                            316 Calhoun Street<br/>Charleston, SC 29401<br/>
+                                            
+                                            
+                                        </div>
+                                        <div class="mapPhone">
+                                            (843) 724-2000
+                                        </div>
+
+                                        <input type="hidden" value='Roper Hospital,316 Calhoun Street,Charleston,SC,29401' id='hdnAddress2' />
+                                        <input type="hidden" value='&lt;span class=&#39;LocationDirectionName&#39;&gt;Roper Hospital&lt;/span&gt;316 Calhoun Street&lt;br/&gt;Charleston, SC 29401&lt;br/&gt;' id='hdnHTMLAddress2' />
+                                        <div class="getDirectionsContainer">
+                                            <a id="ctl00_ContentPlaceHolder2_rptLocations_ctl00_DirectionsButton" class="getDirectionsButton" href="http://maps.google.com/maps?f=d&amp;hl=en&amp;geocode=&amp;daddr=Roper Hospital,316 Calhoun Street,Charleston,SC,29401&amp;ie=UTF8" target="_blank">Get Directions</a>
+                                            <div id='getDirections2' class="getDirectionsPanelHidden">
+                                                <input type="text" id='getDirectionsFrom2' class="getDirectionsInput" /><input type="button" value="Go" id='btnGo2' class="drivingDirectionsGoBtn" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="mapAddressListItem">
+                                        <div style="float: right;">
+                                            <img id="ctl00_ContentPlaceHolder2_rptLocations_ctl01_imgMarker" class="mapMarker" src="/upload/ServicesLocations/Images/service002.png" /></div>
+                                        <div class="mapAddressListName"><a href='http://www.rsfh.com/st-francis-hospital/'>Bon Secours St. Francis Hospital</a></div>
+                                        <div class="mapAddressListAdd">
+                                            2095 Henry Tecklenburg Drive<br/>Charleston, SC 29414<br/>
+                                            
+                                            
+                                        </div>
+                                        <div class="mapPhone">
+                                            (843) 402-1000
+                                        </div>
+
+                                        <input type="hidden" value='Bon Secours St. Francis Hospital,2095 Henry Tecklenburg Drive,Charleston,SC,29414' id='hdnAddress3' />
+                                        <input type="hidden" value='&lt;span class=&#39;LocationDirectionName&#39;&gt;Bon Secours St. Francis Hospital&lt;/span&gt;2095 Henry Tecklenburg Drive&lt;br/&gt;Charleston, SC 29414&lt;br/&gt;' id='hdnHTMLAddress3' />
+                                        <div class="getDirectionsContainer">
+                                            <a id="ctl00_ContentPlaceHolder2_rptLocations_ctl01_DirectionsButton" class="getDirectionsButton" href="http://maps.google.com/maps?f=d&amp;hl=en&amp;geocode=&amp;daddr=Bon Secours St. Francis Hospital,2095 Henry Tecklenburg Drive,Charleston,SC,29414&amp;ie=UTF8" target="_blank">Get Directions</a>
+                                            <div id='getDirections3' class="getDirectionsPanelHidden">
+                                                <input type="text" id='getDirectionsFrom3' class="getDirectionsInput" /><input type="button" value="Go" id='btnGo3' class="drivingDirectionsGoBtn" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="mapAddressListItem">
+                                        <div style="float: right;">
+                                            <img id="ctl00_ContentPlaceHolder2_rptLocations_ctl02_imgMarker" class="mapMarker" src="/upload/ServicesLocations/Images/service002.png" /></div>
+                                        <div class="mapAddressListName"><a href='https://www.rsfh.com/berkeley-hospital/'>Roper St. Francis Berkeley Hospital</a></div>
+                                        <div class="mapAddressListAdd">
+                                            100 Callen Blvd.<br/>Summerville, SC 29486<br/>
+                                            
+                                            
+                                        </div>
+                                        <div class="mapPhone">
+                                            
+                                        </div>
+
+                                        <input type="hidden" value='Roper St. Francis Berkeley Hospital,100 Callen Blvd.,Summerville,SC,29486' id='hdnAddress335' />
+                                        <input type="hidden" value='&lt;span class=&#39;LocationDirectionName&#39;&gt;Roper St. Francis Berkeley Hospital&lt;/span&gt;100 Callen Blvd.&lt;br/&gt;Summerville, SC 29486&lt;br/&gt;' id='hdnHTMLAddress335' />
+                                        <div class="getDirectionsContainer">
+                                            <a id="ctl00_ContentPlaceHolder2_rptLocations_ctl02_DirectionsButton" class="getDirectionsButton" href="http://maps.google.com/maps?f=d&amp;hl=en&amp;geocode=&amp;daddr=Roper St. Francis Berkeley Hospital,100 Callen Blvd.,Summerville,SC,29486&amp;ie=UTF8" target="_blank">Get Directions</a>
+                                            <div id='getDirections335' class="getDirectionsPanelHidden">
+                                                <input type="text" id='getDirectionsFrom335' class="getDirectionsInput" /><input type="button" value="Go" id='btnGo335' class="drivingDirectionsGoBtn" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="mapAddressListItem">
+                                        <div style="float: right;">
+                                            <img id="ctl00_ContentPlaceHolder2_rptLocations_ctl03_imgMarker" class="mapMarker" src="/upload/ServicesLocations/Images/service002.png" /></div>
+                                        <div class="mapAddressListName"><a href='/?sid=1&id=570'>Roper St. Francis Mount Pleasant Hospital</a></div>
+                                        <div class="mapAddressListAdd">
+                                            3500 Highway 17 North<br/>Mount Pleasant, SC 29466<br/>
+                                            
+                                            
+                                        </div>
+                                        <div class="mapPhone">
+                                            (843) 606-7000
+                                        </div>
+
+                                        <input type="hidden" value='Roper St. Francis Mount Pleasant Hospital,3500 Highway 17 North,Mount Pleasant,SC,29466' id='hdnAddress4' />
+                                        <input type="hidden" value='&lt;span class=&#39;LocationDirectionName&#39;&gt;Roper St. Francis Mount Pleasant Hospital&lt;/span&gt;3500 Highway 17 North&lt;br/&gt;Mount Pleasant, SC 29466&lt;br/&gt;' id='hdnHTMLAddress4' />
+                                        <div class="getDirectionsContainer">
+                                            <a id="ctl00_ContentPlaceHolder2_rptLocations_ctl03_DirectionsButton" class="getDirectionsButton" href="http://maps.google.com/maps?f=d&amp;hl=en&amp;geocode=&amp;daddr=Roper St. Francis Mount Pleasant Hospital,3500 Highway 17 North,Mount Pleasant,SC,29466&amp;ie=UTF8" target="_blank">Get Directions</a>
+                                            <div id='getDirections4' class="getDirectionsPanelHidden">
+                                                <input type="text" id='getDirectionsFrom4' class="getDirectionsInput" /><input type="button" value="Go" id='btnGo4' class="drivingDirectionsGoBtn" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="mapAddressListItem">
+                                        <div style="float: right;">
+                                            <img id="ctl00_ContentPlaceHolder2_rptLocations_ctl04_imgMarker" class="mapMarker" src="/upload/ServicesLocations/Images/service002.png" /></div>
+                                        <div class="mapAddressListName"><a href='http://www.rsfh.com/outpatient-surgery/berkeley/'>Roper Hospital - Berkeley</a></div>
+                                        <div class="mapAddressListAdd">
+                                            730 Stoney Landing Road<br/>Moncks Corner, SC 29461<br/>
+                                            
+                                            
+                                        </div>
+                                        <div class="mapPhone">
+                                            (843) 899-7700
+                                        </div>
+
+                                        <input type="hidden" value='Roper Hospital - Berkeley,730 Stoney Landing Road,Moncks Corner,SC,29461' id='hdnAddress16' />
+                                        <input type="hidden" value='&lt;span class=&#39;LocationDirectionName&#39;&gt;Roper Hospital - Berkeley&lt;/span&gt;730 Stoney Landing Road&lt;br/&gt;Moncks Corner, SC 29461&lt;br/&gt;' id='hdnHTMLAddress16' />
+                                        <div class="getDirectionsContainer">
+                                            <a id="ctl00_ContentPlaceHolder2_rptLocations_ctl04_DirectionsButton" class="getDirectionsButton" href="http://maps.google.com/maps?f=d&amp;hl=en&amp;geocode=&amp;daddr=Roper Hospital - Berkeley,730 Stoney Landing Road,Moncks Corner,SC,29461&amp;ie=UTF8" target="_blank">Get Directions</a>
+                                            <div id='getDirections16' class="getDirectionsPanelHidden">
+                                                <input type="text" id='getDirectionsFrom16' class="getDirectionsInput" /><input type="button" value="Go" id='btnGo16' class="drivingDirectionsGoBtn" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                    <div class="mapAddressListItem">
+                                        <div style="float: right;">
+                                            <img id="ctl00_ContentPlaceHolder2_rptLocations_ctl05_imgMarker" class="mapMarker" src="/upload/ServicesLocations/Images/service002.png" /></div>
+                                        <div class="mapAddressListName"><a href='/rehab-hospital/'>Rehabilitation Hospital</a></div>
+                                        <div class="mapAddressListAdd">
+                                            316 Calhoun Street<br/>Charleston, SC 29401<br/>
+                                            
+                                            
+                                        </div>
+                                        <div class="mapPhone">
+                                            (843) 724-2842
+                                        </div>
+
+                                        <input type="hidden" value='Rehabilitation Hospital,316 Calhoun Street,Charleston,SC,29401' id='hdnAddress6' />
+                                        <input type="hidden" value='&lt;span class=&#39;LocationDirectionName&#39;&gt;Rehabilitation Hospital&lt;/span&gt;316 Calhoun Street&lt;br/&gt;Charleston, SC 29401&lt;br/&gt;' id='hdnHTMLAddress6' />
+                                        <div class="getDirectionsContainer">
+                                            <a id="ctl00_ContentPlaceHolder2_rptLocations_ctl05_DirectionsButton" class="getDirectionsButton" href="http://maps.google.com/maps?f=d&amp;hl=en&amp;geocode=&amp;daddr=Rehabilitation Hospital,316 Calhoun Street,Charleston,SC,29401&amp;ie=UTF8" target="_blank">Get Directions</a>
+                                            <div id='getDirections6' class="getDirectionsPanelHidden">
+                                                <input type="text" id='getDirectionsFrom6' class="getDirectionsInput" /><input type="button" value="Go" id='btnGo6' class="drivingDirectionsGoBtn" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+            <div class="col-md-6 col-sm-12 mapWrap" id="mapWrap">
+                <div id="googleMapContainer">
+                    
+<script type="text/javascript" src="/Scripts/namespace.js"></script>
+<script src="/Scripts/Utilities/CareWorks.Utilities.GoogleMap.js"></script>
+
+<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyATH2LuO_ry035V-UnWnCOVcJUvxPqUHgg&sensor=false" type="text/javascript"></script>
+
+
+<script type="text/javascript">function AddMarkers(mapObj) {
+mapObj.addMarker(new google.maps.LatLng(32.7831264, -79.9494129), "Roper Hospital","","002","316 Calhoun Street", "","Charleston", "SC", "29401", null);
+mapObj.addMarker(new google.maps.LatLng(32.808423, -80.0423805), "Bon Secours St. Francis Hospital","","002","2095 Henry Tecklenburg Drive", "","Charleston", "SC", "29414", null);
+mapObj.addMarker(new google.maps.LatLng(33.0679371, -80.096085), "Roper St. Francis Berkeley Hospital","","002","100 Callen Blvd.", "","Summerville", "SC", "29486", null);
+mapObj.addMarker(new google.maps.LatLng(32.8777113, -79.7692066), "Roper St. Francis Mount Pleasant Hospital","","002","3500 Highway 17 North", "","Mount Pleasant", "SC", "29466", null);
+mapObj.addMarker(new google.maps.LatLng(33.1947882, -79.9816184), "Roper Hospital - Berkeley","","002","730 Stoney Landing Road", "","Moncks Corner", "SC", "29461", null);
+mapObj.addMarker(new google.maps.LatLng(32.7831264, -79.9494129), "Rehabilitation Hospital","","002","316 Calhoun Street", "","Charleston", "SC", "29401", null);
+}</script>
+<script type="text/javascript"> function initialize() { var map_canvas = document.getElementById('detail_map_canvas');
+var map_options = {
+initialZoom:12,
+autoZoom:true,
+autoZoomFirst: false
+}
+var map = new CareWorks.Utilities.GoogleMap(map_canvas, map_options);
+AddMarkers(map);
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+<style type="text/css">  #detail_map_canvas {height: 500px;}</style>
+
+<div id="detail_map_canvas"></div>
+
+                </div>
+                <div style="display: none" id="directionsMapContainer" class="GoogleMapContainer"></div>
+            </div>
+
+            <div class="col-md-3 col-sm-12" id="servicesWrap">
+                <div class="mapPinBox">
+                    <h3>Services</h3>
+                    <div class="serviceListMessage" style="padding-right: 12px; font-weight: bold;">
+                        Check the appropriate box for the type(s) of care you need. Results will automatically appear.
+                    </div>
+
+                    <span id="ctl00_ContentPlaceHolder2_cblServiceList" class="serviceCheckBoxList"><input id="ctl00_ContentPlaceHolder2_cblServiceList_0" type="checkbox" name="ctl00$ContentPlaceHolder2$cblServiceList$0" value="39" /><label for="ctl00_ContentPlaceHolder2_cblServiceList_0"><div><img src='/upload/ServicesLocations/Images/service039.png' alt='Cancer Care' /></div>Cancer Care</label><br /><input id="ctl00_ContentPlaceHolder2_cblServiceList_1" type="checkbox" name="ctl00$ContentPlaceHolder2$cblServiceList$1" value="1" /><label for="ctl00_ContentPlaceHolder2_cblServiceList_1"><div><img src='/upload/ServicesLocations/Images/service001.png' alt='ER' /></div>ER</label><br /><input id="ctl00_ContentPlaceHolder2_cblServiceList_2" type="checkbox" name="ctl00$ContentPlaceHolder2$cblServiceList$2" value="5" /><label for="ctl00_ContentPlaceHolder2_cblServiceList_2"><div><img src='/upload/ServicesLocations/Images/service005.png' alt='Express Care/Walk-in Care' /></div>Express Care/Walk-in Care</label><br /><input id="ctl00_ContentPlaceHolder2_cblServiceList_3" type="checkbox" name="ctl00$ContentPlaceHolder2$cblServiceList$3" value="11" /><label for="ctl00_ContentPlaceHolder2_cblServiceList_3"><div><img src='/upload/ServicesLocations/Images/service011.png' alt='Gift Shops and Boutique' /></div>Gift Shops and Boutique</label><br /><input id="ctl00_ContentPlaceHolder2_cblServiceList_4" type="checkbox" name="ctl00$ContentPlaceHolder2$cblServiceList$4" checked="checked" value="2" /><label for="ctl00_ContentPlaceHolder2_cblServiceList_4"><div><img src='/upload/ServicesLocations/Images/service002.png' alt='Hospital' /></div>Hospital</label><br /><input id="ctl00_ContentPlaceHolder2_cblServiceList_5" type="checkbox" name="ctl00$ContentPlaceHolder2$cblServiceList$5" value="7" /><label for="ctl00_ContentPlaceHolder2_cblServiceList_5"><div><img src='/upload/ServicesLocations/Images/service007.png' alt='Imaging Services' /></div>Imaging Services</label><br /><input id="ctl00_ContentPlaceHolder2_cblServiceList_6" type="checkbox" name="ctl00$ContentPlaceHolder2$cblServiceList$6" value="3" /><label for="ctl00_ContentPlaceHolder2_cblServiceList_6"><div><img src='/upload/ServicesLocations/Images/service003.png' alt='Lab' /></div>Lab</label><br /><input id="ctl00_ContentPlaceHolder2_cblServiceList_7" type="checkbox" name="ctl00$ContentPlaceHolder2$cblServiceList$7" value="40" /><label for="ctl00_ContentPlaceHolder2_cblServiceList_7"><div><img src='/upload/ServicesLocations/Images/service040.png' alt='Occupational Medicine' /></div>Occupational Medicine</label><br /><input id="ctl00_ContentPlaceHolder2_cblServiceList_8" type="checkbox" name="ctl00$ContentPlaceHolder2$cblServiceList$8" value="8" /><label for="ctl00_ContentPlaceHolder2_cblServiceList_8"><div><img src='/upload/ServicesLocations/Images/service008.png' alt='Outpatient Services' /></div>Outpatient Services</label><br /><input id="ctl00_ContentPlaceHolder2_cblServiceList_9" type="checkbox" name="ctl00$ContentPlaceHolder2$cblServiceList$9" value="10" /><label for="ctl00_ContentPlaceHolder2_cblServiceList_9"><div><img src='/upload/ServicesLocations/Images/service010.png' alt='Rehabilitation Services' /></div>Rehabilitation Services</label><br /><input id="ctl00_ContentPlaceHolder2_cblServiceList_10" type="checkbox" name="ctl00$ContentPlaceHolder2$cblServiceList$10" value="13" /><label for="ctl00_ContentPlaceHolder2_cblServiceList_10"><div><img src='/upload/ServicesLocations/Images/service013.png' alt='Senior Center' /></div>Senior Center</label></span>
+                    
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+                                </div>
+                            </div>
+                        
+	</div>
+                        
+                    
+</div>
+                    
+                </div>
+            </div>
+        </div>
+        
+        <div class="newsletterRow">
+<div class="container">
+<div class="row grid">
+<div class="col-md-8 col-sm-8">
+<div class="newsletterLabel">
+<h5>eHEALTHLINK Newsletter</h5>
+<p>Subscribe today to the Roper St. Francis monthly e-newsletter for informative articles and medical insights.</p>
+</div>
+</div>
+<div class="col-md-4 col-sm-4">
+<iframe id="NewsletterPassThrough" src="/Newsletter/PassThrough.aspx" style="border: 0px; overflow: hidden; margin: 0px; padding: 0px; vertical-align: bottom; height: 55px;" title="newsletter signup"></iframe>
+</div>
+</div>
+</div>
+</div>
+
+        
+<div class="footer1Row">
+  <div class="container">
+    <div class="row grid">
+      <div class="col-md-6 col-sm-6">Copyright 
+          <a href="/admin/" onclick="window.open('/admin/'); return false;">&copy;</a> 
+          <span id="copyYear">
+              2019
+          </span> 
+          Roper St. Francis All rights reserved. 
+          <a href="/admin/Pages/?PageID=27" onclick="window.open('/admin/Pages/?PageID=27'); return false;">
+              <img alt="Pencil" src="/images/pencil.gif" width="8" height="8" style="border: none;" />
+          </a>
+      </div>
+      <div class="col-md-6 col-sm-6">
+          <ul class="privacyNav">
+    <li><a href="/">Home</a><span>|</span></li>
+    <li><a href="/contact/">Contact Us</a><span>|</span></li>
+    <li><a href="/termsofuse/">Terms of Use</a><span>|</span></li>
+    <li><a href="/privacy-matters/">Privacy Policy</a></li>
+</ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="sitemapRow">
+  <div class="sitemap">
+    <div id="panel">
+<div class="container">
+<div class="row grid">
+<div class="col-md-2 col-sm-4">
+<h5>Find a Doc</h5>
+<ul>
+    <li><a href="https://findadoctor.rsfh.com/">Search by Physician Name</a></li>
+    <li><a href="https://findadoctor.rsfh.com/">Search by Specialty</a></li>
+    <li><a href="https://findadoctor.rsfh.com/">Search by City</a></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-4">
+<h5>Medical Services</h5>
+<ul>
+    <li><a href="/heart-vascular/">Heart &amp; Vascular Center</a></li>
+    <li><a href="/orthopedics/">Orthopaedic &amp; Joint Replacement Services</a></li>
+    <li><a href="/womens-health/">Women's Health</a></li>
+    <li><a href="/bariatrics/">Bariatrics &amp; Metabolic Services</a></li>
+    <li><a href="/cancer-care/">Cancer Care</a></li>
+    <li><a href="/brain-spine-nerve/">Brain, Spine &amp; Nerve (Neuroscience)</a></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-4">
+<h5>Locations</h5>
+<ul><li><a href="/roper-hospital/">Roper Hospital</a></li><li><a href="/st-francis-hospital/">Bon Secours St. Francis Hospital</a></li><li class="active"><a href="/mount-pleasant-hospital/">Mount Pleasant Hospital</a></li><li class="active"><a href="/rehab-hospital/">Roper Rehabilitation Hospital</a></li><li><a href="/berkeley-hospital/">Roper St. Francis Berkeley Hospital</a></li><li><a href="/express-care/">Express Care</a></li></ul>
+</div>
+<div class="col-md-2 col-sm-4">
+<h5>Patients &amp; Visitors</h5>
+<ul>
+    <li><a href="/patients/"><strong>For Patients</strong></a></li>
+    <li><a href="/visitors/"><strong>For Visitors</strong></a></li>
+    <li><a href="/hospitalist-services/">Hospitalist Services</a></li>
+    <li><a href="/virtual-tours/">Virtual Tours</a></li>
+    <li><a href="/phone-directory/">Phone Directory</a></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-4">
+<h5>Education &amp; Wellness</h5>
+<ul>
+    
+    <li><a href="/calendar/">Classes &amp; Events</a></li>
+    <li><a href="http://housecallsmagazine.rsfh.com/t/119049">House Calls Magazine</a></li>
+    <li><a href="/mentoring-programs">Mentoring Programs</a></li>
+    <li><a href="https://communities.rsfh.com">Health Hub Blog</a></li>
+    <li><a href="/healthlink-newsletter/">Newsletter</a></li>
+    <li><a href="/video/">Video Library</a></li>
+</ul>
+</div>
+<div class="col-md-2 col-sm-4">
+<h5>Community</h5>
+<ul>
+    <li><a href="https://www.rsfhfoundation.org">Roper St. Francis Foundation</a> </li>
+    <li><a href="https://www.rsfhfoundation.org/donate">Donate Now</a> </li>
+    <li><a href="https://www.rsfhfoundation.org/waystogive">Ways to Give</a></li>
+    <li><a href="/acts-of-kindness/">Acts of Kindness</a></li>
+    <li><a href="https://www.rsfhfoundation.org/honor">Honor a Caregiver</a></li>
+    <li><a href="/mission-department/">Community Outreach</a></li>
+    <li><a href="/volunteer/">Volunteer Information</a></li>
+</ul>
+</div>
+</div>
+<div class="row grid">
+<div class="col-md-3 col-sm-3">
+<h5>About Us</h5>
+<ul>
+    <li><a href="/careers/">Careers</a></li>
+    <li><a href="/our-brand-story/">Our Brand Story</a></li>
+    <li><a href="/about/history/">History</a></li>
+    <li><a href="/leadership/">Leadership</a></li>
+    <li><a href="/nursing-services/">Nursing Services</a></li>
+    <li><a href="https://www.rsfhfoundation.org/">The Roper St. Francis Foundation</a></li>
+    <li><a href="/partners/">Roper St. Francis Physician Partners</a></li>
+    <li><a target="_BLANK" href="/health-alliance/">Roper St. Francis Health Alliance</a></li>
+    <li><a href="/mission-department/">Mission Department</a></li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-3">
+<h5>Connect with Us:</h5>
+<ul class="socialList">
+    <li><a class="footerSoc news" href="/healthlink-newsletter/">eHealthlink Newsletter</a></li>
+    <li><a target="_BLANK" class="footerSoc blog" href="https://communities.rsfh.com/">Health Hub Blog</a></li>
+    <li><a target="_BLANK" class="footerSoc fb" href="https://www.facebook.com/roperstfrancis">Facebook</a></li>
+    <li><a target="_BLANK" class="footerSoc yt" href="https://www.youtube.com/user/RoperStFrancis">YouTube</a></li>
+    <li><a target="_BLANK" class="footerSoc twit" href="https://twitter.com/roperstfrancis/">Twitter</a></li>
+    <li><a target="_BLANK" class="footerSoc instagram" href="https://www.instagram.com/roperstfrancis/">Instagram</a></li>
+    <li><a class="footerSoc rss" href="/news-center/rss-feeds/">RSS Feeds</a></li>
+</ul>
+</div>
+<div class="col-md-3 col-sm-3">
+<div class="awardsBox"><a href="/requestappointment/">
+<h5 style="margin-bottom: 12px;">Request an Appointment</h5>
+</a>
+<h5>Awards &amp; Recognitions</h5>
+<div class="awards"><a href="/news-center/awards-and-recognitions/"><img src="/Images/Design001/awards.png" alt="Awards &amp; Recognitions" width="177" height="52"></a></div>
+</div>
+</div>
+<div class="col-md-3 col-sm-12">
+<h5>Roper St. Francis Healthcare</h5>
+HAVE A QUESTION? Need a doctor referral? <a href="tel:843-402-2273">Call (843) 402-CARE (2273)</a> </div>
+</div>
+</div>
+</div>
+  </div>
+</div>
+
+<a href="#" title="Back to Top" class="back-to-top">Back to Top</a>
+<a href="#" title="Web Chat" class="chat-icon">Chat</a>
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadTabStrip, {"_selectedIndex":-1,"_skin":"Default","clientStateFieldID":"ctl00_ContentPlaceHolder2_rtsSLTab_ClientState"}, null, null, $get("ctl00_ContentPlaceHolder2_rtsSLTab"));
+});
+//]]>
+</script>
+</form>
+    
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1065276824;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display: inline;">
+        <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1065276824/?value=0&amp;guid=ON&amp;script=0" />
+    </div>
+</noscript>
+
+
+    <script src="https://docasap.com/l_js/white-label.js" type="text/javascript"></script>
+    <script src="https://docasap.com/l_js/environment.js" type="text/javascript"></script>
+</body>
+</html>

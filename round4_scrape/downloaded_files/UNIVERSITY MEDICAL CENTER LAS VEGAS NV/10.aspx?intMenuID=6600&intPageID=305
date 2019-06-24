@@ -1,0 +1,263 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="ctl00_Head1">
+
+<!--IE-8 fix compatibilty line must be exactly below head tag-->
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" /><meta name="google-site-verification" content="WZB1aPIHysHUSkah3-5BiO2SWIzB8egccpYwaXNhhsQ" /><title>
+	UMC - About Us
+</title><meta name="ROBOTS" content="INDEX,FOLLOW,NOIMAGEINDEX" /><meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="expires"content="-1" />
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE" /><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" /><meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Expires" content="0" /><meta name="category" content="Healthcare" /><meta name="geography" content="Las Vegas, Nevada" /><meta name="zipcode" content="89102" /><meta name="city" content="Las Vegas" /><meta name="state" content="NV" /><meta name="metropolitan area" content="Las Vegas" /><meta name="country" content="United States" /><meta name="description" /><link rel="Stylesheet" type="text/css" href="../App_Themes/UMCClassic/master.css" media="screen" /><link rel="Stylesheet" type="text/css" href="../App_Themes/UMCClassic/modules.css" media="screen" /><meta name="keywords" content="About UMC, leadership, technology, care, UMC difference" /><link href="../App_Themes/UMCClassic/master.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/UMCClassic/modules.css" type="text/css" rel="stylesheet" /></head>
+<body topmargin="0">
+<div class="master-wrapper-page">
+    <div class="header">
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+<div style="background-color:#6699ff; height:40px; padding-top:20px; padding-left:520px;">
+
+        <div style="float:left; padding-right:20px;">
+<a href="/EventPay/Payment_Form.aspx" target="_blank" style="background-color:#003399; color:#FFFFFF; padding:8px; border:thin #ccc groove; font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold;">DONATE HERE</a>
+
+
+</div>
+
+
+
+    <div style="width:65%; float:left;">           
+        <div></div>
+<script>
+  (function() {
+    var cx = '016154956610605486002:xtufcliblyg';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+<div></div>
+</div>
+
+
+
+</div>
+
+<div class="UMC-Best-in-Vegas-Header">
+    
+    <a href="/UMC-Home.aspx" title="Return to the UMCSN Home page" id="UMC-Best-in-Vegas-Header-02"></a>
+    <div id="UMC-Best-in-Vegas-Header-03"></div>
+    <div id="UMC-Best-in-Vegas-Header-04"></div>   
+    <div id="UMC-Best-in-Vegas-Header-05"></div>
+    <div id="UMC-Best-in-Vegas-Header-07"></div>  
+    <div id="UMC-Best-in-Vegas-Header-08"></div>
+    <div class="header-linkstext">
+       <a href="/Footer/UMCSN-Mission-Vision-and-Values.aspx?intMenuID=305&intPageID=310" target="_self">Mission, Vision and Values</a>&nbsp; | &nbsp;<a href="/Getting-Around-UMCSN/Directions-and-Parking-at-UMCSN.aspx?intMenuID=7100&intPageID=320" target="_self">Directions</a>&nbsp; | &nbsp;<a href="/Quality-and-Safety/Quality-And-Safety-Index.aspx?intMenuID=2400&intPageID=321" target="_self">Quality & Safety</a>&nbsp; | &nbsp;<a href="/Common/Contact-Us-Index.aspx?intMenuID=7000&intPageID=319" target="_self">Contact Us</a>
+    </div>    
+    
+
+    
+
+
+
+
+
+
+
+   
+
+</div>
+</div>  
+    <div class="master-wrapper-content">
+            <div class="master-wrapper-cph1">
+                
+  <form name="aspnetForm" method="post" action="About-UMC-of-Southern-Nevada-Index.aspx?intMenuID=6600&amp;intPageID=305" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTc2NTQ3OTg4NA9kFgJmD2QWBAICD2QWAgIBD2QWAgIDD2QWCAIDDw8WAh4EVGV4dAUIQWJvdXQgVXNkZAIFDw8WAh4ISW1hZ2VVcmwFJH4vQWJvdXQtVXMvSW1hZ2VzL1VNQ1NOLUJ1aWxkaW5nLnBuZ2RkAgcPDxYCHwAFpAg8ZGl2IHN0eWxlPSJ3aWR0aDoyNTBweDsiPjx0YWJsZSBib3JkZXI9IjAiIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCIgaWQ9Im5hdnFsaW5rcyI+PHRyPjx0ZD48aW1nIHNyYz0iL0ltYWdlcy9NaXNjL1JlbGF0ZWRpbmZvLmpwZyI+PGJyLz48YnIvPjxici8+PGEgaHJlZj0iL0Zvb3Rlci9MZWFkZXJzaGlwLWF0LVVNQy5hc3B4P2ludE1lbnVJRD0zMDUmaW50UGFnZUlEPTMwNiIgdGFyZ2V0PSJfc2VsZiI+TGVhZGVyc2hpcCBhdCBVTUM8L2E+PGJyLz48YSBocmVmPSIvRm9vdGVyL0NsYXJrLUNvdW50eS1Cb2FyZC1NZW1iZXJzLmFzcHg/aW50TWVudUlEPTMwNSZpbnRQYWdlSUQ9MzA4IiB0YXJnZXQ9Il9zZWxmIj5VTUMgQm9hcmQgb2YgVHJ1c3RlZXM8L2E+PGJyLz48YSBocmVmPSIvRm9vdGVyL1VNQ0JvYXJkTWVtYmVycy5hc3B4IiB0YXJnZXQ9Il9zZWxmIj5VTUMgR292ZXJuaW5nIEJvYXJkPC9hPjxici8+PGEgaHJlZj0iL0Zvb3Rlci9FeGNlbGxlbmNlLUV2ZXJ5ZGF5LWF0LVVNQy5hc3B4P2ludE1lbnVJRD0zMDUmaW50UGFnZUlEPTMwNyIgdGFyZ2V0PSJfc2VsZiI+QXdhcmRzICYgQWNjcmVkaXRhdGlvbnM8L2E+PGJyLz48YSBocmVmPSIvRm9vdGVyL1NlcnZpbmctdGhlLUxhcy1WZWdhcy1Db21tdW5pdHktU2luY2UtMTkzMS5hc3B4P2ludE1lbnVJRD0zMDUmaW50UGFnZUlEPTMwOSIgdGFyZ2V0PSJfc2VsZiI+SGlzdG9yeSBvZiBVTUM8L2E+PGJyLz48YSBocmVmPSIvRm9vdGVyL1VNQ1NOLU1pc3Npb24tVmlzaW9uLWFuZC1WYWx1ZXMuYXNweD9pbnRNZW51SUQ9MzA1JmludFBhZ2VJRD0zMTAiIHRhcmdldD0iX3NlbGYiPk1pc3Npb24sIFZpc2lvbiBhbmQgVmFsdWVzPC9hPjwvdGQ+PC90cj48dHI+PHRkPjxpbWcgc3JjPSIvQWJvdXQtVXMvaW1hZ2VzL0hFSWxvZ28uanBnIj48L3RkPjwvdHI+PC90YWJsZT48YnI+VU1DIGhhcyBhZ2FpbiBiZWVuIGRlc2lnbmF0ZWQgTGVhZGVyc2hpcCBzdGF0dXMgaW4gdGhlIEhlYWx0aGNhcmUgRXF1YWxpdHkgSW5kZXggYnkgdGhlIEh1bWFuIFJpZ2h0cyBDYW1wYWlnbiBGb3VuZGF0aW9uPC9kaXY+ZGQCCQ8PFgIfAAWKEzxkaXYgc3R5bGU9InRleHQtYWxpZ246IGp1c3RpZnkiPjx0YWJsZSB3aWR0aD0iMTAwJSJib3JkZXI9IjAiY2VsbHBhZGRpbmc9IjE1Ij48dHI+PHRkIHZhbGlnbj0idG9wIj48aDI+VGhlIFVNQyBEaWZmZXJlbmNlPC9oMj48cD5BcyBhbiBhY2FkZW1pYyBtZWRpY2FsIGNlbnRlciB3aXRoIGEgcmljaCBoaXN0b3J5IG9mIHByb3ZpZGluZyBsaWZlLXNhdmluZyB0cmVhdG1lbnQgaW4gU291dGhlcm4gTmV2YWRhLCBVTUMgc2VydmVzIGFzIHRoZSBhbmNob3IgaG9zcGl0YWwgb2YgdGhlIExhcyBWZWdhcyBNZWRpY2FsIERpc3RyaWN0LCBvZmZlcmluZyBOZXZhZGHigJlzIGhpZ2hlc3QgbGV2ZWwgb2YgY2FyZSB0byBwcm9tb3RlIHN1Y2Nlc3NmdWwgbWVkaWNhbCBvdXRjb21lcyBmb3IgcGF0aWVudHMuIDwvcD48aDI+VHJ1c3QgTmV2YWRh4oCZcyBIaWdoZXN0IExldmVsIG9mIENhcmU8L2gyPjxwPlVNQyBwcm92aWRlcyBwYXRpZW50cyB3aXRoIGFjY2VzcyB0byBhIHdpZGUgcmFuZ2Ugb2YgZXhjbHVzaXZlIGFuZCBzcGVjaWFsaXplZCBzZXJ2aWNlcywgaW5jbHVkaW5nIE5ldmFkYSdzIE9OTFkgTGV2ZWwgSSBUcmF1bWEgQ2VudGVyLCBPTkxZIERlc2lnbmF0ZWQgUGVkaWF0cmljIFRyYXVtYSBDZW50ZXIsIE9OTFkgQnVybiBDYXJlIENlbnRlciBhbmQgT05MWSBDZW50ZXIgZm9yIFRyYW5zcGxhbnRhdGlvbi4gPC9wPjxwPlRoZSBVTUMgVHJhdW1hIENlbnRlciBwcm92aWRlcyBsaWZlLXNhdmluZyBjYXJlIHRvIGNvbW11bml0eSBtZW1iZXJzLCB2aXNpdG9ycyBhbmQgcmVzaWRlbnRzIG9mIG5lYXJieSBzdGF0ZXMuIFNlcnZpbmcgcGF0aWVudHMgaW4gYSAxMCwwMDAtc3F1YXJlLW1pbGUgYXJlYSwgdGhlIFVNQyBUcmF1bWEgQ2VudGVyIHByb3ZpZGVkIGNhcmUgdG8gYXBwcm94aW1hdGVseSAxMiw1MDAgcGF0aWVudHMgaW4gMjAxNi4gVGhlIFVNQyBUcmF1bWEgQ2VudGVyIGhhcyBhIHN1cnZpdmFiaWxpdHkgcmF0ZSBvZiA5NiBwZXJjZW50LCBpbmNsdWRpbmcgcGF0aWVudHMgd2hvIHdlcmUgdHJhbnNwb3J0ZWQgdG8gVU1DIHdpdGggbGVzcyB0aGFuIGEgMSBwZXJjZW50IGNoYW5jZSBvZiBzdXJ2aXZhbC4gPC9wPjxwPlRoZSBVTUMgTGlvbnMgQnVybiBDYXJlIENlbnRlciByZWNlbnRseSBiZWNhbWUgb25lIG9mIG9ubHkgNjcgaG9zcGl0YWxzIGluIHRoZSBuYXRpb24gdG8gYmUgdmVyaWZpZWQgYXMgYSBCdXJuIENlbnRlciBieSB0aGUgQW1lcmljYW4gQnVybiBBc3NvY2lhdGlvbiBhbmQgdGhlIENvbW1pdHRlZSBvbiBUcmF1bWEgb2YgdGhlIEFtZXJpY2FuIENvbGxlZ2Ugb2YgU3VyZ2VvbnMuIFRoaXMgYWNoaWV2ZW1lbnQgcmVjb2duaXplcyB0aGUgVU1DIExpb25zIEJ1cm4gQ2FyZSBDZW50ZXLigJlzIGNvbW1pdG1lbnQgdG8gcHJvdmlkaW5nIHBhdGllbnRzIHdpdGggdGhlIGhpZ2hlc3QgbGV2ZWwgb2YgYnVybiBjYXJlLjwvcD48aDI+Q3V0dGluZy1FZGdlIFRlY2hub2xvZ3k8L2gyPjxwPkZyb20gYWR2YW5jZWQgcm9ib3RpYyBzdXJnZXJ5IHRvIHJldm9sdXRpb25hcnkgd2lyZWxlc3MgcGFjZW1ha2VycywgVU1DIHJlbWFpbnMgY29tbWl0dGVkIHRvIG9mZmVyaW5nIHRoZSBsYXRlc3QgYnJlYWt0aHJvdWdocyBpbiBtZWRpY2FsIHRlY2hub2xvZ3kuIDwvcD48cD5JbiAyMDE3LCBVTUMgYmVjYW1lIHRoZSBmaXJzdCBob3NwaXRhbCBpbiBOZXZhZGEgdG8gb2ZmZXIgYSBwcm9jZWR1cmUgdG8gaW1wbGFudCB0aGUgd29ybGTigJlzIHNtYWxsZXN0IHBhY2VtYWtlciwgd2hpY2ggaXMgYXBwcm94aW1hdGVseSB0aGUgc2l6ZSBvZiBhIGxhcmdlIHZpdGFtaW4uIDwvcD48cD5VTUMgYWxzbyBvZmZlcnMgYW4gaW5ub3ZhdGl2ZSBSb2JvdGljIFN1cmdlcnkgUHJvZ3JhbSwgdXRpbGl6aW5nIGFkdmFuY2VkIHRvb2xzIHRvIHByb3ZpZGUgdGhlIGxlYXN0IGludmFzaXZlLCBtb3N0IHByZWNpc2Ugb3B0aW9ucyBhdmFpbGFibGUuIFVNQ+KAmXMgZGEgVmluY2kgWGkgU3VyZ2ljYWwgU3lzdGVtIGNvbWJpbmVzIGFkdmFuY2VkIHJvYm90aWMsIGNvbXB1dGVyIGFuZCBvcHRpY2FsIHRlY2hub2xvZ2llcyB0byBhc3Npc3Qgc3VyZ2VvbnMgd2l0aCBhIHdpZGUgcmFuZ2Ugb2Ygb3BlcmF0aW9ucy4gPC9wPjxoMj5UaGUgRnV0dXJlIG9mIE1lZGljaW5lPC9oMj48cD5GdXJ0aGVyIGVzdGFibGlzaGluZyBpdHMgcG9zaXRpb24gYXMgYSBsZWFkaW5nIGFjYWRlbWljIG1lZGljYWwgY2VudGVyLCBVTUMgZm9ybWVkIGEgc3RyYXRlZ2ljIHBhcnRuZXJzaGlwIHdpdGggdGhlIFVOTFYgU2Nob29sIG9mIE1lZGljaW5lLCB3aXRoIHRoZSBob3NwaXRhbCBzZXJ2aW5nIGFzIHRoZSBhbmNob3IgcGFydG5lciBmb3IgdGhlIG5ld2x5IGRldmVsb3BlZCBzY2hvb2wgdG8gZGVsaXZlciB0aGUgcmVnaW9u4oCZcyBmaW5lc3QgYWNhZGVtaWMgbWVkaWNpbmUuPC9wPjwvdGQ+PC90cj48L3RhYmxlPjwvZGl2PmRkAgMPZBYUAgEPDxYCHgtOYXZpZ2F0ZVVybAVNfi9Gb290ZXIvQWJvdXQtVU1DLW9mLVNvdXRoZXJuLU5ldmFkYS1JbmRleC5hc3B4P2ludE1lbnVJRD02NjAwJmludFBhZ2VJRD0zMDVkZAIDDw8WAh8CBUR+L0Zvb3Rlci9DbGFyay1Db3VudHktQm9hcmQtTWVtYmVycy5hc3B4P2ludE1lbnVJRD0zMDUmaW50UGFnZUlEPTMwOGRkAgUPDxYCHwIFHX4vRm9vdGVyL1VNQ0JvYXJkTWVtYmVycy5hc3B4ZGQCBw8PFgIfAgVEfi9Db21tb24vRWR1Y2F0aW9uLUFuZC1FdmVudHMtSW5kZXguYXNweD9pbnRNZW51SUQ9MTE1JmludFBhZ2VJRD03MzhkZAIJDw8WAh8CBUZ+L05ld3MtYW5kLU1lZGlhL05ld3MtYW5kLU1lZGlhLUluZGV4LmFzcHg/aW50TWVudUlEPTExNSZpbnRQYWdlSUQ9MTQ5ZGQCCw8PFgIfAgUWfi9Gb3VuZGF0aW9uL0hvbWUuYXNweGRkAg0PDxYCHwIFT34vVm9sdW50ZWVyLVNlcnZpY2VzL1ZvbHVudGVlcmluZy1hdC1VTUMtSW5kZXguYXNweD9pbk1lbnVJRD01OTAwJmludHBhZ2VJRD0yODlkZAIPDw8WAh8CBUR+L0Zvb3Rlci9Eb2luZy1CdXNpbmVzcy1XaXRoLVVNQ1NOLmFzcHg/aW50TWVudUlEPTY1MDAmaW50UGFnZUlEPTMwNGRkAhEPDxYCHwIFSH4vRm9vdGVyL0VzcGVjaWFsbHktZm9yLUVtcGxveWVlcy1JbmRleC5hc3B4P2ludE1lbnVJRD0xMTUmaW50UGFnZUlEPTMyM2RkAhMPDxYCHwIFRn4vRm9vdGVyL1VNQ1NOLVByaXZhY3ktUG9saWN5LWFuZC1Zb3UuYXNweD9pbk1lbnVJRD02NzAwJmludHBhZ2VJRD0zMTNkZGRUdmmVOxoAcZ/hm55VQnXa/+IZUw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5167429A" />
+    <div>
+      
+
+<div class="menuprint">
+<script type="text/javascript" src="/js/stmenu.js"></script>
+<script type="text/javascript" src="/js/MainMenu.js"></script>
+</div>
+
+
+
+
+
+
+        
+
+<div id="full-width-content-top-image-wrapper-page">
+    
+<script type="text/javascript">
+function MM_CheckFlashVersion(reqVerStr,msg){
+  with(navigator){
+    var isIE  = (appVersion.indexOf("MSIE") != -1 && userAgent.indexOf("Opera") == -1);
+    var isWin = (appVersion.toLowerCase().indexOf("win") != -1);
+    if (!isIE || !isWin){  
+      var flashVer = -1;
+      if (plugins && plugins.length > 0){
+        var desc = plugins["Shockwave Flash"] ? plugins["Shockwave Flash"].description : "";
+        desc = plugins["Shockwave Flash 2.0"] ? plugins["Shockwave Flash 2.0"].description : desc;
+        if (desc == "") flashVer = -1;
+        else{
+          var descArr = desc.split(" ");
+          var tempArrMajor = descArr[2].split(".");
+          var verMajor = tempArrMajor[0];
+          var tempArrMinor = (descArr[3] != "") ? descArr[3].split("r") : descArr[4].split("r");
+          var verMinor = (tempArrMinor[1] > 0) ? tempArrMinor[1] : 0;
+          flashVer =  parseFloat(verMajor + "." + verMinor);
+        }
+      }
+      // WebTV has Flash Player 4 or lower -- too low for video
+      else if (userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 4.0;
+
+      var verArr = reqVerStr.split(",");
+      var reqVer = parseFloat(verArr[0] + "." + verArr[2]);
+  
+      if (flashVer < reqVer){
+        if (confirm(msg))
+          window.location = "http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash";
+      }
+    }
+  } 
+}
+</script>
+
+<script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+function GP_AdvOpenWindow(theURL,winName,features,popWidth,popHeight,winAlign,ignorelink,alwaysOnTop,autoCloseTime,borderless) { //v2.0
+  var leftPos=0,topPos=0,autoCloseTimeoutHandle, ontopIntervalHandle, w = 480, h = 500;  
+  if (popWidth > 0) features += (features.length > 0 ? ',' : '') + 'width=' + popWidth;
+  if (popHeight > 0) features += (features.length > 0 ? ',' : '') + 'height=' + popHeight;
+  if (winAlign && winAlign != "" && popWidth > 0 && popHeight > 0) {
+    if (document.all || document.layers || document.getElementById) {w = screen.availWidth; h = screen.availHeight;}
+		if (winAlign.indexOf("center") != -1) {topPos = (h-popHeight)/2;leftPos = (w-popWidth)/2;}
+		if (winAlign.indexOf("bottom") != -1) topPos = h-popHeight; if (winAlign.indexOf("right") != -1) leftPos = w-popWidth; 
+		if (winAlign.indexOf("left") != -1) leftPos = 0; if (winAlign.indexOf("top") != -1) topPos = 0; 						
+    features += (features.length > 0 ? ',' : '') + 'top=' + topPos+',left='+leftPos;}
+  if (document.all && borderless && borderless != "" && features.indexOf("fullscreen") != -1) features+=",fullscreen=1";
+  if (window["popupWindow"] == null) window["popupWindow"] = new Array();
+  var wp = popupWindow.length;
+  popupWindow[wp] = window.open(theURL,winName,features);
+  if (popupWindow[wp].opener == null) popupWindow[wp].opener = self;  
+  if (document.all || document.layers || document.getElementById) {
+    if (borderless && borderless != "") {popupWindow[wp].resizeTo(popWidth,popHeight); popupWindow[wp].moveTo(leftPos, topPos);}
+    if (alwaysOnTop && alwaysOnTop != "") {
+    	ontopIntervalHandle = popupWindow[wp].setInterval("window.focus();", 50);
+    	popupWindow[wp].document.body.onload = function() {window.setInterval("window.focus();", 50);}; }
+    if (autoCloseTime && autoCloseTime > 0) {
+    	popupWindow[wp].document.body.onbeforeunload = function() {
+  			if (autoCloseTimeoutHandle) window.clearInterval(autoCloseTimeoutHandle);
+    		window.onbeforeunload = null;	}  
+   		autoCloseTimeoutHandle = window.setTimeout("popupWindow["+wp+"].close()", autoCloseTime * 1000); }
+  	window.onbeforeunload = function() {for (var i=0;i<popupWindow.length;i++) popupWindow[i].close();}; }   
+  document.MM_returnValue = (ignorelink && ignorelink != "") ? false : true;
+}
+//-->
+</script>
+
+<script type="text/javascript" src="/js/email.js"></script>
+<style type="text/css">
+<!--
+.style1 {color: #FFFFFF}
+-->
+</style>
+
+<div id="breadcrumbMenu">
+  
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+        
+  <div id="breadcrumbTextSize"><a href="http://www.twitter.com/UMCSN"><img align="absmiddle" src="/Images/Misc/FollowUsnav.jpg" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.facebook.com/UMCSN"><img align="absmiddle" src="/Images/Misc/LikeUSnav.jpg" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.youtube.com/umcsouthernnevada"><img align="absmiddle" src="/Images/Misc/WatchUsnav.jpg" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:mailpage()"><img align="absmiddle" src="/Images/Misc/Emailnav.jpg" border="0" style="margin-left:10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:window.print()"><img align="absmiddle" src="/Images/Misc/Printnav.jpg" border="0" /></a></div>
+  </div>
+        <div id="sectionHeader">
+            <span id="ctl00_cph1_ctrlLPicAndContentRMenuRCTA1_SectionHeader">About Us</span>
+        </div>
+ 
+        <div id="lcontentrmenu-wrapper-content">
+            <div id="image-padded-20px-left">
+                <img id="ctl00_cph1_ctrlLPicAndContentRMenuRCTA1_MediumImage" src="../About-Us/Images/UMCSN-Building.png" border="0" />
+            </div> 
+            <div id="Related-Links">
+                <span id="ctl00_cph1_ctrlLPicAndContentRMenuRCTA1_RightColumn"><div style="width:250px;"><table border="0" cellpadding="0" cellspacing="0" id="navqlinks"><tr><td><img src="/Images/Misc/Relatedinfo.jpg"><br/><br/><br/><a href="/Footer/Leadership-at-UMC.aspx?intMenuID=305&intPageID=306" target="_self">Leadership at UMC</a><br/><a href="/Footer/Clark-County-Board-Members.aspx?intMenuID=305&intPageID=308" target="_self">UMC Board of Trustees</a><br/><a href="/Footer/UMCBoardMembers.aspx" target="_self">UMC Governing Board</a><br/><a href="/Footer/Excellence-Everyday-at-UMC.aspx?intMenuID=305&intPageID=307" target="_self">Awards & Accreditations</a><br/><a href="/Footer/Serving-the-Las-Vegas-Community-Since-1931.aspx?intMenuID=305&intPageID=309" target="_self">History of UMC</a><br/><a href="/Footer/UMCSN-Mission-Vision-and-Values.aspx?intMenuID=305&intPageID=310" target="_self">Mission, Vision and Values</a></td></tr><tr><td><img src="/About-Us/images/HEIlogo.jpg"></td></tr></table><br>UMC has again been designated Leadership status in the Healthcare Equality Index by the Human Rights Campaign Foundation</div></span>
+                <div id="rightCTA"></div>
+            </div> 
+            <div id="Medium-Content">
+                <span id="ctl00_cph1_ctrlLPicAndContentRMenuRCTA1_Content"><div style="text-align: justify"><table width="100%"border="0"cellpadding="15"><tr><td valign="top"><h2>The UMC Difference</h2><p>As an academic medical center with a rich history of providing life-saving treatment in Southern Nevada, UMC serves as the anchor hospital of the Las Vegas Medical District, offering Nevada’s highest level of care to promote successful medical outcomes for patients. </p><h2>Trust Nevada’s Highest Level of Care</h2><p>UMC provides patients with access to a wide range of exclusive and specialized services, including Nevada's ONLY Level I Trauma Center, ONLY Designated Pediatric Trauma Center, ONLY Burn Care Center and ONLY Center for Transplantation. </p><p>The UMC Trauma Center provides life-saving care to community members, visitors and residents of nearby states. Serving patients in a 10,000-square-mile area, the UMC Trauma Center provided care to approximately 12,500 patients in 2016. The UMC Trauma Center has a survivability rate of 96 percent, including patients who were transported to UMC with less than a 1 percent chance of survival. </p><p>The UMC Lions Burn Care Center recently became one of only 67 hospitals in the nation to be verified as a Burn Center by the American Burn Association and the Committee on Trauma of the American College of Surgeons. This achievement recognizes the UMC Lions Burn Care Center’s commitment to providing patients with the highest level of burn care.</p><h2>Cutting-Edge Technology</h2><p>From advanced robotic surgery to revolutionary wireless pacemakers, UMC remains committed to offering the latest breakthroughs in medical technology. </p><p>In 2017, UMC became the first hospital in Nevada to offer a procedure to implant the world’s smallest pacemaker, which is approximately the size of a large vitamin. </p><p>UMC also offers an innovative Robotic Surgery Program, utilizing advanced tools to provide the least invasive, most precise options available. UMC’s da Vinci Xi Surgical System combines advanced robotic, computer and optical technologies to assist surgeons with a wide range of operations. </p><h2>The Future of Medicine</h2><p>Further establishing its position as a leading academic medical center, UMC formed a strategic partnership with the UNLV School of Medicine, with the hospital serving as the anchor partner for the newly developed school to deliver the region’s finest academic medicine.</p></td></tr></table></div></span>
+            </div>                    
+        </div>          
+
+</div>
+    </div>
+  </form>
+
+<!-- 				this is a test
+               <div class="clear">
+                </div>-->
+                
+                <div style="font-size:12px; text-align:center; font-style:italic; margin-top:60px;">This translation is provided by Google Translate.  University Medical Center of Southern Nevada makes no representations or warranties of any kind, <br /> whether express or implied, regarding the accuracy of the translation provided above.</div>
+                
+            </div>
+    </div>
+	<div>
+
+<div class="footer">
+    <div class="footer-linkstext">
+        <a id="ctl00_CtrlFooter1_hlFooter1" href="About-UMC-of-Southern-Nevada-Index.aspx?intMenuID=6600&amp;intPageID=305">About Us</a> | 
+        <a id="ctl00_CtrlFooter1_hlFooter11" href="Clark-County-Board-Members.aspx?intMenuID=305&amp;intPageID=308">Board of Trustees</a> |
+       <a id="ctl00_CtrlFooter1_hlFooter3" href="UMCBoardMembers.aspx">Governing Board</a> |
+        <a id="ctl00_CtrlFooter1_hlFooter2" href="../Common/Education-And-Events-Index.aspx?intMenuID=115&amp;intPageID=738">Education &amp; Events</a> |  
+        <a id="ctl00_CtrlFooter1_hlFooter9" href="../News-and-Media/News-and-Media-Index.aspx?intMenuID=115&amp;intPageID=149">News &amp; Media</a> |
+        <a id="ctl00_CtrlFooter1_hlFooter4" href="../Foundation/Home.aspx">Foundation</a> | 
+        <a id="ctl00_CtrlFooter1_hlFooter5" href="../Volunteer-Services/Volunteering-at-UMC-Index.aspx?inMenuID=5900&amp;intpageID=289">Volunteers</a> | 
+        <a id="ctl00_CtrlFooter1_hlFooter6" href="Doing-Business-With-UMCSN.aspx?intMenuID=6500&amp;intPageID=304">Vendors</a> | 
+        <a id="ctl00_CtrlFooter1_hlFooter8" href="Especially-for-Employees-Index.aspx?intMenuID=115&amp;intPageID=323">Employee Access</a> |        
+        <a id="ctl00_CtrlFooter1_hlFooter7" href="UMCSN-Privacy-Policy-and-You.aspx?inMenuID=6700&amp;intpageID=313">Privacy Policy</a>
+        <div id="copyright">
+            &copy; University Medical Center of Southern Nevada 2014 &nbsp; | &nbsp; All rights reserved.
+        </div>
+    </div>
+</div>
+
+
+
+</div>
+</div>
+</body>
+</html>

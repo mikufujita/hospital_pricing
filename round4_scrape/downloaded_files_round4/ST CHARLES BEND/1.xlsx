@@ -1,0 +1,170 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head id="ctl00_Head1"><title>
+	Login
+</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><meta name="viewport" content="width=device-width,initial-scale=1" /><meta http-equiv="X-UA-Compatible" content="IE=EDGE; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"742f8e601b","applicationID":"20188565,21025549","transactionName":"MVBaMUpUXEdTVUZZCwgaeTZoGkFNQUJXXQgJUlELFlRBREo=","queueTime":0,"applicationTime":43,"ttGuid":"3234F6C65123A0CF","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+        <script src="/Scripts/jquery-1.11.3.min.js" type="text/javascript"></script>
+        
+    <link rel="stylesheet" type="text/css" href="/Style/login.css"/>
+    <script type="text/javascript" language="javascript">
+    $(document).ready(function() {
+    $('input:visible:enabled:first').focus();
+    });
+    </script>
+<link href="App_Themes/EPM/EPM.css" type="text/css" rel="stylesheet" /><link href="App_Themes/EPM/Portal.css" type="text/css" rel="stylesheet" /><link href="/WebResource.axd?d=wu2-nH7iwSqT0TgvbyKgs_V6_TYA07BnX7YMX1qIIJuR4HyrpazOmoyBpnzlHOjhD1V1ffDT6dYFcYuP8e6q5HEg7UksZaSHMz-hLiqrRrp70O690UMQGVfLo2BOoWglTxXwoQ2&amp;t=636963891960000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=pBuk9ji5oBG1FYQZ71UzIoat-wPLENROIFtGnwtbiraR0_2gHjl51qxojB6GwAay4iyZYVfD6AS-9uXDv_PC9FqCU8QwG5twPS2QYeHCWaFFeV8fc_qbO7C_fpmodaT4nqHvowiezO464ipkROVkjL1BRgM1&amp;t=636963891960000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+    <body>
+        <form name="aspnetForm" method="post" action="./systemlogin.aspx?virtualname=stcharlesmc" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTc2Mzc1MDI5Nw9kFgJmD2QWAgIDD2QWBAIBD2QWBAIDDxYCHgRUZXh0ZWQCBQ9kFgJmD2QWCAIJDw8WBB4LTmF2aWdhdGVVcmwFLC9QYXNzd29yZEZvcmdldC5hc3B4P1ZpcnR1YWxOYW1lPXN0Y2hhcmxlc21jHgdWaXNpYmxlaGRkAgsPDxYEHwEFLy4uLy4uL1NlbGZSZWdpc3Rlci5hc3B4P1ZpcnR1YWxOYW1lPXN0Y2hhcmxlc21jHwJoZGQCDQ8PFgIfAmhkZAIPD2QWAmYPFCsAAw8WBB4PT3BlbmVyRWxlbWVudElEBRdsbmtPcGVuQXRoZW5zSGVscEJ1dHRvbh4XRW5hYmxlQWpheFNraW5SZW5kZXJpbmdoZGRkZAICDxYCHgRocmVmBS8vL3NlcnZpY2UuZWxzZXZpZXIuY29tL2FwcC9ob21lL3N1cHBvcnRodWIvZXBtL2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFOmN0bDAwJENvbnRlbnRNYWluJGN0bDAwJGxua09wZW5BdGhlbnNIZWxwV2luZG93JG1vZGFsUG9wdXC+lgbgi4LAZmH/h56JYMKxs80bNw==" />
+
+
+<script src="/ScriptResource.axd?d=JLPvQCe79CMbnupy1Gw_l-8pG_7krA5qC2o0PaW7tIF2yz74Duh32ebddUL2UKxVYoXrogGXs_yQiGyzTGbDPyUEO-5d0Vsv9NQfr_2CPzolVg_BPkdMBupmv3MFEDN6M2fPD3H4bI2U8FrLkONBCpVCxcg1&amp;t=2bb02662" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=rQyOytm7E9b91kAirqV6ZdTLnooyzzGCE45_xCIXqDoLFV_rT7HzuF9aMV8TQpAQWU0oT1P8VbPo79GPQVilqK8f1IQmESYeaChmYg-BugWxNYEly9WvbyluyuS21u9R1kXotQ2&amp;t=fffffffffdab3e87" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=GbjIth1qygTZzzzXkoHK9sluOZIABrRc3O90VM0djTmgo2lyjmEcqDILC-PZRY0pIAibrnZ_ge563OOQomJGGueitNZLjHWlIYki7WUz2TjlHbFYFV_W0MU9wH3XxD3t3kI0-3f_hqEoI2DDlPm1n3ByWxk1&amp;t=fffffffffdab3e87" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=qt6-xSSXwS0-oq5Qh4Gs4Wv1MpxpZYOZrkuhTmqHU9qMIEKft1Mnqb3l9atOp7xtESqvoqj4nZ4zvQTE5jYfLqhS_B6pQIEVhKYHPK8eYcZ8kQg18v0juf8liAymEQ2x388f4Q2&amp;t=fffffffffdab3e87" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=VT5MmOPwa9sMQyVq72J8kM7lq1Q4ETlNTRFyeePzFy4eF2iAqaAgSufvqxogadZ6nvXXuQ6qweCDUgLVceJcFS3GPI4ydf7xNqZahbnkOdv8cEyi0RqDT1l22tQNtDqny_Nxzg2&amp;t=fffffffffdab3e87" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=u8L8MAkuBvgRCFfMmUygNoiWT5CJwdbS9RmF-Szyup5sPFL3FZqjGRRMcasRioycMtA5Aml4GIXUIEtbzXQomdqIlZrJNA1jgUSWlndEaHs9zHrxA6drZxeH1RDFzoyQ79hZJUhY0nDZ7QSyZB--vNz3qAA1&amp;t=fffffffffdab3e87" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=NUV32beiEguT8-LA0lVg-TKNZhIIkVwvxumgnGyvpFXvk_o7hmUOBqHN3-mtFrnicAIhXBW1CMfYcFCuB4RmCfwDx1nLWAw5W6DEjpz4K4WHd4uNLCRtT1_AIWXZB_-x1ZX2GAvdNAOQTPGdLpDV3XpcXfs1&amp;t=fffffffffdab3e87" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=AhLt4uWIblfwipuBIhKu4E-vSlHFgSzS8aNQCVGphvlvRHFRm2RABCQai4d5uxezreVv9wiDwR3AqWvQeXxa-agYWuv5CFV64W-9cHvfOXIZZq0GrAUlTUNbyICFaFOWZY83yFPUDDdjl7P9YSskdyIBmZY1&amp;t=fffffffffdab3e87" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F6141291" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAARSav2iEWtjfMi1le81dmMK92FWZT1PSg2FIz4n6V1FBts9EFUwlffocnIe5FIt4Ujw1l2jWGeigsZ6E0+yGqZfULejiQEfOFIVGVPujvyi9O0IaR8=" />
+            
+            <div id="portalContent" class="portalContent">
+                
+    
+    <div id="portalHeaderBox" class="portalHeaderBox">
+    </div>
+    <div id="portalMainBox" class="portalMainBox">
+        
+    </div>
+    
+    <div id="portalLoginBox" class="portalLoginBox wrapper">
+        <div class="first">
+            <div id="login-header-placeholder"></div>
+            <div class="login-wrapper">
+                <div class="login-inner-wrapper">
+                    
+
+<link href="/Style/Base/datatable.css" type="text/css" rel="stylesheet" />
+<link href="/Style/Base/reset-fonts-grids-tabview.css" type="text/css" rel="stylesheet" />
+<link href="/Style/Base/rollup.css" type="text/css" rel="stylesheet" />
+<link href="/Style/Base/skin.css" type="text/css" rel="stylesheet" />
+<link href="/Style/Base/ucd.css" type="text/css" rel="stylesheet" />
+<link href="/Style/platform.css" type="text/css" rel="stylesheet" />
+<link href="/Style/tabs.css" type="text/css" rel="stylesheet" />
+<link href="/Content/Styles/Global.min.css" type="text/css" rel="stylesheet" />
+
+<div id="login-main-header" class="login-header">
+    <img id="logo" src="https://content.elsevierperformancemanager.com/LogoImages/545102.jpg" alt="Elsevier - Performance Manager" />
+</div>
+
+<script type="text/javascript">
+    document.getElementById("login-header-placeholder").appendChild(document.getElementById("login-main-header"));
+</script>
+
+
+
+<div class="login-box login-box-1">
+
+    
+            <h2>Sign In <small>for full access</small></h2>
+
+            <span id="ctl00_ContentMain_ctl00_Login1_FailureText" class="login-error"></span>
+            <label for="username">Login</label>
+            <input name="ctl00$ContentMain$ctl00$Login1$UserName" type="text" id="ctl00_ContentMain_ctl00_Login1_UserName" class="username" />
+            
+                            
+            <label for="password">Password</label>
+            <input name="ctl00$ContentMain$ctl00$Login1$Password" type="password" id="ctl00_ContentMain_ctl00_Login1_Password" class="password" />
+            
+
+            <input type="submit" name="ctl00$ContentMain$ctl00$Login1$LoginButton" value="Login" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ContentMain$ctl00$Login1$LoginButton&quot;, &quot;&quot;, true, &quot;errSummary&quot;, &quot;&quot;, false, false))" id="ctl00_ContentMain_ctl00_Login1_LoginButton" class="login-btn login-sign-in-btn" />
+
+        
+
+    
+    &nbsp;&nbsp;
+    
+    <br />
+    <br />
+    
+    <div id="ctl00_ContentMain_ctl00_lnkOpenAthensHelpWindow_modalPopup" style="display:none;">
+	<!-- 2010.3.1109.40 --><div id="ctl00_ContentMain_ctl00_lnkOpenAthensHelpWindow_modalPopup_C">
+		
+        <div style="margin: 20px 30px 20px 30px; text-align: left;">
+            As an OpenAthens user, you may map your OpenAthens user ID to your Elsevier Performance Manager user ID.  Mapping your IDs will allow you to gain logged-in access to Elsevier on future visits, by simply authenticating through OpenAthens.
+            <br />
+            <br />
+            <b>If your starting point is OpenAthens:</b><br />
+
+            1. Choose Elsevier Performance Manager from the resources area.<br />
+            2. Arrive on Elsevier Performance Manager and see the &#147;Welcome, OpenAthens User&#148; text in the login area.<br />
+            3. Enter your Elsevier Performance Manager Learner ID and Password in the boxes provided, and click the &#147;Login&#148; button. 
+            <br />
+            4. Your OpenAthens and Elsevier Performance Manager accounts are now mapped, and you will be automatically logged in to Elsevier Performance Manager the next time you come in from OpenAthens.<br />
+            <br />
+            <b>If your starting point is Elsevier Performance Manager:</b><br />
+            1. Click the Login with OpenAthens link in the login area of Elsevier Performance Manager.<br />
+            2. Enter your OpenAthens credentials at OpenAthens<br />
+            3. Arrive on Elsevier Performance Manager and see the &#147;Welcome, OpenAthens User&#148; text in the login area.<br />
+            4. Enter your Elsevier Performance Manager Learner ID and Password in the boxes provided, and click the &#147;Login&#148; button.
+            <br />
+            5. Your OpenAthens and Elsevier Performance Manager accounts are now mapped, and you will be automatically logged in to Elsevier Performance Manager the next time you come in from OpenAthens.<br />
+            <br />
+            <b>Additional Notes:</b><br />
+            1. When you are finished using Elsevier Performance Manager, you should always log out and close your browser.
+            <br />
+            2. If needed, you may unmap your OpenAthens ID from the MyProfile link in the login area.<br />
+            3. If you do not have an Elsevier Performance Manager user name or password, you may still gain access to Elsevier Performance Manager through OpenAthens, and can use the product as you normally do.<br />
+        </div>
+    
+	</div><input id="ctl00_ContentMain_ctl00_lnkOpenAthensHelpWindow_modalPopup_ClientState" name="ctl00_ContentMain_ctl00_lnkOpenAthensHelpWindow_modalPopup_ClientState" type="hidden" />
+</div>
+</div>
+
+
+<script type="text/javascript">
+    $(function () {
+        if ($('.login-error').text()) {
+            $('.login-error').css("display", "block");
+        }
+    }) 
+</script>
+
+                    
+                    
+                </div>
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+    </div>
+    <div id="portalFooterBox" class="portalFooterBox">
+    </div>
+
+            </div>
+            
+        <div class="ucd-footer"  >
+            <ul id="meta1" class="short">
+                <li><a href="#" title="Terms and Conditions" onclick=" javascript:window.open('//www.elsevier.com/legal/elsevier-website-terms-and-conditions', '', 'status=1,toolbar=0,resizable=1,scrollbars=1'); ">Terms and Conditions</a></li>
+                <li ><a href="#" title="Privacy Policy" onclick=" javascript:window.open('//www.elsevier.com/wps/find/privacypolicy.cws_home/privacypolicy', '', 'status=1,toolbar=0,resizable=1,scrollbars=1'); ">Privacy Policy</a></li>
+                <li class="ucd-footer-last"><a href="//service.elsevier.com/app/home/supporthub/epm/" id="ctl00_FooterContactLink" title="Support Center" target="_blank">Support Center</a></li>
+
+                <li class="ucd-footer-copyright">Copyright &copy; 2019 Elsevier, Inc. All rights reserved. </li>
+            </ul>
+            <a href="//www.elsevier.com" target="_blank" title="Visit the Elsevier.com website">
+                <img src="/Images/ELSwordmark_small.png" alt="Reed Elsevier logo" title="Reed Elsevier" /></a>
+        </div>
+   
+        
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindow, {"_dockMode":true,"behaviors":36,"clientStateFieldID":"ctl00_ContentMain_ctl00_lnkOpenAthensHelpWindow_modalPopup_ClientState","formID":"aspnetForm","height":"470px","iconUrl":"","minimizeIconUrl":"","modal":true,"name":"modalPopup","openerElementID":"lnkOpenAthensHelpButton","skin":"Office2007","title":"OpenAthens User Information","width":"800px"}, null, null, $get("ctl00_ContentMain_ctl00_lnkOpenAthensHelpWindow_modalPopup"));
+});
+//]]>
+</script>
+</form>
+    </body>
+</html>

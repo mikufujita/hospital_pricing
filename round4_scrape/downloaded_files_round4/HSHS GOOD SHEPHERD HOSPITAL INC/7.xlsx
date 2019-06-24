@@ -1,0 +1,581 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="head"><title>
+	Patient Rights | HSHS Good Shepherd Hospital
+</title><meta name="description" content="A person who receives health services in HSHS Good Shepherd Hospital has, within the framework of Catholic medical moral teaching and other regulatory requirements, certain rights and responsibilities as a patient." /> 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+<meta http-equiv="pragma" content="no-cache" /> 
+<meta http-equiv="content-style-type" content="text/css" /> 
+<meta http-equiv="content-script-type" content="text/javascript" /> 
+<meta name="keywords" content="hospital, healthcare, health care, central illinois, illinois, accredited health facility, not-for-profit, acute care, doctors, medical staff, physicians, providers, hospital sisters health system" /> 
+<!--This will keep devices with higher resolutions displays such as iOS from resizing the content ~ if you're using a responsive design that scales ~ the viewport is the forced display width--> 
+<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="google-site-verification" content="eFDu7kPkexlvmYdc9uDbi2r8sSF5OwCNkgzVZQs6wi4" />
+<meta name="msvalidate.01" content="EA66B98857AC831B9E0EC157ED36F499" /> 
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="icon" />
+<!-- CSS ============================================================================================== -->
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=FontAwesome" type="text/css" rel="stylesheet" />
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=GSS_Styles" type="text/css" rel="stylesheet" />
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=bootstrap" type="text/css" rel="stylesheet" />
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=Base_Styles" type="text/css" rel="stylesheet" />
+<!-- END CSS ============================================================================================== -->
+
+<!-- Scripts ============================================================================================== -->
+
+  <!-- This will bring full browser support for media queries. Write your media queries like you would for browsers with native support. 
+       The script will parse your CSS and apply the styles for positive media query tests real time. Note: Doesn't work on @imported 
+       stylesheets or for the media attribute of the link and style elements. Respond.js will make the min-max width work. -->
+  <!--[if lt IE 9]>
+      <script src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/html5shiv_3_7_0.js" type="text/javascript"></script>
+      <script src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/respond_1_4_2.min.js" type="text/javascript"></script>
+  <![endif]-->
+  
+  <script async="async" src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/jquery.1.11.1.min.js" type="text/javascript"></script>
+  <!-- A fix for the iOS orientationchange zoom bug. http://filamentgroup.com/lab/a_fix_for_the_ios_orientationchange_zoom_bug/ -->
+  <script defer="defer" src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/ios-orientationchange-fix.js" type="text/javascript"></script>
+  <script defer="defer" src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/SkinScripts.js" type="text/javascript"></script>
+
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TD82FL6');</script>
+
+<!-- END Scripts ============================================================================================== -->
+<link rel="shortcut icon" href="/FavIconImages/favicon.ico?v=1" />
+<link rel="icon" href="/FavIconImages/favicon.ico?v=1" /><link href="/CMSPages/GetResource.ashx?_webparts=677" type="text/css" rel="stylesheet" />
+</head>
+<body class="LTR ENUS MobileDevice ContentBody">
+    
+    <form method="post" action="/Hospital-Information/Patient-Rights.aspx" id="form">
+<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="gIEuPk7xLm/Y6ejm1MlorD++egf/HXMVN73Ff2GvA5rq/PPaDzp4rQBu/8gLXEBlfPX4KoqKIj01u4VLGCb1n8oNA5sRKMI27CM+YRGb1c4=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="lng" id="lng" value="en-US" />
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=x6wALODbMJK5e0eRC_p1LY6Jn30MRCQ11mpZyskxRt0NymjkSZlBl6V4pBt7KmcaK5mejsO2-W-4upHySap5MTAqKbbzdhyfHEHuONvnbqwEEWzgba9bd3UDWcNRME-i0&amp;t=7c776dc1" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "isRTL": "false",
+  "isDebuggingEnabled": false,
+  "applicationUrl": "/",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDialog": false
+};
+
+//]]>
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+    
+    <div id="ctxM">
+
+</div>
+    
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TD82FL6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div>
+
+<div class="top_bar"></div>
+        <div class="page_wrapper">
+<div id="google_translate_element" style="float:right !important"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,de,en,es,fr,hi,hmn,it,ko,lo,nl,pl,ru,tl,ur,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script async="async" type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+          <nav class="mobile_menu">
+                        <div class="menu-untrigger"></div>
+	<ul id="menuElem" class="mobileCMSListMenuUL">
+		<li class="mobileCMSListMenuLI">
+			<a title="Patients and Guests" class="mobileCMSListMenuLink" href="/Patients-and-Guests">Patients&nbsp;and&nbsp;Guests</a>
+			<img alt="Patients and Guests" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuLI">
+					<a title="Patient Financial Services" class="mobile2CMSListMenuLink" href="/Patients-and-Guests/Patient-Financial-Services">Patient&nbsp;Financial&nbsp;Services</a>
+					<img alt="Patient Financial Services" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Financial Assistance" class="mobile3CMSListMenuLink" href="/Patients-and-Guests/Patient-Financial-Services/Financial-Assistance">Financial&nbsp;Assistance</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Insurance Billing and Payment Options" class="mobile3CMSListMenuLink" href="/Patients-and-Guests/Patient-Financial-Services/Insurance-Billing-and-Payment-Options">Insurance&nbsp;Billing&nbsp;and&nbsp;Payment&nbsp;Options</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Patient Charges" class="mobile3CMSListMenuLink" href="/Patients-and-Guests/Patient-Financial-Services/Patient-Charges">Patient&nbsp;Charges</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Advance Directives" class="mobile2CMSListMenuLink" href="/Patients-and-Guests/Advance-Directives">Advance&nbsp;Directives</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Cafeteria" class="mobile2CMSListMenuLink" href="/Patients-and-Guests/Cafeteria">Cafeteria</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Medical Records | Patient Portal" class="mobile2CMSListMenuLink" href="/Patients-and-Guests/Medical-Records">Medical&nbsp;Records&nbsp;|&nbsp;Patient&nbsp;Portal</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Visiting Specialist Clinic Schedule" class="mobile2CMSListMenuLink" href="/Patients-and-Guests/Visiting-Specialist-Clinic-Schedule">Visiting&nbsp;Specialist&nbsp;Clinic&nbsp;Schedule</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Medical Services" class="mobileCMSListMenuLink" href="/Medical-Services">Medical&nbsp;Services</a>
+			<img alt="Medical Services" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuLI">
+					<a title="Cardiopulmonary" class="mobile2CMSListMenuLink" href="/Medical-Services/Cardiopulmonary">Cardiopulmonary</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Emergency Care" class="mobile2CMSListMenuLink" href="/Medical-Services/Emergency-Care">Emergency&nbsp;Care</a>
+					<img alt="Emergency Care" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Conditions" class="mobile3CMSListMenuLink" href="/Medical-Services/Emergency-Care/Conditions">Conditions</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Patient Stories" class="mobile3CMSListMenuLink" href="/Medical-Services/Emergency-Care/Patient-Stories">Patient&nbsp;Stories</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Quick Tips" class="mobile3CMSListMenuLink" href="/Medical-Services/Emergency-Care/Quick-Tips">Quick&nbsp;Tips</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Stat Heart" class="mobile3CMSListMenuLink" href="/Medical-Services/Emergency-Care/Stat-Heart">Stat&nbsp;Heart</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Home Equipment" class="mobile2CMSListMenuLink" href="/Medical-Services/Home-Equipment">Home&nbsp;Equipment</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Home Health" class="mobile2CMSListMenuLink" href="/Medical-Services/Home-Health">Home&nbsp;Health</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Inpatient" class="mobile2CMSListMenuLink" href="/Medical-Services/Inpatient-Care">Inpatient</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Laboratory" class="mobile2CMSListMenuLink" href="/Medical-Services/Laboratory">Laboratory</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Orthopedics" class="mobile2CMSListMenuLink" href="/Medical-Services/Orthopedics">Orthopedics</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Imaging" class="mobile2CMSListMenuLink" href="/Medical-Services/Imaging">Imaging</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Rehabilitation Services" class="mobile2CMSListMenuLink" href="/Medical-Services/Rehabilitation-Services">Rehabilitation&nbsp;Services</a>
+					<img alt="Rehabilitation Services" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Cardiopulmonary Rehabilitation" class="mobile3CMSListMenuLink" href="/Medical-Services/Rehabilitation-Services/Cardiac-rehabilitation">Cardiopulmonary&nbsp;Rehabilitation</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Occupational therapy" class="mobile3CMSListMenuLink" href="/Medical-Services/Rehabilitation-Services/Occupational-therapy">Occupational&nbsp;therapy</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Physical therapy" class="mobile3CMSListMenuLink" href="/Medical-Services/Rehabilitation-Services/Physical-therapy">Physical&nbsp;therapy</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Speech therapy" class="mobile3CMSListMenuLink" href="/Medical-Services/Rehabilitation-Services/Speech-therapy">Speech&nbsp;therapy</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Sleep Studies" class="mobile2CMSListMenuLink" href="/Medical-Services/Sleep-Studies">Sleep&nbsp;Studies</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Substance Abuse Treatment" class="mobile2CMSListMenuLink" href="/Medical-Services/Substance-Abuse-Treatment">Substance&nbsp;Abuse&nbsp;Treatment</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Surgery Center" class="mobile2CMSListMenuLink" href="/Medical-Services/Surgery_Center">Surgery&nbsp;Center</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Find A Doctor" class="mobileCMSListMenuLink" href="/Find-A-Doctor">Find&nbsp;A&nbsp;Doctor</a>
+			<img alt="Find A Doctor" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuLI">
+					<a title="Online Provider Verification" class="mobile2CMSListMenuLink" onclick="window.open(&#39;https://reportal.medkinetics.com/index.cfm?SID=FA9C5ADC-1258-4A98-9096-3571DC635BAF&amp;CFID=2242687&amp;CFTOKEN=15207604&amp;jsessionid=8430a012c968b39ece686be59122e611d215&#39;);return false;" href="/Find-A-Doctor/Online-Provider-Verification">Online&nbsp;Provider&nbsp;Verification</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Volunteer" class="mobileCMSListMenuLink" href="/Volunteer">Volunteer</a>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="News" class="mobileCMSListMenuLink" href="/News">News</a>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Giving" class="mobileCMSListMenuLink" href="/Giving">Giving</a>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Search" class="mobileCMSListMenuLink" href="/Search-Results">Search</a>
+		</li>
+
+	</ul>
+
+
+
+                    </nav>
+          <header>
+                <!-- Logo -->
+                <a href="/" class="logo" title="Home">
+                    <img src="/www-gss/media/GSS-Images/logo.png" alt="Logo" style="border-width: 0px;" />
+                </a>
+                <!-- Utility Nav -->
+                <div class="utilities_wrapper">
+                    <nav class="utility_menu">
+                        
+	<ul id="menuElem" class="utilitiesCMSListMenuUL">
+		<li class="utilitiesCMSListMenuLI">
+			<a title="About" class="utilitiesCMSListMenuLink" href="/Hospital-Information/About">About</a>
+			<ul class="level1CMSListMenuUL">
+				<li class="level1CMSListMenuLI">
+					<a title="Annual Report" class="level1CMSListMenuLink" href="/Hospital-Information/About/Annual-Report">Annual&nbsp;Report</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Community Health Needs Assessment" class="level1CMSListMenuLink" href="/Hospital-Information/About/Community-Health-Needs-Assessment">Community&nbsp;Health&nbsp;Needs&nbsp;Assessment</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Community Outreach" class="level1CMSListMenuLink" href="/Hospital-Information/About/Community-Outreach">Community&nbsp;Outreach</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="HSHS Nurses" class="level1CMSListMenuLink" href="/Hospital-Information/About/HSHS-Nurses">HSHS&nbsp;Nurses</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Leadership" class="level1CMSListMenuLink" href="/Hospital-Information/About/Leadership">Leadership</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Mission and Values" class="level1CMSListMenuLink" href="/Hospital-Information/About/Mission-and-Values">Mission&nbsp;and&nbsp;Values</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Performance Data" class="level1CMSListMenuLink" href="/Hospital-Information/About/Performance-Data">Performance&nbsp;Data</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Hospital Sisters Health System" class="level1CMSListMenuLink" href="http://www.hshs.org">Hospital&nbsp;Sisters&nbsp;Health&nbsp;System</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Hospital Sisters of St. Francis" class="level1CMSListMenuLink" href="http://www.hospitalsisters.org/">Hospital&nbsp;Sisters&nbsp;of&nbsp;St.&nbsp;Francis</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Careers" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Careers">Careers</a>
+			<ul class="level1CMSListMenuUL">
+				<li class="level1CMSListMenuLI">
+					<a title="Job Application" class="level1CMSListMenuLink" href="/Hospital-Information/Careers/Job-Application">Job&nbsp;Application</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Job Openings" class="level1CMSListMenuLink" href="/Hospital-Information/Careers/Job-Openings">Job&nbsp;Openings</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Contact Us" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Contact-Us">Contact&nbsp;Us</a>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Directions" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Directions">Directions</a>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Medical Staff &amp; Colleagues" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Medical-Staff-Colleagues">Medical&nbsp;Staff&nbsp;&amp;&nbsp;Colleagues</a>
+			<ul class="level1CMSListMenuUL">
+				<li class="level1CMSListMenuLI">
+					<a title="Request Access to HSHS EpicCare Link" class="level1CMSListMenuLink" href="/Hospital-Information/Medical-Staff-Colleagues/Request-Access-to-HSHS-EpicCare-Link">Request&nbsp;Access&nbsp;to&nbsp;HSHS&nbsp;EpicCare&nbsp;Link</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Healthy You" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Healthy-You">Healthy&nbsp;You</a>
+		</li>
+
+	</ul>
+
+
+
+                    </nav>
+                    <!-- Search Box -->
+                    <div class="clearfix"></div>
+                    <div class="search_wrapper">
+                        <div class="PhoneNum">Phone: (217) 774-3961</div><div style="float: left;"><div id="p_lt_ctl03_SmartSearchBox_pnlSearch" class="searchBox">
+	
+    <label for="p_lt_ctl03_SmartSearchBox_txtWord" id="p_lt_ctl03_SmartSearchBox_lblSearch" style="display:none;">Search for:</label>
+    <input name="p$lt$ctl03$SmartSearchBox$txtWord" type="text" maxlength="1000" id="p_lt_ctl03_SmartSearchBox_txtWord" class="txt_search form-control" />
+    
+    <input type="image" name="p$lt$ctl03$SmartSearchBox$btnImageButton" id="p_lt_ctl03_SmartSearchBox_btnImageButton" class="btn_search" src="/St.NicholasHospital/media/TemplateImages/spacer.gif" alt="Search" />
+    <div id="p_lt_ctl03_SmartSearchBox_pnlPredictiveResultsHolder" class="predictiveSearchHolder">
+
+	</div>
+
+</div>
+</div><div class="menu-trigger" style="float: right;" id="showLeftPush"></div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </header>
+             <!-- Main Menu -->
+            <nav class="main_menu">
+                
+                    
+<ul id="menu"><li><a href="/Patients-and-Guests">Patients and Guests</a><ul><li><a href="/Patients-and-Guests/Patient-Financial-Services">Patient Financial Services</a></li><li><a href="/Patients-and-Guests/Advance-Directives">Advance Directives</a></li><li><a href="/Patients-and-Guests/Cafeteria">Cafeteria</a></li><li><a href="/Patients-and-Guests/Medical-Records">Medical Records | Patient Portal</a></li><li><a href="/Patients-and-Guests/Visiting-Specialist-Clinic-Schedule">Visiting Specialist Clinic Schedule</a></li></ul></li><li><a href="/Medical-Services">Medical Services</a><ul><li><a href="/Medical-Services/Cardiopulmonary">Cardiopulmonary</a></li><li><a href="/Medical-Services/Emergency-Care">Emergency Care</a></li><li><a href="/Medical-Services/Home-Equipment">Home Equipment</a></li><li><a href="/Medical-Services/Home-Health">Home Health</a></li><li><a href="/Medical-Services/Inpatient-Care">Inpatient</a></li><li><a href="/Medical-Services/Laboratory">Laboratory</a></li><li><a href="/Medical-Services/Orthopedics">Orthopedics</a></li><li><a href="/Medical-Services/Imaging">Imaging</a></li><li><a href="/Medical-Services/Rehabilitation-Services">Rehabilitation Services</a></li><li><a href="/Medical-Services/Sleep-Studies">Sleep Studies</a></li><li><a href="/Medical-Services/Substance-Abuse-Treatment">Substance Abuse Treatment</a></li><li><a href="/Medical-Services/Surgery_Center">Surgery Center</a></li></ul></li><li><a href="/Find-A-Doctor">Find A Doctor</a><ul><li><a href="/Find-A-Doctor/Online-Provider-Verification" onclick="window.open('https://reportal.medkinetics.com/index.cfm?SID=FA9C5ADC-1258-4A98-9096-3571DC635BAF&CFID=2242687&CFTOKEN=15207604&jsessionid=8430a012c968b39ece686be59122e611d215');return false;">Online Provider Verification</a></li></ul></li><li><a href="/Volunteer">Volunteer</a></li><li><a href="/News">News</a></li><li><a href="/Giving">Giving</a></li></ul>
+
+                
+                <div class="clearfix"></div>
+            </nav>
+            <!-- Page Layout  -->
+            <div class="page_content">
+                
+
+<div>
+  
+</div>
+<div class="narrowLeftColLO">
+    <div class="top_zone">
+        <div class="top_zone_content">
+  
+
+
+
+
+</div><div class="breadcrumb">
+  <a href="/">HOME</a> > 
+
+</div><div class="Top_Zone">
+  
+
+
+
+
+</div>
+    </div>
+ <div class="right_zone">
+        <h1><em-blue-adj>Patient Rights</em-blue-adj> and Responsibilities</h1>
+&nbsp;
+
+<div>A person who receives health services in HSHS Good Shepherd Hospital, within the framework of Catholic medical moral teaching and other regulatory requirements, certain rights and responsibilities as a patient. In the case of patients under the age of 18, or patients unable to make decision on their own, the person who is legally responsible for the patient must see that these rights and responsibilities are met.</div>
+&nbsp;
+
+<div><strong>You have the right to:</strong></div>
+
+<ul>
+	<li>Be kept informed in a language or manner that you, or your representative, can understand</li>
+	<li>Access to language interpretation services, and assistance with visual, hearing, speech or learning difficulties</li>
+	<li>Not be discriminated against due to race, color or national origin</li>
+	<li>Know the name of the physician responsible for coordinating your care, as well as names and roles of others involved in your care</li>
+	<li>Receive care in a safe setting free from all forms of abuse, neglect or harassment in a dignified and respectful manner</li>
+	<li>Be free from restraints or seclusion in any form imposed as coercion, convenience, or retaliation</li>
+	<li>Care based on sound nursing and medical practice</li>
+	<li>Participate in the development and implementation of your plan of care</li>
+	<li>Pain management</li>
+	<li>Be provided with information about your diagnosis, proposed treatments, procedures, outcomes, including unexpected outcomes in the event they may occur, &nbsp;and health status so you can make informed health care decisions</li>
+	<li>Request or refuse any treatment in accordance with law and regulation, this right is not a mechanism to demand the provision of treatment or services that are determined to be medically unnecessary or inappropriate</li>
+	<li>Be informed of the nature of your condition,</li>
+	<li>Be informed of any proposed treatment or procedure, risks, benefits and prognosis, and any continuing health care requirements after your discharge in terms you can understand.</li>
+	<li>Be informed of medical alternatives for care or treatment.</li>
+	<li>Refuse treatment, except as otherwise provided by law, and to be informed of the consequences of your refusal.</li>
+	<li>Have family involved in your care, treatment and service decisions to the extent permitted by you or your designated surrogate decision-maker in accordance with law and regulation</li>
+	<li>Make an advance directive and appoint someone to make health care decisions for you if you are unable to do so.&nbsp; If you do not have an advance directive, we can provide you with more information and help you complete one</li>
+	<li>Have hospital staff and practitioners who provide care in the hospital comply with your advance directive in accordance with State Law and hospital policy.&nbsp; As a Catholic hospital your choices must be consistent with the hospitals philosophy and values for those services to be provided.</li>
+	<li>Have a family member or person of your choice, and your own doctor notified promptly of your admission to the hospital</li>
+	<li>Personal privacy and confidentiality</li>
+	<li>Privacy and confidentiality of personal health information except as otherwise permitted by law</li>
+	<li>Access information in your medical record within a reasonable time frame</li>
+	<li>Access, request amendment to, and obtain information on disclosures of your health information in accordance with law and regulation</li>
+	<li>Examine and receive a reasonable explanation of your total bill</li>
+	<li>Consent or reject participation in a research program, investigational study and clinical trials as well as the right to receive an explanation of the nature and possible consequences of such research</li>
+	<li>Respect for your cultural and personal values, beliefs and preferences</li>
+	<li>Religious and other spiritual services</li>
+	<li>Give, or withhold informed consent to produce, or use recordings, films or other images for purposes other than your care</li>
+	<li>Access to protective and advocacy services in cases of abuse or neglect</li>
+	<li>Consent to and receive visitors of your choice, including but not limited to a spouse, domestic partner, another family member or friend.&nbsp; You have the right to withdraw or deny consent at any time.&nbsp; A support person of your choice may accompany you during your stay unless that person&rsquo;s presence infringes on others&rsquo; rights, safety or is medically or therapeutically contraindicated. Support person must be able to function independently and care for themselves. Visitors are welcome 24 hours a day in most areas with the exception of some special care areas</li>
+	<li>You have the right to file a complaint or grievance without being subject to coercion, discrimination, reprisal or unreasonable interruption of care</li>
+</ul>
+If your concerns are not adequately addressed by nursing staff, please ask to speak with the department manager.&nbsp; If those directly involved with your care cannot resolve your concern, call the patient experience manager at ext. 8592 or the director of quality at ext. 8204.<br />
+&nbsp;<br />
+If your concerns cannot be resolved by working with the hospital representatives, you may take your comments/complaints to:<br />
+&nbsp;<br />
+<strong>The Illinois Department of Public Health</strong><br />
+Central Complaint Registry<br />
+525 W. Jefferson St.<br />
+Springfield, IL 62761<br />
+(800) 252-4343<br />
+&nbsp;<br />
+<strong>Illinois Department of Human Rights</strong><br />
+222 South College<br />
+Room 101<br />
+Intake Unit<br />
+Springfield, IL&nbsp; 62704<br />
+(217) 785-5100<br />
+&nbsp;<br />
+<strong>The Joint Commission&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+Office of Quality Monitoring<br />
+One Renaissance Boulevard<br />
+Oakbrook Terrace, IL 60181<br />
+(800) 994-6610<br />
+&nbsp;<br />
+<strong>You have the responsibility to:</strong>
+
+<ul>
+	<li>Provide complete and accurate information about your health and medical history</li>
+	<li>Ask questions and acknowledge when you do not understand information or instruction given to you and actively participate in your treatment plan</li>
+	<li>Observe polices, rules and regulations in place to support quality care and a safe environment for all</li>
+	<li>Treat all hospital staff, other patients and visitors with consideration and respect</li>
+	<li>Provide complete and accurate information about health insurance coverage and meet financial obligations</li>
+</ul>
+
+
+
+
+
+    </div>
+    <div class="left_zone">
+        <div class="stained_glass">
+
+
+
+</div>
+    </div>
+
+   
+    <div class="clearfix"></div>
+    <div class="bottom_zone">
+        
+
+
+
+
+    </div>
+</div>
+                <div class="clearfix"></div>
+            </div>
+
+            <!-- Footer -->
+             <footer class="darkgrey-pattern row do-not-search">
+      <div class="top-shadow">
+        <div class="wrap row">
+          <div class="span5-1">
+  <div class="content-padding">
+  <h4>HSHS Good Shepherd Hospital</h4>
+<a href="/Hospital-Information/Requests-for-Support.aspx" style="line-height: 1.4285;">Requests for support</a><br />
+<a href="http://portal.office.com" style="line-height: 1.4285;" target="_blank">Email Login</a><br />
+<a href="https://citrix.mysmh.org/RDWeb/Pages/en-US/login.aspx?ReturnUrl=/RDWeb/Pages/en-US/Default.aspx" style="line-height: 1.4285;" target="_blank">Citrix Login</a><br />
+<a href="https://hshs.service-now.com/$pwd_reset.do?sysparm_url=password_reset" target="_blank">Colleague Password Reset</a>
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4>Central Illinois Division</h4>
+
+<p><a href="http://www.hshsmedicalgroup.org/" target="_blank">HSHS Medical Group</a><br />
+<a href="http://stfrancis-litchfield.org" target="_blank">HSHS St. Francis Hospital</a><br />
+<a href="https://www.stmarysdecatur.com/default.aspx" style="line-height: 1.4285;" target="_blank">HSHS St. Mary&#39;s Hospital</a><br />
+<a href="https://www.st-johns.org/" style="line-height: 1.4285;" target="_blank">HSHS St. John&#39;s Hospital</a><br />
+<a href="http://www.stjohnscollegespringfield.edu/college/Home.aspx" style="line-height: 1.4285;" target="_blank">St. John&#39;s College</a></p>
+
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4>Connect with Us</h4>
+
+<ul class="inline-social-links">
+	<li class="facebook"><a href="https://www.facebook.com/HSHS-Good-Shepherd-Hospital-142698955827290/" target="_blank">Like Us on Facebook</a></li>
+	<li class="instagram"><a href="https://www.instagram.com/hshsgoodshepherd/" target="_blank">Follow Our Instagram</a></li>
+	<li class="donate"><a href="/Giving" target="_blank">Make a Donation</a></li>
+</ul>
+
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4><a href="/Hospital-Information/Contact-Us.aspx">Contact Us</a></h4>
+
+<p>Dial 911 for medical emergencies</p>
+
+<p>Switchboard<br />
+(217) 774-3961</p>
+
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4>&copy; HSHS&nbsp;Good Shepherd&nbsp;Hospital</h4>
+
+<p><a href="/Hospital-Information/Patient-Privacy.aspx">Patient Privacy</a><br />
+<a href="/Hospital-Information/Patient-Rights.aspx" style="line-height: 1.4285;">Patient Rights &amp; Responsibilities</a><br />
+<a href="/Hospital-Information/Legal.aspx" style="line-height: 1.4285;">Legal</a><br />
+<a href="/SiteMap.aspx" style="line-height: 1.4285;">Site Map</a></p>
+
+
+
+
+
+ </div>
+</div>
+        </div>
+      </div>
+      <div class="footer-branding"></div>
+</footer>
+          <!-- Disclosure Layout  -->
+            <div class="disclosure_content">
+                <font face="Calibri"><span style="font-weight: 700;">Notice of Nondiscrimination:</span>&nbsp;</font><a href="/Hospital-Information/Language-Assistance-Services" style="outline: 0px; color: rgb(35, 82, 124); text-decoration: underline;"><u><font color="#0066cc" face="Calibri">English</font></u></a><br />
+<font face="Calibri"><span style="font-weight: 700;">Language Assistance:</span>&nbsp;</font><a href="/Hospital-Information/Language-Assistance-Services"><u><font color="#0066cc" face="Calibri">Español</font></u><font face="Calibri">&nbsp;|&nbsp;</font><u><font color="#0066cc" face="Calibri">Hmoob</font></u><font face="Calibri">&nbsp;|&nbsp;</font><u><font color="#0066cc" face="Calibri">Deutsch&nbsp;</font></u><font face="Calibri">|&nbsp;</font><u><font color="#0066cc" face="Calibri">Français</font></u><font face="Calibri">&nbsp;|</font><font color="#0066cc" face="Calibri"><u>&nbsp;</u></font><span style="font-family: &quot;MS Gothic&quot;;"><u><font color="#0066cc">繁體中文</font></u></span><font color="#000000" face="Calibri">&nbsp;|&nbsp;<u><font color="#0066cc">Deitsch</font></u>&nbsp;|&nbsp;<u><font color="#0066cc">Polski</font></u>&nbsp;|&nbsp;</font><span style="color: rgb(0, 75, 141);"><span style="font-family: Arial, sans-serif;"><u>العربية</u></span></span><font color="#000000" face="Calibri">&nbsp;|&nbsp;<u><font color="#0066cc">Русский</font></u>&nbsp;|&nbsp;<u><font color="#0066cc">Italiano</font></u>&nbsp;|&nbsp;<u><font color="#0066cc">Tagalog</font></u>&nbsp;|&nbsp;</font><span style="color: rgb(0, 75, 141);"><span style="font-family: Mangal, serif;"><u>हिंदी</u></span></span><font face="Calibri"><span style="color: rgb(0, 75, 141);"><u>&nbsp;</u></span></font><font color="#000000" face="Calibri">&nbsp;|&nbsp;</font><span style="color: rgb(0, 75, 141);"><span style="font-family: DokChampa, sans-serif;"><u>ພາສາລາວ</u></span></span><font color="#000000" face="Calibri">&nbsp;|&nbsp;</font><span style="color: rgb(0, 75, 141);"><span style="font-family: Gulim, sans-serif;"><u>한국어</u></span></span><font color="#000000" face="Calibri">&nbsp;|&nbsp;<u><font color="#0066cc">Tiếng Việt</font></u>&nbsp;|</font><font face="Calibri"><span style="color: rgb(0, 75, 141);"><u>&nbsp;</u></span></font><u><span style="color: rgb(0, 75, 141);"><span style="font-family: Arial, sans-serif;">اُردُو</span></span><font color="#000000" face="Calibri">&nbsp;</font></u></a>
+
+
+
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
+  <div class="bottom_bar"></div>
+</div>
+    
+    
+
+<script type="text/javascript">
+	//<![CDATA[
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+if ( (parent == null) || (!parent.IsCMSDesk) ) {
+try { 
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-90779102-1']);
+_gaq.push(['_trackPageview']);
+} catch(err) {}
+}
+//]]>
+</script></form>
+</body>
+</html>

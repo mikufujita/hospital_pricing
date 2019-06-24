@@ -1,0 +1,1416 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- Copyright (c) 2011 Microsoft Corporation.  All rights reserved. -->
+<!-- OwaPage = ASP.auth_logon_aspx -->
+
+<!-- {57A118C6-2DA9-419d-BE9A-F92B0F9A418B} -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> 
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=10" />
+<link rel="shortcut icon" href="/owa/auth/15.1.1713/themes/resources/favicon.ico" type="image/x-icon">
+<meta http-equiv="Content-Type" content="text/html; CHARSET=utf-8">
+<meta name="Robots" content="NOINDEX, NOFOLLOW">
+<title>Outlook</title>
+<style>
+@font-face {
+    font-family: "wf_segoe-ui_normal";
+    src: url("/owa/auth/15.1.1713/themes/resources/segoeui-regular.eot?#iefix") format("embedded-opentype"),
+            url("/owa/auth/15.1.1713/themes/resources/segoeui-regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "wf_segoe-ui_semilight";
+    src: url("/owa/auth/15.1.1713/themes/resources/segoeui-semilight.eot?#iefix") format("embedded-opentype"),
+        url("/owa/auth/15.1.1713/themes/resources/segoeui-semilight.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "wf_segoe-ui_semibold";
+    src: url("/owa/auth/15.1.1713/themes/resources/segoeui-semibold.eot?#iefix") format("embedded-opentype"),
+        url("/owa/auth/15.1.1713/themes/resources/segoeui-semibold.ttf") format("truetype");
+}
+</style>
+<style>/*Copyright (c) 2003-2006 Microsoft Corporation.  All rights reserved.*/
+
+body.rtl 
+{
+	text-align:right;
+	direction:rtl;
+}
+
+body, .mouse, .twide, .tnarrow, form
+{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+}
+
+.mouse, .twide 
+{
+    min-width: 650px; /* min iPad1 dimension */
+    min-height: 650px;
+    position: absolute;
+    top:0px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+}
+
+.sidebar 
+{
+    background-color:#7BAFD4;
+}
+
+.mouse .sidebar, .twide .sidebar
+{
+    position:absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 332px;
+}
+
+.tnarrow .sidebar
+{
+    display: none;
+}
+
+.mouse .owaLogoContainer, .twide .owaLogoContainer
+{
+    margin:213px auto auto 109px;
+    text-align:left     /* Logo aligns left for both ltr & rtl */
+}
+
+.tnarrow .owaLogo 
+{
+    display: none;
+}
+
+.mouse .owaLogoSmall, .twide .owaLogoSmall
+{
+    display: none;
+}
+
+.logonDiv 
+{ 
+	text-align:left;
+}
+
+.rtl .logonDiv 
+{ 
+	text-align:right;
+}
+
+.mouse .logonContainer, .twide .logonContainer
+{
+    padding-top: 174px;
+    padding-left: 464px;
+    padding-right:142px;
+    position:absolute;
+    top:0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+}
+
+.mouse .logonDiv, .twide .logonDiv
+{
+    position: relative;
+    vertical-align:top;
+    display: inline-block;
+    width: 423px;
+}
+
+.tnarrow .logonDiv
+{
+    margin:25px auto auto -130px;
+    position: absolute;
+    left: 50%;
+    width: 260px;
+    padding-bottom: 20px;
+}
+
+.twide .signInImageHeader, .tnarrow .signInImageHeader
+{
+    display: none;
+}
+
+.mouse .signInImageHeader
+{
+    margin-bottom:22px;
+}
+
+.twide .mouseHeader
+{
+    display: none;
+}
+
+.mouse .twideHeader
+{
+    display: none;
+}
+
+input::-webkit-input-placeholder
+{
+    font-size:16px;
+    color: #98A3A6;
+}
+
+input:-moz-placeholder 
+{
+    font-size:16px;
+    color: #98A3A6;
+}
+
+.tnarrow .signInInputLabel, .twide .signInInputLabel
+{
+    display: none;
+}
+
+.mouse .signInInputLabel
+{
+    margin-bottom: 2px;
+}
+
+.mouse .showPasswordCheck
+{
+    display: none;
+}
+
+.signInInputText
+{
+    border:1px solid #98A3A6;
+    color: #333333;
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    box-shadow: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    -webkit-appearance:none;
+    background-color: #FDFDFD;
+	width:250px;
+	margin-bottom:10px;
+	box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+}
+
+.mouse .signInInputText 
+{
+    height: 22px;
+    font-size: 12px;
+    padding: 3px 5px;
+    color: #333333;
+	font-family:'wf_segoe-ui_normal', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+	margin-bottom: 20px;
+}
+
+.twide .signInInputText, .tnarrow .signInInputText
+{
+    border-color: #666666;
+    height: 22px;
+    font-size: 16px;
+    color: #000000;
+    padding: 7px 7px;
+	font-family:'wf_segoe-ui_semibold', 'Segoe UI Semibold', 'Segoe WP Semibold', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+	margin-bottom:20px;
+	width: 264px;
+}
+
+.divMain
+{
+	width: 444px;
+}
+
+.l
+{
+	text-align:left;
+}
+.rtl .l
+{
+	text-align:right;
+}
+.r
+{
+	text-align:right;
+}
+.rtl .r
+{
+	text-align:left;
+}
+
+table#tblMain
+{
+	margin-top: 48px;
+	padding: 0px; 
+}
+table.mid
+{
+	width: 385px;
+	border-collapse:collapse;
+	padding: 0px; 
+	color:#444444; 
+}
+table.tblConn
+{
+	direction:ltr;
+}
+td.tdConnImg
+{
+	width: 22px;
+}
+td.tdConn
+{
+	padding-top: 15px;
+}
+td#mdLft
+{
+	background: url("lgnleft.gif") repeat-y;
+	width: 15px;
+}
+td#mdRt
+{
+	background: url("lgnright.gif") repeat-y;
+	width: 15px;
+}
+td#mdMid
+{
+	padding: 0px 45px;
+	background: #ffffff; 
+	vertical-align: top;
+}
+td .txtpad
+{
+	padding: 3px 6px 3px 0px; 
+}
+.txt
+{
+	padding: 3px; 
+	height: 2.2em;
+}
+input.btn
+{
+	color: #ffffff;
+	background-color: #eb9c12;
+	border: 0px; 
+	padding: 2px 6px; 
+	margin: 0px 6px; 
+	text-align:center;
+}
+.btnOnFcs
+{
+	color: #ffffff;
+	background-color: #eb9c12;
+	border: 0px; 
+	padding: 2px 6px; 
+	margin: 0px 6px; 
+	text-align:center;
+}
+.btnOnMseOvr
+{
+	color: #ffffff;
+	background-color: #f9b133;
+	border: 0px; 
+	padding: 2px 6px; 
+	margin: 0px 6px; 
+	text-align:center;
+}
+.btnOnMseDwn
+{
+	color: #000000;
+	background-color: #f9b133;
+	border: 0px solid #f9b133;
+	padding: 2px 6px; 
+	margin: 0px 6px; 
+	text-align:center;
+}
+.nowrap
+{
+	white-space:nowrap;
+}
+hr
+{
+	height: 0px; 
+	visibility: hidden;
+}
+
+.wrng
+{
+	color:#ff6c00;
+}
+.disBsc
+{
+	color:#999999;
+}
+.expl
+{
+	color:#999999;
+}
+.w100, .txt
+{
+	width: 100%;
+}
+.txt
+{
+	margin: 0px 6px; 
+}
+.rdo
+{
+	margin: 0px 12px 0px 32px;
+}
+body.rtl .rdo
+{
+	margin: 0px 32px 0px 12px;
+}
+tr.expl td, tr.wrng td
+{
+	padding: 2px 0px 4px; 
+}
+tr#trSec td
+{
+	padding: 3px 0px 8px; 
+}
+/* language page specific styles */
+td#tdLng
+{
+	padding: 12px 0px; 
+}
+td#tdTz
+{
+	padding: 8px 0px; 
+}
+select#selTz
+{
+	padding: 0px; 
+	margin: 0px; 
+}
+td#tdOptMsg
+{
+	padding: 10px 0px; 
+}
+td#tdOptChk
+{
+	padding: 0px 0px 15px 65px;
+}
+td#tdOptAcc
+{
+	vertical-align:middle;
+	padding: 0px 0px 0px 3px; 
+}
+select#selLng
+{
+	margin: 0px 16px;
+}
+/* logoff page specific styles */
+td#tdMsg
+{
+	margin: 9px 0px 64px;
+}
+input#btnCls
+{
+	margin: 3px 6px; 
+}
+td.lgnTL, td.lgnBL
+{
+	width: 456px;
+}
+td.lgnTM
+{
+	background: url("lgntopm.gif") repeat-x;
+	width: 100%;
+}
+td.lgnBM
+{
+	background: url("lgnbotm.gif") repeat-x;
+	width: 100%;
+}
+td.lgnTR, td.lgnBR
+{
+	width: 45px;
+}
+table.tblLgn
+{
+	padding: 0px; 
+	margin: 0px; 
+	border-collapse:collapse;
+	width: 100%;
+}
+.signInBg
+{
+	margin:0px;
+}
+
+.signInTextHeader
+{
+	font-size:60px;
+	color:#404344;
+	font-family:'wf_segoe-ui_normal', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+	margin-bottom:18px;
+	white-space: nowrap;
+}
+
+.signInInputLabel
+{
+	font-size:12px;
+	color:#666666;
+	font-family:'wf_segoe-ui_normal', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+}
+
+.signInCheckBoxText
+{
+	font-size:12px;
+	color:#6A7479;
+	font-family:'wf_segoe-ui_semilight', 'Segoe UI Semilight', 'Segoe WP Semilight', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+	margin-top:16px;
+}
+
+.twide .signInCheckBoxText, .tnarrow .signInCheckBoxText
+{
+    font-size: 15px;
+}
+
+.signInCheckBoxLink
+{
+	font-size:12px;
+	color:#7BAFD4;
+	font-family:'wf_segoe-ui_semilight', 'Segoe UI Semilight', 'Segoe WP Semilight', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+}
+
+.signInEnter
+{
+	font-size:22px;
+	color:#7BAFD4;
+	font-family:'wf_segoe-ui_normal', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+	margin-top:20px;
+}
+
+.twide .signInEnter
+{
+	margin-top:17px;
+	font-size: 29px;
+}
+
+.tnarrow .signInEnter 
+{
+	margin-top:2px;
+	font-size: 29px;
+	position: relative;
+	float: left;
+	left: 50%;
+}
+
+.signinbutton 
+{
+    cursor:pointer;
+    display:inline
+}
+
+.mouse .signinbutton
+{
+    padding: 0px 8px 5px 8px;
+    margin-left: -8px;
+}
+
+.rtl .mouse .signinbutton
+{
+    margin-right: -8px;
+}
+
+.tnarrow .signinbutton 
+{
+	position: relative;
+	float: left;
+	left: -50%;
+}
+
+.shellDialogueHead
+{
+	font-size:29px;
+	color:#7BAFD4;
+	font-family:'wf_segoe-ui_semilight', 'Segoe UI Semilight', 'Segoe WP Semilight', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+}
+
+.mouse .shellDialogueHead 
+{
+    line-height: 35px;
+    margin-bottom: 10px;
+}
+
+.twide  .shellDialogueHead, .tnarrow .shellDialogueHead
+{
+	line-height:34px;
+	margin-bottom: 12px;
+}
+
+.shellDialogueMsg
+{
+	font-size:13px;
+	color:#333333;
+	font-family:'wf_segoe-ui_normal', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+	line-height:18px;
+}
+
+.twide .shellDialogueMsg, .tnarrow .shellDialogueMsg
+{
+    font-size: 15px;
+}
+
+.headerMsgDiv 
+{
+    width: 350px;
+    margin-bottom: 22px;
+}
+
+.twide .headermsgdiv
+{
+    margin-bottom: 30px;
+}
+
+.tnarrow .headermsgdiv
+{
+    width: 260px;
+    margin-bottom: 30px;
+}
+
+.signInError
+{
+	font-size:12px;
+	color:#C1272D;
+	font-family:'wf_segoe-ui_semilight', 'Segoe UI Semilight', 'Segoe WP Semilight', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+	margin-top:12px;
+}
+
+.passwordError
+{
+    color: #A80F22;
+	font-family:'wf_segoe-ui_normal', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+    line-height: 18px;
+}
+
+.mouse .passwordError
+{    
+    margin-top: 10px;
+    font-size: 13px;
+}
+
+.twide .passwordError, .tnarrow .passwordError
+{
+    margin-top: 12px;
+    font-size: 15px;
+}
+
+.signInExpl
+{
+	font-size:12px;
+	color:#999999;
+	font-family:'wf_segoe-ui_semilight', 'Segoe UI Semilight', 'Segoe WP Semilight', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+	margin-top:5px;
+}
+
+.signInWarning
+{
+	font-size:12px;
+	color:#C1272D;
+	font-family:'wf_segoe-ui_semilight', 'Segoe UI Semilight', 'Segoe WP Semilight', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
+	margin-top:5px;
+}
+
+input.chk
+{
+	margin-right:9px;
+	margin-left:0px;
+}
+
+.imgLnk
+{
+	vertical-align: middle;	
+	line-height:2;
+	margin-top: -2px;
+}
+
+.signinTxt
+{
+	padding-left:11px;
+	padding-right:11px;     /* Needed for RTL, doesnt hurt to add this for LTR as well */
+}
+
+.hidden-submit { 
+    border: 0 none; 
+    height: 0; 
+    width: 0; 
+    padding: 0; 
+    margin: 0; 
+    overflow: hidden; 
+} 
+
+.officeFooter
+{
+    position:absolute;
+    bottom: 33px;
+    right: 45px;
+}
+
+.tnarrow .officeFooter
+{
+    display: none;
+}
+</style>
+<script>
+//  flogon.js
+//
+//  This file contains the script used by Logon.aspx
+//
+//Copyright (c) 2003-2006 Microsoft Corporation.  All rights reserved.
+
+/// <summary>
+/// OnLoad handler for logon page
+/// </summary>
+window.onload = function ()
+{
+    // If we are replacing the current window with the logon page, initialize the logon page UI now
+    //
+    if (a_fRC)
+        initLogon();
+
+    // Otherwise we need to find the window to replace with the logon page and redirect that window
+    //
+    else
+        redir();
+};
+
+/// <summary>
+/// Initializes the logon page
+/// </summary>
+function initLogon()
+{
+    try
+    {
+        //
+        // we don't call document.execCommand("ClearAuthenticationCache","false"); anymore. As a part of the Pending-Notification
+        // infrastructure, we are making a change to make sure startpage does not get loaded more than once. This solution is cookie
+        // based. This execCommand was clearing all cookies in the scenario when a user logged on from a child window during an
+        // FBA timeout. We do not want that to happen anymore. If this breaks anything, we may need to consider a different solution.
+        //
+        // Old Comments:
+        // If the "Clear the Authentication Cache" flag is set to true and
+        // we are coming from the logoff page , clear the cache. See bug 41770 and 5840 for details.
+        //
+
+        // Logoff the S-Mime control.
+        //
+        LogoffMime();
+    }
+    catch (e) { }
+
+    // Check for username cookie
+    //
+    var re = /(^|; )logondata=acc=([0|1])&lgn=([^;]+)(;|$)/;
+    var rg = re.exec(document.cookie);
+
+    if (rg)
+    {
+        // Fill in username, set security to private, and restore the "use basic" selection
+        //
+
+        gbid("username").value = rg[3];
+
+        try
+        {
+            var signInErrorElement = gbid("signInErrorDiv");
+            if (signInErrorElement)
+            {
+                signInErrorElement.focus();
+            }
+            else
+            {
+                gbid("password").focus();
+            }
+        }
+        catch (e)
+        {}
+
+        if (gbid("chkPrvt") && !gbid("chkPrvt").checked)
+        {
+            gbid("chkPrvt").click();
+        }
+
+        if (rg[2] == "1" && gbid("chkBsc"))	// chkBsc doesn't exist if the request comes from ECP
+            gbid("chkBsc").click();
+
+    }
+    else
+    {
+        // The variable g_fFcs is set to false when the password gains focus,
+        // so that we don't accidentally set focus to the username field while
+        // the user is typing their password
+        //
+        if (g_fFcs)
+        {
+            try
+            {
+                gbid("username").focus();
+            }
+            catch (e)
+            { }
+        }
+    }
+
+    // OWA Premium currently supports
+    // IE 7+, Safari 3+, Firefox 3+ for Windows / Mac
+    if (IsOwaPremiumBrowser() && gbid("chkBsc"))	// chkBsc doesn't exist if the request comes from ECP
+        gbid("chkBsc").disabled = false;
+
+    // Are cookies enabled?
+    //
+    var sCN = "cookieTest";
+
+    document.cookie = sCN + "=1";
+    var cookiesEnabled = document.cookie.indexOf(sCN + "=") != -1;
+
+    if (cookiesEnabled == false)
+    {
+        shw(gbid("cookieMsg"));
+        hd(gbid("lgnDiv"));
+    }
+
+    // Show the public/private warning message
+    clkSec();
+}
+
+
+/// <summary>
+/// Finds the frame we want to load the logon page into, and then loads it there
+/// </summary>
+function redir()
+{
+    var o = window;
+
+    // If we're in a dialog, open a logon window and close the dialog - this
+    // basically inlines a version of opnWin() so that we don't need to include
+    // uglobal.js in logon.aspx
+    //
+    try
+    {
+        if (o.dialogArguments)
+        {
+            var sWN = new String(Math.round(Math.random() * 100000));
+            var sF = "toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=1,resizable=1,width=800,height=600";
+            var iT = Math.round((screen.availHeight - 600) / 2);
+            var iL = Math.round((screen.availWidth - 800) / 2);
+            sF += ",top=" + iT + ",left=" + iL;
+
+            // Fix for E12 14838.  Need to open this window from the window that opened us, because opening it from this dialog
+            // which we are about to close can cause the auth cookies to not propagate to the window that opened this dialog.
+            //
+            var op = o.dialogArguments.opener;
+            try
+            {
+                if (op)
+                    op.open(a_sCW, sWN, sF);
+            }
+            catch (e)
+            { }
+
+            o.close();
+            return;
+        }
+    }
+    catch (e)
+    { }
+
+    // The url to redirect to after logon
+    //
+    var sUrl = a_sUrl;
+
+    // Find the outermost OWA frame
+    //
+    while (1)
+    {
+        try
+        {
+            // Try to move up one window/frame
+            //
+            if (!(o.frameElement && o.frameElement.ownerDocument))
+                break;
+
+            var oF = o.frameElement.ownerDocument.parentWindow || // IE name
+                    o.frameElement.ownerDocument.defaultView;     // W3C name
+
+            // If we're not in an OWA/ECP window, we've found the frame to replace
+            //
+            if (!oF || (!oF.g_fOwa && !oF.g_fEcp))
+                break;
+
+            // Move up a frame
+            //
+            o = oF;
+
+            // We're replacing something other than the current frame,  we'll just
+            // log back in to the default start page if the frame doesn't provide a url
+            //  for relogon. The frame should provide a global method GetReloadUrl
+            // if it wants to keep current state.
+            // $NOTES: ECP needs to keep the current frame state after re-logon.
+            sUrl = o.GetReloadUrl ? "&url=" + encodeURIComponent(o.GetReloadUrl()) : "";
+        }
+        // Either we're at the top, or access was denied - either way, stop
+        //
+        catch (e)
+        {
+            break;
+        }
+    }
+
+    // See if the window was opened by another window
+    //
+    try
+    {
+        var oW = o.opener;
+
+        // If it was opened by another OWA/ECP window, take it over
+        //
+        if (oW && (oW.g_fOwa || oW.g_fEcp))
+        {
+            // Center and resize the window
+            //
+            var iX = Math.round((screen.availWidth - 800) / 2);
+            var iY = Math.round((screen.availHeight - 600) / 2);
+            o.moveTo(iX, iY);
+            o.resizeTo(800, 600);
+
+            // Close the window after logging in
+            //
+            sUrl = "&url=" + encodeURIComponent(a_sCW);
+        }
+    }
+    // We don't have access to the opener window, so it couldn't be part of OWA
+    //
+    catch (e) { }
+
+    // Redirect the window
+    //
+    if (o.navigate)
+        o.navigate(a_sLgn + sUrl);
+    else
+        o.location = a_sLgn + sUrl;
+}
+
+/// <summary>
+/// Show an element
+/// </summary>
+/// <param name="o">Element to show</param>
+function shw(o)
+{
+    o.style.display = "";
+}
+
+/// <summary>
+/// Hide an element
+/// </summary>
+/// <param name="o">Element to hide</param>
+function hd(o)
+{
+    o.style.display = "none";
+}
+
+/// <summary>
+/// OnClick handler for the show private explanation 
+/// </summary>
+function clkSecExp(id)
+{
+    var o = gbid(id);
+
+    if (o.tagName == "IMG")
+        o = o.parentNode;
+
+    switch (o)
+    {
+        case gbid("lnkShwSec"):
+            hd(gbid("lnkShwSec"));
+            shw(gbid("lnkHdSec"));
+            shw(gbid("prvtExp"));
+            gbid("lnkHdSec").focus();
+            break;
+        case gbid("lnkHdSec"):
+            shw(gbid("lnkShwSec"));
+            hd(gbid("lnkHdSec"));
+            hd(gbid("prvtExp"));
+            gbid("lnkShwSec").focus();
+            break;
+    }
+}
+
+/// <summary>
+/// onkeydown handler for the show private explanation 
+/// </summary>
+function kdSecExp(id)
+{
+    // When user press space bar, we shall treat it as click.
+    if (window.event.keyCode == 32)
+    {
+        clkSecExp(id);
+    }
+}
+
+/// <summary>
+/// OnClick handler for the security radio buttons
+/// </summary>
+function clkSec()
+{
+    if (gbid("chkPrvt") == null) {
+
+        // If the private checkbox is not present in the page there is nothing we should do here
+        //
+        return;
+    }
+
+    // Display/hide the warning message
+    //
+    var c = gbid("chkPrvt").checked;
+
+    gbid("prvtWrn").style.display = c ? "" : "none";
+
+    // Update flags and username cookie
+    //
+    if (c)
+    {
+        document.logonForm["flags"].value |= 4;
+    }
+    else
+    {
+        document.logonForm["flags"].value &= ~4;
+
+        // Remove the cookie by expiring it
+        //
+        var oD = new Date();
+        oD.setTime(oD.getTime() - 9999);
+        document.cookie = "logondata=; expires=" + oD.toUTCString();
+        document.cookie = "PrivateComputer=; path=/; expires=" + oD.toUTCString();
+    }
+}
+
+/// <summary>
+/// OnClick handler for the use owa basic checkbox
+/// </summary>
+function clkBsc()
+{
+    // Display/hide the warning message
+    //
+    var c = gbid("chkBsc").checked;
+    gbid("bscExp").style.display = c ? "" : "none";
+
+    if (c)
+        document.logonForm.flags.value |= 1;
+    else
+        document.logonForm.flags.value &= ~1;
+}
+
+function checkSubmit(e) {
+    if (e && e.keyCode == 13) {
+        // Since we are explicitly handling the click prevent the default implicit submit  
+        if (e.preventDefault) {
+            e.preventDefault();
+        }
+
+        clkLgn();
+    }
+} 
+
+
+/// <summary>
+/// OnClick handler for the logon button
+/// </summary>
+function clkLgn()
+{
+    // Add performance marker for Logon page as the item name defined in the spec:
+    // http://exweb/14/Specs/E14 Spec Library/Client side perf marker definition.xlsx
+    //
+    addPerfMarker("Logon.Start");
+
+    var p = false;
+
+    if (gbid("chkPrvt")) {
+        p = p | gbid("chkPrvt").checked;
+    }
+    else
+    {
+        p = true;
+    }
+
+    // If security is set to private, add a cookie to persist username and basic setting
+    // Cookie format: logondata=acc=<1 or 0>&lgn=<username>
+    //
+    if (p)
+    {
+        // Calculate the expires time for two weeks
+        //
+        var oD = new Date();
+        oD.setTime(oD.getTime() + 2 * 7 * 24 * 60 * 60 * 1000);
+        var sA = "acc=" + (gbid("chkBsc") && gbid("chkBsc").checked ? 1 : 0);
+        var sL = "lgn=" + gbid("username").value;
+        document.cookie = "logondata=" + sA + "&" + sL + "; expires=" + oD.toUTCString();
+        document.cookie = "PrivateComputer=true; path=/; expires=" + oD.toUTCString();
+    }
+
+    if (gbid("showPasswordCheck").checked)
+    {
+        passwordElement = gbid("password");
+        passwordTextElement = gbid("passwordText");
+        passwordElement.value = passwordTextElement.value;
+    }
+
+    // We clean the post back cookie in order to indicate that the credentials post is legitimate (and not history postback)
+    //
+    document.cookie = "PBack=0; path=/";
+    document.logonForm.submit();
+}
+
+/// <summary>
+/// OnClick handler for the retry button
+/// </summary>
+function clkRtry()
+{
+    window.location.reload();
+}
+
+/// <summary>
+/// OnClick handler for the ok button after changing password (will go to owa/)
+/// </summary>
+function clkReLgn()
+{
+    window.location.href = '../';
+}
+
+/// <summary>
+/// GetElementByID from Document
+/// </summary>
+/// <param name="s">Id of the Element</param>
+function gbid(s)
+{
+    return document.getElementById(s);
+}
+
+/// <summary>
+/// Is the Client IE 7, Safari 3, Firefox 3 or Above
+/// Note The rules should match owa\bin\core\Utlities.cs@IsDownLevelClient
+/// </summary>
+function IsOwaPremiumBrowser()
+{
+    var ua = navigator.userAgent;
+    var av = navigator.appVersion;
+    var mac = (av.indexOf('Mac') != -1);
+    var win = ((av.indexOf('Win') != -1) || (av.indexOf('NT') != -1));
+
+    // If you change the follow browser check logic, change utility.js as well.
+    // We have duplicate logic because otherwise logon page must include more code than necessary.
+    //
+    var ie = (ua.indexOf("MSIE ") != -1);
+    var firefox = (ua.indexOf("Firefox/") != -1 && ua.indexOf("Gecko/") != -1 && Array.every);
+    var safari = (ua.indexOf("Safari") != -1 && ua.indexOf("WebKit") != -1);
+    var version = 2.0;
+
+    if (ie)
+    {
+        version = parseFloat(ua.replace(/^.*MSIE /, ''));
+    }
+    else if (firefox)
+    {
+        version = parseFloat(ua.replace(/^.*Firefox\//, ''));
+    }
+    else if (safari)
+    {
+        version = parseFloat(ua.replace(/^.*Version\//, ''));
+    }
+    else
+    {
+        version = parseInt(av);
+    }
+
+    if (win)
+    {
+        if (ie)
+            return (version >= 7.0);
+        else if (safari)
+            return (version >= 3.0);
+        else if (firefox)
+            return (version >= 3.0);
+    }
+    else if (mac)
+    {
+        if (safari)
+            return (version >= 2.0);
+        else if (firefox)
+            return (version >= 3.0);
+    }
+
+    return false;
+}
+
+/// <summary>
+/// Convert an error code to HRESULT.
+/// </summary>
+function hres(iErr)
+{
+    return iErr + 0xffffffff + 1;
+}
+
+/// <summary>
+/// Log off S-MIME control if it presents.
+/// </summary>
+function LogoffMime()
+{
+    try
+    {
+        if ((typeof (mimeLogoffE2k3) != "undefined" && null != mimeLogoffE2k3) && IsMimeCtlInst("MimeBhvr.MimeCtlVer"))
+            mimeLogoffE2k3.Logoff();
+
+        if ((typeof (mimeLogoffE2k7SP1) != "undefined" && null != mimeLogoffE2k7SP1) && IsMimeCtlInst("OwaSMime.MimeCtlVer"))
+            mimeLogoffE2k7SP1.Logoff();
+
+        if ((typeof (mimeLogoffE2k9) != "undefined" && null != mimeLogoffE2k9) && IsMimeCtlInst("OwaSMime2.MimeCtlVer"))
+            mimeLogoffE2k9.Logoff();
+    }
+    catch (e)
+    {
+    }
+}
+
+/// <summary>
+/// Add performance marker which can write ETW trace for clicking logon
+/// </summary>
+/// <param name="sItemName">Identify string to say start clicking logon</param>
+function addPerfMarker(sItemName)
+{
+    try
+    {
+        if (window.msWriteProfilerMark)
+        {
+            window.msWriteProfilerMark(sItemName);
+        }
+    }
+    catch (e)
+    {
+        // We don't care any exception caused by test code in product, swallow it
+    }
+}
+
+//
+// NOTE: flogon.js does not contain a call to stJS("flogon.js"). This is because flogon.js is loaded at logon time before uglobal.js
+//
+
+//-----------------------------------------------------------
+// END flogon.js
+//-----------------------------------------------------------
+
+</script>
+
+
+<script type="text/javascript">
+	<!--
+	var a_fRC = 1;
+	var g_fFcs = 1;
+	var a_fLOff = 0;
+	var a_fCAC = 0;
+	var a_fEnbSMm = 0;
+/// <summary>
+/// Is Mime Control installed?
+/// </summary>
+function IsMimeCtlInst(progid)
+{
+	if (!a_fEnbSMm)
+		return false;
+
+	var oMimeVer = null;
+
+	try 
+	{
+		// TODO: ingore this on none IE browser
+		//
+		//oMimeVer = new ActiveXObject(progid);
+	} 
+	catch (e)
+	{ 
+	}
+
+	if (oMimeVer != null)
+		return true;
+	else
+		return false;
+}
+
+/// <summary>
+/// Render out the S-MIME control if it is installed.
+/// </summary>
+function RndMimeCtl()
+{
+	if (IsMimeCtlInst("MimeBhvr.MimeCtlVer"))
+		RndMimeCtlHlpr("MimeNSe2k3", "D801B381-B81D-47a7-8EC4-EFC111666AC0", "MIMEe2k3", "mimeLogoffE2k3");
+
+	if (IsMimeCtlInst("OwaSMime.MimeCtlVer"))
+		RndMimeCtlHlpr("MimeNSe2k7sp1", "833aa5fb-7aca-4708-9d7b-c982bf57469a", "MIMEe2k7sp1", "mimeLogoffE2k7sp1");
+
+	if (IsMimeCtlInst("OwaSMime2.MimeCtlVer"))
+		RndMimeCtlHlpr("MimeNSe2k9", "4F40839A-C1E5-47E3-804D-A2A17F42DA21", "MIMEe2k9", "mimeLogoffE2k9");
+}
+
+/// <summary>
+/// Helper function to factor out the rendering of the S/MIME control.
+/// </summary>
+function RndMimeCtlHlpr(objid, classid, ns, id)
+{
+	document.write("<OBJECT id='" + objid + "' classid='CLSID:" + classid + "'></OBJECT>");
+	document.write("<?IMPORT namespace='" + ns + "' implementation=#" + objid + ">");
+	document.write("<" + ns + ":Logoff id='" + id + "' style='display:none'/>");
+}
+	-->
+</script>
+
+    <script>
+
+        var mainLogonDiv = window.document.getElementById("mainLogonDiv");
+        var showPlaceholderText = false;
+        var mainLogonDivClassName = 'mouse';
+
+        if (mainLogonDivClassName == "tnarrow") {
+            showPlaceholderText = true;
+
+            // Output meta tag for viewport scaling
+            document.write('<meta name="viewport" content="width = 320, initial-scale = 1.0, user-scalable = no" />');
+        }
+        else if (mainLogonDivClassName == "twide"){
+            showPlaceholderText = true;
+        }
+
+        function setPlaceholderText() {
+                window.document.getElementById("username").placeholder = "user name";
+                window.document.getElementById("password").placeholder = "password";
+                window.document.getElementById("passwordText").placeholder = "password";
+        }
+
+        function showPasswordClick() {
+            var showPassword = window.document.getElementById("showPasswordCheck").checked;
+            passwordElement = window.document.getElementById("password");
+            passwordTextElement = window.document.getElementById("passwordText");
+            if (showPassword)
+            {
+                passwordTextElement.value = passwordElement.value;
+                passwordElement.style.display = "none";
+                passwordTextElement.style.display = "inline";
+                passwordTextElement.focus();
+            }
+            else
+            {
+                passwordElement.value = passwordTextElement.value;
+                passwordTextElement.style.display = "none";
+                passwordTextElement.value = "";
+                passwordElement.style.display = "inline";
+                passwordElement.focus();
+            }
+        }
+    </script>
+
+</head>
+<body class="signInBg" style="background: #f2f2f2 url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAANvCAYAAADk40vJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA+VpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcDpDcmVhdGVEYXRlPSIyMDEyLTA1LTE1VDEzOjEwOjU5LTA3OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxMi0wNS0xNVQxMzoxMTo0Ni0wNzowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxMi0wNS0xNVQxMzoxMTo0Ni0wNzowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MzI2NTAzNjQ5RUNBMTFFMUFBNkRCNDc2QzU0RjhERUYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MzI2NTAzNjU5RUNBMTFFMUFBNkRCNDc2QzU0RjhERUYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDozMjY1MDM2MjlFQ0ExMUUxQUE2REI0NzZDNTRGOERFRiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDozMjY1MDM2MzlFQ0ExMUUxQUE2REI0NzZDNTRGOERFRiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PnYK5fsAAAFLSURBVHja7NthDoIwDAZQNN7/vCTKKifQgZh12yPx30uG/bqyGLyt6xpLxXVfKi8QBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBEEQBMFh4WP/ePUSBEEQBEHQIQ4EQRA0cUHQdgVBe0Z5QN0Dalx1lAwoGcmAklEeyShP2/I8QlNoCuWRzJXlCeXRuGfvMSSjcX1rjat7NK6llUcyyqM8kvlh6X3dIhmNe2pp5ZGMpQ8nE8qT9R6LZFLeY0xYHnvm69G1h/NjmXJpjWukSGa4ZGIzUpI+C3vYMzM+C6Nu6XmH/XwjpZc9I5mkwz6K8iRtXMlI5mwy0TKZV/Zhf/kZd6g903akxJyN28Ow3ySTdKQ0SyZajpRyKfzPr1wNG3czUj5t1x6G/TbhSKlMZqiRcuhk365xI/2wj6aN+0y+Z25R98LQWH8QeQswAHk7x/k/TxxLAAAAAElFTkSuQmCC') repeat-x"/>
+
+
+
+<noscript>
+	<div id="dvErr">
+		<table cellpadding="0" cellspacing="0">
+		<tr>
+			<td><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAptJREFUeNqkU01LVFEYfu7XzJ17nZmyJBW0sgRDRAgLoi8tghZG9QNaR7tg2vQjbCu2a9Eq2qRGUYFBZAtLURzSUUcJG8d0ZnTu99fpPdIMSktfOOfcezjP8z7vc94jMMZwmJD5JAhCfWPm0e2+MGKDYRQNBCHrpTWi/1kaExFjY7defp6qneXJhb3pHwGBH4qy8uSIrp9NqjJ0TXsXuvZ0KfvjacEVsIlEzhXkofuvJ0f+I+BgVdOftfZe0OIsQBBTFxLX7raxCIH75vn3xOjwQDbQsSgfNw0pkXkwPjXCsWJNNjFlmttPaWrqKBBTEb9yr0No7tCEptaU3H3xMgQJp90imo2C7plGZvhmbx/H7hHwmnUJnWpjI8L1ZSg7fyBoSQWUHo4FIabFwEJE5HeLX4JmVzqrtjdYN5GM6k95FlhpE4q5A8GzEWzkITYkKYWEqLgG+C58IgiIMx1WkfX0/joBud2Tsrco+wokZ5dAIsL5Scgnu8ACH/7qTyL14RDYo/NJZqPq+D37FYDtlqHlp6n+xF7WYHkO8ZBkE6G9tgQ3BCwabsTdBwzbw34P5oohfZaKwHYB2CrA+bWCyKwgyC/AIU+qnIDAAYE3PAmG48/tU8Am1uXU9XR1A4rrQ6S2iHwP9pe3dIc2/OouTCLgJfBYNCVYrj9RV8A7rCIncwvSMWz5JIDUyW2dkXr1DmKnzxFBuVwDZw0JMxXkLC8YqxPw9vSk2NC62mQui2mUA9rsvpSX0o1+vL2r7InxFzXwp03R/G1GQx9Na6pOwIO3p6U0ZFbjLbl56QRY9tsZbyU7W/jwalyKq4/fb6sYLSq5JUPIfA28kRruwFvgwTuMNwmNG3RV58ntkAyb5jVz2bXMB97CYeKvAAMACjWGjcO+NcIAAAAASUVORK5CYII=" alt=""></td>
+			<td style="width:100%">To use Outlook, browser settings must allow scripts to run. For information about how to allow scripts, consult the Help for your browser. If your browser doesn&#39;t support scripts, you can download <a href="https://go.microsoft.com/fwlink/?linkid=2009667&clcid=0x409">Windows Internet Explorer</a> for access to Outlook.</td>
+		</tr>
+		</table>
+	</div>
+</noscript>
+
+<form action="/owa/auth.owa" method="POST" name="logonForm" ENCTYPE="application/x-www-form-urlencoded" autocomplete="off">
+<input type="hidden" name="destination" value="https://caoma.unch.unc.edu/owa/">
+<input type="hidden" name="flags" value="4">
+<input type="hidden" name="forcedownlevel" value="0">
+ 
+ <!-- Default to mouse class, so that things don't look wacky if the script somehow doesn't apply a class -->
+<div id="mainLogonDiv" class="mouse">
+    <script>
+
+        var mainLogonDiv = window.document.getElementById("mainLogonDiv");
+        mainLogonDiv.className = mainLogonDivClassName;
+    </script>
+    <div class="sidebar">
+        <div class="owaLogoContainer">
+            <img src="data:image/png;base64,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" class="owaLogo" aria-hidden="true" />
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAA3CAYAAABaZ4fjAAAACXBIWXMAAAsTAAALEwEAmpwYAAAKT2lDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVNnVFPpFj333vRCS4iAlEtvUhUIIFJCi4AUkSYqIQkQSoghodkVUcERRUUEG8igiAOOjoCMFVEsDIoK2AfkIaKOg6OIisr74Xuja9a89+bN/rXXPues852zzwfACAyWSDNRNYAMqUIeEeCDx8TG4eQuQIEKJHAAEAizZCFz/SMBAPh+PDwrIsAHvgABeNMLCADATZvAMByH/w/qQplcAYCEAcB0kThLCIAUAEB6jkKmAEBGAYCdmCZTAKAEAGDLY2LjAFAtAGAnf+bTAICd+Jl7AQBblCEVAaCRACATZYhEAGg7AKzPVopFAFgwABRmS8Q5ANgtADBJV2ZIALC3AMDOEAuyAAgMADBRiIUpAAR7AGDIIyN4AISZABRG8lc88SuuEOcqAAB4mbI8uSQ5RYFbCC1xB1dXLh4ozkkXKxQ2YQJhmkAuwnmZGTKBNA/g88wAAKCRFRHgg/P9eM4Ors7ONo62Dl8t6r8G/yJiYuP+5c+rcEAAAOF0ftH+LC+zGoA7BoBt/qIl7gRoXgugdfeLZrIPQLUAoOnaV/Nw+H48PEWhkLnZ2eXk5NhKxEJbYcpXff5nwl/AV/1s+X48/Pf14L7iJIEyXYFHBPjgwsz0TKUcz5IJhGLc5o9H/LcL//wd0yLESWK5WCoU41EScY5EmozzMqUiiUKSKcUl0v9k4t8s+wM+3zUAsGo+AXuRLahdYwP2SycQWHTA4vcAAPK7b8HUKAgDgGiD4c93/+8//UegJQCAZkmScQAAXkQkLlTKsz/HCAAARKCBKrBBG/TBGCzABhzBBdzBC/xgNoRCJMTCQhBCCmSAHHJgKayCQiiGzbAdKmAv1EAdNMBRaIaTcA4uwlW4Dj1wD/phCJ7BKLyBCQRByAgTYSHaiAFiilgjjggXmYX4IcFIBBKLJCDJiBRRIkuRNUgxUopUIFVIHfI9cgI5h1xGupE7yAAygvyGvEcxlIGyUT3UDLVDuag3GoRGogvQZHQxmo8WoJvQcrQaPYw2oefQq2gP2o8+Q8cwwOgYBzPEbDAuxsNCsTgsCZNjy7EirAyrxhqwVqwDu4n1Y8+xdwQSgUXACTYEd0IgYR5BSFhMWE7YSKggHCQ0EdoJNwkDhFHCJyKTqEu0JroR+cQYYjIxh1hILCPWEo8TLxB7iEPENyQSiUMyJ7mQAkmxpFTSEtJG0m5SI+ksqZs0SBojk8naZGuyBzmULCAryIXkneTD5DPkG+Qh8lsKnWJAcaT4U+IoUspqShnlEOU05QZlmDJBVaOaUt2ooVQRNY9aQq2htlKvUYeoEzR1mjnNgxZJS6WtopXTGmgXaPdpr+h0uhHdlR5Ol9BX0svpR+iX6AP0dwwNhhWDx4hnKBmbGAcYZxl3GK+YTKYZ04sZx1QwNzHrmOeZD5lvVVgqtip8FZHKCpVKlSaVGyovVKmqpqreqgtV81XLVI+pXlN9rkZVM1PjqQnUlqtVqp1Q61MbU2epO6iHqmeob1Q/pH5Z/YkGWcNMw09DpFGgsV/jvMYgC2MZs3gsIWsNq4Z1gTXEJrHN2Xx2KruY/R27iz2qqaE5QzNKM1ezUvOUZj8H45hx+Jx0TgnnKKeX836K3hTvKeIpG6Y0TLkxZVxrqpaXllirSKtRq0frvTau7aedpr1Fu1n7gQ5Bx0onXCdHZ4/OBZ3nU9lT3acKpxZNPTr1ri6qa6UbobtEd79up+6Ynr5egJ5Mb6feeb3n+hx9L/1U/W36p/VHDFgGswwkBtsMzhg8xTVxbzwdL8fb8VFDXcNAQ6VhlWGX4YSRudE8o9VGjUYPjGnGXOMk423GbcajJgYmISZLTepN7ppSTbmmKaY7TDtMx83MzaLN1pk1mz0x1zLnm+eb15vft2BaeFostqi2uGVJsuRaplnutrxuhVo5WaVYVVpds0atna0l1rutu6cRp7lOk06rntZnw7Dxtsm2qbcZsOXYBtuutm22fWFnYhdnt8Wuw+6TvZN9un2N/T0HDYfZDqsdWh1+c7RyFDpWOt6azpzuP33F9JbpL2dYzxDP2DPjthPLKcRpnVOb00dnF2e5c4PziIuJS4LLLpc+Lpsbxt3IveRKdPVxXeF60vWdm7Obwu2o26/uNu5p7ofcn8w0nymeWTNz0MPIQ+BR5dE/C5+VMGvfrH5PQ0+BZ7XnIy9jL5FXrdewt6V3qvdh7xc+9j5yn+M+4zw33jLeWV/MN8C3yLfLT8Nvnl+F30N/I/9k/3r/0QCngCUBZwOJgUGBWwL7+Hp8Ib+OPzrbZfay2e1BjKC5QRVBj4KtguXBrSFoyOyQrSH355jOkc5pDoVQfujW0Adh5mGLw34MJ4WHhVeGP45wiFga0TGXNXfR3ENz30T6RJZE3ptnMU85ry1KNSo+qi5qPNo3ujS6P8YuZlnM1VidWElsSxw5LiquNm5svt/87fOH4p3iC+N7F5gvyF1weaHOwvSFpxapLhIsOpZATIhOOJTwQRAqqBaMJfITdyWOCnnCHcJnIi/RNtGI2ENcKh5O8kgqTXqS7JG8NXkkxTOlLOW5hCepkLxMDUzdmzqeFpp2IG0yPTq9MYOSkZBxQqohTZO2Z+pn5mZ2y6xlhbL+xW6Lty8elQfJa7OQrAVZLQq2QqboVFoo1yoHsmdlV2a/zYnKOZarnivN7cyzytuQN5zvn//tEsIS4ZK2pYZLVy0dWOa9rGo5sjxxedsK4xUFK4ZWBqw8uIq2Km3VT6vtV5eufr0mek1rgV7ByoLBtQFr6wtVCuWFfevc1+1dT1gvWd+1YfqGnRs+FYmKrhTbF5cVf9go3HjlG4dvyr+Z3JS0qavEuWTPZtJm6ebeLZ5bDpaql+aXDm4N2dq0Dd9WtO319kXbL5fNKNu7g7ZDuaO/PLi8ZafJzs07P1SkVPRU+lQ27tLdtWHX+G7R7ht7vPY07NXbW7z3/T7JvttVAVVN1WbVZftJ+7P3P66Jqun4lvttXa1ObXHtxwPSA/0HIw6217nU1R3SPVRSj9Yr60cOxx++/p3vdy0NNg1VjZzG4iNwRHnk6fcJ3/ceDTradox7rOEH0x92HWcdL2pCmvKaRptTmvtbYlu6T8w+0dbq3nr8R9sfD5w0PFl5SvNUyWna6YLTk2fyz4ydlZ19fi753GDborZ752PO32oPb++6EHTh0kX/i+c7vDvOXPK4dPKy2+UTV7hXmq86X23qdOo8/pPTT8e7nLuarrlca7nuer21e2b36RueN87d9L158Rb/1tWeOT3dvfN6b/fF9/XfFt1+cif9zsu72Xcn7q28T7xf9EDtQdlD3YfVP1v+3Njv3H9qwHeg89HcR/cGhYPP/pH1jw9DBY+Zj8uGDYbrnjg+OTniP3L96fynQ89kzyaeF/6i/suuFxYvfvjV69fO0ZjRoZfyl5O/bXyl/erA6xmv28bCxh6+yXgzMV70VvvtwXfcdx3vo98PT+R8IH8o/2j5sfVT0Kf7kxmTk/8EA5jz/GMzLdsAAAAgY0hSTQAAeiUAAICDAAD5/wAAgOkAAHUwAADqYAAAOpgAABdvkl/FRgAAAzZJREFUeNrsmz2O2lAUhc+NWICzgpgVxKMsYECaBZAiaQNNUga6dENWwKSdxqROAX2QYAGRYAdxVgA7OClyPRgHzHvjH2zjI1my4WE/f1zfP9uCAkXSBeAC6AB4BcDTRUQk72Mbj23lOImOnnD05B1UQK0MTt7Tf98DcKvrLiqsVgamXzu16mb6mUAh2auT6WchoY1bznEeZYo+L9CogdJAaaCUKHnL0BHmFfY3IrKrZPQBsNTEMGvtAHQBbJrLZy8HwH3jUw61AjBooOz1ICJdW59SVyg7AAMRGZHskJxdO5QAQFdEpiSH6sCdvKEEeo22RQXgpX62uzCQOYAbAAFJH8DkufmBjXySTsK+HJJr2gskl0yncZjvHJnDUo9htNhAmRlCfg6YNFC22v4AyZ5uswgo26iF6IkPSc5ITrQrd9CkKgjKOjw2yXHCuFygjM9YwlbT9CiYZc5QfJ2LY/BbKyimjnYaWZ/g/96sc8Spfc/RoY5EZKBdwnXm5YGJicasJEluZKxraSm+4WXc0f33T/iPQiwlWkh5Z8Z2Iv3FwLIfOQDwcGYebRFZkZwA8HOqqo2g/LGA4h7JaUwt1hWREYC3R/KdqYjc6Lg1gGGZmky2/4yNtfgkxyISJmChhQ5EZKCO/DcKuNeUd5rvWo6/J7kEsFPLaGu63leH6qAA2UJZGRRiaaCEfmmtDnWn6bpftnbkrcXlsIr6iJQWtrxUAWViKV4sopyylkBENsciUdVkAsUJa4swcTpRDY9i2x/qDAUAPkesZaON4LlazUr7F/No7VNlS7GpkoeG+yu6Sr5IRvtU82hoTASiDtJDhWUbkn2tUdwjQHqaS1QaiGlIjqsPoE8yiIRoDzV6qCfNbVMX1XrA5w7Az9hnj9pffq/bvwA8XtMN9gX+3Z79AuCTrgPAOwXzRpfy3GC/oH4A+KhgFkUUhFWBcqfL4pos5VvCd1tdFk8Jaokexejn5LhX2q0zn0zzdGT65O0q1EBpoDRQUkH5qj2RoMGxD4VxL92J1DVFvcRQqugjhjt0sH/FJY/XXaoHxRDWa+xfkrpeKAkTcHH4Ftk5WPWHcgZW3LK8skH5OwBkZV4toVfNPQAAAABJRU5ErkJggg==" class="owaLogoSmall" aria-hidden="true" />
+        </div>
+    </div>
+    <div class="logonContainer">
+	<div id="lgnDiv" class="logonDiv" onKeyPress="return checkSubmit(event)">
+        
+            <div class="signInImageHeader" role="heading" aria-label="Outlook">
+                <img class="mouseHeader" src="data:image/png;base64,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" alt="Outlook" />
+            </div>
+        
+		<div class="signInInputLabel" id="userNameLabel" aria-hidden="true">User name:</div>
+		<div><input id="username" name="username" class="signInInputText" role="textbox" aria-labelledby="userNameLabel"/></div>
+		<div class="signInInputLabel" id="passwordLabel" aria-hidden="true">Password:</div>
+		<div><input id="password" onfocus="g_fFcs=0" name="password" value="" type="password" class="signInInputText" aria-labelledby="passwordLabel"/></div>
+        <div><input id="passwordText" onfocus="g_fFcs=0" name="passwordText" value="" style="display: none;" class="signInInputText" aria-labelledby="passwordLabel"/></div>
+        <div class="showPasswordCheck signInCheckBoxText">
+            <input type="checkbox" id="showPasswordCheck" class="chk" onclick="showPasswordClick()" />
+            <span>Show password</span>
+        </div>
+		
+		<div class="signInCheckBoxText">
+            <input id="chkPrvt" onclick="clkSec()" name="trusted" value="4" type="checkbox" class="chk" checked role="checkbox" aria-labelledby="privateLabel"/>
+            <span id="privateLabel" aria-hidden="true">Private computer</span>
+			&#x200E;(
+			<a href="#" class="signInCheckBoxLink" id="lnkShwSec" onclick="clkSecExp('lnkShwSec')" onkeydown="kdSecExp('lnkShwSec')" role="link">What is this?</a>
+			<a href="#" class="signInCheckBoxLink" id="lnkHdSec" onclick="clkSecExp('lnkHdSec')"onkeydown="kdSecExp('lnkHdSec')"  style="display:none" role="link">
+			Hide explanation 
+			</a>
+			)&#x200E;
+			</div>
+		<div id="prvtExp" class="signInExpl" style="display:none" role="note">Select this option if you&#39;re the only person who uses this computer. Your server will allow a longer period of inactivity before signing you out.</div>
+		<div id="prvtWrn" class="signInWarning" style="display:none" role="note">Warning:  By selecting this option, you confirm that this computer complies with your organization&#39;s security policy.</div>
+		
+
+		<div id="expltxt" class="signInExpl" role="alert">
+			
+		</div>
+		<div class="signInEnter">
+            <div onclick="clkLgn()" class="signinbutton" role="button" tabIndex="0" >
+                <img class="imgLnk" 
+                    
+                        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjU1NzZGNEQzOTYxOTExRTE4ODU2ODkyQUQxMTQ2QUJGIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjU1NzZGNEQ0OTYxOTExRTE4ODU2ODkyQUQxMTQ2QUJGIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NTU3NkY0RDE5NjE5MTFFMTg4NTY4OTJBRDExNDZBQkYiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NTU3NkY0RDI5NjE5MTFFMTg4NTY4OTJBRDExNDZBQkYiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7MvF4iAAACF0lEQVR42qyVz0sCQRTHZ5cSuqQJURRUt66GEuQlugmF0Ukw+huCjaBT0SkhEvwL6iQEERRJndIuCoLU1VsFQkH04xR0se/D79C4qLtCDz47zO6b7755M2/GUk5ZdbEwSIEEmAQRvn8ADXADTptHC++dBlsdhIfAJtgBQdXbvkAG5PCDb/OD7XIcByVwQNFLsA5iYJDE+O6SPuJbsrYq490ilulKZwrUwB4oeES8DPZBFDyDOCJvmBEHwDlFC8yrl6hy+crYc0QeMIUdMM9IN8Cb8mmI8I1jatRwtLDkaZt+Mv0P1adB/INjxbYRddBmnsKczt/0s/F2lJrhT5vgHoTkvWVZWlyPF620zb2qPHOajT/iuQQ+uaeLWPiQyyvPNiHCs+zces45G5fimGORaPGI4XHHNjrAvSv22ibilJs+0tsSV2qEfb3oo7b6Xwuw/ZGIX7gzxpi/v+LRi9g+E4nymNFKStaMrxNsGxJxnZ1Fz3haokVDdImLqi3Kti7CZ+wkXQvVHq1TnqFoyBD9dP06zfZGzgpJwxPTseKzlM3iaOVtqyL1cMUTb9o2jj6xXWOFfRtERzhWLIOffeldkTVq/QQM9yE6zDH6rMmZh9APWOXNkGSxJHzoJuib5NhVfeCb+1g+yGpVubrX4IIlH3EVRYrfrulbNc/iXleTwxPPz9V0KKl0X02Wx2Wa9rhM890u018BBgDOvaD/8G2ecwAAAABJRU5ErkJggg==" 
+                    
+                alt=""><span class="signinTxt">sign in</span>
+            </div>
+            <input name="isUtf8" value="1" type="hidden"/>
+		</div>
+        <div class="hidden-submit"><input type="submit" tabindex="-1"/></div> 
+	</div>
+    </div>
+    	<div id="cookieMsg" class="logonDiv" style="display:none">
+		<div class="signInHeader">Outlook</div>
+		<div class="signInExpl">Please enable cookies for this Web site.<br><br>Cookies are currently disabled by your browser. Outlook requires that cookies be enabled. <br><br>For information about how to enable cookies, see the Help for your Web browser.<br><br><br></div>
+		<div class="signInEnter" >
+        	<div onclick="clkRtry()" style="cursor:pointer;display:inline">
+        		<img class="imgLnk" 
+				
+					src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjU1NzZGNEQzOTYxOTExRTE4ODU2ODkyQUQxMTQ2QUJGIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjU1NzZGNEQ0OTYxOTExRTE4ODU2ODkyQUQxMTQ2QUJGIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6NTU3NkY0RDE5NjE5MTFFMTg4NTY4OTJBRDExNDZBQkYiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6NTU3NkY0RDI5NjE5MTFFMTg4NTY4OTJBRDExNDZBQkYiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7MvF4iAAACF0lEQVR42qyVz0sCQRTHZ5cSuqQJURRUt66GEuQlugmF0Ukw+huCjaBT0SkhEvwL6iQEERRJndIuCoLU1VsFQkH04xR0se/D79C4qLtCDz47zO6b7755M2/GUk5ZdbEwSIEEmAQRvn8ADXADTptHC++dBlsdhIfAJtgBQdXbvkAG5PCDb/OD7XIcByVwQNFLsA5iYJDE+O6SPuJbsrYq490ilulKZwrUwB4oeES8DPZBFDyDOCJvmBEHwDlFC8yrl6hy+crYc0QeMIUdMM9IN8Cb8mmI8I1jatRwtLDkaZt+Mv0P1adB/INjxbYRddBmnsKczt/0s/F2lJrhT5vgHoTkvWVZWlyPF620zb2qPHOajT/iuQQ+uaeLWPiQyyvPNiHCs+zces45G5fimGORaPGI4XHHNjrAvSv22ibilJs+0tsSV2qEfb3oo7b6Xwuw/ZGIX7gzxpi/v+LRi9g+E4nymNFKStaMrxNsGxJxnZ1Fz3haokVDdImLqi3Kti7CZ+wkXQvVHq1TnqFoyBD9dP06zfZGzgpJwxPTseKzlM3iaOVtqyL1cMUTb9o2jj6xXWOFfRtERzhWLIOffeldkTVq/QQM9yE6zDH6rMmZh9APWOXNkGSxJHzoJuib5NhVfeCb+1g+yGpVubrX4IIlH3EVRYrfrulbNc/iXleTwxPPz9V0KKl0X02Wx2Wa9rhM890u018BBgDOvaD/8G2ecwAAAABJRU5ErkJggg=="
+				
+			alt=""><span class="signinTxt" tabIndex="0">retry</span>
+		</div>
+	</div>
+    </div>
+</div>
+</form>
+<script>
+    if (showPlaceholderText) {
+        setPlaceholderText();
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<HEAD><TITLE>Citrix Access Gateway</TITLE> 
+<link rel="SHORTCUT ICON" href="/vpn/images/AccessGateway.ico" type="image/vnd.microsoft.icon">
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<META content=noindex,nofollow,noarchive name=robots>
+<LINK href="/vpn/images/caxtonstyle.css" type=text/css rel=STYLESHEET>
+<script type="text/javascript" src="/vpn/resources.js"></script>
+<script type="text/javascript" language="javascript">
+var Resources = new ResourceManager("resources/{lang}", "logon");
+</script>
+<style type="text/css">
+body
+{
+  display : none;
+  visibility: hidden;
+}
+</style>
+<script language="javascript" type="text/javascript" src="/vpn/nsshare.js"></script>
+<script language="JavaScript" type="text/javascript" src="login.js"></script>
+<SCRIPT language=JavaScript>
+// frame-busting script
+function changePage()
+{
+	if( self == top ) {
+  		 document.getElementsByTagName("body")[0].style.display = 'block' ;
+		 ns_fillName();
+	} else {
+   		top.location = self.location ;
+	}
+
+}
+
+function setFocus(obj)
+{
+   if (obj != null) {
+      obj.focus();
+   }
+}	
+function FocusBar(name)
+{
+SetBar("hluser", (name=="username" ? "highlight" : "highlightclear"));
+SetBar("hlpass1", (name=="password" ? "highlight" : "highlightclear"));
+SetBar("hlpass2", (name=="password2" ? "highlight" : "highlightclear"));
+}	
+function SetBar(Id, className){
+var bar = document.getElementById(Id);
+if (bar) bar.className = className;
+}
+
+
+function BlurBar(name) {
+       SetBar("hluser", "highlightclear");
+       SetBar("hlpass1", "highlightclear");
+       SetBar("hlpass2", "highlightclear");
+       
+       
+       
+       if (name == "username") {
+            var username = document.getElementById("Enter user name");
+            if (username.value == "") {
+                SetBar("hluser", "highlighterror");
+            }
+            
+        }else if (name == "password") {
+            var password = document.getElementById("passwd");
+            if (password.value == "") {
+                SetBar("hlpass1", "highlighterror");
+            }
+        }else if (name == "password2") {
+            var password = document.getElementById("passwd1");
+            if (password.value == "") {
+                SetBar("hlpass2", "highlighterror");
+            }
+        }
+        
+        
+           }		
+//-->
+</SCRIPT>
+
+<META content="MSHTML 6.00.2900.2802" name=GENERATOR></HEAD>
+<BODY id=bodyTag onLoad="changePage();">
+<!-- Copyright 2001-2005 Citrix Systems, Inc. All Rights Reserved -->
+
+<NOSCRIPT>     
+<BR><BR>
+<table style="WIDTH: 100%">
+<tr>
+ 	<td align="center">
+		<table class="CTXMSAM_LogonFont">
+			<tr id="errorMessageRow">
+				<td class="glowBoxLeft">&nbsp;</td>                            
+				<td class="loginTableMidWidth">
+					<div id="feedbackArea">
+					<div id="feedbackStyle" class="feedbackStyleError">
+					<span id="errorMessageLabel" class="messageStyle">
+					JavaScript is either disabled in or not supported by the Web browser.  
+					To continue logon, use a Web browser that supports JavaScript or enable JavaScript in your current browser.
+					</span>
+					</div>
+					</div>
+				</td>                           
+				<td class="glowBoxRight">&nbsp;</td>
+			</tr>
+		</table>
+	</td>
+</tr>
+</table>
+
+</NOSCRIPT>    
+
+<!-- Header -->
+<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%">
+<tr>
+<td style="height:180px;">&nbsp;</td>
+</tr>
+
+<!-- Logon box -->
+
+<tr>  
+    <td valign="middle" align="center" class="logon_mainpane_f">  
+       <table cellpadding="0" cellspacing="0" border="0" width="100%">
+         <tr>
+           <td valign="top" class="logon_mainpane" >
+             <FORM method="post" action="/cgi/login" name="vpnForm" autocomplete="off" style="margin:0"
+                 onsubmit="clean_name_cookie();"> 
+                    <table cellspacing="0" cellpadding="0" border="0" width="560px" align="center" style="margin:0 auto;">
+                      <tr>
+                        <td width="362px" valign="top" align="left">
+                          <div class="citrixnets_access_logo"><img src="/vpn/images/citrix_netscaler_accessgateway_logo.png" border="0"></div>
+                        </td>
+                        <td width="198px" valign="top">
+                          <table cellpadding="0" cellspacing="0" background="0" width="100%">
+                            <!--<tr>
+                                <td class="CTX_ContentTitleHeader">
+                                    <div id="ctl08_loginAgentCdaHeaderText" style="padding-left:15px"><span id="Welcome"></span></div>
+                                </td>
+                            </tr>-->
+                            <tr>
+                              <td height="64px">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td class="CTXMSAM_LogonFont" style="padding:0 0 9px 10px;" align="left">
+                                    <div id="ctl08_loginAgentCdaHeaderText2"></div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="CTXMSAM_LogonFont" valign="top">
+                                    <script language="javascript" type="text/javascript">    
+                                    documentWriteActionPane();
+                                    </script>
+                                        <table width="100%" id="ctl08_inputTable" class="CTXMSAM_LogonFont" cellspacing="0" cellpadding="0" border="0" style="border-width:0px;border-collapse:collapse;">										
+                                            <tr>
+                                            <td align="left" style="white-space:nowrap; height:15px;padding:0px 0 1px 10px;"><span id="User_name" class="CTXMSAM_LogonFont"></span></td>
+                                            </tr>
+                                            <tr>
+                                            <td height="35px" align="left" width="193px">
+                                            <table><tr><td><div id="hluser" class="highlightclear"></div></td>
+                                            <td> <input id="Enter user name" class="logon_input" type="text" title="" name="login" size="30" maxlength="127" onFocus="loginFieldCheck('username')" onblur='javascript:BlurBar("username")'/></td></tr></table>
+                                            
+                                            </td>
+                                            </tr>
+                                            <SCRIPT language=JavaScript>ns_showpwd();</SCRIPT>
+                                            <tr>
+                                            <td align="left" style="padding:10px 0 0 8px;"><span style="display:none"><img src="/vpn/images/logon_btn_over.jpg"/></span><input type="submit" id="Log_On" value="" class="CTX_CaxtonButton" onClick="ns_check();"  onmouseover="this.className='CTX_CaxtonButton_Hover';" onMouseOut="this.className='CTX_CaxtonButton';" /></td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                </td>
+                            </tr>
+                            
+                          </table>
+                        </td>   
+                      </tr>
+                      <tr id="errorMessageRow">
+                                <td colspan="2">
+                                    <script language='javascript'>ns_disperrmsg();</script>
+                                </td>
+                            </tr>  
+                      <tr>
+                       <td colspan="2" height="25px" align="left" style="padding:4px 0 0;">
+                         <img src="/vpn/images/citrix_logo.png" border="0">
+                       </td>
+                      </tr>  
+                      <tr>
+                        <td colspan="2" height="51px">&nbsp;</td>
+                      </tr>
+                    </table>
+                    </FORM>
+           </td>
+         </tr>
+       </table>
+                
+    </td>
+</tr>
+
+<!-- Error message box -->		    
+
+          
+<!-- Footer -->
+<tr>
+<td>&nbsp;</td>
+</tr>
+</table>
+
+<DIV id=scriptArea></DIV>
+<script type="text/javascript" language="javascript">
+Resources.Load();
+</script>
+</BODY>
+</HTML>

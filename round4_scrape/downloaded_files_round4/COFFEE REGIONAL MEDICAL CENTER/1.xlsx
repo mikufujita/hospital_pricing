@@ -1,0 +1,183 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+	Coffee Regional Medical Center
+</title><link rel="stylesheet" type="text/css" href="../../../Content/bootstrap.min.css" /><link href="../../../App_Themes/CoffeeRegionalMedicalCenter/Styles.css" type="text/css" rel="stylesheet" /></head>
+<body>
+    <form name="aspnetForm" method="post" action="./default.aspx?MasterPageFile=CoffeeRegionalMedicalCenter.Master&amp;Theme=CoffeeRegionalMedicalCenter" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2NmRkmb3gqgBW7p92ZBbfJYh5gCSsUrE=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C785526B" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAicUVGTDOtWh6kUgaMO15eTu3S8pWYO1BhvsosazapYPX/aLs6UoIfSQGH2gYDgRdY23bVPimp10FZTn2c66cbJgl/C6exsceKN/oz6PRIrNxQdbSkcOCjNLf/0uiwACmxD0kZnoTUuke8UUMP+5StXLRYn1PQ8Noo8G0PuXOIQ7RDkmS+exJeFaaa3NJBHVH2I1BKL" />
+        <div class="container">
+            <div class="Header">
+                <img id="ctl00_Image" class="img-fluid" src="../../../App_Themes/CoffeeRegionalMedicalCenter/header.jpg" border="0" />
+            </div>
+            <div class="Title">
+                
+    Online Patient Payment Center 
+    
+            </div>
+            <div class="SubTitle1">
+                
+    Welcome to the Coffee Regional Medical Center Online Payment Center. You may pay your hospital bills here by credit, debit or flexible spending account (FSA) card.
+    
+            </div>
+            <div class="SubTitle2">
+                
+    For your convenience, please complete the payment form below. Items marked with an asterisk (*) require completion before submission. For more information you may contact Patient Financial Services, Monday through Friday from 8:00 AM until 5:00 PM, at (912) 383-5614. All payments are via secure server. Thank you for allowing us to serve you.
+    
+            </div>
+            <div class="Items">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="Item">
+                            <div class="Name">
+                                * Patient Number or PFS ID
+                            </div>
+                            <div class="Info">
+                                This will greatly assist us in ensuring that your payment is posted correctly. 
+                            </div>
+                            <div class="Value">
+                                <input name="ctl00$TextBox1" type="text" id="ctl00_TextBox1" autocomplete="off" />
+                                <span id="ctl00_FieldMapper1"></span>
+                            </div>
+                            <div class="Validate">
+                                
+                                &nbsp;
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="Item">
+                            <div class="Name">
+                                * Patient Name
+                            </div>
+                            <div class="Info">
+                                First and last name of patient treated.
+                            </div>
+                            <div class="Value">
+                                <input name="ctl00$TextBox2" type="text" id="ctl00_TextBox2" autocomplete="off" />
+                                <span id="ctl00_FieldMapper2"></span>
+                            </div>
+                            <div class="Validate">
+                                
+                                &nbsp;
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="Item">
+                            <div class="Name">
+                                * Patient’s Birth Date (MM/DD/YYYY)
+                            </div>
+                            <div class="Info">
+                                
+                            </div>
+                            <div class="Value">
+                                <input name="ctl00$TextBox3" type="text" id="ctl00_TextBox3" autocomplete="off" />
+                                <span id="ctl00_FieldMapper3"></span>
+                            </div>
+                            <div class="Validate">
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="Item">
+                            <div class="Name">
+                                * Phone Number
+                            </div>
+                            <div class="Info">
+                                Please provide a phone number where you can be reached if we have any questions or issues with this transaction. (Example: 912-384-1900)
+                            </div>
+                            <div class="Value">
+                                <input name="ctl00$TextBox4" type="text" id="ctl00_TextBox4" autocomplete="off" />
+                                <span id="ctl00_FieldMapper4"></span>
+                            </div>
+                            <div class="Validate">
+                                
+                                &nbsp;
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="Item">
+                            <div class="Name">
+                                Comments Related to Your Payment
+                            </div>
+                            <div class="Info">
+                                If you would like to provide additional information on how you want this payment posted, please do so here (128 characters maxium).
+                            </div>
+                            <div class="Value">
+                                <textarea name="ctl00$TextBox5" rows="3" cols="20" id="ctl00_TextBox5" autocomplete="off">
+</textarea>
+                                <span id="ctl00_FieldMapper5"></span>
+                            </div>
+                            <div class="Validate">
+                                
+                                &nbsp;
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="Item">
+                            <div class="Name">
+                                * Payment Amount:
+                            </div>
+                            <div class="Info">
+                                
+                            </div>
+                            <div class="Value">
+                                <input name="ctl00$TextBox6" type="text" id="ctl00_TextBox6" autocomplete="off" />
+                                <span id="ctl00_FieldMapper6"></span>
+                            </div>
+                            <div class="Validate">
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="Buttons">
+                <div class="Button">
+                    <div class="Payment">
+                        <input type="submit" name="ctl00$PaymentLaunchButton1" value="Make a Payment" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$PaymentLaunchButton1&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_PaymentLaunchButton1" />
+                    </div>
+                </div>
+            </div>
+            <div class="Support">
+                <b>Technical Support</b><br />For assistance with Online Bill Pay, please contact CRMC Patient Financial Services at 912-383-5614.
+            </div>
+            <div class="Footer">
+                &copy; <a href='http://www.cboss.com' target='_none'>CBOSS, INC.</a>
+            </div>
+            <div class="Hidden">
+                <span id="ctl00_FieldMapperHome"></span>
+                http://www.coffeeregional.org/index_flash.php
+                <span id="ctl00_FieldMapperOriginator"></span>
+                411
+                <span id="ctl00_FieldMapperClientAccount"></span>
+                473912111111
+            </div>
+        </div>
+        
+
+    </form>
+</body>
+</html>

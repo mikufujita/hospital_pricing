@@ -1,0 +1,228 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><title>
+	Class Find - Search
+</title><link id="ctl00_linkCSSFile" rel="stylesheet" type="text/css" href="ClientStyles/3299.css" /><link id="ctl00_linkCSSFileGridview" rel="stylesheet" type="text/css" href="Styles/gridview.css" />
+    <script type="text/javascript" src="Scripts/StandardScripts.js"></script>
+    <style type="text/css">
+        .show
+        {
+            display: block;
+        }
+        
+        .none
+        {
+            display: none;
+        }
+        
+        tr
+        {
+            font-weight: normal;
+        }
+    </style>
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="./Search.aspx?ClientID=3299" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script src="/WebResource.axd?d=X0yt39EDcsXKL9iOP17TX-8jPzwkUJbp20s2syOxrDVH2qeDsBrgVfN-Y0bOYOIBL5QFQBJr56K88Hl38CS-kxm0oEi6KncYcokExsP3y4NVSthrdCCMwds6JayoY1FQ0&amp;t=636142205618745052" type="text/javascript"></script>
+<script src="/WebResource.axd?d=kf6XDKyXjg4AKOIP3bEzrsP_Lf4yg9ItKtXaoo_ho9RVIAhNZmhV5AJ9fpAfRLSce1FtUziLK2M8r3oBDxi_gr2J8uLISPBQe7dHeEqu5ctfa-ZtsnpVTwIlQ_CvwaOOt-loQEVrBP-xiTHk3I3I3g2&amp;t=636142205618745052" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvuqtO-lJpEMi2pRCKK_kT3GVHT_mT9-UUiLjD4OIH7UZzVO01KsrV3brL225BWwOGxJ-AMJ8cD0DsfLyOnuRNLHBPuUdWnbyUQYB4QjTT5KN-i2coWlKV2EzQ5lJ6sz6yJE2s3CpifHJ4nUuf7BfVGc1&amp;t=545ba255" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BBBC20B8" />
+    <table style="width: 100%" cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                <a id="ctl00_hyperLinkLogo" disabled="disabled"></a>
+            </td>
+        </tr>
+        
+        <tr>
+            <td>
+                
+
+    <script language="javascript" type="text/javascript">
+        function SetCalendarDateRange()
+        {
+            document.getElementById("ctl00_contentPlaceHolderMain_hiddenfieldClassStartDate").value = document.getElementById("ctl00_contentPlaceHolderMain_calendarPopupStartDate_textBox").value;
+            document.getElementById("ctl00_contentPlaceHolderMain_hiddenfieldClassEndDate").value = document.getElementById("ctl00_contentPlaceHolderMain_calendarPopupEndDate_textBox").value;
+        }
+        
+        
+    </script>
+    
+
+   
+    <table id="ctl00_contentPlaceHolderMain_tableSearch" cellspacing="0" cellpadding="3" align="center" border="0">
+	<tr id="ctl00_contentPlaceHolderMain_tablerowProgressIndicator" align="center">
+		<td>
+                <img id="ctl00_contentPlaceHolderMain_ProgressIndicator1_imageProgressIndicator" src="Images/Search.gif" alt="Progress Indicator" border="0" />
+<br /><br />
+            </td>
+	</tr>
+	<tr id="ctl00_contentPlaceHolderMain_tablerowErrorMessage" align="center">
+		<td>
+                <span id="ctl00_contentPlaceHolderMain_labelErrorMessage" class="bca-text-error"></span>
+            </td>
+	</tr>
+	<tr id="ctl00_contentPlaceHolderMain_tablerowSearchTitle" align="center">
+		<td>
+                <span id="ctl00_contentPlaceHolderMain_labelSearchTitle" class="bca-text-title">Select a search option and click Get Results button.</span><br />
+                <br />
+            </td>
+	</tr>
+	<tr id="ctl00_contentPlaceHolderMain_tablerowSearchOptions">
+		<td>
+                <table id="ctl00_contentPlaceHolderMain_tableSearchOptions" cellpadding="0" cellspacing="0" border="0" align="center">
+			<tr id="ctl00_contentPlaceHolderMain_tablerowSearchInstructMsg">
+				<td>
+                            <span id="ctl00_contentPlaceHolderMain_labelSearchInstructMsg" class="bca-text-small">Select one of the class or event titles, enter a start date and optionally, enter an end date.</span>
+                        </td>
+			</tr>
+			<tr>
+				<td>
+                            <br />
+                            <div id="ctl00_contentPlaceHolderMain_panelSearchOption1">
+					<div id="ctl00_contentPlaceHolderMain_panelClass">
+						
+        <span class="bca-text-em"><input id="ctl00_contentPlaceHolderMain_radiobuttonSearchByClass" type="radio" name="ctl00$contentPlaceHolderMain$Search" value="radiobuttonSearchByClass" checked="checked" /><label for="ctl00_contentPlaceHolderMain_radiobuttonSearchByClass">Search by Class or Event Title:</label></span>
+        <br />
+        <span id="ctl00_contentPlaceHolderMain_labelClassEventTitle" class="bca-text-em" style="display:inline-block;">Class or Event Title:</span>
+        <select name="ctl00$contentPlaceHolderMain$dropdownlistClass" id="ctl00_contentPlaceHolderMain_dropdownlistClass" class="bca-selectlist" OnBlur="SetClassOption();">
+							<option selected="selected" value="-1">ALL</option>
+							<option value="96268">AHA Healthcare Provider BLS CPR</option>
+							<option value="13232">AHA Heartsaver CPR &amp; AED</option>
+							<option value="26712">Baby Basics</option>
+							<option value="82582">Baby Bereavement Support Group</option>
+							<option value="26714">Birthing Center Unit Tour</option>
+							<option value="11100">Breast Cancer Support Group</option>
+							<option value="100848">Breast Center Open House</option>
+							<option value="24">Breastfeeding Class</option>
+							<option value="21188">Breastfeeding Support Group</option>
+							<option value="99572">Colon Cancer Screening Kit - 2019</option>
+							<option value="27276">Obesity &amp; Your Health</option>
+							<option value="87798">Prepared Childbirth Class - 2 Part Weekday</option>
+							<option value="83560">Prepared Childbirth Class - 2 Part Weekend</option>
+							<option value="29376">Prepared Childbirth Class - One Day</option>
+							<option value="32620">Pulmonary Support Group</option>
+							<option value="290">Stroke Support Group</option>
+							<option value="54636">Women and Stroke</option>
+
+						</select>
+    
+					</div>
+				</div>
+                        </td>
+			</tr>
+			<tr>
+				<td>
+                            <hr width="100%" />
+                        </td>
+			</tr>
+			<tr>
+				<td align="left">
+                            <div id="ctl00_contentPlaceHolderMain_panelSearchOption2">
+					
+                                <div id="ctl00_contentPlaceHolderMain_UpdatePanel2">
+						
+                                    <div id="ctl00_contentPlaceHolderMain_panelCalendar">
+							
+        <table id="ctl00_contentPlaceHolderMain_tableCalendarSearch" cellpadding="0" cellspacing="0" border="0">
+								<tr id="ctl00_contentPlaceHolderMain_tablerowSpecificDayCalendar">
+									<td colspan="3">
+                    <span id="ctl00_contentPlaceHolderMain_labelSpecificDay" class="bca-text-label">Select a specific day:</span><br />
+                    <table id="ctl00_contentPlaceHolderMain_calendarSpecificDay" cellspacing="1" cellpadding="2" title="Calendar" bordercolor="Black" border="0" width="238" height="197" bgcolor="White">
+										<tr><td colspan="7" bgcolor="#333399"><font face="Verdana" color="Black" size="2"><table cellspacing="0" border="0" width="100%">
+											<tr><td width="15%"><font face="Verdana" color="White" size="1"><b><a href="javascript:__doPostBack('ctl00$contentPlaceHolderMain$calendarSpecificDay','V7060')" style="color:White" title="Go to the previous month">May</a></b></font></td><td align="center" width="70%"><font face="Verdana" color="White" size="3"><b>June 2019</b></font></td><td align="right" width="15%"><font face="Verdana" color="White" size="1"><b><a href="javascript:__doPostBack('ctl00$contentPlaceHolderMain$calendarSpecificDay','V7121')" style="color:White" title="Go to the next month">Jul</a></b></font></td></tr>
+										</table></font></td></tr><tr><th align="center" abbr="Sunday" scope="col"><font face="Verdana" color="#333333" size="1"><b>Su</b></font></th><th align="center" abbr="Monday" scope="col"><font face="Verdana" color="#333333" size="1"><b>Mo</b></font></th><th align="center" abbr="Tuesday" scope="col"><font face="Verdana" color="#333333" size="1"><b>Tu</b></font></th><th align="center" abbr="Wednesday" scope="col"><font face="Verdana" color="#333333" size="1"><b>We</b></font></th><th align="center" abbr="Thursday" scope="col"><font face="Verdana" color="#333333" size="1"><b>Th</b></font></th><th align="center" abbr="Friday" scope="col"><font face="Verdana" color="#333333" size="1"><b>Fr</b></font></th><th align="center" abbr="Saturday" scope="col"><font face="Verdana" color="#333333" size="1"><b>Sa</b></font></th></tr><tr><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="#999999" size="2">26</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="#999999" size="2">27</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="#999999" size="2">28</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="#999999" size="2">29</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="#999999" size="2">30</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="#999999" size="2">31</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">1</font></td></tr><tr><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">2</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">3</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">4</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">5</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">6</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">7</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">8</font></td></tr><tr><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">9</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">10</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">11</font></td><td align="center" bgcolor="#999999" width="14%"><font face="Verdana" color="Blue" size="2"><b><a href="javascript:__doPostBack('ctl00$contentPlaceHolderMain$calendarSpecificDay','7102')" style="color:Blue" title="June 12">12</a></b></font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Blue" size="2"><b><a href="javascript:__doPostBack('ctl00$contentPlaceHolderMain$calendarSpecificDay','7103')" style="color:Blue" title="June 13">13</a></b></font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">14</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">15</font></td></tr><tr><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">16</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Blue" size="2"><b><a href="javascript:__doPostBack('ctl00$contentPlaceHolderMain$calendarSpecificDay','7107')" style="color:Blue" title="June 17">17</a></b></font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Blue" size="2"><b><a href="javascript:__doPostBack('ctl00$contentPlaceHolderMain$calendarSpecificDay','7108')" style="color:Blue" title="June 18">18</a></b></font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Blue" size="2"><b><a href="javascript:__doPostBack('ctl00$contentPlaceHolderMain$calendarSpecificDay','7109')" style="color:Blue" title="June 19">19</a></b></font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Blue" size="2"><b><a href="javascript:__doPostBack('ctl00$contentPlaceHolderMain$calendarSpecificDay','7110')" style="color:Blue" title="June 20">20</a></b></font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Blue" size="2"><b><a href="javascript:__doPostBack('ctl00$contentPlaceHolderMain$calendarSpecificDay','7111')" style="color:Blue" title="June 21">21</a></b></font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">22</font></td></tr><tr><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Blue" size="2"><b><a href="javascript:__doPostBack('ctl00$contentPlaceHolderMain$calendarSpecificDay','7113')" style="color:Blue" title="June 23">23</a></b></font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">24</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Blue" size="2"><b><a href="javascript:__doPostBack('ctl00$contentPlaceHolderMain$calendarSpecificDay','7115')" style="color:Blue" title="June 25">25</a></b></font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Blue" size="2"><b><a href="javascript:__doPostBack('ctl00$contentPlaceHolderMain$calendarSpecificDay','7116')" style="color:Blue" title="June 26">26</a></b></font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">27</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">28</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Black" size="2">29</font></td></tr><tr><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="Blue" size="2"><b><a href="javascript:__doPostBack('ctl00$contentPlaceHolderMain$calendarSpecificDay','7120')" style="color:Blue" title="June 30">30</a></b></font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="#999999" size="2">1</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="#999999" size="2">2</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="#999999" size="2">3</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="#999999" size="2">4</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="#999999" size="2">5</font></td><td align="center" bgcolor="#CCCCCC" width="14%"><font face="Verdana" color="#999999" size="2">6</font></td></tr>
+									</table>
+                    <br />
+                </td>
+								</tr>
+								<tr>
+									<td colspan="3">
+                    <span id="ctl00_contentPlaceHolderMain_labelCustomDateRange" class="bca-text-label">Select a custom date range:</span>
+                </td>
+								</tr>
+								<tr>
+									<td valign="middle">
+                    <span id="ctl00_contentPlaceHolderMain_labelStartDate" class="bca-text-label">Start on or after:</span>&nbsp;
+                    <span id="ctl00_contentPlaceHolderMain_calendarPopupStartDate"><input name="ctl00$contentPlaceHolderMain$calendarPopupStartDate$textBox" type="text" value="6/12/2019" readonly="readonly" id="ctl00_contentPlaceHolderMain_calendarPopupStartDate_textBox" class="bca-text" onclick="CalendarPopup_FindCalendar(&#39;ctl00_contentPlaceHolderMain_calendarPopupStartDate&#39;).Show();" style="height:18px;width:70px;" /><img id="ctl00_contentPlaceHolderMain_calendarPopupStartDate_image" onclick="CalendarPopup_FindCalendar(&#39;ctl00_contentPlaceHolderMain_calendarPopupStartDate&#39;).Show();" src="Images/calendar.gif" alt=" ... " style="border-width:0px;vertical-align:text-bottom;margin-bottom:1px;cursor:pointer;" /><input name="ctl00$contentPlaceHolderMain$calendarPopupStartDate$hidden" type="hidden" id="ctl00_contentPlaceHolderMain_calendarPopupStartDate_hidden" value="6/12/2019" /><input name="ctl00$contentPlaceHolderMain$calendarPopupStartDate$validateHidden" type="hidden" id="ctl00_contentPlaceHolderMain_calendarPopupStartDate_validateHidden" value="06/12/2019" /><input name="ctl00$contentPlaceHolderMain$calendarPopupStartDate$enableHidden" type="hidden" id="ctl00_contentPlaceHolderMain_calendarPopupStartDate_enableHidden" value="true" /><div id="ctl00_contentPlaceHolderMain_calendarPopupStartDate_calendar" style="z-index:5001;position:absolute;display:none;float:left;"></div><div id="ctl00_contentPlaceHolderMain_calendarPopupStartDate_monthYear" style="z-index:5003;position:absolute;display:none;float:left;"></div></span>
+                </td>
+									<td style="width: 50;">
+                    &nbsp;</td>
+									<td valign="middle">
+                    <span id="ctl00_contentPlaceHolderMain_labelEndDate" class="bca-text-label">End by (optional):</span>&nbsp;
+                    <span id="ctl00_contentPlaceHolderMain_calendarPopupEndDate"><input name="ctl00$contentPlaceHolderMain$calendarPopupEndDate$textBox" type="text" readonly="readonly" id="ctl00_contentPlaceHolderMain_calendarPopupEndDate_textBox" class="bca-text" onclick="CalendarPopup_FindCalendar(&#39;ctl00_contentPlaceHolderMain_calendarPopupEndDate&#39;).Show();" style="height:18px;width:70px;" /><img id="ctl00_contentPlaceHolderMain_calendarPopupEndDate_image" onclick="CalendarPopup_FindCalendar(&#39;ctl00_contentPlaceHolderMain_calendarPopupEndDate&#39;).Show();" src="Images/calendar.gif" alt=" ... " style="border-width:0px;vertical-align:text-bottom;margin-bottom:1px;cursor:pointer;" /><input name="ctl00$contentPlaceHolderMain$calendarPopupEndDate$hidden" type="hidden" id="ctl00_contentPlaceHolderMain_calendarPopupEndDate_hidden" /><input name="ctl00$contentPlaceHolderMain$calendarPopupEndDate$validateHidden" type="hidden" id="ctl00_contentPlaceHolderMain_calendarPopupEndDate_validateHidden" /><input name="ctl00$contentPlaceHolderMain$calendarPopupEndDate$enableHidden" type="hidden" id="ctl00_contentPlaceHolderMain_calendarPopupEndDate_enableHidden" value="true" /><div id="ctl00_contentPlaceHolderMain_calendarPopupEndDate_calendar" style="z-index:5001;position:absolute;display:none;float:left;"></div><div id="ctl00_contentPlaceHolderMain_calendarPopupEndDate_monthYear" style="z-index:5003;position:absolute;display:none;float:left;"></div></span>
+                </td>
+								</tr>
+							</table>
+							
+    
+						</div>
+					</div>
+                            
+				</div>
+                        </td>
+			</tr>
+			<tr>
+				<td>
+                            <div id="ctl00_contentPlaceHolderMain_panelSearchOption3">
+					<div id="ctl00_contentPlaceHolderMain_panelKeyword">
+						
+        <span class="bca-text-em"><input id="ctl00_contentPlaceHolderMain_radiobuttonSearchByKeyword" type="radio" name="ctl00$contentPlaceHolderMain$Search" value="radiobuttonSearchByKeyword" onclick="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$contentPlaceHolderMain$radiobuttonSearchByKeyword\&#39;,\&#39;\&#39;)&#39;, 0)" /><label for="ctl00_contentPlaceHolderMain_radiobuttonSearchByKeyword">Search by keyword or phrase:</label></span>
+        <br />
+        <input name="ctl00$contentPlaceHolderMain$textboxKeyword" type="text" maxlength="100" id="ctl00_contentPlaceHolderMain_textboxKeyword" class="bca-textbox" OnKeyPress="SetKeywordOption();" />&nbsp;&nbsp;
+        <span id="ctl00_contentPlaceHolderMain_labelKeywordMsg" class="bca-text-small">Enter word or phrase (examples: Childbirth Preparation, CPR)</span>
+					</div>
+				</div>
+                            <hr style="width: 100%;" />
+                        </td>
+			</tr>
+			<tr>
+				<td align="center">
+                            <br />
+                            <input type="submit" name="ctl00$contentPlaceHolderMain$buttonGetResults" value="Get Results" id="ctl00_contentPlaceHolderMain_buttonGetResults" title="Get Results" />&nbsp;&nbsp;
+                            <input type="submit" name="ctl00$contentPlaceHolderMain$buttonReviewRegistration" value="Review Registration" id="ctl00_contentPlaceHolderMain_buttonReviewRegistration" title="Review Registration" />
+                        </td>
+			</tr>
+		</table>
+		
+            </td>
+	</tr>
+	<tr id="ctl00_contentPlaceHolderMain_tablerowMessagePageFooter" align="center">
+		<td>
+                <span class="bca-text-small">&nbsp;<br />
+                </span>
+                <span id="ctl00_contentPlaceHolderMain_labelMessagePageFooter" class="bca-text-footer">Thank you for visiting the Silver Cross Hospital website.</span>
+            </td>
+	</tr>
+	<tr>
+		<td align="center">
+                <br />
+                </td>
+	</tr>
+</table>
+
+    
+    
+    
+    <input type="hidden" name="ctl00$contentPlaceHolderMain$hiddenfieldClassSelectedID" id="ctl00_contentPlaceHolderMain_hiddenfieldClassSelectedID" />
+    <input type="hidden" name="ctl00$contentPlaceHolderMain$hiddenfieldClassStartDate" id="ctl00_contentPlaceHolderMain_hiddenfieldClassStartDate" />
+    <input type="hidden" name="ctl00$contentPlaceHolderMain$hiddenfieldClassEndDate" id="ctl00_contentPlaceHolderMain_hiddenfieldClassEndDate" />
+
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <!--<span id="cdSiteSeal1"><script type="text/javascript" src="//tracedseals.starfieldtech.com/siteseal/get?scriptId=cdSiteSeal1&amp;cdSealType=Seal1&amp;sealId=55e4ye7y7mb73f9543758dd951179wz01ayy7mb7355e4ye72b984f45f04a4fca"></script></span>-->
+                <span id="cdSiteSeal1"><script type="text/javascript" src="//seal.starfieldtech.com/getSeal?sealID=iecQMOTiJsJszqSAPWbEuqg3Nk7WaeFE6p2MqqXNg1hiGhcOSNJfbq7rYW6x"></script></span>
+            </td>
+        </tr>
+    </table>
+    
+<script language='javascript'>function SetKeywordOption() {        document.aspnetForm.ctl00_contentPlaceHolderMain_radiobuttonSearchByKeyword.checked = true;        document.aspnetForm.ctl00_contentPlaceHolderMain_radiobuttonSearchByClass.checked = false;        document.aspnetForm.ctl00_contentPlaceHolderMain_dropdownlistClass.selectedIndex = 0;} </script><script language='javascript'>function SetKeywordOption() {        document.aspnetForm.ctl00_contentPlaceHolderMain_radiobuttonSearchByKeyword.checked = true;        document.aspnetForm.ctl00_contentPlaceHolderMain_radiobuttonSearchByClass.checked = false;        document.aspnetForm.ctl00_contentPlaceHolderMain_dropdownlistClass.selectedIndex = 0;} </script><script language='javascript'>function SetClassOption() {        document.aspnetForm.ctl00_contentPlaceHolderMain_radiobuttonSearchByClass.checked = true;        document.aspnetForm.ctl00_contentPlaceHolderMain_radiobuttonSearchByKeyword.checked = false;        document.aspnetForm.ctl00_contentPlaceHolderMain_textboxKeyword.value = '';         document.getElementById('ctl00_contentPlaceHolderMain_hiddenfieldClassSelectedID').value = document.aspnetForm.ctl00_contentPlaceHolderMain_dropdownlistClass.value; } </script><script language='javascript'>function ChangeButtonBCA(el, switchto) {el.className = switchto} </script></form>
+</body>
+</html>

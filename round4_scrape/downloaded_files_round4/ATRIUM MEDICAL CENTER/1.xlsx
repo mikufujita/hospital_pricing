@@ -1,0 +1,267 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><meta name="author" content="ISITE Design" /><script type="text/javascript" src="/WorkArea/FrameworkUI/js/ektron.javascript.ashx?id=189558253+-160545197+-1399061981+1885960932+1858396078+2080800137+1987009490+787524041+-423436955+-814855039+-506815456+135021767"></script><link rel="stylesheet" type="text/css" href="/WorkArea/FrameworkUI/css/ektron.stylesheet.ashx?id=-1146421760+1336402157" /><meta name="description" content="Atrium Medical Center supports and encourages research, continuing education and professional development for our physicians and other medical staff."/><title>Research and Education - Atrium Medical Center</title><link rel="icon" href="/favicon.ico" type="image/x-icon" /><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link rel="stylesheet" type="text/css" media="all" href="/_resources/css/global.css" />
+    <!-- <link rel="stylesheet" type="text/css" media="all" href="/php.css" /> -->
+    <link rel="stylesheet" type="text/css" media="print" href="/_resources/css/print.css" /><link rel="stylesheet" type="text/css" media="print" href="/_resources/ucs/promotionalrotator/css/PromoContent.css" /><link rel="stylesheet" href="/_resources/fancybox/jquery.fancybox-1.3.1.css" type="text/css" media="screen" />
+
+    <!-- scr ipt type="text/javascript" src="/_resources/js/jquery-1.4.1.min.js" -->
+    
+    <script type="text/javascript" src="/_resources/js/jquery.validation.min.js"></script>
+    <script type="text/javascript" src="/_resources/fancybox/jquery.fancybox-1.3.1.js"></script>
+    <script type="text/javascript" src="/_resources/ucs/promotionalrotator/js/jquery.cycle.all.min.js"></script>    
+
+    <script type="text/javascript" src="/_resources/js/global.js"></script>
+    <script type="text/javascript" src="/_resources/js/global_dynamic.ashx"></script>
+
+    
+    
+
+
+<title>
+
+</title></head>
+<body id="ctl00_ctl00_pageBody">
+    <form method="post" action="/portal.aspx?id=52767" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="EktronClientManager" id="EktronClientManager" value="189558253,-160545197,-1399061981,1885960932,1858396078,2080800137,1987009490,787524041,-423436955,-814855039,-1146421760,-506815456,135021767,1336402157" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTcxODYzMzg3MQ9kFgJmD2QWAmYPZBYEAgEPZBYCAgUPFgIeBFRleHQF9wE8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iQXRyaXVtIE1lZGljYWwgQ2VudGVyIHN1cHBvcnRzIGFuZCBlbmNvdXJhZ2VzIHJlc2VhcmNoLCBjb250aW51aW5nIGVkdWNhdGlvbiBhbmQgcHJvZmVzc2lvbmFsIGRldmVsb3BtZW50IGZvciBvdXIgcGh5c2ljaWFucyBhbmQgb3RoZXIgbWVkaWNhbCBzdGFmZi4iLz48dGl0bGU+UmVzZWFyY2ggYW5kIEVkdWNhdGlvbiAtIEF0cml1bSBNZWRpY2FsIENlbnRlcjwvdGl0bGU+ZAIDD2QWAgIBEGRkFhACAg8WAh8ABbMBPGgzPkZvciBIZWFsdGggQ2FyZSBQcm9mZXNzaW9uYWxzPC9oMz48cD5UaGlzIHNpdGUgaXMgaW50ZW5kZWQgZm9yIEhlYWx0aCBDYXJlIFByb2Zlc3Npb25hbHMuwqAgUGF0aWVudHMgYW5kIGNhcmVnaXZlcnMgc2hvdWxkIHZpc2l0IDxhIGhyZWY9Ii9hdHJob21lLmFzcHgiPm91ciBtYWluIHNpdGU8L2E+LjwvcD5kAgQPZBYCZg8PFgYeBVRpdGxlBQMxODQeE0NhdGFsb2dJY29uSW1hZ2VVcmwFLi9Xb3JrQXJlYS9pbWFnZXMvYXBwbGljYXRpb24vaWNvbl9kb2N1bWVudC5naWYeEVRpdGxlSWNvbkltYWdlVXJsZWRkAgYPZBYCZg9kFgJmD2QWAgIBD2QWAmYPZBYCAgkPEA8WAh4HQ2hlY2tlZGhkZGRkAgcPZBYEAgIPZBYCAgEPFgIeB1Zpc2libGVnZAIEDxYCHwVnZAIID2QWAgIDDxYCHwAFGiDCuyBSZXNlYXJjaCBhbmQgRWR1Y2F0aW9uZAIJD2QWBAIBD2QWBAIBDw8WBh8BBRZSZXNlYXJjaCBhbmQgRWR1Y2F0aW9uHwIFLi9Xb3JrQXJlYS9pbWFnZXMvYXBwbGljYXRpb24vaWNvbl9kb2N1bWVudC5naWYfA2VkZAILDw8WBh8BBR5UaGlyZCBQYXJ0eSBDb250ZW50IERpc2NsYWltZXIfAgUuL1dvcmtBcmVhL2ltYWdlcy9hcHBsaWNhdGlvbi9pY29uX2RvY3VtZW50LmdpZh8DZWRkAgUPZBYEAgEPZBYEAgEPFgIeCWlubmVyaHRtbAVXPGEgaHJlZj0iL1dvcmtBcmVhL2xpbmtpdC5hc3B4P0xpbmtJZGVudGlmaWVyPUlEJkl0ZW1JRD01Mjc2NyI+UmVzZWFyY2ggJiBFZHVjYXRpb248L2E+ZAIDDxYCHgtfIUl0ZW1Db3VudAIDFgYCAQ9kFgICAQ9kFgRmDxUCFS9wb3J0YWwuYXNweD9pZD01Mjc2MxlNZWRpY2FsIExpYnJhcnkgUmVzb3VyY2VzZAIBDxYCHwcC/////w9kAgIPZBYCAgEPZBYEZg8VAjQvV29ya0FyZWEvbGlua2l0LmFzcHg/TGlua0lkZW50aWZpZXI9SUQmSXRlbUlEPTUxNzg4EVBhdGllbnQgRWR1Y2F0aW9uZAIBDxYCHwcC/////w9kAgMPZBYCAgEPZBYEZg8VAjQvV29ya0FyZWEvbGlua2l0LmFzcHg/TGlua0lkZW50aWZpZXI9SUQmSXRlbUlEPTUyNzYyI1Byb2Zlc3Npb25hbCBEZXZlbG9wbWVudCAmIFRyYWluaW5nZAIBDxYCHwcC/////w9kAgMPDxYCHwVoZGQCCg8PFgYfAQUNUG9ydGFsIEZvb3Rlch8CBS4vV29ya0FyZWEvaW1hZ2VzL2FwcGxpY2F0aW9uL2ljb25fZG9jdW1lbnQuZ2lmHwNlZGQCCw8WAh8ABcgCPGxpIGNsYXNzPSJzaXRlLWRpcmVjdG9yeS10b2dnbGUtbGluayIgc3R5bGU9InBhZGRpbmc6IDAgNDVweDsiPjxhIGhyZWY9IiNzaXRlLWRpcmVjdG9yeSI+Rm9yIFBoeXNpY2lhbnM8L2E+PC9saT48bGkgY2xhc3M9InNpdGUtZGlyZWN0b3J5LXRvZ2dsZS1saW5rIiBzdHlsZT0icGFkZGluZzogMCA0NXB4OyI+PGEgaHJlZj0iI3NpdGUtZGlyZWN0b3J5Ij5Gb3IgTnVyc2VzPC9hPjwvbGk+PGxpIGNsYXNzPSJzaXRlLWRpcmVjdG9yeS10b2dnbGUtbGluayIgc3R5bGU9InBhZGRpbmc6IDAgNDVweDsiPjxhIGhyZWY9IiNzaXRlLWRpcmVjdG9yeSI+Rm9yIEVNUzwvYT48L2xpPmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFMWN0bDAwJGN0bDAwJGhjcGxvZ2luJExvZ2luVmlldzEkTG9naW4yJFJlbWVtYmVyTWWG6ZcfSn/8jZKHzLINhHcWzpfwMz9Erm//kb1z0e80xA==" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+__$BubbleCloseIconPath='/WorkArea/';//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AEE5B949" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAApCzCXVOj7MRZjqRRrqSehdy20orvMXN+sbjhfYEI7GWQlJJMiV9LXm4AOD94M37yxMlBZ3DQo658+hgqxqNeng+UHuJ30OIUxBuEkecteXIydj29xRT5f6IStYnKfEkEGqgkJoVZtH+aPQS9vfhHoTYrDmF1b7MrwNHHdXeLKZS/igoQKHbAGjWK1xD1tFwxc0j7AyLG9R0PjMYWPkRxlzVkanNV9gtcc6rJGS189cczDw0LpOI299nlJxPjxx/PA=" />
+</div>
+    
+    
+
+    <input type="hidden" name="ctl00$ctl00$hiddenPageID" id="ctl00_ctl00_hiddenPageID" />
+    <div id="wrapper">
+        <div id="header">
+            <div class="brand">
+                <div id="site-title"><h3>For Health Care Professionals</h3><p>This site is intended for Health Care Professionals.  Patients and caregivers should visit <a href="/atrhome.aspx">our main site</a>.</p></div>
+                <a id="brand" href="/">Premier Health Partners</a>
+            </div>
+            <div class="topnav">
+
+               	
+
+<fieldset class="site-search">
+    <legend class="accessibility">Search this site.</legend>
+    <label for="ctl00$ctl00$PortalSearch1$txtSearchText" class="accessibility">Search this site.</label>
+    <input name="ctl00$ctl00$PortalSearch1$txtSearchText" type="text" value="Search This Site" id="ctl00_ctl00_PortalSearch1_txtSearchText" onfocus="this.value= (this.value==&#39;Search This Site&#39;) ? &#39;&#39; : this.value" onblur="this.value=(this.value==&#39;&#39;) ? &#39;Search This Site&#39; : this.value" />
+    <input name="ctl00$ctl00$PortalSearch1$txtInvisible" type="text" value="This is here to make the enter key work" id="ctl00_ctl00_PortalSearch1_txtInvisible" style="width:0px;visibility:hidden; display:none;" />    
+    <input type="submit" name="ctl00$ctl00$PortalSearch1$cmd_search" value="GO" id="ctl00_ctl00_PortalSearch1_cmd_search" class="go" />  
+</fieldset>
+
+	            <span id="ctl00_ctl00_unav_mainnav"><ul><li class="accessibility"><a href="#content" tabindex="1" accesskey="2">Skip to Content</a></li><li class="accessibility"><a href="#nav" accesskey="3">Skip to Navigation</a></li><li class="accessibility"><a href="/" accesskey="1">Return to Homepage</a></li><li><a href="/portal.aspx?id=51997">About This Site</a></li><li><a href="/portal.aspx?id=52000">Contact Us</a></li><li class="last"><a href="/portal.aspx?id=51999">Help</a></li></ul></span>
+
+            </div>
+            <div id="utility">
+                <div class="hospital-header"><a href="/hcphome.aspx?Pageid=54145" class="hospital-name"><img src="/uploadedImages/GlobalUtilities/Portal/P-W-PHY02201-AMC_Logo.png" alt="Atrium Medical Center" border="0" /></a><fieldset class="hospital-change"><legend class="accessibility">Hospital Selector</legend><label for="hospital-selector" class="accessibility">Change My Current Hospital View</label><select name="hospital-selector" id="hospital-selector"><option value="None">Select a different hospital</option><option value="Atrium Medical Center">Atrium Medical Center</option><option value="Miami Valley Hospital">Miami Valley Hospital</option><option value="Upper Valley Medical Center">Upper Valley Medical Center</option></select><button>Go</button></fieldset></div>
+                <div class="heros" style="background-image: url(https://www.atriummedcenter.org:443/assets/0/262/4803/4804/4808/4826/ec6d65b2-877e-4748-9ac2-9a986fc317f8.jpg);; background-repeat: no-repeat; background-position: center 0px; width: 326px; height: 111px;">
+                </div>
+                <!-- <div class="heros"> -->
+                <!--	<img src="/_resources/img/css/grey_dot.gif" width="185" height="107" alt="Grey Dot" />  -->
+                <!--	<img src="/_resources/img/css/grey_dot.gif" width="137" height="107" alt="Grey Dot" /> -->
+                <!-- </div> -->
+                <!-- /heros -->
+                <div class="user-area">
+                    
+        <div id="login-box">
+        <h2>Sign In to Secure Physician Portal</h2>
+        <table id="ctl00_ctl00_hcplogin_LoginView1_Login2" cellspacing="0" cellpadding="0" style="border-style:None;border-collapse:collapse;">
+	<tr>
+		<td>
+                <ul>
+                    <li><label for="ctl00_ctl00_hcplogin_LoginView1_Login2_UserName" id="ctl00_ctl00_hcplogin_LoginView1_Login2_UserNameLabel">User Name:</label> <input name="ctl00$ctl00$hcplogin$LoginView1$Login2$UserName" type="text" id="ctl00_ctl00_hcplogin_LoginView1_Login2_UserName" /></li>
+                    <li><label for="ctl00_ctl00_hcplogin_LoginView1_Login2_Password" id="ctl00_ctl00_hcplogin_LoginView1_Login2_PasswordLabel">Password:</label> <input name="ctl00$ctl00$hcplogin$LoginView1$Login2$Password" type="password" id="ctl00_ctl00_hcplogin_LoginView1_Login2_Password" /></li>
+                    <!-- <input id="ctl00_ctl00_hcplogin_LoginView1_Login2_RememberMe" type="checkbox" name="ctl00$ctl00$hcplogin$LoginView1$Login2$RememberMe" /><label for="ctl00_ctl00_hcplogin_LoginView1_Login2_RememberMe">Remember me.</label> -->
+                    <li class="submit"><input type="submit" name="ctl00$ctl00$hcplogin$LoginView1$Login2$LoginButton" value="Sign In" id="ctl00_ctl00_hcplogin_LoginView1_Login2_LoginButton" /></li>
+                    <script language="javascript">
+                        var fText = '';
+                        if ('' != fText) { $j(document).ready(function($) { showAlertMessage('Error', fText, 'error'); }); }
+                    </script>
+                </ul>
+            </td>
+	</tr>
+</table>        
+        </div>
+        
+        <ul class="nav login-help">
+		    <span id="ctl00_ctl00_hcplogin_LoginView1_loginhelplinks"><li><a href="/portal.aspx?id=52622">Forgot User ID or Password?</a></li><li><a href="/portal.aspx?id=51999">Help</a></li><li class="last"><a href="/portal.aspx?id=52002">Request Access</a></li></span>
+	    </ul><!-- /nav -->
+    
+
+                </div>
+                <!-- /user-area -->
+            </div>
+            <!-- /#utility -->
+        </div>
+        <!-- /header -->
+        <div id="page-utility">
+            
+            
+            <div id="page-tools" class="hide">
+                <input type="hidden" name="ctl00$ctl00$pageUtility$hiddenContentID" id="ctl00_ctl00_pageUtility_hiddenContentID" value="52767" />
+
+
+    <ul>
+        <li id="tool-print"><a href="#" onclick="window.print()">Print This Page</a></li>
+        <li id="tool-size"><a href="#">Adjust Text Size</a></li>
+        <li id="tool-email"><a href="#">Email this page to a colleague</a></li>
+        
+        
+        
+    </ul>
+
+
+            </div>
+            
+            
+<h4>You are here:</h4>
+<a target="_self" href="/atrhome.aspx" title="">Atrium Medical Center</a> » <a target="_self" href="/Hcphome.aspx?pageid=54145" title="">Health Care Professionals</a> » <a target="_self" href="/Hcphome.aspx?pageid=54146" title="">For Physicians</a>
+ » Research and Education
+            		    
+            <!-- /#page-tools -->
+        </div>
+        <!-- /#breadcrumbs -->
+        <div id="alert" class="alert hide">
+            <!-- class name can change based on context .error, .alert, .message, .success .... -->
+            <h2 id="alertTitle">
+            </h2>
+            <p id="alertMsg">
+            </p>
+        </div>
+        <!-- /#alert -->
+        <div id="content">
+            
+
+    <div id="primary">
+        
+    <div id="ctl00_ctl00_maincontent_PrimaryContent_stcb">
+	<p><span class="hdl1">Research and Education</span></p>
+<p>Atrium Medical Center (Atrium) supports and encourages research, continuing education and professional development for our physicians and other medical staff. You’ll find a variety of resources to help you achieve your medical education and research initiatives.</p>
+<p>Use the <a title="You are leaving the Atrium Medical Center website." href="http://www.libraries.wright.edu/" target="_blank">Medical Library at Wright State University</a> <img title="Off Site Icon" border="0" alt="Off Site Icon" src="/uploadedImages/GlobalUtilities/offsite_icon.gif" width="11" height="9" /> to access the latest health information and research data. Find out more about the <a title="Continuing Medical Education" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=52102&amp;libID=52011">CME activities</a> offered through NCME-TV™. Learn what steps you must take before conducting <a title="Research and Clinical Trials" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=52757&amp;libID=52666">research involving human subjects</a>. Print helpful, easy-to-understand <a title="Patient Education" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51960&amp;libID=51869">medical information for your patients</a> from syndicated databases such as Krames Online.</p>
+<p>Atrium offers this range of opportunities for ongoing education and research to ensure our health care professionals will continue to provide the highest quality care for their patients.</p>
+<p><span class="hdl3">Research and Education Resources</span></p>
+<ul>
+<li><a title="Medical Library Resources" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=52763&amp;libID=52672">Medical Library Resources</a> </li>
+<li><a title="Patient Education" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51788&amp;libID=51697">Patient Education</a> </li>
+<li><a title="Professional Development and Training" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=52762&amp;libID=52671">Professional Development &amp; Training</a> </li>
+</ul>
+</div>
+    
+    
+    <div id="ctl00_ctl00_maincontent_PrimaryContent_seccb">
+	
+</div>
+    <span id="ctl00_ctl00_maincontent_PrimaryContent_relCollection"><ul></ul></span>
+    <br />
+    <div id="ctl00_ctl00_maincontent_PrimaryContent_ContentBlock3Party">
+	<p><b>DISCLAIMER:</b>Atrium Medical Center does not have any control over the content of third-party websites and neither endorses nor accepts any responsibility for the content, products, and services on or sold on these websites. The <img width="11" height="9" title="Off Site Icon" alt="Off Site Icon" src="/uploadedImages/GlobalUtilities/offsite_icon.gif" border="0" /> symbol indicates a third-party website.</p>
+</div>
+
+    </div>
+
+    <div id="secondary">
+        
+    	<span id="ctl00_ctl00_maincontent_TertiaryContent_FeatCollection"><div id="featurecollection"><Html><p><a title="Physician Support – How May We Help You?" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51796&amp;libID=51705"><img title="Physician Support CO" border="0" alt="Physician Support CO" src="/uploadedImages/atrium/Health_Care_Professionals/Features/P-W-PHY022232-Physician_Support_CO.jpg" width="195" height="91" /></a></p></Html><br /><Html><p><a href="/portalwide.aspx?id=78233" title="Premier Pulse - March 2014"><img src="/uploadedImages/GlobalImages/P-W-COM40294-CO_PremierPulse2.jpg?n=8685" alt="Premier Pulse Callout" title="Premier Pulse Callout" /></a></p></Html><br /><Html><p><a title="Outpatient Pre-Authorization &amp; Scheduling" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=51966&amp;libID=51875"><img title="Optional Callout - Schedule a Patient" height="148" alt="Optional Callout - Schedule a Patient" src="/uploadedImages/atrium/Health_Care_Professionals/Features/A-W-PHY10340-Portal_PTSchedule_CO.jpg" width="195" border="0" /></a></p></Html><br /></div></span> 
+    		<!-- atrium=216 gsh=217 mvh=218 -->
+
+
+    </div>
+
+    <div id="tertiary">
+        
+    
+
+<div id="secondarynav" >
+<h2 id="ctl00_ctl00_maincontent_SecondaryContent_SecondaryNav1_navsubheading"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&ItemID=52767">Research & Education</a></h2>
+
+    	<ul id="secnavopts">
+	
+    	<li id="ctl00_ctl00_maincontent_SecondaryContent_SecondaryNav1_NavLevel1_ctl01_ListItem">
+    		<a href="/portal.aspx?id=52763">Medical Library Resources</a>
+       	    
+	    </li>
+	
+    	<li id="ctl00_ctl00_maincontent_SecondaryContent_SecondaryNav1_NavLevel1_ctl02_ListItem">
+    		<a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&ItemID=51788">Patient Education</a>
+       	    
+	    </li>
+	
+    	<li id="ctl00_ctl00_maincontent_SecondaryContent_SecondaryNav1_NavLevel1_ctl03_ListItem">
+    		<a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&ItemID=52762">Professional Development & Training</a>
+       	    
+	    </li>
+	
+	    </ul>
+	
+</div>
+    
+
+    </div>
+
+
+        </div>
+        <!-- /content -->
+        <div id="footer">
+            <div id="ctl00_ctl00_regcontent">
+	<p><a href="http://www.jointcommission.com/" target="_blank"><img alt="The Joint Commission National Quality Approval" src="/resources/images/jointcommission_logo.gif" border="0" /></a>&#160;2014 Premier Health Partners. All rights reserved worldwide.</p>
+<ul>
+<li><a title="Privacy Policy" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=12050&amp;libID=12056">Privacy&#160;</a>|</li>
+<li><a title="Disclaimer" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=12042&amp;libID=12048">Disclaimer</a>&#160;|</li>
+<li><a title="Site Map" href="/WorkArea/linkit.aspx?LinkIdentifier=id&amp;ItemID=12076&amp;libID=12082">Site Map</a><br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &#160;One Medical Center Drive Middletown, OH 45005 <span class="telD">(513) 424-2111</span><a href="tel:513-424-2111" class="telM">(513) 424-2111</a></li>
+</ul>
+</div>
+        </div>
+        <!-- /footer -->
+        <div id="nav">
+            
+            <ul class="nav">
+		        <li class="site-directory-toggle"><a href="#site-directory">Open Site Directory</a></li>
+                <li class="site-directory-toggle-link" style="padding: 0 45px;"><a href="#site-directory">For Physicians</a></li><li class="site-directory-toggle-link" style="padding: 0 45px;"><a href="#site-directory">For Nurses</a></li><li class="site-directory-toggle-link" style="padding: 0 45px;"><a href="#site-directory">For EMS</a></li>
+	        </ul> <!-- /nav -->
+        </div>
+        <!-- /#nav -->
+        
+<div id="site-directory"><div class="col-full-top"><h2><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=54145">For All Health Care Professionals</a></h2><ul><li><a href="/portal.aspx?id=52763">Medical Library Resources</a></li><li><a href="/portal.aspx?id=51788">Patient Education</a></li><li><a href="/hcpfindadoctor.aspx?id=51783">Physician Directory</a></li><li><a href="/portalatoz.aspx?id=51781">Hospital Services</a></li></ul></div><div class="cols-two"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=54146">For Physicians </a></h3><div class="col col-inner"><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=51784">Refer a Patient</a><ul><li><a href="/hcpfindadoctor.aspx?id=51783">Physician Directory</a></li><li><a href="/portalatoz.aspx?id=51781">Hospital Services</a></li><li><a href="/portal.aspx?id=78206">Lung Cancer Screening Program</a></li></ul></li></ul><ul><li><hr /></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=52767">Education</a><ul><li><a href="/portal.aspx?id=52763">Medical Library Resources</a></li><li><a href="/portal.aspx?id=51788">Patient Education</a></li><li><a href="/portal.aspx?id=52102">Continuing Medical Education</a></li></ul></li></ul></div><div class="col col-inner"><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=51967">Manage Patient Care</a><ul><li><a href="/portal.aspx?id=51966">Premier Health Pre-Admission Solutions</a></li><li><a href="/portal.aspx?id=51965">Admissions &amp; Orders</a></li><li><a href="/portal.aspx?id=51964">Patient Transfer</a></li></ul></li></ul><ul><li><hr /></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=51797">Medical Staff Relations</a><ul><li><a href="/portal.aspx?id=51796">Physicians Relations Manager/Physician Support</a></li><li><a href="/portalwide.aspx?id=78233">Newsletter</a></li><li><a href="/portal.aspx?id=64973">Resource Toolkit and Marketing Guide</a></li><li><a href="/portal.aspx?id=52026">Practice Opportunities</a></li><li><a href="/portal.aspx?id=51791">Credentialing</a></li><li><a href="/portal.aspx?id=51790">Medical Office Space</a></li><li><a href="/portal.aspx?id=51780">Medical Staff Office</a></li><li><a href="/portal.aspx?id=51804">Quality &amp; Patient Safety</a></li></ul></li></ul></div></div><div class="col" id="col2"><h3><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=33682">For Nurses</a></h3><ul><li><a href="http://www.premierhealth.com/Careers/">Career Opportunities</a></li><li><a href="/portal.aspx?id=33176">Mission, Vision, and Values</a></li><li><a href="/portal.aspx?id=78861">DAISY Award</a></li></ul></div><div class="col" id="col3"><h3><a href="https://www.premierhealth.com/EMSConnect/">For EMS</a></h3><ul><li><a href="http://www.premierhealth.com/Health-Professionals/EMS/News-and-Community/">News and Community</a></li><li><a href="http://www.premierhealth.com/Health-Professionals/EMS/Services-and-Support/">Services and Support</a></li><li><a href="http://www.premierhealth.com/Health-Professionals/EMS/Education/">Education</a></li></ul></div></div><script type="text/javascript">
+function GetPreviewURL() {
+ var url = self.location.href;
+ var arString = url.split('?')
+ if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
+ else { url = url + "?cmsMode=Preview"}
+ return url;
+}
+</script><script type="text/javascript">
+function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
+function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
+ PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
+ } 
+</script>
+
+
+    </div>
+    <!-- /wrapper -->
+    
+    </form>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2915658-4");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

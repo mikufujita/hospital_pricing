@@ -1,0 +1,1399 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" /><title>
+	Find a Doctor in Alaska
+</title>
+    <script>
+        /* We use the tpath variable in other aspx pages so we include it globally in the site master */
+        var sitehost = window.location.host;
+        var tpath = "prod";
+        if (sitehost.indexOf("devwork") > -1) { tpath = "dev"; }
+        else if (sitehost.indexOf("cm-") > -1) { tpath = "qa"; }
+        else if (sitehost.indexOf("cm.") > -1) { tpath = "qa"; }
+        else if (sitehost.indexOf("dev.") > -1) { tpath = "dev"; }
+        else if (sitehost.indexOf("dev-") > -1) { tpath = "dev"; }
+        (function (a, b, c, d) {
+                a = '//tags.tiqcdn.com/utag/providence/prov/' + tpath + '/utag.js'; b = document; c = 'script'; d = b.createElement(c); d.src = a; d.type = 'text/java' + c; d.async = true; a = b.getElementsByTagName(c)[0]; a.parentNode.insertBefore(d, a);
+            }
+        )();
+    </script>
+    
+    <link rel="canonical" href="https://www.providence.org/doctors/?region=ak" />
+
+
+    <script src="https://www.providence.org/doctors/Scripts/modernizr-2.6.2.js?region=ak&amp;v=20" type="text/javascript"></script>
+    
+        <link href="https://www.providence.org/doctors/Content/bootstrap.css?region=ak&amp;v=11" rel="stylesheet" type="text/css" />
+        <link href="https://www.providence.org/doctors/Content/jquery.typeahead.css?region=ak&amp;v=11" rel="stylesheet" type="text/css" />
+        <link href="https://www.providence.org/doctors/Content/site.css?region=ak&amp;v=11" rel="stylesheet" type="text/css" />
+    
+    <script src="https://www.providence.org/doctors/Scripts/tealium-helper.min.js?region=ak&amp;v=20" type="text/javascript"></script>
+    
+
+<!-- STYLES AND SCRIPT FOR GCSE -->
+    <style type="text/css">
+        .gsc-control-searchbox-only {
+            width: 300px;
+            position: absolute;
+            top: 25px;
+            right: 50px;
+        }
+        .gsc-input-box {width: 150px; float: right;}
+        .cse .gsc-search-button input.gsc-search-button-v2, input.gsc-search-button-v2 {height: auto!important; width: auto!important; margin-top: 0px!important;}
+        table.gsc-search-box td {vertical-align: top!important;}
+        .gsst_b {position: absolute!important; right: 110px; top: 18px;}
+        .gsst_a {background: transparent!important; background-color: transparent!important; padding-top: 0!important; padding-bottom: 0!important;}
+        .gsc-search-box td {border-top: 0px;}
+        .cse input.gsc-input, input.gsc-input {background-image:none !important;}        
+    </style>
+   
+    <script>
+      (function() {
+        var cx = '018049758573139502428:kasdtfqpqzq';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+      })();
+    </script> 
+    <!-- END STYLES AND SCRIPT FOR GCSE -->
+
+    <!-- Fav Icons -->
+    <link rel="apple-touch-icon" href="//www.providence.org/assets/mtmc/images/apple-touch-icon.png">
+
+    <!-- Stylesheets -->
+    <!--<link rel="stylesheet" href="/assets/mtmc/css/styles.css">-->
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" media="all" rel="stylesheet" />
+    <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" />
+    <link href="//fonts.googleapis.com/css?family=Chivo" rel="stylesheet" type="text/css">
+    <link href="https://www.providence.org/doctors/assets/oregon/css/all.css?region=ak&v=11" rel="stylesheet" type="text/css">
+    <link href="https://www.providence.org/doctors/assets/oregon/css/modules.css?region=ak&v=11" rel="stylesheet" type="text/css">
+    <script src="https://www.providence.org/doctors/assets/oregon/css/modernizr-2.7.1.min.js?region=ak&v=20"></script>
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@provhealth">
+    <meta name="twitter:title" content="Creating Healthier Communities, Together">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="//www.providence.org/en" />
+
+    <!-- Is this needed or was it injected? -->
+    <script src="https://cdn.optimizely.com/js/3580442334.js"></script>
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <script type="text/javascript">
+        //Used to parse querystring parameters into an object called urlParams (use like urlParams["mykey"])
+        var urlParams;
+        (window.onpopstate = function () {
+            var match,
+                pl = /\+/g,  // Regex for replacing addition symbol with a space
+                search = /([^&=]+)=?([^&]*)/g,
+                decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+                query = window.location.search.substring(1);
+
+            urlParams = {};
+            while (match = search.exec(query))
+                urlParams[decode(match[1])] = decode(match[2]);
+        })();
+    </script>
+
+    
+<header>
+    <section class="top grid chart">
+    </section>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <section class="top grid">
+                    <div class="top-tiny-nav desktop">
+                        <ul>
+                            <li><div class="mychart"><a class="ak-mychart" href="https://mychartak.providence.org/mychart/">MyChart</a></div></li>
+                        </ul>
+                    </div>
+                    
+                    <div id="top_0_pnlLogo" class="">
+                        <a id="top_0_hplLogo" href="/">
+                            
+                                <img src="https://www.providence.org/doctors/images/region-logos/prov.png?region=ak" class="img-responsive" width="200" height="100" alt="PHSLogo" />
+                            
+                        </a>
+                    </div>
+                    <!--<nav class="mobile-nav"></nav>
+                    Mobile CODE: added .mobile-menu -->
+                    <section class="mobile-menu visible-mobile">
+                        <div>
+                            <!--<a href="#" class="search searchmain">&nbsp;</a>-->
+                            <a href="#" class="nav-btn" data-whld="tested"></a>
+                        </div>
+                    </section>
+                </section>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!--============================================= MedTouch.Base: Common: Primary Navigation =============================================-->
+   
+<nav role="navigation" class="topmenu ">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 grid">
+                <ul class="top-nav">
+                    <li class=""><a href="https://www.providence.org/doctors/?region=ak&reset=true">Find a Doctor  </a></li><li class=""><a href="//alaska.providence.org/services">Departments  </a></li><li class=""><a href="//alaska.providence.org/locations">Locations  </a></li><li class=""><a href="//alaska.providence.org/health-library">Health Resources  </a></li><li class=""><a href="//alaska.providence.org/news">News & Events  </a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+  
+<!--============================================= /MedTouch.Base: Common: Primary Navigation =============================================-->
+
+<div class="flyout-mobile-move flyout-mobile"></div>
+
+
+
+    <div class="container">
+        
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="height-spacer"></div>
+            <h1 class="h1 bottom-margin">Find a Doctor<br/><span style="font-size: 16px; font-weight: 500; margin-left: 0.5em;"> in Alaska</span></h1>            
+        </div>
+    </div>
+    <div class="row outlined">
+        <div class="col-sm-12">
+            <!-- form name needs to be typeahead-search for our analytics scripts to inject -->
+            <form id="typeahead-search" action="https://www.providence.org/doctors/searchresults.aspx?region=ak" method="get">
+                <!-- Search Controls are in a user control -->
+                
+
+
+
+
+
+<div class="row filters-container-white-bg">
+    <div class="col-md-6" id="term">
+        <div class="typeahead__container">
+            <div class="typeahead__field">                           
+                <span class="typeahead__query">
+                    <label class="filters-label" for="search-term">Search by</label>
+                    <input class="typeahead form-control"
+                        name="search-term"
+                        id="search-term"
+                        type="search"
+                        placeholder="specialty, symptom, condition, treatment, doctor name"
+                        autocomplete="off"
+                        value=""/>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3" id="zip">
+        <div class="typeahead__container">
+            <div class="typeahead__field">                           
+                <span class="typeahead__query">
+                <label  class="filters-label" for="location">Zip Code</label>         
+                <input type="text" class="form-control" id="location" name="location" value="" placeholder="Zip Code"/>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3" id="ziprange">
+        <div class="typeahead__container">
+            <div class="typeahead__field">                                           
+                <span class="typeahead__query">
+                    <div class="height-spacer"></div>
+                    <select id="range" name="range" class="form-control range-box">
+                        <option value="10"  selected >10 miles</option>
+                        <option value="15"  >15 miles</option>
+                        <option value="20"  >20 miles</option>
+                        <option value="3500" >Any Distance</option>
+                    </select>
+                </span>
+            </div>
+        </div>
+    </div>
+
+    <input type="hidden" name="search-type" id="search-type" value="" />
+    <input type="hidden" name="search-query" id="search-query" value="" />
+    <input type="hidden" name="page" id="page" value="1" />
+    <input type="hidden" name="sort" id="sort" value="relevance" />
+    <input type="hidden" name="shuffle-seed" id="shuffle-seed" value="" />
+    <input type="hidden" name="sc-guid" value="" />
+    
+    <input type="hidden" name="region" value="ak" />
+    
+</div>
+
+
+
+                
+<div class="row filters-container-white-bg">
+    <div class="col-md-3">
+         <label class="top-margin-5  filters-label" for="language">Language</label>
+        <select id="language" name="language" class="form-control gender-box">
+            
+                    <option value="American Sign Language" >American Sign Language</option>
+            
+                    <option value="Arabic" >Arabic</option>
+            
+                    <option value="Burmese" >Burmese</option>
+            
+                    <option value="Chinese - Cantonese" >Chinese - Cantonese</option>
+            
+                    <option value="Chinese - Mandarin" >Chinese - Mandarin</option>
+            
+                    <option value="Croatian" >Croatian</option>
+            
+                    <option value="Czech" >Czech</option>
+            
+                    <option value="Danish" >Danish</option>
+            
+                    <option value="Dutch" >Dutch</option>
+            
+                    <option value="English"  selected >English</option>
+            
+                    <option value="Filipino" >Filipino</option>
+            
+                    <option value="Finnish" >Finnish</option>
+            
+                    <option value="French" >French</option>
+            
+                    <option value="German" >German</option>
+            
+                    <option value="Greek" >Greek</option>
+            
+                    <option value="Gujarati" >Gujarati</option>
+            
+                    <option value="Hebrew" >Hebrew</option>
+            
+                    <option value="Hindi" >Hindi</option>
+            
+                    <option value="Hokkien" >Hokkien</option>
+            
+                    <option value="Hungarian" >Hungarian</option>
+            
+                    <option value="Indonesian" >Indonesian</option>
+            
+                    <option value="Italian" >Italian</option>
+            
+                    <option value="Japanese" >Japanese</option>
+            
+                    <option value="Khmer" >Khmer</option>
+            
+                    <option value="Konkani" >Konkani</option>
+            
+                    <option value="Korean" >Korean</option>
+            
+                    <option value="Marathi" >Marathi</option>
+            
+                    <option value="Panjabi" >Panjabi</option>
+            
+                    <option value="Persian" >Persian</option>
+            
+                    <option value="Polish" >Polish</option>
+            
+                    <option value="Portuguese" >Portuguese</option>
+            
+                    <option value="Romanian" >Romanian</option>
+            
+                    <option value="Russian" >Russian</option>
+            
+                    <option value="Spanish" >Spanish</option>
+            
+                    <option value="Swahili" >Swahili</option>
+            
+                    <option value="Swedish" >Swedish</option>
+            
+                    <option value="Tagalog" >Tagalog</option>
+            
+                    <option value="Tamil" >Tamil</option>
+            
+                    <option value="Telugu" >Telugu</option>
+            
+                    <option value="Turkish" >Turkish</option>
+            
+                    <option value="Ukrainian" >Ukrainian</option>
+            
+                    <option value="Urdu" >Urdu</option>
+            
+                    <option value="Vietnamese" >Vietnamese</option>
+            
+                    <option value="Visayan" >Visayan</option>
+            
+        </select>
+    </div>
+    <div class="col-md-3" id="gender-filter">
+        <label  class="filters-label" for="gender">Gender</label>
+        <select id="gender" name="gender" class="form-control gender-box">
+            <option value=""  selected >Any</option>
+            <option value="Male" >Male</option>
+            <option value="Female" >Female</option>
+        </select>
+    </div>
+    
+    
+        <div class="col-md-6">
+            <label class="top-margin-5  filters-label" for="insurance">Health Plans Accepted</label>
+            <select id="insurance" name="insurance" class="form-control gender-box">
+                <option value=""  selected >Any</option>
+                
+                        <option value="AARP" >AARP</option>
+                
+                        <option value="Aetna - Aexcel Network" >Aetna - Aexcel Network</option>
+                
+                        <option value="Aetna - Basic Health Plan" >Aetna - Basic Health Plan</option>
+                
+                        <option value="Aetna - Behaviorial Health" >Aetna - Behaviorial Health</option>
+                
+                        <option value="Aetna - Medicare" >Aetna - Medicare</option>
+                
+                        <option value="Aetna - Medicare Advantage PPO" >Aetna - Medicare Advantage PPO</option>
+                
+                        <option value="Aetna - Open Access Managed Choice" >Aetna - Open Access Managed Choice</option>
+                
+                        <option value="Aetna - Standard" >Aetna - Standard</option>
+                
+                        <option value="Aetna Medicare Advantage HMO" >Aetna Medicare Advantage HMO</option>
+                
+                        <option value="Aetna Medicare Advantage PPO" >Aetna Medicare Advantage PPO</option>
+                
+                        <option value="Aetna POS/EPO" >Aetna POS/EPO</option>
+                
+                        <option value="Aetna PPO" >Aetna PPO</option>
+                
+                        <option value="Amerigroup - Amerivantage Dual Coordination" >Amerigroup - Amerivantage Dual Coordination</option>
+                
+                        <option value="Amerigroup - Amerivantage HMO" >Amerigroup - Amerivantage HMO</option>
+                
+                        <option value="Amerigroup - Healthy Options" >Amerigroup - Healthy Options</option>
+                
+                        <option value="Amerigroup - Medicare Advantage" >Amerigroup - Medicare Advantage</option>
+                
+                        <option value="Amerigroup - Real Solutions (Medicaid Fee-for-Service, PC zip code restrictions)" >Amerigroup - Real Solutions (Medicaid Fee-for-Service, PC zip code restrictions)</option>
+                
+                        <option value="Amerigroup Medicaid (WA Apple Health)" >Amerigroup Medicaid (WA Apple Health)</option>
+                
+                        <option value="Anthem Blue Cross POS/EPO" >Anthem Blue Cross POS/EPO</option>
+                
+                        <option value="Anthem Blue Cross PPO/POS" >Anthem Blue Cross PPO/POS</option>
+                
+                        <option value="Asuris" >Asuris</option>
+                
+                        <option value="Beacon Health Options PPO (Behavioral Health)" >Beacon Health Options PPO (Behavioral Health)</option>
+                
+                        <option value="Beechstreet" >Beechstreet</option>
+                
+                        <option value="Blue Cross Blue Shield - Federal Employee Program" >Blue Cross Blue Shield - Federal Employee Program</option>
+                
+                        <option value="Blue Cross Blue Shield of CA PPO" >Blue Cross Blue Shield of CA PPO</option>
+                
+                        <option value="Bridgespan - (authorization required, otherwise not in network)" >Bridgespan - (authorization required, otherwise not in network)</option>
+                
+                        <option value="CNA Insurance Co" >CNA Insurance Co</option>
+                
+                        <option value="Cenpatico/Coordinated Care - (Behavioral Health)" >Cenpatico/Coordinated Care - (Behavioral Health)</option>
+                
+                        <option value="Childrens Health Program (CHIP)" >Childrens Health Program (CHIP)</option>
+                
+                        <option value="Cigna - First Choice" >Cigna - First Choice</option>
+                
+                        <option value="Cigna Behavioral  Health" >Cigna Behavioral  Health</option>
+                
+                        <option value="Cigna POS/EPO" >Cigna POS/EPO</option>
+                
+                        <option value="Cigna PPO" >Cigna PPO</option>
+                
+                        <option value="Community Health Plan of Washington" >Community Health Plan of Washington</option>
+                
+                        <option value="Community Health Plan of Washington (WA Apple Health)" >Community Health Plan of Washington (WA Apple Health)</option>
+                
+                        <option value="Community Health Plan of Washington - Medicare Advantage" >Community Health Plan of Washington - Medicare Advantage</option>
+                
+                        <option value="Coordinated Care (WA Apple Health)" >Coordinated Care (WA Apple Health)</option>
+                
+                        <option value="Coordinated Care - Ambetter" >Coordinated Care - Ambetter</option>
+                
+                        <option value="CorVel Disability Management - PPO" >CorVel Disability Management - PPO</option>
+                
+                        <option value="Coventry" >Coventry</option>
+                
+                        <option value="Coventry/First Health - (most products accepted)" >Coventry/First Health - (most products accepted)</option>
+                
+                        <option value="Coventry/First Health PPO" >Coventry/First Health PPO</option>
+                
+                        <option value="Department of Social and Health Services - (zip code restrictions)" >Department of Social and Health Services - (zip code restrictions)</option>
+                
+                        <option value="First Choice Health Network" >First Choice Health Network</option>
+                
+                        <option value="First Choice Health Network - Boeing" >First Choice Health Network - Boeing</option>
+                
+                        <option value="First Choice Health Network - Cigna" >First Choice Health Network - Cigna</option>
+                
+                        <option value="First Choice Health Network PPO" >First Choice Health Network PPO</option>
+                
+                        <option value="First Health Network - PPO/EPO" >First Health Network - PPO/EPO</option>
+                
+                        <option value="First Health- Through Coventry" >First Health- Through Coventry</option>
+                
+                        <option value="GWH-Cigna HMO" >GWH-Cigna HMO</option>
+                
+                        <option value="GWH-Cigna PPO" >GWH-Cigna PPO</option>
+                
+                        <option value="Hartford Insurance" >Hartford Insurance</option>
+                
+                        <option value="Health Management Network" >Health Management Network</option>
+                
+                        <option value="Health Net - Covered CA PPO" >Health Net - Covered CA PPO</option>
+                
+                        <option value="Health Net - PPO/EPO/POS" >Health Net - PPO/EPO/POS</option>
+                
+                        <option value="Health Systems International - (Behavioral Health)" >Health Systems International - (Behavioral Health)</option>
+                
+                        <option value="HealthSmart (Interplan) PPO" >HealthSmart (Interplan) PPO</option>
+                
+                        <option value="Healthsmart" >Healthsmart</option>
+                
+                        <option value="Healthy Options - United Healthcare" >Healthy Options - United Healthcare</option>
+                
+                        <option value="Holland American Cruise Lines" >Holland American Cruise Lines</option>
+                
+                        <option value="Humana" >Humana</option>
+                
+                        <option value="Humana - (Behavioral Health)" >Humana - (Behavioral Health)</option>
+                
+                        <option value="Humana - Choice" >Humana - Choice</option>
+                
+                        <option value="Humana - Gold" >Humana - Gold</option>
+                
+                        <option value="Humana Medicare Advantage" >Humana Medicare Advantage</option>
+                
+                        <option value="Humana PPO" >Humana PPO</option>
+                
+                        <option value="ILWU-PMA (Longshoremen)" >ILWU-PMA (Longshoremen)</option>
+                
+                        <option value="ILWU-PMA Blue Shield - PPO" >ILWU-PMA Blue Shield - PPO</option>
+                
+                        <option value="Interlink Transplant Services - (transplant services only)" >Interlink Transplant Services - (transplant services only)</option>
+                
+                        <option value="Interplan" >Interplan</option>
+                
+                        <option value="Kaiser (Contract Limitations)" >Kaiser (Contract Limitations)</option>
+                
+                        <option value="Labor and Industries" >Labor and Industries</option>
+                
+                        <option value="Labor and Industry (L&amp;I)" >Labor and Industry (L&amp;I)</option>
+                
+                        <option value="LifeWise - Health Plan of Washington Preferred" >LifeWise - Health Plan of Washington Preferred</option>
+                
+                        <option value="LifeWise Assurance Company" >LifeWise Assurance Company</option>
+                
+                        <option value="LifeWise Health Plan of Washington - Connect (clinic restrictions)" >LifeWise Health Plan of Washington - Connect (clinic restrictions)</option>
+                
+                        <option value="LifeWise PPO" >LifeWise PPO</option>
+                
+                        <option value="Mail Handlers Benefit Plan" >Mail Handlers Benefit Plan</option>
+                
+                        <option value="Managed Health Network" >Managed Health Network</option>
+                
+                        <option value="Managed Health Network_(Behavioral Health)" >Managed Health Network (Behavioral Health)</option>
+                
+                        <option value="MassMutual" >MassMutual</option>
+                
+                        <option value="Med Advantage" >Med Advantage</option>
+                
+                        <option value="Medicaid" >Medicaid</option>
+                
+                        <option value="Medicare" >Medicare</option>
+                
+                        <option value="Medicare - (with supplement)" >Medicare - (with supplement)</option>
+                
+                        <option value="Medicare - Railroad" >Medicare - Railroad</option>
+                
+                        <option value="Molina Healthcare (WA Apple Health/Healthy Options)" >Molina Healthcare (WA Apple Health/Healthy Options)</option>
+                
+                        <option value="Molina Healthcare - Marketplace" >Molina Healthcare - Marketplace</option>
+                
+                        <option value="Molina Healthcare - Medicare Advantage Plans" >Molina Healthcare - Medicare Advantage Plans</option>
+                
+                        <option value="Motion Picture Health/Writers Guild" >Motion Picture Health/Writers Guild</option>
+                
+                        <option value="Motor Vehicle Accident (MVA)" >Motor Vehicle Accident (MVA)</option>
+                
+                        <option value="Multiplan (Private Healthcare Systems or PHCS)" >Multiplan (Private Healthcare Systems or PHCS)</option>
+                
+                        <option value="Multiplan PPO" >Multiplan PPO</option>
+                
+                        <option value="Multiplan/PHCS - (all programs accepted)" >Multiplan/PHCS - (all programs accepted)</option>
+                
+                        <option value="Mutual of Omaha" >Mutual of Omaha</option>
+                
+                        <option value="Optum" >Optum</option>
+                
+                        <option value="Optum Health Tricare Only - (Behavioral Health)" >Optum Health Tricare Only - (Behavioral Health)</option>
+                
+                        <option value="PacMed US Family Health Plan" >PacMed US Family Health Plan</option>
+                
+                        <option value="PacifiCare" >PacifiCare</option>
+                
+                        <option value="Physicians Mutual Insurance" >Physicians Mutual Insurance</option>
+                
+                        <option value="Premera Blue Cross" >Premera Blue Cross</option>
+                
+                        <option value="Premera Blue Cross - Foundation" >Premera Blue Cross - Foundation</option>
+                
+                        <option value="Premera Blue Cross - Foundation Plus 1" >Premera Blue Cross - Foundation Plus 1</option>
+                
+                        <option value="Premera Blue Cross - Global" >Premera Blue Cross - Global</option>
+                
+                        <option value="Premera Blue Cross - Heritage Plus 1" >Premera Blue Cross - Heritage Plus 1</option>
+                
+                        <option value="Premera Blue Cross - Heritage Prime (clinic restrictions)" >Premera Blue Cross - Heritage Prime (clinic restrictions)</option>
+                
+                        <option value="Premera Blue Cross - Heritage Signature (clinic restrictions)" >Premera Blue Cross - Heritage Signature (clinic restrictions)</option>
+                
+                        <option value="Premera Blue Cross - Medicare Advantage Classic" >Premera Blue Cross - Medicare Advantage Classic</option>
+                
+                        <option value="Premera Blue Cross Heritage" >Premera Blue Cross Heritage</option>
+                
+                        <option value="Premera Heritage" >Premera Heritage</option>
+                
+                        <option value="Premera Heritage Signature" >Premera Heritage Signature</option>
+                
+                        <option value="Premera Medicare Advantage HMO" >Premera Medicare Advantage HMO</option>
+                
+                        <option value="Premera PPO" >Premera PPO</option>
+                
+                        <option value="Principal Mutual" >Principal Mutual</option>
+                
+                        <option value="Private Healthcare Systems - (PHCS)/Multiplan (all programs accepted)" >Private Healthcare Systems - (PHCS)/Multiplan (all programs accepted)</option>
+                
+                        <option value="Private Healthcare Systems - (PHCS)/Multiplan PPO" >Private Healthcare Systems - (PHCS)/Multiplan PPO</option>
+                
+                        <option value="Providence Health Plan" >Providence Health Plan</option>
+                
+                        <option value="Providence Health Plan - Medicare Advantage" >Providence Health Plan - Medicare Advantage</option>
+                
+                        <option value="Providence Health Plan - Medicare Extra" >Providence Health Plan - Medicare Extra</option>
+                
+                        <option value="Providence Health Plan - Preferred" >Providence Health Plan - Preferred</option>
+                
+                        <option value="Providence Medical Associates" >Providence Medical Associates</option>
+                
+                        <option value="Regence - MedAdvantage PPO" >Regence - MedAdvantage PPO</option>
+                
+                        <option value="Regence Blue Shield" >Regence Blue Shield</option>
+                
+                        <option value="Regence Blue Shield - (all programs accepted EXCEPT Regence Medicare Advantage)" >Regence Blue Shield - (all programs accepted EXCEPT Regence Medicare Advantage)</option>
+                
+                        <option value="Regence Blue Shield - (all programs accepted)" >Regence Blue Shield - (all programs accepted)</option>
+                
+                        <option value="Regence Blue Shield - Asuris" >Regence Blue Shield - Asuris</option>
+                
+                        <option value="Regence Blue Shield - Blue Cross/Blue Shield Out-of-State" >Regence Blue Shield - Blue Cross/Blue Shield Out-of-State</option>
+                
+                        <option value="Regence Blue Shield - Boeing" >Regence Blue Shield - Boeing</option>
+                
+                        <option value="Regence PPO" >Regence PPO</option>
+                
+                        <option value="Screen Actors Guild Health Plan" >Screen Actors Guild Health Plan</option>
+                
+                        <option value="Secure Horizons" >Secure Horizons</option>
+                
+                        <option value="Self-Insured Workers Compensation" >Self-Insured Workers Compensation</option>
+                
+                        <option value="Soundpath Health" >Soundpath Health</option>
+                
+                        <option value="TRICARE" >TRICARE</option>
+                
+                        <option value="TRICARE - (all programs accepted)" >TRICARE - (all programs accepted)</option>
+                
+                        <option value="TRICARE - Extra (PC zip code restrictions)" >TRICARE - Extra (PC zip code restrictions)</option>
+                
+                        <option value="TRICARE - Prime (PC zip code restrictions)" >TRICARE - Prime (PC zip code restrictions)</option>
+                
+                        <option value="TRICARE - Standard (PC zip code restrictions)" >TRICARE - Standard (PC zip code restrictions)</option>
+                
+                        <option value="Tokio Marine and Fire" >Tokio Marine and Fire</option>
+                
+                        <option value="Travelers" >Travelers</option>
+                
+                        <option value="TriCare" >TriCare</option>
+                
+                        <option value="TriCare/TriWest - PPO" >TriCare/TriWest - PPO</option>
+                
+                        <option value="TriWest" >TriWest</option>
+                
+                        <option value="Triwest VAPC3/Choice Card" >Triwest VAPC3/Choice Card</option>
+                
+                        <option value="Uniform Medical Plan" >Uniform Medical Plan</option>
+                
+                        <option value="United Behavioral Health Medicaid" >United Behavioral Health Medicaid</option>
+                
+                        <option value="United Behavioral Health Medicare Advantage" >United Behavioral Health Medicare Advantage</option>
+                
+                        <option value="United Behavioral Health PPO" >United Behavioral Health PPO</option>
+                
+                        <option value="United HealthCare Medicaid (WA Apple Health)" >United HealthCare Medicaid (WA Apple Health)</option>
+                
+                        <option value="UnitedHealthcare - AARP HMO" >UnitedHealthcare - AARP HMO</option>
+                
+                        <option value="UnitedHealthcare - Choice" >UnitedHealthcare - Choice</option>
+                
+                        <option value="UnitedHealthcare - Choice Plus" >UnitedHealthcare - Choice Plus</option>
+                
+                        <option value="UnitedHealthcare - Community Plan Medicare Advantage HMO" >UnitedHealthcare - Community Plan Medicare Advantage HMO</option>
+                
+                        <option value="UnitedHealthcare - Idemnity" >UnitedHealthcare - Idemnity</option>
+                
+                        <option value="UnitedHealthcare - International (or BUPA)" >UnitedHealthcare - International (or BUPA)</option>
+                
+                        <option value="UnitedHealthcare - Medicare Advantage" >UnitedHealthcare - Medicare Advantage</option>
+                
+                        <option value="UnitedHealthcare - Medicare Complete HMO" >UnitedHealthcare - Medicare Complete HMO</option>
+                
+                        <option value="UnitedHealthcare - Medicare Direct (Fka Secure Horizons PFFS)" >UnitedHealthcare - Medicare Direct&#160;(Fka Secure Horizons PFFS)</option>
+                
+                        <option value="UnitedHealthcare - Medicare Solution" >UnitedHealthcare - Medicare Solution</option>
+                
+                        <option value="UnitedHealthcare - Navigate (All HMO/POS Type Plans)" >UnitedHealthcare - Navigate (All HMO/POS Type Plans)</option>
+                
+                        <option value="UnitedHealthcare - Navigate Balanced (All HMO/POS Type Plans)" >UnitedHealthcare - Navigate Balanced (All HMO/POS Type Plans)</option>
+                
+                        <option value="UnitedHealthcare - Navigate Plus (All HMO/POS Type Plans)" >UnitedHealthcare - Navigate Plus (All HMO/POS Type Plans)</option>
+                
+                        <option value="UnitedHealthcare - OptumHealth (Transplant Services Only)" >UnitedHealthcare - OptumHealth (Transplant Services Only)</option>
+                
+                        <option value="UnitedHealthcare - Secure Horizons of WA" >UnitedHealthcare - Secure Horizons of WA</option>
+                
+                        <option value="UnitedHealthcare - Select" >UnitedHealthcare - Select</option>
+                
+                        <option value="UnitedHealthcare - Select Plus" >UnitedHealthcare - Select Plus</option>
+                
+                        <option value="UnitedHealthcare EPO" >UnitedHealthcare EPO</option>
+                
+                        <option value="UnitedHealthcare HMO" >UnitedHealthcare HMO</option>
+                
+                        <option value="UnitedHealthcare POS" >UnitedHealthcare POS</option>
+                
+                        <option value="UnitedHealthcare PPO" >UnitedHealthcare PPO</option>
+                
+                        <option value="UnitedHealthcare West" >UnitedHealthcare West</option>
+                
+                        <option value="UnitedHealthcare West - PCN HMO" >UnitedHealthcare West - PCN HMO</option>
+                
+                        <option value="Veterans Affairs - (authorization required)" >Veterans Affairs - (authorization required)</option>
+                
+                        <option value="Veterans Affairs - Patient-Centered Community Care/TriWest (authorization may be required)" >Veterans Affairs - Patient-Centered Community Care/TriWest (authorization may be required)</option>
+                
+                        <option value="WA Apple Health" >WA Apple Health</option>
+                
+                        <option value="WellPoint - Behavioral Health" >WellPoint - Behavioral Health</option>
+                
+                        <option value="Workers Compensation" >Workers Compensation</option>
+                
+                        <option value="Workers&#39; Compensation - Federal" >Workers&#39; Compensation - Federal</option>
+                
+                        <option value="Zenith Administrators" >Zenith Administrators</option>
+                
+                        <option value="ppoNEXT (Concentra)" >ppoNEXT (Concentra)</option>
+                
+            </select>
+        </div>
+    
+
+    <div class="col-md-6 ">        
+        
+            <label class="filters-label" for="medical-group">Medical Group</label>
+            <select id="medical-group" name="medical-group" class="form-control gender-box">
+                
+                <option value=""  selected >All Medical Groups</option>
+                
+                <option value="pmg" >Providence Medical Group</option>
+                
+            </select>
+        
+    </div>
+
+    <div class="col-md-9" id="">                
+        <div class="height-spacer"></div>
+        <label class="filters-label"><input type="checkbox" id="acceptingNewPatients" name="acceptingNewPatients" title="Show only providers accepting new patients" >Show only providers accepting new patients</label>
+    </div>
+    <div class="clear-fix"></div>
+    
+    <div class="col-md-3" id="submitButton">
+        <div class="height-spacer"></div>
+        <span class="typeahead__button">
+            <button type="button" id="search-button" class="btn btn-info"><span class="glyphicon glyphicon-search" aria-hidden="true"></span>Search</button>
+        </span>
+    </div>
+</div>
+<div class="row filters-container-white-bg">
+    
+</div>
+<div class="height-spacer"></div> 
+
+            </form>
+        </div>
+    </div>
+    
+    
+    
+    <!-- Don't show this block for alaska or oregon -->
+    
+    <div class="height-spacer"></div>
+    <div class="height-spacer"></div>
+    <div class="height-spacer"></div>
+</div>
+
+    </div>
+
+    
+
+<!--============================================= Providence.org Footer HTML =====================================-->
+
+<!--============================================= /providence.org Footer HTML ====================================-->
+
+<!--============================================= New WA Footer HTML =============================================-->
+
+<!--============================================= /New WA Footer HTML ============================================-->
+
+<!--============================================= MT Footer HTML =================================================-->
+
+<!--============================================= /MT Footer HTML ================================================-->
+
+<!--============================================= AK Footer HTML =================================================-->
+
+    <footer>
+    <section class="footer-block">
+        <div class="grid top">
+            <ul>
+                <li><a href="//alaska.providence.org/about-us">About Us</a></li>
+                <li><a href="//www.providence.org/obp/ak">Bill Pay</a></li>
+                <li><a target="_blank" href="//www.providence.org/obp/ak/financial-assistance">Financial Assistance</a></li>
+                <li><a target="_blank" href="//alaska.providence.org/medstaff">Physician Resources</a></li>
+                <li><a href="//www.providence.org/caregivers">For Caregivers</a></li>
+                <li><a href="//providence-alaska.jobs" target="_blank">Providence Careers</a></li>
+                <li class="mychart"><a target="_blank" href="//mychartak.providence.org/mychart/">MyChart</a></li>
+            </ul>
+        </div>
+    </section>
+
+    <div class="foot-inner grid">
+        <div class="desktop">
+            <section class="grid-half">
+                <div class="grid-half">
+                    <div class="footer-copy">
+                        <h3>Patients &amp; Visitors</h3>
+                        <!--Column 1-->
+                        <div><a href="//alaska.providence.org/patients/emailpatient">Email a patient &rsaquo;</a></div>
+                        <div><a href="https://www.providence.org/doctors/?region=ak&reset=true">Find a doctor &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/about-us/mission">Mission services &rsaquo;</a></div>
+                        <div><a href="//mychartak.providence.org/mychart/" target="_blank">MyChart &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/patients/nopp">Privacy practices &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/patients">Patient & visitor resources &rsaquo;</a></div>
+                        <div><a href="//communitybenefit.providence.org/alaska/" target="_blank">Community benefit report &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/patients/feedback">Send feedback &rsaquo;</a></div>
+                    </div>
+                </div>
+                <div class="grid-half">
+                    <div class="footer-copy">
+                        <h3>Locations</h3>
+                        <div><a href="//alaska.providence.org/locations/list-view?city=Anchorage%2c+AK&within=5000">Anchorage</a></div>
+                        <div><a href="//alaska.providence.org/locations/list-view/?city=Eagle+River%2c+AK&within=5000">Eagle River &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/locations/list-view/?city=Kodiak+Island%2c+AK&within=5000">Kodiak Island &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/locations/list-view?city=Palmer%2c+AK&within=5000">Mat-Su Valley &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/locations/list-view/?city=Seward%2c+AK&within=5000">Seward &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/locations/list-view?city=Valdez%2c+AK&within=5000">Valdez &rsaquo;</a></div>
+                        
+                    </div>
+                </div>
+                <div class="grid-full">
+                    <div class="footer-copy">
+                        <h3>Programs</h3>
+                        <div><a href="//alaska.providence.org/services/b/behavioral-health">Behavioral Health</a></div>
+                        <div><a href="//alaska.providence.org/services/c/cancer">Cancer &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/services/c/childrens">Children's Services &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/services/e/emergency">Emergency &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/services/h/heart">Heart & Vascular &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/services/i/imaging">Imaging &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/services/i/in-home">In-Home &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/services/l/laboratory">Laboratory &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/services/m/maternity">Maternity &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/services/o/ortho">Orthopedic &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/services/p/pharmacy">Pharmacy &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/services/r/rehabilitation">Rehabilitation &rsaquo;</a></div>
+                        <div><a href="//alaska.providence.org/services/s/surgery">Surgical Services &rsaquo;</a></div>
+                        
+                    </div>
+                </div>
+            </section>
+
+            <section class="grid-half">
+                <section class="contact footer-copy">
+                    <h3>About Providence Health &amp; Services</h3>
+                    <p>Providence Health &amp; Services in Alaska is a not-for-profit Catholic network of hospitals, care centers, health plans, physicians, clinics, home health care and affiliated services guided by a Mission of caring that the Sisters of Providence began in the West nearly 160 years ago.</p>
+                    <h3>Our Mission</h3>
+                    <p>As people of Providence, we reveal God&rsquo;s love for all, especially the poor and vulnerable, through our compassionate service.</p>
+                    <h3>Our Core Values</h3>
+                    <p>Respect, Compassion, Justice, Excellence, Stewardship</p>
+                </section>
+            </section>
+        </div>
+
+        <div class="mobile">
+
+            <div class="accordion grid-full">
+                <h3>Patients &amp; Visitors</h3>
+                <div class="accordian_copy">
+                    <!--Column 1-->
+                    <div><a href="//alaska.providence.org/patients/emailpatient">Email a patient &rsaquo;</a></div>
+                    <div><a href="https://www.providence.org/doctors/?region=ak&reset=true">Find a doctor &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/about-us/mission">Mission services &rsaquo;</a></div>
+                    <div><a href="//mychartak.providence.org/mychart/" target="_blank">MyChart &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/patients/nopp">Privacy practices &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/patients">Patient & visitor resources &rsaquo;</a></div>
+                    <div><a href="//communitybenefit.providence.org/alaska/" target="_blank">Community benefit report &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/patients/feedback">Send feedback &rsaquo;</a></div>
+                </div>
+                <h3>Programs</h3>
+                <div class="accordian_copy">
+                     <div><a href="//alaska.providence.org/services/b/behavioral-health">Behavioral Health</a></div>
+                    <div><a href="//alaska.providence.org/services/c/cancer">Cancer &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/services/c/childrens">Children's Services &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/services/e/emergency">Emergency &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/services/h/heart">Heart & Vascular &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/services/i/imaging">Imaging &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/services/i/in-home">In-Home &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/services/l/laboratory">Laboratory &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/services/m/maternity">Maternity &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/services/o/ortho">Orthopedic &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/services/p/pharmacy">Pharmacy &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/services/r/rehabilitation">Rehabilitation &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/services/s/surgery">Surgical Services &rsaquo;</a></div>
+                </div>
+                <h3>Locations</h3>
+                <div class="accordian_copy">
+                    <div><a href="//alaska.providence.org/locations/list-view?city=Anchorage%2c+AK&within=5000">Anchorage</a></div>
+                    <div><a href="//alaska.providence.org/locations/list-view/?city=Eagle+River%2c+AK&within=5000">Eagle River &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/locations/list-view/?city=Kodiak+Island%2c+AK&within=5000">Kodiak Island &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/locations/list-view?city=Palmer%2c+AK&within=5000">Mat-Su Valley &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/locations/list-view/?city=Seward%2c+AK&within=5000">Seward &rsaquo;</a></div>
+                    <div><a href="//alaska.providence.org/locations/list-view?city=Valdez%2c+AK&within=5000">Valdez &rsaquo;</a></div>
+                </div>
+            </div>
+
+            <section class="grid-1-fourths">
+                <div class="inner">
+                    <section class="contact">
+                        <p>Providence Health &amp; Services is a not-for-profit Catholic network of hospitals, care centers, health plans, physicians, clinics, home health care and affiliated services guided by a Mission of caring that the Sisters of Providence began in the West nearly 160 years ago.</p>
+                        <h3>Our Mission</h3>
+                        <p>As people of Providence, we reveal God&rsquo;s love for all, especially the poor and vulnerable, through our compassionate service.</p>
+                        <h3>Our Core Values</h3>
+                        <p>Respect, Compassion, Justice, Excellence, Stewardship</p>
+                    </section>
+                </div>
+            </section>
+        </div>
+
+        <div class="clear"></div>
+    </div>
+
+    <section class="footer-block">
+        <div class="grid foot-note">
+            <div class="grid-3-fourths">
+            </div>
+            <div class="grid-1-fourths social">
+                <h4><strong>Follow Us &nbsp;<a href="https://twitter.com/ProvAK" target="_blank"><img height="26" alt="twitter" width="26" src="//www.providence.org/-/media/images/logos/twitter.png?la=en&amp;hash=D81DCC3D8FB9F8620EAF9DE4AA13BF30C0619138" /></a>&nbsp;</strong><a href="https://www.facebook.com/pages/Providence-Alaska-Medical-Center/90247838064/" target="_blank" style="font-weight: lighter;"><img alt="fb" src="//www.providence.org/-/media/images/logos/fb.png?h=26&amp;w=26&amp;la=en&amp;hash=E1997CFED9A898D29C28FB2605ACD31AE2FBB298" style="height: 26px; width: 26px; margin-right: 5px; margin-left: 5px;" /></a><a href="https://www.youtube.com/user/providenceak" target="_blank" style="font-weight: lighter;"><img alt="YouTube" src="//www.providence.org/-/media/images/logos/yt.png?h=26&amp;w=26&amp;la=en&amp;hash=17655625AB95227925D7C3E558EA8EB45135776F" style="height: 26px; width: 26px; margin-right: 5px; margin-left: 5px;" /></a></h4>
+            </div>
+
+            <section class="grid-full disclaimer">
+                <span>©2017 Providence Health & Services. All Rights Reserved.</span>
+                <div class="footer-info">
+                    <a target="_blank" href="//www.providence.org/utility-pages/privacy-policy">Terms &amp; Use of Privacy Policy </a>
+                    <span class="pipe">|</span>
+                    <a target="_blank" href="//www.providence.org/utility-pages/disclaimer">Disclaimer</a>
+                    <span class="pipe">|</span><a href="//alaska.providence.org/patients/nopp">Notice of Privacy Practice</a><span class="pipe">|</span>
+                    <a href="//www.providence.org/utility-pages/phs-nondiscrimination-statement" target="_blank">Notice of Nondiscrimination and Accessibility Rights</a>
+                    <span class="pipe">|</span>
+                    <a href="https://www.providence.org/doctors/sitemapindex.aspx?region=ak&format=html">Site Map</a>
+                </div>
+            </section>
+        </div>
+    </section>
+</footer>
+
+<!--============================================= /AK Footer HTML ================================================-->
+
+<!--============================================= OR Footer HTML =================================================-->
+
+<!--============================================= /OR Footer HTML ================================================-->
+
+<!--============================================= CA Footer HTML =================================================-->
+
+<!--============================================= /CA Footer HTML ================================================-->
+
+<!--============================================= Facey Footer HTML ==============================================-->
+
+<!--============================================= /Facey Footer HTML ==============================================-->
+
+<!--============================================= Kadlec Footer HTML ==============================================-->
+
+<!--============================================= /Kadlec Footer HTML =============================================-->
+
+
+<!--============================================= /MedTouch.Base: Common: Footer =============================================-->
+
+<!-- Grab Google CDN jQuery. fall back to local if necessary -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>	    !window.jQuery && document.write('<script src="//www.providence.org/assets/mtmc/js/jquery-1.9.1.js"><\/script>')</script>
+<!-- Grab Google CDN jQuery UI. fall back to local if necessary -->
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+<script>!window.jQuery.ui && document.write('<script src="//www.providence.org/assets/mtmc/js/jquery-ui-1.10.4.min.js"><\/script>')</script>
+<script src="//www.providence.org/assets/oregon/js/plugins.js"></script> 
+<script src="//www.providence.org/assets/oregon/js/res.js"></script>
+<script src="//www.providence.org/assets/oregon/js/script.js"></script>	
+    
+<!-- CALLING GCSE CONTAINER -->
+<script type="text/javascript">
+    //$('.logo').append("<div class='gcse-container'><gcse:searchbox-only></gcse:searchbox-only></div>");
+        
+    //adding search icon/button and adjusting placement for search box in mobile
+    if ($('.mobile-menu').is(':visible')) {
+        var mobileSearch = $(".gcse-container").remove().insertBefore(".top.grid");
+        $(".logo").css("margin-top", "20px");       
+    }        
+</script>
+<!-- END CALL FOR GCSE CONTAINER -->
+
+<!-- Mychartview script -->
+ <script type="text/javascript">
+    //Mychart iframes some of our content so we need to serve up only what they need to ingest. This includes the General Info
+    //tab minus any links or video.  We can't use jquery for this because of an IE bug with iframes and document.domain which causes
+    //jquery to get an access denied error.
+    //check for page = profile.aspx
+     var pageName = (function () {
+         var a = window.location.href,
+             b = a.lastIndexOf("/");
+         return a.substr(b + 1);
+     }());
+     //console.log("page name: " + pageName);
+    if (pageName.indexOf("profile.aspx") > -1 && urlParams["mychartview"] == "yes"){ // window.location.href.indexOf("mychartview=yes") > -1) { //["mychartview"] == "yes") {
+        //console.log("Mychartview initiated");
+        if(document.getElementById('mychartview')){
+        document.body.innerHTML = document.getElementById('mychartview').innerHTML;
+        var elem = document.getElementById('philosophy-of-care-video');
+        elem.parentNode.removeChild(elem);
+        }else{
+            document.body.innerHTML = "Profile is currently not available.";
+        }
+    }
+</script>
+
+<script>
+    jQuery.noConflict();
+</script>
+
+    <script type="text/javascript" src="https://www.providence.org/doctors/Scripts/jquery-1.12.4.min.js?region=ak&v=20"></script>
+    <script type="text/javascript" src="https://www.providence.org/doctors/Scripts/bootstrap.js?region=ak&v=20"></script>
+    <script src="https://www.providence.org/doctors/Scripts/jquery.typeahead.min.js?region=ak&v=20"></script>
+    <script src="https://www.providence.org/doctors/Scripts/jquery.easyPaginate.js?region=ak&v=20" type="text/javascript"></script>
+    <script src="https://www.providence.org/doctors/Scripts/jquery.typeahead.init.js?region=ak&v=20" type="text/javascript"></script>
+    <script src="https://www.providence.org/doctors/Scripts/map.init.js?region=ak&v=20" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        function initGoogleApi() {
+            initMap();
+            initAutocomplete();
+        }
+
+        function initMap() {
+            mapInit();
+        }
+
+        function initAutocomplete() {
+            // Create the autocomplete object, restricting the search to geographical
+            // location types.
+            var enabled = 'false';
+            if (enabled == "true") {
+                autocomplete = new google.maps.places.Autocomplete(
+                    /** @type {!HTMLInputElement} */(document.getElementById('location')),
+                    { types: ['geocode'] });
+            }
+        }
+
+        (function() {
+            var tkn = 'be91fa454a384a968f6d4a1811ab5dba';
+            var typeaheaduri = 'https://api.kyruus.com/pm/v8/phs/typeahead';
+            var regionfilter = 'fields=-ALL%2c%2baccepting_new_patients%2c%2baccess_program_status%2c%2bage_groups_seen%2c%2bawards%2c%2bboard_certifications%2c%2bcase_types_seen%2c%2bclinical_contact%2c%2bclinical_trials%2c%2bcontacts%2c%2bcustomer_code%2c%2bdegrees%2c%2bexternal_id%2c%2bgender%2c%2bgeneric%2c%2bgrants%2c%2bid%2c%2bimage_url%2c%2binsurance_accepted%2c%2bis_live%2c%2bis_primary_care%2c%2bis_specialty_care%2c%2blanguages%2c%2blegal%2c%2blicense%2c%2blocations%2c%2bmax_wait%2c%2bmedia_mentions%2c%2bmedical_school%2c%2bmetadata%2c%2bmin_wait%2c%2bmulti_resource_scheduling%2c%2bname%2c%2bnetwork_affiliations%2c%2bnetworks%2c%2bnotes%2c%2bnpi%2c%2bother_video_url%2c%2breviews%2c%2bpersonal_interests%2c%2bphilosophy_of_care_video_url%2c%2bpractice_groups%2c%2bprimary_group_affiliation%2c%2bprofessional_associations%2c%2bprofessional_statement%2c%2bprovider_is_employed%2c%2bprovider_title%2c%2bprovider_type%2c%2bprovider_videos%2c%2bxp_publications%2c%2bresearch_pubs%2c%2bscope_of_practice%2c%2bshow_in_find-a-doc%2c%2bsitecore_guid%2c%2bsitecore8_guid%2c%2bsort_preferences%2c%2bspecialties%2c%2btraining%2c%2byears_in_practice&facet=none!&filter=networks.network%3aWAProvidence.org%7cMTProvidence.org%7cAKProvidence.org%7cORProvidence.org%7cCAProvidence.org&filter=networks.network%3aAKProvidence.org&page=1&sort=relevance';
+            var queryOrder = {"name":-8,"first":-7,"middle":-6,"last":-5,"title":-4,"city":-3,"id":-2,"region":0,"search-term":1,"page":3,"caal":4,"insurance":5,"subspecialty-filter":6,"location":2,"specialty-filter":3,"acceptingNewPatients":4,"added":5,"age-adolescent":6,"age-adult":7,"age-geriatric":8,"age-pediatric":9,"deleted":10,"ids":11,"language":12,"location-id":13,"location-name":14,"medical-group":15,"mychartview":16,"name-prefix":17,"noscript":18,"npi":19,"practice-group":20,"rated":21,"reset":22,"sc-guid":23,"search-query":24,"shuffle-seed":25,"suggestion-term":26,"format":27,"gender":28,"name-part":29,"pid":30,"range":31,"rating":32,"search":33,"search-type":34,"sort":35,"suggestion-type":36};
+
+            function cleanupInputs(form, additionalInputNames) {
+                var inputNameMap = {};
+                Array.from(form.elements).filter(function (input) {
+                    if (!input.name)
+                        return false;
+
+                    if (!input.value)
+                        return true;
+
+                    if (additionalInputNames && additionalInputNames.indexOf(input.name) !== -1)
+                        return true;
+
+                    var existingValue = inputNameMap[input.name];
+                    inputNameMap[input.name] = input.value;
+                    return existingValue === input.value;
+                }).forEach(function (input) {
+                    input.removeAttribute('name'); // effectively disable the input from being submitted in the form
+                });
+            }
+
+            function orderInputs(form) {
+                var inputGroups = [];
+                for (var key in queryOrder) {
+                    if (queryOrder.hasOwnProperty(key)) {
+                        var order = queryOrder[key];
+                        var matches = Array.prototype.slice.call(document.querySelectorAll('[name="' + key + '"]'), 0);
+                        matches = matches.filter(function(inout) {
+                            return inout.tagName !== 'META';
+                        });
+                        inputGroups[order] = matches;
+                    }
+                }
+
+                var frag = document.createDocumentFragment();
+
+                inputGroups.forEach(function (inputGroup) {
+                    inputGroup.forEach(function (input) {
+                        var hiddenInput = document.createElement('input');
+                        hiddenInput.type = 'hidden';
+                        hiddenInput.name = input.name;
+                        hiddenInput.value = input.type === "checkbox" ? input.checked && input.value || '' : input.value;
+                        frag.appendChild(hiddenInput);
+                        input.removeAttribute('name');
+                    });
+                });
+
+                form.insertBefore(frag, form.firstChild);
+            }
+
+            // get user inputs (not-hidden), unless there is a checkbox or radio, in which case, hidden is
+            // preferred-- ONLY when the checkbox is unchecked, or no radio of the same group is selected
+            function getUserInputs(formElement) {
+                var radios = {};
+                var hElements = Array.from(formElement.elements).filter(function (input) {
+                    return !!input.name && !input.disabled && input.type === "hidden";
+                });
+                var elements = Array.from(formElement.elements).filter(function (input) {
+                    return !!input.name && !input.disabled && input.type !== "hidden";
+                });
+                var results = elements.map(function (input) {
+                    if (!input.name || input.disabled || input.type === "hidden")
+                        return null;
+
+                    if (input.type === "radio") {
+                        (radios[input.name] || (radios[input.name] = [])).push(input);
+                        return null;
+                    }
+
+                    if (input.type === "checkbox" ? !input.checked : !input.value) {
+                        // when a checkbox is unchecked, see if the unchecked
+                        // state has a value
+                        var hidden = hElements.find(function (input2) { return input2.type === "hidden" && input2.name === input.name });
+                        return hidden ? hidden : input;
+                    }
+
+                    return input;
+                }).filter(function (input) {
+                    return input !== null;
+                });
+
+                for (var name in radios) {
+                    if (radios.hasOwnProperty(name)) {
+                        var namedRadios = radios[name];
+                        var checked = namedRadios.find(function (radio) {
+                            return radio.checked;
+                        });
+                        if (checked) {
+                            results.push(checked);
+                        } else {
+                            var hidden = elements.find(function (input2) {
+                                return input2.type === "hidden" && input2.name === name;
+                            });
+                            if (hidden) {
+                                results.push(input);
+                            } else {
+                                // push all radios
+                                Array.prototype.push.apply(results, namedRadios);
+                            }
+                        }
+                    }
+                }
+
+                return results;
+            }
+
+            function inputHasValue(input) {
+                if (!input.value) {
+                    return false;
+                }
+
+                if (input.type === 'checkbox' || input.type === 'radio') {
+                    return input.checked;
+                }
+
+                return true;
+            }
+
+            function createGuid() {
+                return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+                    var r = Math.random() * 16 | 0, v = c === 'x' ? r : (r & 0x3 | 0x8);
+                    return v.toString(16);
+                });
+            }
+
+            document.addEventListener('DOMContentLoaded', function () {
+
+                //----- Verify Token and Initialize Typeahead -----//
+                if (tkn.length < 1 || tkn == 'error') {
+                    console.log("error: no auth token");
+                }
+                else {
+                    initializeJqueryTypeahead(tkn, typeaheaduri, regionfilter, [{"Find":"abortion","Replace":null,"IgnoreCase":true,"UseRegex":null},{"Find":"ivf","Replace":null,"IgnoreCase":true,"UseRegex":null},{"Find":"in vitro fertilization","Replace":null,"IgnoreCase":true,"UseRegex":null},{"Find":"sterilization","Replace":null,"IgnoreCase":true,"UseRegex":null},{"Find":"essure","Replace":null,"IgnoreCase":true,"UseRegex":null},{"Find":"(?=^(?:(?!reversal).)*$)tubal-ligation","Replace":null,"IgnoreCase":true,"UseRegex":true},{"Find":"(?=^(?:(?!reversal).)*$)vasectomy","Replace":null,"IgnoreCase":true,"UseRegex":true},{"Find":"transgender.*surgery","Replace":"transgender care","IgnoreCase":true,"UseRegex":true}]);
+                }
+
+                //----- Search button logic -----//
+                $('#search-button').click(function () {
+                    // ----------------------------------------- Typeahead V.S. Unified search logic ----------------------------------------- //
+                    //
+                    // 1. We need to determine if this is a typeahead search
+                    //    How? If window.Typeahead["#search-term"].item is not undefined or null, then the user selected a typeahead item.
+                    //    Caveat - On a SERP, we won't know if it's a typeahead or unified search because the user hasn't selected anything yet.
+                    //
+                    // 2. If typeaheadItem exists, we do nothing and keep the current values to submit - done
+                    //
+                    // 3. If the typeaheadItem doesn't exist, we have more work to do.
+                    //      a. Check if the search-type is = "unified". If so, it's a unified search - done.
+                    //      b. See if the querystring search-term matches the input box search-term. If so, the user is filtering or searching
+                    //         the exact same term. - done
+                    //      c. If the terms don't match, this is a unified search - done
+                    //
+
+
+                    var typeaheadItem = window.Typeahead["#search-term"].item;
+                    var searchQueryValue = $('#search-query').val();
+                    var searchTypeValue = $('#search-type').val();
+                    var isFilteredSearch = urlParams["search-term"] == $('#search-term').val() ? true : false;
+                    var isUnifiedSearch = false;
+
+                    // Does typeahead item exist?
+                    if (typeaheadItem == null || typeaheadItem.value == undefined) {
+
+                        // Typeahead Item Doesn't Exist:
+                        // This could be because we're on the SERP from a typeahead search or it could be a unified search. 
+                        // On the SERP, the user hasn't selected a typeahead item. We populate the input box value on page load. But...
+                        // Only selecting an item from the typeahead dropdown will create an instance of the typeaheadItem.
+
+                        // Is the search-type specified as "unified"?:
+                        if (searchTypeValue != "unified" && searchTypeValue != "") {
+                            // Not Specified as Unified. We may be dealing with the SERP from a typeahead search. We need more information though.
+
+                            // Do the qs and input box values for search-term match?:
+                            if (!isFilteredSearch) {
+                                // No the qs and input box values don't match.  This is a unified search. 
+                                isUnifiedSearch = true;
+                            }
+                        }
+
+                        // A unified search-type is present
+                        if (searchTypeValue == "unified" || searchTypeValue == "") {
+                            // Search type was specified as "unified";
+                            isUnifiedSearch = true;
+                        }
+                    }
+
+                    //if this is a unified search, let's set the search-type value and set up our hidden input values to utilize on the SERP.
+                    if (isUnifiedSearch) {
+                        $('input[name="search-type"]').val('unified');
+                        if ($('input[name="search-query"]').val() != $('input[name="search-term"]').val()) {
+                            $('input[name="search-query"]').val($('input[name="search-term"]').val());
+                        }
+                    }
+                    //----- End Typeahead V.S. Unified search logic ----- //
+
+                    //----- Begin Sorting rules ------ //
+                    var sortBy = $('#sort').val() != null && $('#sort').val() != "" ? $('#sort').val() : "relevance";
+                    //if no location they can't sort by distance so don't let them.
+                    if ($('#location').val() == null || $('#location').val() == "") {
+                        if (urlParams["sort"] == "distance") {
+                            sortBy = "relevance";
+                        }
+                    }
+                    if ($('#location').val() != null && $('#location').val() != "") {
+                        if (urlParams["location"] != $('#location').val()) {
+                            //console.log("something changed - sorting by distance");
+                            //value changed so lets sort by distance automatically
+                            sortBy = "distance";
+                        }
+                    }
+                    $('#sort').val(sortBy);
+                    //----- End Sorting rules ------ //
+
+                    $('#page').val("1");
+                    $('#shuffle-seed').val(createGuid().replace(/-/g, ''));
+
+                    var pendingActions = 0;
+                    var formElement = document.getElementById('typeahead-search');
+                    var doFormSubmit = function () {
+                        if (--pendingActions !== 0) {
+                            return;
+                        }
+
+                        try {
+                            // remove unused inputs to cleanup query string
+                            // make sure to include removed input names-- we don't want any injected hidden values taking precendence in the query string
+                            cleanupInputs(formElement);
+                            orderInputs(formElement);
+
+                            //wheelhouse analytics binding function
+                            if (typeof (window.wheelhouseFormAnalytics) == "function") {
+                                window.wheelhouseFormAnalytics(formElement);
+                            }
+                            formElement.submit();
+
+                        } catch (e) {
+                            formSubmitting = false;
+                            throw e;
+                        }
+                    };
+
+                    pendingActions++;
+                    tealiumHelper.push('link', {
+                        'event_category': 'Conversion Level 2',
+                        'event_action': 'Provider Search',
+                        'event_label': 'true'
+                    }).then(doFormSubmit, doFormSubmit);
+
+                    var addedInputs = getUserInputs(formElement).filter(inputHasValue).filter(function (input) {
+                        return urlParams[input.name] !== input.value;
+                    }).reverse().filter(function (value, index, self) {
+                        for (var i = 0; i < self.length; i++) {
+                            if (self[i].name === value.name) {
+                                return i === index;
+                            }
+                        }
+                        return false;
+                    }).reverse();
+
+                    if (addedInputs.length) {
+                        addedInputs.forEach(function (input) {
+                            pendingActions++;
+                            var name = input.name;
+                            var value = input.value;
+                            if (input.name == 'sort') {
+                                name = 'sort by';
+                                
+                                if (value == 'name') {
+                                    value = 'providers a-z';
+                                } else if (value == '-name') {
+                                    value = 'providers z-a';
+                                }
+                            }
+                            if (input.name == 'range') {
+                                if (value == '3500') {
+                                    value = 'any distance';
+                                }
+                            }
+                            tealiumHelper.push('link', {
+                                'event_category': 'Provider Search',
+                                'event_action': name,
+                                'event_label': value
+                            }).then(doFormSubmit, doFormSubmit);
+                        });
+                    } else {
+                        pendingActions++;
+                        tealiumHelper.push('link', {
+                            'event_category': 'Provider Search',
+                            'event_action': 'No Selection',
+                            'event_label': 'No Selection'
+                        }).then(doFormSubmit, doFormSubmit);
+                    }
+                });
+
+                //----- Input box click handlers -----//
+                $("#search-term").keyup(function (event) {
+                    if (event.keyCode == 13) {
+                        $("#search-button").click();
+                    }
+                });
+                $("#location").keyup(function (event) {
+                    if (event.keyCode == 13) {
+                        $("#search-button").click();
+                    }
+                });
+            });
+        })();
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBgtqp7JWiiDLXuJUWurBipQVL4W9mcr7w&libraries=places&callback=initGoogleApi"
+    async defer></script>
+    <script>
+        (function() {
+            Array.prototype.slice.call(document.querySelectorAll('a[href*="|"],a[href*="%7Chttp"],a[href*="google.com/maps"]'), 0).forEach(function (link) {
+                if (link.textContent === "Map & Directions")
+                    return;
+
+                var urls = link.href.split(/%7C|\|/);
+                for (var i = 0; i < urls.length; i++) {
+                    if (urls[i] && urls[i].indexOf('google.com/maps') === -1) {
+                        link.href = urls[i];
+                        return;
+                    }
+                }
+                var span = document.createElement('span');
+                span.innerHTML = link.innerHTML;
+                link.parentNode.replaceChild(span, link);
+            });
+        })();
+    </script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            //setup odhp scheduling button and AppsOR legacy appointment request button. 
+            //determine if mobile or desktop view before instantiating the scheduling
+            if (window.innerWidth < 768) {
+                Array.prototype.slice.call(document.getElementsByClassName('mobile-schedule-button'), 0).forEach(function (btn) {
+                    var npiNumberMatch = btn.id.match(/[^\d]+(\d+)/);
+                    if (npiNumberMatch) {
+                        btn.appendChild(document.getElementById('npi-number-' + npiNumberMatch[1]));
+                    }
+                });
+            }
+        });
+    </script>
+    <script>
+        window.ODHP = window.ODHP || {}
+        window.ODHP.elements = window.ODHP.elements || {}
+        window.ODHP.elements.scheduleWidget = window.ODHP.elements.scheduleWidget || {};
+        window.ODHP.elements.scheduleWidget.orchBase = 'https://weborch.provinnovate.com';
+        window.ODHP.elements.scheduleWidget.odhpBase = 'https://nassau.provinnovate.com';
+    </script>
+    <script type="text/javascript" src="https://www.providence.org/doctors/Scripts/main.schedule_widget.js?region=ak&v=20"></script>
+    <script type="text/javascript" src="https://www.providence.org/doctors/Scripts/main.schedule_widget_helper.js?region=ak&v=20"></script>
+</body>
+</html>

@@ -1,0 +1,1750 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" /><title>
+	Doctor Search Results In Providence Hood River Memorial Hospital At Oregon And Southwestern Washington
+</title>
+    <script>
+        /* We use the tpath variable in other aspx pages so we include it globally in the site master */
+        var sitehost = window.location.host;
+        var tpath = "prod";
+        if (sitehost.indexOf("devwork") > -1) { tpath = "dev"; }
+        else if (sitehost.indexOf("cm-") > -1) { tpath = "qa"; }
+        else if (sitehost.indexOf("cm.") > -1) { tpath = "qa"; }
+        else if (sitehost.indexOf("dev.") > -1) { tpath = "dev"; }
+        else if (sitehost.indexOf("dev-") > -1) { tpath = "dev"; }
+        (function (a, b, c, d) {
+                a = '//tags.tiqcdn.com/utag/providence/prov/' + tpath + '/utag.js'; b = document; c = 'script'; d = b.createElement(c); d.src = a; d.type = 'text/java' + c; d.async = true; a = b.getElementsByTagName(c)[0]; a.parentNode.insertBefore(d, a);
+            }
+        )();
+    </script>
+    
+        <link rel="canonical" href="https://www.providence.org/doctors/searchresults.aspx?region=or&caal=1" />
+        <link rel="next" href="https://www.providence.org/doctors/searchresults.aspx?region=or&page=2&caal=1" />
+        <meta id="ctl01_hmRobots" name="followed" content="true" />   
+
+
+    <script src="https://www.providence.org/doctors/Scripts/modernizr-2.6.2.js?region=or&amp;v=20" type="text/javascript"></script>
+    
+        <link href="https://www.providence.org/doctors/Content/bootstrap.css?region=or&amp;v=11" rel="stylesheet" type="text/css" />
+        <link href="https://www.providence.org/doctors/Content/jquery.typeahead.css?region=or&amp;v=11" rel="stylesheet" type="text/css" />
+        <link href="https://www.providence.org/doctors/Content/site.css?region=or&amp;v=11" rel="stylesheet" type="text/css" />
+    
+    <script src="https://www.providence.org/doctors/Scripts/tealium-helper.min.js?region=or&amp;v=20" type="text/javascript"></script>
+    
+
+<!-- STYLES AND SCRIPT FOR GCSE -->
+    <style type="text/css">
+        .gsc-control-searchbox-only {
+            width: 300px;
+            position: absolute;
+            top: 25px;
+            right: 50px;
+        }
+        .gsc-input-box {width: 150px; float: right;}
+        .cse .gsc-search-button input.gsc-search-button-v2, input.gsc-search-button-v2 {height: auto!important; width: auto!important; margin-top: 0px!important;}
+        table.gsc-search-box td {vertical-align: top!important;}
+        .gsst_b {position: absolute!important; right: 110px; top: 18px;}
+        .gsst_a {background: transparent!important; background-color: transparent!important; padding-top: 0!important; padding-bottom: 0!important;}
+        .gsc-search-box td {border-top: 0px;}
+        .cse input.gsc-input, input.gsc-input {background-image:none !important;}        
+    </style>
+   
+    <script>
+      (function() {
+        var cx = '018049758573139502428:kasdtfqpqzq';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+      })();
+    </script> 
+    <!-- END STYLES AND SCRIPT FOR GCSE -->
+
+    <!-- Fav Icons -->
+    <link rel="apple-touch-icon" href="//www.providence.org/assets/mtmc/images/apple-touch-icon.png">
+
+    <!-- Stylesheets -->
+    <!--<link rel="stylesheet" href="/assets/mtmc/css/styles.css">-->
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" media="all" rel="stylesheet" />
+    <link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" />
+    <link href="//fonts.googleapis.com/css?family=Chivo" rel="stylesheet" type="text/css">
+    <link href="https://www.providence.org/doctors/assets/oregon/css/all.css?region=or&v=11" rel="stylesheet" type="text/css">
+    <link href="https://www.providence.org/doctors/assets/oregon/css/modules.css?region=or&v=11" rel="stylesheet" type="text/css">
+    <script src="https://www.providence.org/doctors/assets/oregon/css/modernizr-2.7.1.min.js?region=or&v=20"></script>
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@provhealth">
+    <meta name="twitter:title" content="Creating Healthier Communities, Together">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="//www.providence.org/en" />
+
+    <!-- Is this needed or was it injected? -->
+    <script src="https://cdn.optimizely.com/js/3580442334.js"></script>
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <script type="text/javascript">
+        //Used to parse querystring parameters into an object called urlParams (use like urlParams["mykey"])
+        var urlParams;
+        (window.onpopstate = function () {
+            var match,
+                pl = /\+/g,  // Regex for replacing addition symbol with a space
+                search = /([^&=]+)=?([^&]*)/g,
+                decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+                query = window.location.search.substring(1);
+
+            urlParams = {};
+            while (match = search.exec(query))
+                urlParams[decode(match[1])] = decode(match[2]);
+        })();
+    </script>
+
+    
+<header>
+    <section class="top grid chart">
+    </section>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <section class="top grid">
+                    <div class="top-tiny-nav desktop">
+                        <ul>
+                            <li><div class="mychart"><a class="ak-mychart" href="https://mychartor.providence.org/mychart/">MyChart</a></div></li>
+                        </ul>
+                    </div>
+                    
+                    <div id="top_0_pnlLogo" class="">
+                        <a id="top_0_hplLogo" href="/">
+                            
+                                <img src="https://www.providence.org/doctors/images/region-logos/prov.png?region=or" class="img-responsive" width="200" height="100" alt="PHSLogo" />
+                            
+                        </a>
+                    </div>
+                    <!--<nav class="mobile-nav"></nav>
+                    Mobile CODE: added .mobile-menu -->
+                    <section class="mobile-menu visible-mobile">
+                        <div>
+                            <!--<a href="#" class="search searchmain">&nbsp;</a>-->
+                            <a href="#" class="nav-btn" data-whld="tested"></a>
+                        </div>
+                    </section>
+                </section>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!--============================================= MedTouch.Base: Common: Primary Navigation =============================================-->
+   
+<nav role="navigation" class="topmenu ">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 grid">
+                <ul class="top-nav">
+                    <li class=""><a href="https://www.providence.org/doctors/?region=or&reset=true">Find a Doctor  </a></li><li class=""><a href="//oregon.providence.org/our-services">Departments  </a></li><li class=""><a href="//oregon.providence.org/location-directory">Locations & Clinics  </a></li><li class=""><a href="//oregon.providence.org/health-library">Health Tools  </a></li><li class=""><a href="//oregon.providence.org/our-services/p/providence-foundations/ways-to-give">Giving  </a></li><li class=""><a href="//oregon.providence.org/news-and-events">News & Events  </a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+  
+<!--============================================= /MedTouch.Base: Common: Primary Navigation =============================================-->
+
+<div class="flyout-mobile-move flyout-mobile"></div>
+
+
+
+    <div class="container">
+        
+
+<div class="row"><div class="col-sm-12"><section class="tool-block"><div class="grid"><ul class="breadcrumb-ul"><li><a href="https://www.providence.org/doctors/?region=or" class="no-decorate">Find a Doctor</a></li><li>>> <a href="https://www.providence.org/doctors/searchresults.aspx?region=or&super-practice-group=Providence+Hood+River+Memorial+Hospital" title="Providence Hood River Memorial Hospital">Providence Hood River Memorial Hospital</a></li><li>>> <span>Search Results</span></li></ul></div></section></div></div>
+<div class="height-spacer"></div>
+   
+<!-- form name needs to be typeahead-search for our analytics scripts to inject -->
+<!-- Abstract the form and controls into a master Search control at some point -->
+<form id="typeahead-search" action="https://www.providence.org/doctors/searchresults.aspx?region=or" method="get">
+        
+
+
+
+
+
+<div class="row filters-container-white-bg">
+    <div class="col-md-6" id="term">
+        <div class="typeahead__container">
+            <div class="typeahead__field">                           
+                <span class="typeahead__query">
+                    <label class="filters-label" for="search-term">Search by</label>
+                    <input class="typeahead form-control"
+                        name="search-term"
+                        id="search-term"
+                        type="search"
+                        placeholder="specialty, symptom, condition, treatment, doctor name"
+                        autocomplete="off"
+                        value=""/>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3" id="zip">
+        <div class="typeahead__container">
+            <div class="typeahead__field">                           
+                <span class="typeahead__query">
+                <label  class="filters-label" for="location">Zip Code</label>         
+                <input type="text" class="form-control" id="location" name="location" value="" placeholder="Zip Code"/>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3" id="ziprange">
+        <div class="typeahead__container">
+            <div class="typeahead__field">                                           
+                <span class="typeahead__query">
+                    <div class="height-spacer"></div>
+                    <select id="range" name="range" class="form-control range-box">
+                        <option value="10"  selected >10 miles</option>
+                        <option value="15"  >15 miles</option>
+                        <option value="20"  >20 miles</option>
+                        <option value="3500" >Any Distance</option>
+                    </select>
+                </span>
+            </div>
+        </div>
+    </div>
+
+    <input type="hidden" name="search-type" id="search-type" value="" />
+    <input type="hidden" name="search-query" id="search-query" value="" />
+    <input type="hidden" name="page" id="page" value="1" />
+    <input type="hidden" name="sort" id="sort" value="relevance" />
+    <input type="hidden" name="shuffle-seed" id="shuffle-seed" value="790f2ddd1d8349ed92dcc1479b9a6b03" />
+    <input type="hidden" name="sc-guid" value="" />
+    
+    <input type="hidden" name="region" value="or" />
+    
+    <input type="hidden" name="super-practice-group" value="Providence Hood River Memorial Hospital" />
+    
+    <input type="hidden" name="super-pid" value="27125" />
+    
+</div>
+
+
+
+        
+<div class="row filters-container-white-bg">
+    <div class="col-md-3">
+         <label class="top-margin-5  filters-label" for="language">Language</label>
+        <select id="language" name="language" class="form-control gender-box">
+            
+                    <option value="American Sign Language" >American Sign Language</option>
+            
+                    <option value="Arabic" >Arabic</option>
+            
+                    <option value="Burmese" >Burmese</option>
+            
+                    <option value="Chinese - Cantonese" >Chinese - Cantonese</option>
+            
+                    <option value="Chinese - Mandarin" >Chinese - Mandarin</option>
+            
+                    <option value="Croatian" >Croatian</option>
+            
+                    <option value="Czech" >Czech</option>
+            
+                    <option value="Danish" >Danish</option>
+            
+                    <option value="Dutch" >Dutch</option>
+            
+                    <option value="English"  selected >English</option>
+            
+                    <option value="Filipino" >Filipino</option>
+            
+                    <option value="Finnish" >Finnish</option>
+            
+                    <option value="French" >French</option>
+            
+                    <option value="German" >German</option>
+            
+                    <option value="Greek" >Greek</option>
+            
+                    <option value="Gujarati" >Gujarati</option>
+            
+                    <option value="Hebrew" >Hebrew</option>
+            
+                    <option value="Hindi" >Hindi</option>
+            
+                    <option value="Hokkien" >Hokkien</option>
+            
+                    <option value="Hungarian" >Hungarian</option>
+            
+                    <option value="Indonesian" >Indonesian</option>
+            
+                    <option value="Italian" >Italian</option>
+            
+                    <option value="Japanese" >Japanese</option>
+            
+                    <option value="Khmer" >Khmer</option>
+            
+                    <option value="Konkani" >Konkani</option>
+            
+                    <option value="Korean" >Korean</option>
+            
+                    <option value="Marathi" >Marathi</option>
+            
+                    <option value="Panjabi" >Panjabi</option>
+            
+                    <option value="Persian" >Persian</option>
+            
+                    <option value="Polish" >Polish</option>
+            
+                    <option value="Portuguese" >Portuguese</option>
+            
+                    <option value="Romanian" >Romanian</option>
+            
+                    <option value="Russian" >Russian</option>
+            
+                    <option value="Spanish" >Spanish</option>
+            
+                    <option value="Swahili" >Swahili</option>
+            
+                    <option value="Swedish" >Swedish</option>
+            
+                    <option value="Tagalog" >Tagalog</option>
+            
+                    <option value="Tamil" >Tamil</option>
+            
+                    <option value="Telugu" >Telugu</option>
+            
+                    <option value="Turkish" >Turkish</option>
+            
+                    <option value="Ukrainian" >Ukrainian</option>
+            
+                    <option value="Urdu" >Urdu</option>
+            
+                    <option value="Vietnamese" >Vietnamese</option>
+            
+                    <option value="Visayan" >Visayan</option>
+            
+        </select>
+    </div>
+    <div class="col-md-3" id="gender-filter">
+        <label  class="filters-label" for="gender">Gender</label>
+        <select id="gender" name="gender" class="form-control gender-box">
+            <option value=""  selected >Any</option>
+            <option value="Male" >Male</option>
+            <option value="Female" >Female</option>
+        </select>
+    </div>
+    
+    
+
+    <div class="col-md-6 ">        
+        
+            <label class="filters-label" for="medical-group">Medical Group</label>
+            <select id="medical-group" name="medical-group" class="form-control gender-box">
+                
+                <option value=""  selected >All Medical Groups</option>
+                
+                <option value="pmg" >Providence Medical Group</option>
+                
+            </select>
+        
+    </div>
+
+    <div class="col-md-9" id="">                
+        <div class="height-spacer"></div>
+        <label class="filters-label"><input type="checkbox" id="acceptingNewPatients" name="acceptingNewPatients" title="Show only providers accepting new patients" >Show only providers accepting new patients</label>
+    </div>
+    <div class="clear-fix"></div>
+    
+    <div class="col-md-3" id="submitButton">
+        <div class="height-spacer"></div>
+        <span class="typeahead__button">
+            <button type="button" id="search-button" class="btn btn-info"><span class="glyphicon glyphicon-search" aria-hidden="true"></span>Search</button>
+        </span>
+    </div>
+</div>
+<div class="row filters-container-white-bg">
+    <div id="ContentPlaceHolder1_FilterControls_pnlSorting">
+	
+            <div class="col-md-12" id="sorting-container">
+                <label class="top-margin-5 filters-label" for="sort">Sort By</label>
+                <select id="sort" name="sort" class="form-control gender-box">
+                    <option value="name" >Providers A - Z</option>
+                    <option value="-name" >Providers Z - A</option>
+                    <option value="relevance"  selected >Relevance</option>
+                
+                </select>
+            </div>
+    
+</div>
+</div>
+<div class="height-spacer"></div>
+        
+    </form>
+
+    <div class="row">
+        <div class="col-xs-8">
+            <h1 class="h1 small-blue">Doctor Search Results In Providence Hood River Memorial Hospital At Oregon And Southwestern Washington</h1>
+        </div>
+        <div class="col-xs-4">
+            <div class="row"><div class="col-sm-12"><div class="result-count">1 - 10 of 237<nav aria-label="Page navigation" class="show-mobile"><ul class="pagination"><li class="active"><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&super-practice-group=Providence+Hood+River+Memorial+Hospital&super-pid=27125&language=English&shuffle-seed=790f2ddd1d8349ed92dcc1479b9a6b03">1</a></li><li class="normal"><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&page=2&super-practice-group=Providence+Hood+River+Memorial+Hospital&super-pid=27125&language=English&shuffle-seed=790f2ddd1d8349ed92dcc1479b9a6b03">2</a></li><li class="normal"><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&page=3&super-practice-group=Providence+Hood+River+Memorial+Hospital&super-pid=27125&language=English&shuffle-seed=790f2ddd1d8349ed92dcc1479b9a6b03">3</a></li><li><a href = "https://www.providence.org/doctors/searchresults.aspx?region=or&page=2&super-practice-group=Providence+Hood+River+Memorial+Hospital&super-pid=27125&language=English&shuffle-seed=790f2ddd1d8349ed92dcc1479b9a6b03" aria-label="Next"><span aria-hidden="true">&raquo;</span></a></li></ul></nav>Viewing page 1 of 24</div></div></div>
+        </div>
+    </div>
+    
+
+    <!-- ITERATE THROUGH THE PROVIDERS -->
+        
+    <div class="row outlined" itemscope itemtype="http://schema.org/Physician">
+        <!-- Evergage gender meta tag -->
+        <meta name="gender" content="Female">
+        <div class="col-xs-12">
+            <div class="row">
+                <div class="col-sm-2 col-xs-4">
+                    <div>
+                        <img class="media-object img-thumbnail" style="min-height: 50px; min-width: 50px;" alt="Photo of Lilith Marion Judd" src="https://kyruus-app-static.kyruus.com/providermatch/phs/photos/orig/judd-lilith-1508032327.jpg" />
+                        <div><a href="https://www.providence.org/doctors/profile.aspx?name=lilith+m+judd&first=lilith&middle=marion&last=judd&title=neurocritical+care+and+stroke+neurologist&id=198342" class="btn btn-primary">View Profile</a></div>
+                    </div>
+                </div>
+                <div class="col-sm-7 col-xs-8">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h2 class="provider-link" itemprop="name">
+                                <a class="provider-link" href="https://www.providence.org/doctors/profile.aspx?name=lilith+m+judd&first=lilith&middle=marion&last=judd&title=neurocritical+care+and+stroke+neurologist&id=198342">Lilith M. Judd, M.D.&nbsp;<img src ="https://www.providence.org/doctors/images/pmg-icon.png?region=or" style="width:16px;height:16px;" style="Providence Employed Provider" alt="Providence Employed Provider" />
+                                </a>
+                            </h2>
+                            <div class="provider-title">Neurocritical Care and Stroke Neurologist</div><div class="height-spacer"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-xs-12 col-md-12">
+                            <div class="specialties-list">
+                                <div class="results-specialty-label">Specialties</div>
+                                <ul class="specialty"><li><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&search-term=neurology"><span itemprop="medicalSpecialty">Neurology</span></a></ul>
+                            </div>
+                            <div class="accepting-new-patients">
+                                <div id="accepting-patients"><span class="glyphicon glyphicon-ok-circle"></span><span class="accepting-patients">Accepting New Patients</span></div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-sm-12 col-xs-12 col-md-4">
+                            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-12">
+                    
+                        <div class="npi-number" data-doctor-npi="1508032327" data-doctor-name="Lilith M. Judd"></div>
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="height-spacer"></div>
+                <div class="col-xs-12">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+        
+    <div class="row outlined" itemscope itemtype="http://schema.org/Physician">
+        <!-- Evergage gender meta tag -->
+        <meta name="gender" content="Male">
+        <div class="col-xs-12">
+            <div class="row">
+                <div class="col-sm-2 col-xs-4">
+                    <div>
+                        <img class="media-object img-thumbnail" style="min-height: 50px; min-width: 50px;" alt="Photo of Ravinder P Shergill" src="https://kyruus-app-static.kyruus.com/providermatch/phs/photos/orig/shergill-ravinder-1053341099.png" />
+                        <div><a href="https://www.providence.org/doctors/profile.aspx?name=ravinder+p+shergill&first=ravinder&middle=p&last=shergill&title=intensivist&city=anchorage&id=187017" class="btn btn-primary">View Profile</a></div>
+                    </div>
+                </div>
+                <div class="col-sm-7 col-xs-8">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h2 class="provider-link" itemprop="name">
+                                <a class="provider-link" href="https://www.providence.org/doctors/profile.aspx?name=ravinder+p+shergill&first=ravinder&middle=p&last=shergill&title=intensivist&city=anchorage&id=187017">Ravinder P. Shergill, M.D.
+                                </a>
+                            </h2>
+                            <div class="provider-title">Intensivist</div><div class="height-spacer"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-xs-12 col-md-12">
+                            <div class="specialties-list">
+                                <div class="results-specialty-label">Specialties</div>
+                                <ul class="specialty"><li><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&search-term=critical+care+medicine"><span itemprop="medicalSpecialty">Critical Care Medicine</span></a><li><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&search-term=pulmonology"><span itemprop="medicalSpecialty">Pulmonology</span></a></ul>
+                            </div>
+                            <div class="accepting-new-patients">
+                                <div id="accepting-patients"><span class="glyphicon glyphicon-ok-circle"></span><span class="accepting-patients">Accepting New Patients</span></div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-sm-12 col-xs-12 col-md-4">
+                            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-12">
+                    
+                        <div class="npi-number" data-doctor-npi="1053341099" data-doctor-name="Ravinder P. Shergill"></div>
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="height-spacer"></div>
+                <div class="col-xs-12">
+                    <div class="row"><div class="col-sm-6 locations-heading">Practice Locations</div><div class="col-sm-3 locations-heading mobile-hidden">Phone</div><div class="col-sm-3 locations-heading mobile-hidden">&nbsp;</div></div><hr style = "margin-bottom:5px;border-top:1px solid #999" /><div class="row"><div class="col-sm-6"><div class="bold">Providence AK Med Center - eICU</div><div><span itemprop="address" itemscope="itemscope" itemtype="https://schema.org/PostalAddress"><span itemprop="streetAddress">3841 Piper Street<br>Suite T4-317</span><br><span itemprop="addressLocality">Anchorage</span>, <span itemprop="addressRegion">AK</span> <span itemprop="postalCode">99508</span></span></div><div><span class="profile-label"><span class="glyphicon glyphicon-map-marker"></span>&nbsp;<a href = "https://maps.google.com/?q=3841+Piper+Street+Suite+T4-317+Anchorage+AK+99508" target="_blank">Map & Directions</a></span></div></div><div class="col-sm-3"><div class="phone-label"><span id="hidden-phone-icon" style="display:none" class="glyphicon glyphicon-phone" aria-hidden="true"></span><a href="tel:+1-907-212-6800" title="Call Us">(907) 212-6800</a></div></div><div class="col-sm-3">&nbsp;</div></div><hr style = "margin-bottom:5px;border-top:1px solid #ccc" /><div class="row"><div class="col-sm-6"><div class="bold">St Charles Medical Center - Bend</div><div><span itemprop="address" itemscope="itemscope" itemtype="https://schema.org/PostalAddress"><span itemprop="streetAddress">2500 Northeast Neff Road</span><br><span itemprop="addressLocality">Bend</span>, <span itemprop="addressRegion">OR</span> <span itemprop="postalCode">97701</span></span></div><div><span class="profile-label"><span class="glyphicon glyphicon-map-marker"></span>&nbsp;<a href = "https://maps.google.com/?q=2500+Northeast+Neff+Road+Bend+OR+97701" target="_blank">Map & Directions</a></span></div></div><div class="col-sm-3"><div class="phone-label"><span id="hidden-phone-icon" style="display:none" class="glyphicon glyphicon-phone" aria-hidden="true"></span><a href="tel:+1-541-382-4321" title="Call Us">(541) 382-4321</a></div></div><div class="col-sm-3">&nbsp;</div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+    <div class="row outlined" itemscope itemtype="http://schema.org/Physician">
+        <!-- Evergage gender meta tag -->
+        <meta name="gender" content="Male">
+        <div class="col-xs-12">
+            <div class="row">
+                <div class="col-sm-2 col-xs-4">
+                    <div>
+                        <img class="media-object img-thumbnail" style="min-height: 50px; min-width: 50px;" alt="Photo of Stephen G Becker" src="https://kyruus-app-static.kyruus.com/providermatch/phs/photos/orig/becker-stephen-1194700609.jpg" />
+                        <div><a href="https://www.providence.org/doctors/profile.aspx?name=stephen+g+becker&first=stephen&middle=g&last=becker&title=intensive+care+unit++active+medical+staff&city=hood+river&id=199487" class="btn btn-primary">View Profile</a></div>
+                    </div>
+                </div>
+                <div class="col-sm-7 col-xs-8">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h2 class="provider-link" itemprop="name">
+                                <a class="provider-link" href="https://www.providence.org/doctors/profile.aspx?name=stephen+g+becker&first=stephen&middle=g&last=becker&title=intensive+care+unit++active+medical+staff&city=hood+river&id=199487">Stephen G. Becker, M.D.
+                                </a>
+                            </h2>
+                            <div class="provider-title">Intensive care unit, active medical staff</div><div class="height-spacer"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-xs-12 col-md-12">
+                            <div class="specialties-list">
+                                <div class="results-specialty-label">Specialties</div>
+                                <ul class="specialty"><li><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&search-term=family+medicine"><span itemprop="medicalSpecialty">Family Medicine</span></a></ul>
+                            </div>
+                            <div class="accepting-new-patients">
+                                
+                            </div>
+                        </div>
+                        
+                        <div class="col-sm-12 col-xs-12 col-md-4">
+                            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-12">
+                    
+                        <div class="npi-number" data-doctor-npi="1194700609" data-doctor-name="Stephen G. Becker"></div>
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="height-spacer"></div>
+                <div class="col-xs-12">
+                    <div class="row"><div class="col-sm-6 locations-heading">Practice Locations</div><div class="col-sm-3 locations-heading mobile-hidden">Phone</div><div class="col-sm-3 locations-heading mobile-hidden">&nbsp;</div></div><hr style = "margin-bottom:5px;border-top:1px solid #999" /><div class="row"><div class="col-sm-6"><div class="bold">Columbia Gorge Family Medicine</div><div><span itemprop="address" itemscope="itemscope" itemtype="https://schema.org/PostalAddress"><span itemprop="streetAddress">1750 12th Street</span><br><span itemprop="addressLocality">Hood River</span>, <span itemprop="addressRegion">OR</span> <span itemprop="postalCode">97031</span></span></div><div><span class="profile-label"><span class="glyphicon glyphicon-map-marker"></span>&nbsp;<a href = "https://maps.google.com/?q=1750+12th+Street+Hood+River+OR+97031" target="_blank">Map & Directions</a></span></div></div><div class="col-sm-3"><div class="phone-label"><span id="hidden-phone-icon" style="display:none" class="glyphicon glyphicon-phone" aria-hidden="true"></span><a href="tel:+1-541-386-5070" title="Call Us">(541) 386-5070</a></div></div><div class="col-sm-3">&nbsp;</div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+    <div class="row outlined" itemscope itemtype="http://schema.org/Physician">
+        <!-- Evergage gender meta tag -->
+        <meta name="gender" content="Female">
+        <div class="col-xs-12">
+            <div class="row">
+                <div class="col-sm-2 col-xs-4">
+                    <div>
+                        <img class="media-object img-thumbnail" style="min-height: 50px; min-width: 50px;" alt="Photo of Stacy K Lewis" src="https://kyruus-app-static.kyruus.com/providermatch/phs/photos/orig/lewis-stacy-1124021753.jpg" />
+                        <div><a href="https://www.providence.org/doctors/profile.aspx?name=stacy+k+lewis&first=stacy&middle=k&last=lewis&title=medical+oncologist%3b+medical+director++providence+autologous+stem+cell+transplant+program&city=portland&id=158494" class="btn btn-primary">View Profile</a></div>
+                    </div>
+                </div>
+                <div class="col-sm-7 col-xs-8">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h2 class="provider-link" itemprop="name">
+                                <a class="provider-link" href="https://www.providence.org/doctors/profile.aspx?name=stacy+k+lewis&first=stacy&middle=k&last=lewis&title=medical+oncologist%3b+medical+director++providence+autologous+stem+cell+transplant+program&city=portland&id=158494">Stacy K. Lewis, M.D.&nbsp;<img src ="https://www.providence.org/doctors/images/pmg-icon.png?region=or" style="width:16px;height:16px;" style="Providence Employed Provider" alt="Providence Employed Provider" />
+                                </a>
+                            </h2>
+                            <div class="provider-title">Medical oncologist; medical director, Providence Autologous Stem Cell Transplant Program</div><div class="height-spacer"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-xs-12 col-md-12">
+                            <div class="specialties-list">
+                                <div class="results-specialty-label">Specialties</div>
+                                <ul class="specialty"><li><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&search-term=hematology"><span itemprop="medicalSpecialty">Hematology</span></a><li><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&search-term=medical+oncology"><span itemprop="medicalSpecialty">Medical Oncology</span></a></ul>
+                            </div>
+                            <div class="accepting-new-patients">
+                                <div id="accepting-patients"><span class="glyphicon glyphicon-ok-circle"></span><span class="accepting-patients">Accepting New Patients</span></div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-sm-12 col-xs-12 col-md-4">
+                            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-12">
+                    
+                        <div class="npi-number" data-doctor-npi="1124021753" data-doctor-name="Stacy K. Lewis"></div>
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="height-spacer"></div>
+                <div class="col-xs-12">
+                    <div class="row"><div class="col-sm-6 locations-heading">Practice Locations</div><div class="col-sm-3 locations-heading mobile-hidden">Phone</div><div class="col-sm-3 locations-heading mobile-hidden">&nbsp;</div></div><hr style = "margin-bottom:5px;border-top:1px solid #999" /><div class="row"><div class="col-sm-6"><div class="bold"><a href="http://oregon.providence.org/location-directory/p/providence-cancer-center-oncology-and-hematology-care-clinic-westside-portland/#llaid=5173" target="_blank">Providence Cancer Center Oncology and Hematology Care Clinic, Westside Portland</a></div><div><span itemprop="address" itemscope="itemscope" itemtype="https://schema.org/PostalAddress"><span itemprop="streetAddress">9135 Southwest Barnes Road<br>Suite 261</span><br><span itemprop="addressLocality">Portland</span>, <span itemprop="addressRegion">OR</span> <span itemprop="postalCode">97225</span></span></div><div><span class="profile-label"><span class="glyphicon glyphicon-map-marker"></span>&nbsp;<a href = "https://www.google.com/maps?cid=3629987462333544668" target="_blank">Map & Directions</a></span></div></div><div class="col-sm-3"><div class="phone-label"><span id="hidden-phone-icon" style="display:none" class="glyphicon glyphicon-phone" aria-hidden="true"></span><a href="tel:+1-503-216-6300" title="Call Us">(503) 216-6300</a></div></div><div class="col-sm-3">&nbsp;</div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+    <div class="row outlined" itemscope itemtype="http://schema.org/Physician">
+        <!-- Evergage gender meta tag -->
+        <meta name="gender" content="Female">
+        <div class="col-xs-12">
+            <div class="row">
+                <div class="col-sm-2 col-xs-4">
+                    <div>
+                        <img class="media-object img-thumbnail" style="min-height: 50px; min-width: 50px;" alt="Photo of Nicole M Schmidt" src="https://kyruus-app-static.kyruus.com/providermatch/phs/photos/orig/schmidt-nicole-1982702593.jpg" />
+                        <div><a href="https://www.providence.org/doctors/profile.aspx?name=nicole+m+schmidt&first=nicole&middle=m&last=schmidt&title=neonatologist&id=195971" class="btn btn-primary">View Profile</a></div>
+                    </div>
+                </div>
+                <div class="col-sm-7 col-xs-8">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h2 class="provider-link" itemprop="name">
+                                <a class="provider-link" href="https://www.providence.org/doctors/profile.aspx?name=nicole+m+schmidt&first=nicole&middle=m&last=schmidt&title=neonatologist&id=195971">Nicole M. Schmidt, M.D.
+                                </a>
+                            </h2>
+                            <div class="provider-title">Neonatologist</div><div class="height-spacer"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-xs-12 col-md-12">
+                            <div class="specialties-list">
+                                <div class="results-specialty-label">Specialties</div>
+                                <ul class="specialty"><li><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&search-term=neonatology"><span itemprop="medicalSpecialty">Neonatology</span></a><li><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&search-term=pediatrics"><span itemprop="medicalSpecialty">Pediatrics</span></a></ul>
+                            </div>
+                            <div class="accepting-new-patients">
+                                <div id="accepting-patients"><span class="glyphicon glyphicon-ok-circle"></span><span class="accepting-patients">Accepting New Patients</span></div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-sm-12 col-xs-12 col-md-4">
+                            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-12">
+                    
+                        <div class="npi-number" data-doctor-npi="1982702593" data-doctor-name="Nicole M. Schmidt"></div>
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="height-spacer"></div>
+                <div class="col-xs-12">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+        
+    <div class="row outlined" itemscope itemtype="http://schema.org/Physician">
+        <!-- Evergage gender meta tag -->
+        <meta name="gender" content="Female">
+        <div class="col-xs-12">
+            <div class="row">
+                <div class="col-sm-2 col-xs-4">
+                    <div>
+                        <img class="media-object img-thumbnail" style="min-height: 50px; min-width: 50px;" alt="Photo of Rebecca E Mischel" src="https://kyruus-app-static.kyruus.com/providermatch/phs/photos/orig/mischel-rebecca-1962500579.jpg" />
+                        <div><a href="https://www.providence.org/doctors/profile.aspx?name=rebecca+e+mischel&first=rebecca&middle=e&last=mischel&title=neonatologist&id=202524" class="btn btn-primary">View Profile</a></div>
+                    </div>
+                </div>
+                <div class="col-sm-7 col-xs-8">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h2 class="provider-link" itemprop="name">
+                                <a class="provider-link" href="https://www.providence.org/doctors/profile.aspx?name=rebecca+e+mischel&first=rebecca&middle=e&last=mischel&title=neonatologist&id=202524">Rebecca E. Mischel, M.D.
+                                </a>
+                            </h2>
+                            <div class="provider-title">Neonatologist</div><div class="height-spacer"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-xs-12 col-md-12">
+                            <div class="specialties-list">
+                                <div class="results-specialty-label">Specialties</div>
+                                <ul class="specialty"><li><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&search-term=neonatology"><span itemprop="medicalSpecialty">Neonatology</span></a></ul>
+                            </div>
+                            <div class="accepting-new-patients">
+                                <div id="accepting-patients"><span class="glyphicon glyphicon-ok-circle"></span><span class="accepting-patients">Accepting New Patients</span></div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-sm-12 col-xs-12 col-md-4">
+                            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-12">
+                    
+                        <div class="npi-number" data-doctor-npi="1962500579" data-doctor-name="Rebecca E. Mischel"></div>
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="height-spacer"></div>
+                <div class="col-xs-12">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+        
+    <div class="row outlined" itemscope itemtype="http://schema.org/Physician">
+        <!-- Evergage gender meta tag -->
+        <meta name="gender" content="Male">
+        <div class="col-xs-12">
+            <div class="row">
+                <div class="col-sm-2 col-xs-4">
+                    <div>
+                        <img class="media-object img-thumbnail" style="min-height: 50px; min-width: 50px;" alt="Photo of Shane O Rogosin" src="https://kyruus-app-static.kyruus.com/providermatch/phs/photos/orig/rogosin-shane-1447451794.jpg" />
+                        <div><a href="https://www.providence.org/doctors/profile.aspx?name=shane+o+rogosin&first=shane&middle=o&last=rogosin&title=medical+oncologist&city=clackamas&id=157785" class="btn btn-primary">View Profile</a></div>
+                    </div>
+                </div>
+                <div class="col-sm-7 col-xs-8">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h2 class="provider-link" itemprop="name">
+                                <a class="provider-link" href="https://www.providence.org/doctors/profile.aspx?name=shane+o+rogosin&first=shane&middle=o&last=rogosin&title=medical+oncologist&city=clackamas&id=157785">Shane O. Rogosin, M.D.&nbsp;<img src ="https://www.providence.org/doctors/images/pmg-icon.png?region=or" style="width:16px;height:16px;" style="Providence Employed Provider" alt="Providence Employed Provider" />
+                                </a>
+                            </h2>
+                            <div class="provider-title">Medical oncologist</div><div class="height-spacer"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-xs-12 col-md-12">
+                            <div class="specialties-list">
+                                <div class="results-specialty-label">Specialties</div>
+                                <ul class="specialty"><li><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&search-term=hematology"><span itemprop="medicalSpecialty">Hematology</span></a><li><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&search-term=medical+oncology"><span itemprop="medicalSpecialty">Medical Oncology</span></a></ul>
+                            </div>
+                            <div class="accepting-new-patients">
+                                <div id="accepting-patients"><span class="glyphicon glyphicon-ok-circle"></span><span class="accepting-patients">Accepting New Patients</span></div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-sm-12 col-xs-12 col-md-4">
+                            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-12">
+                    
+                        <div class="npi-number" data-doctor-npi="1447451794" data-doctor-name="Shane O. Rogosin"></div>
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="height-spacer"></div>
+                <div class="col-xs-12">
+                    <div class="row"><div class="col-sm-6 locations-heading">Practice Locations</div><div class="col-sm-3 locations-heading mobile-hidden">Phone</div><div class="col-sm-3 locations-heading mobile-hidden">&nbsp;</div></div><hr style = "margin-bottom:5px;border-top:1px solid #999" /><div class="row"><div class="col-sm-6"><div class="bold"><a href="https://oregon.providence.org/location-directory/p/providence-cancer-institute-clackamas-clinic/" target="_blank">Providence Cancer Institute Clackamas Clinic</a></div><div><span itemprop="address" itemscope="itemscope" itemtype="https://schema.org/PostalAddress"><span itemprop="streetAddress">9280 Southeast Sunnybrook Boulevard<br>Suite 200</span><br><span itemprop="addressLocality">Clackamas</span>, <span itemprop="addressRegion">OR</span> <span itemprop="postalCode">97015</span></span></div><div><span class="profile-label"><span class="glyphicon glyphicon-map-marker"></span>&nbsp;<a href = "https://maps.google.com/?q=9280+Southeast+Sunnybrook+Boulevard+Suite+200+Clackamas+OR+97015" target="_blank">Map & Directions</a></span></div></div><div class="col-sm-3"><div class="phone-label"><span id="hidden-phone-icon" style="display:none" class="glyphicon glyphicon-phone" aria-hidden="true"></span><a href="tel:+1-503-513-1900" title="Call Us">(503) 513-1900</a></div></div><div class="col-sm-3">&nbsp;</div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+    <div class="row outlined" itemscope itemtype="http://schema.org/Physician">
+        <!-- Evergage gender meta tag -->
+        <meta name="gender" content="Male">
+        <div class="col-xs-12">
+            <div class="row">
+                <div class="col-sm-2 col-xs-4">
+                    <div>
+                        <img class="media-object img-thumbnail" style="min-height: 50px; min-width: 50px;" alt="Photo of Biggya L Sapkota" src="https://kyruus-app-static.kyruus.com/providermatch/phs/photos/orig/sapkota-biggya-1306006135.jpg" />
+                        <div><a href="https://www.providence.org/doctors/profile.aspx?name=biggya+l+sapkota&first=biggya&middle=l&last=sapkota&title=neurologist&city=portland&id=194457" class="btn btn-primary">View Profile</a></div>
+                    </div>
+                </div>
+                <div class="col-sm-7 col-xs-8">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h2 class="provider-link" itemprop="name">
+                                <a class="provider-link" href="https://www.providence.org/doctors/profile.aspx?name=biggya+l+sapkota&first=biggya&middle=l&last=sapkota&title=neurologist&city=portland&id=194457">Biggya L. Sapkota, M.D.&nbsp;<img src ="https://www.providence.org/doctors/images/pmg-icon.png?region=or" style="width:16px;height:16px;" style="Providence Employed Provider" alt="Providence Employed Provider" />
+                                </a>
+                            </h2>
+                            <div class="provider-title">Neurologist</div><div class="height-spacer"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-xs-12 col-md-12">
+                            <div class="specialties-list">
+                                <div class="results-specialty-label">Specialties</div>
+                                <ul class="specialty"><li><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&search-term=neurology"><span itemprop="medicalSpecialty">Neurology</span></a><li><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&search-term=vascular+neurology"><span itemprop="medicalSpecialty">Vascular Neurology</span></a></ul>
+                            </div>
+                            <div class="accepting-new-patients">
+                                <div id="accepting-patients"><span class="glyphicon glyphicon-ok-circle"></span><span class="accepting-patients">Accepting New Patients</span></div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-sm-12 col-xs-12 col-md-4">
+                            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-12">
+                    
+                        <div class="npi-number" data-doctor-npi="1306006135" data-doctor-name="Biggya L. Sapkota"></div>
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="height-spacer"></div>
+                <div class="col-xs-12">
+                    <div class="row"><div class="col-sm-6 locations-heading">Practice Locations</div><div class="col-sm-3 locations-heading mobile-hidden">Phone</div><div class="col-sm-3 locations-heading mobile-hidden">&nbsp;</div></div><hr style = "margin-bottom:5px;border-top:1px solid #999" /><div class="row"><div class="col-sm-6"><div class="bold"><a href="http://oregon.providence.org/location-directory/p/providence-neurological-specialties-east/#llaid=5641" target="_blank">Providence Neurological Specialties-East</a></div><div><span itemprop="address" itemscope="itemscope" itemtype="https://schema.org/PostalAddress"><span itemprop="streetAddress">5050 Northeast Hoyt Street<br>Providence Portland Medical Center<br>Suite 315</span><br><span itemprop="addressLocality">Portland</span>, <span itemprop="addressRegion">OR</span> <span itemprop="postalCode">97213</span></span></div><div><span class="profile-label"><span class="glyphicon glyphicon-map-marker"></span>&nbsp;<a href = "https://www.google.com/maps?cid=13802702711699519283" target="_blank">Map & Directions</a></span></div></div><div class="col-sm-3"><div class="phone-label"><span id="hidden-phone-icon" style="display:none" class="glyphicon glyphicon-phone" aria-hidden="true"></span><a href="tel:+1-503-215-8580" title="Call Us">(503) 215-8580</a></div></div><div class="col-sm-3">&nbsp;</div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+    <div class="row outlined" itemscope itemtype="http://schema.org/Physician">
+        <!-- Evergage gender meta tag -->
+        <meta name="gender" content="Male">
+        <div class="col-xs-12">
+            <div class="row">
+                <div class="col-sm-2 col-xs-4">
+                    <div>
+                        <img class="media-object img-thumbnail" style="min-height: 50px; min-width: 50px;" alt="Photo of Richard E Gellman" src="https://kyruus-app-static.kyruus.com/providermatch/phs/photos/orig/gellman-richard-1356446074.jpg" />
+                        <div><a href="https://www.providence.org/doctors/profile.aspx?name=richard+e+gellman&first=richard&middle=e&last=gellman&city=portland&id=196661" class="btn btn-primary">View Profile</a></div>
+                    </div>
+                </div>
+                <div class="col-sm-7 col-xs-8">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h2 class="provider-link" itemprop="name">
+                                <a class="provider-link" href="https://www.providence.org/doctors/profile.aspx?name=richard+e+gellman&first=richard&middle=e&last=gellman&city=portland&id=196661">Richard E. Gellman, M.D.
+                                </a>
+                            </h2>
+                            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-xs-12 col-md-12">
+                            <div class="specialties-list">
+                                <div class="results-specialty-label">Specialties</div>
+                                <ul class="specialty"><li><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&search-term=orthopedic+surgery"><span itemprop="medicalSpecialty">Orthopedic Surgery</span></a></ul>
+                            </div>
+                            <div class="accepting-new-patients">
+                                <div id="accepting-patients"><span class="glyphicon glyphicon-ok-circle"></span><span class="accepting-patients">Accepting New Patients</span></div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-sm-12 col-xs-12 col-md-4">
+                            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-12">
+                    
+                        <div class="npi-number" data-doctor-npi="1356446074" data-doctor-name="Richard E. Gellman"></div>
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="height-spacer"></div>
+                <div class="col-xs-12">
+                    <div class="row"><div class="col-sm-6 locations-heading">Practice Locations</div><div class="col-sm-3 locations-heading mobile-hidden">Phone</div><div class="col-sm-3 locations-heading mobile-hidden">&nbsp;</div></div><hr style = "margin-bottom:5px;border-top:1px solid #999" /><div class="row"><div class="col-sm-6"><div class="bold">Summit Orthopaedics, Portland</div><div><span itemprop="address" itemscope="itemscope" itemtype="https://schema.org/PostalAddress"><span itemprop="streetAddress">501 North Graham Street<br>Suite 250</span><br><span itemprop="addressLocality">Portland</span>, <span itemprop="addressRegion">OR</span> <span itemprop="postalCode">97227</span></span></div><div><span class="profile-label"><span class="glyphicon glyphicon-map-marker"></span>&nbsp;<a href = "https://maps.google.com/?q=501+North+Graham+Street+Suite+250+Portland+OR+97227" target="_blank">Map & Directions</a></span></div></div><div class="col-sm-3"><div class="phone-label"><span id="hidden-phone-icon" style="display:none" class="glyphicon glyphicon-phone" aria-hidden="true"></span><a href="tel:+1-503-249-0719" title="Call Us">(503) 249-0719</a></div></div><div class="col-sm-3">&nbsp;</div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+    <div class="row outlined" itemscope itemtype="http://schema.org/Physician">
+        <!-- Evergage gender meta tag -->
+        <meta name="gender" content="Male">
+        <div class="col-xs-12">
+            <div class="row">
+                <div class="col-sm-2 col-xs-4">
+                    <div>
+                        <img class="media-object img-thumbnail" style="min-height: 50px; min-width: 50px;" alt="Photo of Orlando R Acosta" src="https://kyruus-app-static.kyruus.com/providermatch/phs/photos/orig/acosta-orlando-1912990375.jpg" />
+                        <div><a href="https://www.providence.org/doctors/profile.aspx?name=orlando+r+acosta&first=orlando&middle=r&last=acosta&title=intensive+care+unit++active+medical+staff&city=hood+river&id=201544" class="btn btn-primary">View Profile</a></div>
+                    </div>
+                </div>
+                <div class="col-sm-7 col-xs-8">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h2 class="provider-link" itemprop="name">
+                                <a class="provider-link" href="https://www.providence.org/doctors/profile.aspx?name=orlando+r+acosta&first=orlando&middle=r&last=acosta&title=intensive+care+unit++active+medical+staff&city=hood+river&id=201544">Orlando R. Acosta, M.D.
+                                </a>
+                            </h2>
+                            <div class="provider-title">Intensive care unit, active medical staff</div><div class="height-spacer"></div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-xs-12 col-md-12">
+                            <div class="specialties-list">
+                                <div class="results-specialty-label">Specialties</div>
+                                <ul class="specialty"><li><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&search-term=family+medicine"><span itemprop="medicalSpecialty">Family Medicine</span></a></ul>
+                            </div>
+                            <div class="accepting-new-patients">
+                                <div id="accepting-patients"><span class="glyphicon glyphicon-ok-circle"></span><span class="accepting-patients">Accepting New Patients</span></div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-sm-12 col-xs-12 col-md-4">
+                            
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12">
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3 col-xs-12">
+                    
+                        <div class="npi-number" data-doctor-npi="1912990375" data-doctor-name="Orlando R. Acosta"></div>
+                    
+                </div>
+            </div>
+            <div class="row">
+                <div class="height-spacer"></div>
+                <div class="col-xs-12">
+                    <div class="row"><div class="col-sm-6 locations-heading">Practice Locations</div><div class="col-sm-3 locations-heading mobile-hidden">Phone</div><div class="col-sm-3 locations-heading mobile-hidden">&nbsp;</div></div><hr style = "margin-bottom:5px;border-top:1px solid #999" /><div class="row"><div class="col-sm-6"><div class="bold">One Community Health - Hood River</div><div><span itemprop="address" itemscope="itemscope" itemtype="https://schema.org/PostalAddress"><span itemprop="streetAddress">849 Pacific Avenue</span><br><span itemprop="addressLocality">Hood River</span>, <span itemprop="addressRegion">OR</span> <span itemprop="postalCode">97031</span></span></div><div><span class="profile-label"><span class="glyphicon glyphicon-map-marker"></span>&nbsp;<a href = "https://maps.google.com/?q=849+Pacific+Avenue+Hood+River+OR+97031" target="_blank">Map & Directions</a></span></div></div><div class="col-sm-3"><div class="phone-label"><span id="hidden-phone-icon" style="display:none" class="glyphicon glyphicon-phone" aria-hidden="true"></span><a href="tel:+1-541-386-6380" title="Call Us">(541) 386-6380</a></div></div><div class="col-sm-3">&nbsp;</div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+        <div style="font-style:italic"><img src="images/pmg-icon.png" alt="Providence employed provider" style="margin-right:5px;vertical-align:middle;" />denotes physician is a Providence-employed provider</div>
+    
+     <!-- Paging Controls -->
+    <div class="row"><div class="col-sm-12"><div class="result-count">1 - 10 of 237<nav aria-label="Page navigation" class="show-mobile"><ul class="pagination"><li class="active"><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&super-practice-group=Providence+Hood+River+Memorial+Hospital&super-pid=27125&language=English&shuffle-seed=790f2ddd1d8349ed92dcc1479b9a6b03">1</a></li><li class="normal"><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&page=2&super-practice-group=Providence+Hood+River+Memorial+Hospital&super-pid=27125&language=English&shuffle-seed=790f2ddd1d8349ed92dcc1479b9a6b03">2</a></li><li class="normal"><a href="https://www.providence.org/doctors/searchresults.aspx?region=or&page=3&super-practice-group=Providence+Hood+River+Memorial+Hospital&super-pid=27125&language=English&shuffle-seed=790f2ddd1d8349ed92dcc1479b9a6b03">3</a></li><li><a href = "https://www.providence.org/doctors/searchresults.aspx?region=or&page=2&super-practice-group=Providence+Hood+River+Memorial+Hospital&super-pid=27125&language=English&shuffle-seed=790f2ddd1d8349ed92dcc1479b9a6b03" aria-label="Next"><span aria-hidden="true">&raquo;</span></a></li></ul></nav>Viewing page 1 of 24</div></div></div>     
+    <div class="height-spacer"></div>
+   
+
+    
+
+
+
+    </div>
+
+    
+
+<!--============================================= Providence.org Footer HTML =====================================-->
+
+<!--============================================= /providence.org Footer HTML ====================================-->
+
+<!--============================================= New WA Footer HTML =============================================-->
+
+<!--============================================= /New WA Footer HTML ============================================-->
+
+<!--============================================= MT Footer HTML =================================================-->
+
+<!--============================================= /MT Footer HTML ================================================-->
+
+<!--============================================= AK Footer HTML =================================================-->
+
+<!--============================================= /AK Footer HTML ================================================-->
+
+<!--============================================= OR Footer HTML =================================================-->
+
+
+    <footer>
+        <section class="footer-block">
+            <div class="grid top">
+                <div class="container">
+                    <ul>
+                        <li><a href="//oregon.providence.org/about-us" data-whld="tested">About Us&nbsp;&nbsp;›</a></li>
+                        <li><a href="//oregon.providence.org/for-professionals" data-whld="tested">Clinician Resources&nbsp;&nbsp;›</a></li>
+                        <li><a target="_blank" href="https://healthplans.providence.org/" data-whld="tested">Health Plan&nbsp;&nbsp;›</a></li>
+                        <li><a target="_blank" href="http://providence-oregon.jobs/?utm_campaign=oregon.providence.orgv&amp;vs=1827&amp;utm_medium=Other&amp;utm_source=oregon.providence.org-DE" data-whld="tested">Providence Careers&nbsp;&nbsp;›</a></li>
+                        <li><a href="http://www.providence.org/caregivers" target="_blank" title="opens in a new window" data-whld="tested">For Caregiver&nbsp;&nbsp;›</a></li>
+                        <li class="mychart"><a target="_blank" href="http://mychartor.providence.org" data-whld="tested">MyChart&nbsp;&nbsp;›</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <div class="container">
+            <div class="foot-inner grid">
+                <div class="desktop">
+                    <section class="grid-half">
+                        <div class="grid-full">
+                            <div class="footer-copy">
+                                <h3>Patients &amp; Visitors</h3>
+                                <div class="grid-half first">
+                                    <ul>
+                                        <li><a href="//oregon.providence.org/physician-directory">Find a doctor</a></li>
+                                        <li><a href="//oregon.providence.org/location-directory">Find a hospital or clinic</a></li>
+                                        <li><a href="http://www.providence.org/obp/or" target="_blank">Pay a bill</a></li>
+                                        <li><a href="//oregon.providence.org/about-us/billing-center">Billing information</a></li>
+                                        <li><a href="http://www.providence.org/obp/or/financial-assistance" target="_blank">Request financial assistance</a></li>
+                                        <li><a href="https://appsor.providence.org/prereg/default.aspx?" target="_blank">Preregister for a hospital visit</a></li>
+                                        <li><a href="//oregon.providence.org/our-services/h/health-and-wellness-classes">Take a class</a></li>
+                                    </ul>
+                                </div>
+                                <div class="grid-half">
+                                    <ul>
+                                        <li><a href="//oregon.providence.org/our-services/p/providence-foundations">Make a donation</a></li>
+                                        <li><a href="//oregon.providence.org/our-services/g/gift-shop">Send a gift to patient</a></li>
+                                        <li><a href="http://communitybenefit.providence.org/oregon/" target="_blank">Community benefit report</a></li>
+                                        <li><a href="//oregon.providence.org/our-services/c/capital-project-reporting">Capital project reporting</a></li>
+                                        <li><a href="//oregon.providence.org/our-services/m/medical-records-authorizations">Inquire about your medical records</a></li>
+                                        <li><a href="http://www.providenceiscalling.jobs/" target="_blank">Search jobs with Providence</a></li>
+                                        <li><a href="//oregon.providence.org/our-services/w/workplace-health-services">Find employer and workplace services</a></li>
+                                        <li><a href="//oregon.providence.org/our-services">View all services</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="grid-half">
+                            <div class="footer-copy">
+                                <h3>Programs</h3>
+                                <ul>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-behavioral-health">Behavioral Health</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-brain-and-spine-institute">Brain and Spine</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-cancer-center">Cancer</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-children-s-health">Children's Health</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-diagnostic-imaging">Diagnostic Imaging</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/w/workplace-health-services">Employer and Workplace Services</a></li>
+                                    <li><a href="https://www.providenceexpresscare.org/digital/" target="_blank">Express Care</a></li>
+                                    <li><a href="https://virtual.providence.org" target="_blank">Express Care Virtual</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-heart-and-vascular-institute">Heart and Vascular</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-home-services">Home Services</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-digestive-health-institute">Digestive Health</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-pregnancy-labor-and-birth">Pregnancy, Labor and Birth</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-medical-group">Providence Medical Group</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-orthopedic-institute">Orthopedics</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-rehabilitation-services">Rehabilitation</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-surgical-services">Surgical Services</a></li>
+                                </ul>
+                                <a href="/our-services">View All Services &nbsp;&rsaquo;</a>
+                            </div>
+                        </div>
+                        <div class="grid-half">
+                            <div class="footer-copy">
+                                <h3>Locations</h3>
+                                <ul>
+                                    <li><a href="//oregon.providence.org/location-directory/list-view/?loctype=hospital&amp;within=5000">Hospitals and Medical Centers</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/e/emergency-services/locations">Emergency Departments</a></li>
+                                    <li><a href="https://www.providenceexpresscare.org/digital/" target="_blank">Express Care Clinics</a></li>
+                                    <li><a href="//oregon.providence.org/location-directory/p/providence-express-care-kiosk-medford">Express Care Kiosk</a></li>
+                                    <li><a href="//oregon.providence.org/location-directory/list-view/?loctype=urgent+and+immediate+care&amp;within=5000">Immediate Care Clinics</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-laboratory-services/locations">Laboratory Service Clinics</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/w/workplace-health-services/locations">Occupational Medicine Clinics</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-rehabilitation-services/locations">Physical Rehabilitation Clinics</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/p/primary-care/locations">Primary Care Clinics</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/s/specialty-medical-care/locations">Specialty Care Clinics</a></li>
+                                </ul>
+                                <a href="//oregon.providence.org/location-directory">Search All Locations &nbsp;&rsaquo;</a>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="grid-half">
+                        <div class="inner">
+                            <h3></h3>
+                            <h3><a href="//oregon.providence.org/about-us">About Providence Health &amp; Services</a></h3>
+                            <p>Providence Health &amp; Services in Oregon is a not-for-profit Catholic network of hospitals, care centers, health plans, physicians, clinics, home health care and affiliated services guided by a Mission of caring that the Sisters of Providence began in the West nearly 160 years ago.</p>
+                            <h3><a href="//oregon.providence.org/about-us/mission-and-core-values">Our Mission</a></h3>
+                            <p>As people of Providence, we reveal God&rsquo;s love for all, especially the poor and vulnerable, through our compassionate service.</p>
+                            <h3><a href="//oregon.providence.org/about-us/mission-and-core-values">Our Core Values</a></h3>
+                            <p>Respect, Compassion, Justice, Excellence, Stewardship</p>
+                        </div>
+                        <section class="contact">
+                            <div class="grid-full web">
+                                <h4>Providence Resource Line</h4>
+                                <span>503-574-6595</span>
+                                <span>800-562-8964</span>
+                                <br />
+                                <br />
+                                <strong><a href="//oregon.providence.org/contact-us/customer-service">Contact us &rsaquo;</a></strong>
+                            </div>
+                            <div class="grid-full web">
+                                <h4>Providence Health Plan</h4>
+                                <span>503-574-7500</span>
+                                <span>800-878-4445</span>
+                            </div>
+                            <div class="grid-full web">
+                                <h4>Visit Our Other Websites</h4>
+                                <ul>
+                                    <li><a href="https://healthplans.providence.org/Pages/individuals-and-families.aspx" target="_blank">Providence Health Plan</a></li>
+                                    <li><a href="http://www.providence.org" target="_blank">Providence Health &amp; Services System Site</a></li>
+                                </ul>
+                            </div>
+                        </section>
+                    </section>
+                </div>
+
+                <div class="mobile">
+
+                    <div class="accordion grid-full">
+                        <h3>Patients &amp; Visitors</h3>
+                        <div class="accordian_copy">
+                            <div class="grid-half first">
+                                <ul>
+                                    <li><a href="//oregon.providence.org/physician-directory">Find a doctor</a></li>
+                                    <li><a href="//oregon.providence.org/location-directory">Find a hospital or clinic</a></li>
+                                    <li><a href="http://www.providence.org/obp/or" target="_blank">Pay a bill</a></li>
+                                    <li><a href="//oregon.providence.org/about-us/billing-center">Billing information</a></li>
+                                    <li><a href="http://www.providence.org/obp/or/financial-assistance" target="_blank">Request financial assistance</a></li>
+                                    <li><a href="https://appsor.providence.org/prereg/default.aspx?" target="_blank">Preregister for a hospital visit</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/h/health-and-wellness-classes">Take a class</a></li>
+                                </ul>
+                            </div>
+                            <div class="grid-half">
+                                <ul>
+                                    <li><a href="//oregon.providence.org/our-services/p/providence-foundations">Make a donation</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/g/gift-shop">Send a gift to patient</a></li>
+                                    <li><a href="http://communitybenefit.providence.org/oregon/" target="_blank">Community benefit report</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/c/capital-project-reporting">Capital project reporting</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/m/medical-records-authorizations">Inquire about your medical records</a></li>
+                                    <li><a href="http://www.providenceiscalling.jobs/" target="_blank">Search jobs with Providence</a></li>
+                                    <li><a href="//oregon.providence.org/our-services/w/workplace-health-services">Find employer and workplace services</a></li>
+                                    <li><a href="//oregon.providence.org/our-services">View all services</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <h3>Programs</h3>
+                        <div class="accordian_copy">
+                            <ul>
+                                <li><a href="//oregon.providence.org/our-services/p/providence-behavioral-health">Behavioral Health</a></li>
+                                <li><a href="//oregon.providence.org/our-services/p/providence-brain-and-spine-institute">Brain and Spine</a></li>
+                                <li><a href="//oregon.providence.org/our-services/p/providence-cancer-center">Cancer</a></li>
+                                <li><a href="//oregon.providence.org/our-services/p/providence-children-s-health">Children's Health</a></li>
+                                <li><a href="//oregon.providence.org/our-services/p/providence-diagnostic-imaging">Diagnostic Imaging</a></li>
+                                <li><a href="//oregon.providence.org/our-services/w/workplace-health-services">Employer and Workplace Services</a></li>
+                                <li><a href="https://www.providenceexpresscare.org/digital/" target="_blank">Express Care</a></li>
+                                <li><a href="https://virtual.providence.org" target="_blank">Express Care Virtual</a></li>
+                                <li><a href="//oregon.providence.org/our-services/p/providence-heart-and-vascular-institute">Heart and Vascular</a></li>
+                                <li><a href="//oregon.providence.org/our-services/p/providence-home-services">Home Services</a></li>
+                                <li><a href="//oregon.providence.org/our-services/p/providence-digestive-health-institute">Digestive Health</a></li>
+                                <li><a href="//oregon.providence.org/our-services/p/providence-pregnancy-labor-and-birth">Pregnancy, Labor and Birth</a></li>
+                                <li><a href="//oregon.providence.org/our-services/p/providence-medical-group">Providence Medical Group</a></li>
+                                <li><a href="//oregon.providence.org/our-services/p/providence-orthopedic-institute">Orthopedics</a></li>
+                                <li><a href="//oregon.providence.org/our-services/p/providence-rehabilitation-services">Rehabilitation</a></li>
+                                <li><a href="//oregon.providence.org/our-services/p/providence-surgical-services">Surgical Services</a></li>
+                            </ul>
+                            <a href="//oregon.providence.org/our-services">View All Services &nbsp;&rsaquo;</a>
+                        </div>
+                        <h3>Locations</h3>
+                        <div class="accordian_copy">
+                            <ul>
+                                <li><a href="//oregon.providence.org/location-directory/list-view/?loctype=hospital&amp;within=5000">Hospitals and Medical Centers</a></li>
+                                <li><a href="//oregon.providence.org/our-services/e/emergency-services/locations">Emergency Departments</a></li>
+                                <li><a href="https://www.providenceexpresscare.org/digital/" target="_blank">Express Care Clinics</a></li>
+                                <li><a href="//oregon.providence.org/location-directory/p/providence-express-care-kiosk-medford">Express Care Kiosk</a></li>
+                                <li><a href="//oregon.providence.org/location-directory/list-view/?loctype=urgent+and+immediate+care&amp;within=5000">Immediate Care Clinics</a></li>
+                                <li><a href="//oregon.providence.org/our-services/p/providence-laboratory-services/locations">Laboratory Service Clinics</a></li>
+                                <li><a href="//oregon.providence.org/our-services/w/workplace-health-services/locations">Occupational Medicine Clinics</a></li>
+                                <li><a href="//oregon.providence.org/our-services/p/providence-rehabilitation-services/locations">Physical Rehabilitation Clinics</a></li>
+                                <li><a href="//oregon.providence.org/our-services/p/primary-care/locations">Primary Care Clinics</a></li>
+                                <li><a href="//oregon.providence.org/our-services/s/specialty-medical-care/locations">Specialty Care Clinics</a></li>
+                            </ul>
+                            <a href="//oregon.providence.org/location-directory">Search All Locations &nbsp;&rsaquo;</a>
+                        </div>
+                    </div>
+
+                    <div class="mobile-doctor">
+                        <h3><a id="bottom_0_hlFindDoctor" href="//oregon.providence.org/physician-directory">Find a doctor</a></h3>
+                    </div>
+
+                    <section class="grid-1-fourths">
+                        <div class="inner">
+                            <section class="contact">
+                                <div class="grid-full web">
+                                    <h4>Providence Resource Line</h4>
+                                    <span>503-574-6595</span>
+                                    <span>800-562-8964</span>
+                                    <br />
+                                    <br />
+                                    <strong><a href="//oregon.providence.org/contact-us/customer-service">Contact us &rsaquo;</a></strong>
+                                </div>
+                                <div class="grid-full web">
+                                    <h4>Providence Health Plan</h4>
+                                    <span>503-574-7500</span>
+                                    <span>800-878-4445</span>
+                                </div>
+                                <div class="grid-full web">
+                                    <h4>Visit Our Other Websites</h4>
+                                    <ul>
+                                        <li><a href="https://healthplans.providence.org/Pages/individuals-and-families.aspx" target="_blank">Providence Health Plan</a></li>
+                                        <li><a href="http://www.providence.org" target="_blank">Providence Health &amp; Services System Site</a></li>
+                                    </ul>
+                                </div>
+                            </section>
+                        </div>
+                    </section>
+                </div>
+
+                <div class="clear"></div>
+            </div>
+        </div>
+        <section class="footer-block">
+            <div class="container">
+                <div class="grid foot-note">
+                    <div class="grid-3-fourths">
+                        <ul>
+                            <li><a href="//oregon.providence.org/our-services">Our Services</a></li>
+                            <li><a href="//oregon.providence.org/location-directory">Locations &amp; Clinics</a></li>
+                            <li><a href="//oregon.providence.org/physician-directory">Find a Doctor</a></li>
+                            <li><a href="//oregon.providence.org/health-library">Health Library</a></li>
+                            <li><a href="//oregon.providence.org/news-and-events">News &amp; Events</a></li>
+                        </ul>
+                    </div>
+                    <div class="grid-1-fourths social">
+                        <span>FOLLOW US:</span>
+                        <div>
+                            <a href="https://twitter.com/ProvHealth" target="_blank">
+                                <img alt="" src="https://www.providence.org/doctors/assets/images/twitter.png?region=or" /></a>
+                        </div>
+                        <div>
+                            <a href="https://www.facebook.com/providenceoregon" target="_blank">
+                                <img alt="" src="https://www.providence.org/doctors/assets/images/fb.png?region=or" /></a>
+                        </div>
+                        <div>
+                            <a href="http://www.youtube.com/user/ProvidenceOregon" target="_blank">
+                                <img alt="" src="https://www.providence.org/doctors/assets/images/yt.png?region=or" /></a>
+                        </div>
+                        <div>
+                            <a href="http://www.pinterest.com/provoregon/" target="_blank">
+                                <img alt="" src="https://www.providence.org/doctors/assets/images/pin.png?region=or" /></a>
+                        </div>
+                    </div>
+
+                    <section class="grid-full disclaimer">
+                        <span>&#169;2017 Providence Health &amp; Services. All Rights Reserved.</span>
+                        <div class="footer-info">
+                            <a target="_blank" href="http://www.providence.org/utility-pages/privacy-policy">Terms &amp; Use of Privacy Policy </a>
+                            <span class="pipe">|</span>
+                            <a target="_blank" href="http://www.providence.org/utility-pages/disclaimer">Disclaimer</a>
+                            <span class="pipe">|</span>
+                            <a href="//oregon.providence.org/about-us/notice-of-privacy-practices">Notice of Privacy Practice</a>
+                            <span class="pipe">|</span>
+                            <a href="http://www.providence.org/Utility-Pages/PHS-nondiscrimination-statement" target="_blank">Notice of Nondiscrimination and Accessibility Rights</a>
+                            <span class="pipe">|</span>
+                            <a href="https://www.providence.org/doctors/sitemapindex.aspx?region=or&format=html">Site Map</a>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </section>
+
+    </footer>
+
+<!--============================================= /OR Footer HTML ================================================-->
+
+<!--============================================= CA Footer HTML =================================================-->
+
+<!--============================================= /CA Footer HTML ================================================-->
+
+<!--============================================= Facey Footer HTML ==============================================-->
+
+<!--============================================= /Facey Footer HTML ==============================================-->
+
+<!--============================================= Kadlec Footer HTML ==============================================-->
+
+<!--============================================= /Kadlec Footer HTML =============================================-->
+
+
+<!--============================================= /MedTouch.Base: Common: Footer =============================================-->
+
+<!-- Grab Google CDN jQuery. fall back to local if necessary -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>	    !window.jQuery && document.write('<script src="//www.providence.org/assets/mtmc/js/jquery-1.9.1.js"><\/script>')</script>
+<!-- Grab Google CDN jQuery UI. fall back to local if necessary -->
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+<script>!window.jQuery.ui && document.write('<script src="//www.providence.org/assets/mtmc/js/jquery-ui-1.10.4.min.js"><\/script>')</script>
+<script src="//www.providence.org/assets/oregon/js/plugins.js"></script> 
+<script src="//www.providence.org/assets/oregon/js/res.js"></script>
+<script src="//www.providence.org/assets/oregon/js/script.js"></script>	
+    
+<!-- CALLING GCSE CONTAINER -->
+<script type="text/javascript">
+    //$('.logo').append("<div class='gcse-container'><gcse:searchbox-only></gcse:searchbox-only></div>");
+        
+    //adding search icon/button and adjusting placement for search box in mobile
+    if ($('.mobile-menu').is(':visible')) {
+        var mobileSearch = $(".gcse-container").remove().insertBefore(".top.grid");
+        $(".logo").css("margin-top", "20px");       
+    }        
+</script>
+<!-- END CALL FOR GCSE CONTAINER -->
+
+<!-- Mychartview script -->
+ <script type="text/javascript">
+    //Mychart iframes some of our content so we need to serve up only what they need to ingest. This includes the General Info
+    //tab minus any links or video.  We can't use jquery for this because of an IE bug with iframes and document.domain which causes
+    //jquery to get an access denied error.
+    //check for page = profile.aspx
+     var pageName = (function () {
+         var a = window.location.href,
+             b = a.lastIndexOf("/");
+         return a.substr(b + 1);
+     }());
+     //console.log("page name: " + pageName);
+    if (pageName.indexOf("profile.aspx") > -1 && urlParams["mychartview"] == "yes"){ // window.location.href.indexOf("mychartview=yes") > -1) { //["mychartview"] == "yes") {
+        //console.log("Mychartview initiated");
+        if(document.getElementById('mychartview')){
+        document.body.innerHTML = document.getElementById('mychartview').innerHTML;
+        var elem = document.getElementById('philosophy-of-care-video');
+        elem.parentNode.removeChild(elem);
+        }else{
+            document.body.innerHTML = "Profile is currently not available.";
+        }
+    }
+</script>
+
+<script>
+    jQuery.noConflict();
+</script>
+
+    <script type="text/javascript" src="https://www.providence.org/doctors/Scripts/jquery-1.12.4.min.js?region=or&v=20"></script>
+    <script type="text/javascript" src="https://www.providence.org/doctors/Scripts/bootstrap.js?region=or&v=20"></script>
+    <script src="https://www.providence.org/doctors/Scripts/jquery.typeahead.min.js?region=or&v=20"></script>
+    <script src="https://www.providence.org/doctors/Scripts/jquery.easyPaginate.js?region=or&v=20" type="text/javascript"></script>
+    <script src="https://www.providence.org/doctors/Scripts/jquery.typeahead.init.js?region=or&v=20" type="text/javascript"></script>
+    <script src="https://www.providence.org/doctors/Scripts/map.init.js?region=or&v=20" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        function initGoogleApi() {
+            initMap();
+            initAutocomplete();
+        }
+
+        function initMap() {
+            mapInit();
+        }
+
+        function initAutocomplete() {
+            // Create the autocomplete object, restricting the search to geographical
+            // location types.
+            var enabled = 'false';
+            if (enabled == "true") {
+                autocomplete = new google.maps.places.Autocomplete(
+                    /** @type {!HTMLInputElement} */(document.getElementById('location')),
+                    { types: ['geocode'] });
+            }
+        }
+
+        (function() {
+            var tkn = 'cfd65f6f0b544517b584795db3a803c6';
+            var typeaheaduri = 'https://api.kyruus.com/pm/v8/phs/typeahead';
+            var regionfilter = 'fields=-ALL%2c%2baccepting_new_patients%2c%2baccess_program_status%2c%2bage_groups_seen%2c%2bawards%2c%2bboard_certifications%2c%2bcase_types_seen%2c%2bclinical_contact%2c%2bclinical_trials%2c%2bcontacts%2c%2bcustomer_code%2c%2bdegrees%2c%2bexternal_id%2c%2bgender%2c%2bgeneric%2c%2bgrants%2c%2bid%2c%2bimage_url%2c%2binsurance_accepted%2c%2bis_live%2c%2bis_primary_care%2c%2bis_specialty_care%2c%2blanguages%2c%2blegal%2c%2blicense%2c%2blocations%2c%2bmax_wait%2c%2bmedia_mentions%2c%2bmedical_school%2c%2bmetadata%2c%2bmin_wait%2c%2bmulti_resource_scheduling%2c%2bname%2c%2bnetwork_affiliations%2c%2bnetworks%2c%2bnotes%2c%2bnpi%2c%2bother_video_url%2c%2breviews%2c%2bpersonal_interests%2c%2bphilosophy_of_care_video_url%2c%2bpractice_groups%2c%2bprimary_group_affiliation%2c%2bprofessional_associations%2c%2bprofessional_statement%2c%2bprovider_is_employed%2c%2bprovider_title%2c%2bprovider_type%2c%2bprovider_videos%2c%2bxp_publications%2c%2bresearch_pubs%2c%2bscope_of_practice%2c%2bshow_in_find-a-doc%2c%2bsitecore_guid%2c%2bsitecore8_guid%2c%2bsort_preferences%2c%2bspecialties%2c%2btraining%2c%2byears_in_practice&facet=none!&filter=networks.network%3aWAProvidence.org%7cMTProvidence.org%7cAKProvidence.org%7cORProvidence.org%7cCAProvidence.org&filter=networks.network%3aORProvidence.org&page=1&shuffle_seed=c0dfbd3371864769a49dd154368537e3&sort=relevance';
+            var queryOrder = {"name":-8,"first":-7,"middle":-6,"last":-5,"title":-4,"city":-3,"id":-2,"region":0,"search-term":1,"page":3,"caal":4,"insurance":5,"subspecialty-filter":6,"location":2,"specialty-filter":3,"acceptingNewPatients":4,"added":5,"age-adolescent":6,"age-adult":7,"age-geriatric":8,"age-pediatric":9,"deleted":10,"ids":11,"language":12,"location-id":13,"location-name":14,"medical-group":15,"mychartview":16,"name-prefix":17,"noscript":18,"npi":19,"practice-group":20,"rated":21,"reset":22,"sc-guid":23,"search-query":24,"shuffle-seed":25,"suggestion-term":26,"format":27,"gender":28,"name-part":29,"pid":30,"range":31,"rating":32,"search":33,"search-type":34,"sort":35,"suggestion-type":36};
+
+            function cleanupInputs(form, additionalInputNames) {
+                var inputNameMap = {};
+                Array.from(form.elements).filter(function (input) {
+                    if (!input.name)
+                        return false;
+
+                    if (!input.value)
+                        return true;
+
+                    if (additionalInputNames && additionalInputNames.indexOf(input.name) !== -1)
+                        return true;
+
+                    var existingValue = inputNameMap[input.name];
+                    inputNameMap[input.name] = input.value;
+                    return existingValue === input.value;
+                }).forEach(function (input) {
+                    input.removeAttribute('name'); // effectively disable the input from being submitted in the form
+                });
+            }
+
+            function orderInputs(form) {
+                var inputGroups = [];
+                for (var key in queryOrder) {
+                    if (queryOrder.hasOwnProperty(key)) {
+                        var order = queryOrder[key];
+                        var matches = Array.prototype.slice.call(document.querySelectorAll('[name="' + key + '"]'), 0);
+                        matches = matches.filter(function(inout) {
+                            return inout.tagName !== 'META';
+                        });
+                        inputGroups[order] = matches;
+                    }
+                }
+
+                var frag = document.createDocumentFragment();
+
+                inputGroups.forEach(function (inputGroup) {
+                    inputGroup.forEach(function (input) {
+                        var hiddenInput = document.createElement('input');
+                        hiddenInput.type = 'hidden';
+                        hiddenInput.name = input.name;
+                        hiddenInput.value = input.type === "checkbox" ? input.checked && input.value || '' : input.value;
+                        frag.appendChild(hiddenInput);
+                        input.removeAttribute('name');
+                    });
+                });
+
+                form.insertBefore(frag, form.firstChild);
+            }
+
+            // get user inputs (not-hidden), unless there is a checkbox or radio, in which case, hidden is
+            // preferred-- ONLY when the checkbox is unchecked, or no radio of the same group is selected
+            function getUserInputs(formElement) {
+                var radios = {};
+                var hElements = Array.from(formElement.elements).filter(function (input) {
+                    return !!input.name && !input.disabled && input.type === "hidden";
+                });
+                var elements = Array.from(formElement.elements).filter(function (input) {
+                    return !!input.name && !input.disabled && input.type !== "hidden";
+                });
+                var results = elements.map(function (input) {
+                    if (!input.name || input.disabled || input.type === "hidden")
+                        return null;
+
+                    if (input.type === "radio") {
+                        (radios[input.name] || (radios[input.name] = [])).push(input);
+                        return null;
+                    }
+
+                    if (input.type === "checkbox" ? !input.checked : !input.value) {
+                        // when a checkbox is unchecked, see if the unchecked
+                        // state has a value
+                        var hidden = hElements.find(function (input2) { return input2.type === "hidden" && input2.name === input.name });
+                        return hidden ? hidden : input;
+                    }
+
+                    return input;
+                }).filter(function (input) {
+                    return input !== null;
+                });
+
+                for (var name in radios) {
+                    if (radios.hasOwnProperty(name)) {
+                        var namedRadios = radios[name];
+                        var checked = namedRadios.find(function (radio) {
+                            return radio.checked;
+                        });
+                        if (checked) {
+                            results.push(checked);
+                        } else {
+                            var hidden = elements.find(function (input2) {
+                                return input2.type === "hidden" && input2.name === name;
+                            });
+                            if (hidden) {
+                                results.push(input);
+                            } else {
+                                // push all radios
+                                Array.prototype.push.apply(results, namedRadios);
+                            }
+                        }
+                    }
+                }
+
+                return results;
+            }
+
+            function inputHasValue(input) {
+                if (!input.value) {
+                    return false;
+                }
+
+                if (input.type === 'checkbox' || input.type === 'radio') {
+                    return input.checked;
+                }
+
+                return true;
+            }
+
+            function createGuid() {
+                return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+                    var r = Math.random() * 16 | 0, v = c === 'x' ? r : (r & 0x3 | 0x8);
+                    return v.toString(16);
+                });
+            }
+
+            document.addEventListener('DOMContentLoaded', function () {
+
+                //----- Verify Token and Initialize Typeahead -----//
+                if (tkn.length < 1 || tkn == 'error') {
+                    console.log("error: no auth token");
+                }
+                else {
+                    initializeJqueryTypeahead(tkn, typeaheaduri, regionfilter, [{"Find":"abortion","Replace":null,"IgnoreCase":true,"UseRegex":null},{"Find":"ivf","Replace":null,"IgnoreCase":true,"UseRegex":null},{"Find":"in vitro fertilization","Replace":null,"IgnoreCase":true,"UseRegex":null},{"Find":"sterilization","Replace":null,"IgnoreCase":true,"UseRegex":null},{"Find":"essure","Replace":null,"IgnoreCase":true,"UseRegex":null},{"Find":"(?=^(?:(?!reversal).)*$)tubal-ligation","Replace":null,"IgnoreCase":true,"UseRegex":true},{"Find":"(?=^(?:(?!reversal).)*$)vasectomy","Replace":null,"IgnoreCase":true,"UseRegex":true},{"Find":"transgender.*surgery","Replace":"transgender care","IgnoreCase":true,"UseRegex":true}]);
+                }
+
+                //----- Search button logic -----//
+                $('#search-button').click(function () {
+                    // ----------------------------------------- Typeahead V.S. Unified search logic ----------------------------------------- //
+                    //
+                    // 1. We need to determine if this is a typeahead search
+                    //    How? If window.Typeahead["#search-term"].item is not undefined or null, then the user selected a typeahead item.
+                    //    Caveat - On a SERP, we won't know if it's a typeahead or unified search because the user hasn't selected anything yet.
+                    //
+                    // 2. If typeaheadItem exists, we do nothing and keep the current values to submit - done
+                    //
+                    // 3. If the typeaheadItem doesn't exist, we have more work to do.
+                    //      a. Check if the search-type is = "unified". If so, it's a unified search - done.
+                    //      b. See if the querystring search-term matches the input box search-term. If so, the user is filtering or searching
+                    //         the exact same term. - done
+                    //      c. If the terms don't match, this is a unified search - done
+                    //
+
+
+                    var typeaheadItem = window.Typeahead["#search-term"].item;
+                    var searchQueryValue = $('#search-query').val();
+                    var searchTypeValue = $('#search-type').val();
+                    var isFilteredSearch = urlParams["search-term"] == $('#search-term').val() ? true : false;
+                    var isUnifiedSearch = false;
+
+                    // Does typeahead item exist?
+                    if (typeaheadItem == null || typeaheadItem.value == undefined) {
+
+                        // Typeahead Item Doesn't Exist:
+                        // This could be because we're on the SERP from a typeahead search or it could be a unified search. 
+                        // On the SERP, the user hasn't selected a typeahead item. We populate the input box value on page load. But...
+                        // Only selecting an item from the typeahead dropdown will create an instance of the typeaheadItem.
+
+                        // Is the search-type specified as "unified"?:
+                        if (searchTypeValue != "unified" && searchTypeValue != "") {
+                            // Not Specified as Unified. We may be dealing with the SERP from a typeahead search. We need more information though.
+
+                            // Do the qs and input box values for search-term match?:
+                            if (!isFilteredSearch) {
+                                // No the qs and input box values don't match.  This is a unified search. 
+                                isUnifiedSearch = true;
+                            }
+                        }
+
+                        // A unified search-type is present
+                        if (searchTypeValue == "unified" || searchTypeValue == "") {
+                            // Search type was specified as "unified";
+                            isUnifiedSearch = true;
+                        }
+                    }
+
+                    //if this is a unified search, let's set the search-type value and set up our hidden input values to utilize on the SERP.
+                    if (isUnifiedSearch) {
+                        $('input[name="search-type"]').val('unified');
+                        if ($('input[name="search-query"]').val() != $('input[name="search-term"]').val()) {
+                            $('input[name="search-query"]').val($('input[name="search-term"]').val());
+                        }
+                    }
+                    //----- End Typeahead V.S. Unified search logic ----- //
+
+                    //----- Begin Sorting rules ------ //
+                    var sortBy = $('#sort').val() != null && $('#sort').val() != "" ? $('#sort').val() : "relevance";
+                    //if no location they can't sort by distance so don't let them.
+                    if ($('#location').val() == null || $('#location').val() == "") {
+                        if (urlParams["sort"] == "distance") {
+                            sortBy = "relevance";
+                        }
+                    }
+                    if ($('#location').val() != null && $('#location').val() != "") {
+                        if (urlParams["location"] != $('#location').val()) {
+                            //console.log("something changed - sorting by distance");
+                            //value changed so lets sort by distance automatically
+                            sortBy = "distance";
+                        }
+                    }
+                    $('#sort').val(sortBy);
+                    //----- End Sorting rules ------ //
+
+                    $('#page').val("1");
+                    $('#shuffle-seed').val(createGuid().replace(/-/g, ''));
+
+                    var pendingActions = 0;
+                    var formElement = document.getElementById('typeahead-search');
+                    var doFormSubmit = function () {
+                        if (--pendingActions !== 0) {
+                            return;
+                        }
+
+                        try {
+                            // remove unused inputs to cleanup query string
+                            // make sure to include removed input names-- we don't want any injected hidden values taking precendence in the query string
+                            cleanupInputs(formElement);
+                            orderInputs(formElement);
+
+                            //wheelhouse analytics binding function
+                            if (typeof (window.wheelhouseFormAnalytics) == "function") {
+                                window.wheelhouseFormAnalytics(formElement);
+                            }
+                            formElement.submit();
+
+                        } catch (e) {
+                            formSubmitting = false;
+                            throw e;
+                        }
+                    };
+
+                    pendingActions++;
+                    tealiumHelper.push('link', {
+                        'event_category': 'Conversion Level 2',
+                        'event_action': 'Provider Search',
+                        'event_label': 'true'
+                    }).then(doFormSubmit, doFormSubmit);
+
+                    var addedInputs = getUserInputs(formElement).filter(inputHasValue).filter(function (input) {
+                        return urlParams[input.name] !== input.value;
+                    }).reverse().filter(function (value, index, self) {
+                        for (var i = 0; i < self.length; i++) {
+                            if (self[i].name === value.name) {
+                                return i === index;
+                            }
+                        }
+                        return false;
+                    }).reverse();
+
+                    if (addedInputs.length) {
+                        addedInputs.forEach(function (input) {
+                            pendingActions++;
+                            var name = input.name;
+                            var value = input.value;
+                            if (input.name == 'sort') {
+                                name = 'sort by';
+                                
+                                if (value == 'name') {
+                                    value = 'providers a-z';
+                                } else if (value == '-name') {
+                                    value = 'providers z-a';
+                                }
+                            }
+                            if (input.name == 'range') {
+                                if (value == '3500') {
+                                    value = 'any distance';
+                                }
+                            }
+                            tealiumHelper.push('link', {
+                                'event_category': 'Provider Search',
+                                'event_action': name,
+                                'event_label': value
+                            }).then(doFormSubmit, doFormSubmit);
+                        });
+                    } else {
+                        pendingActions++;
+                        tealiumHelper.push('link', {
+                            'event_category': 'Provider Search',
+                            'event_action': 'No Selection',
+                            'event_label': 'No Selection'
+                        }).then(doFormSubmit, doFormSubmit);
+                    }
+                });
+
+                //----- Input box click handlers -----//
+                $("#search-term").keyup(function (event) {
+                    if (event.keyCode == 13) {
+                        $("#search-button").click();
+                    }
+                });
+                $("#location").keyup(function (event) {
+                    if (event.keyCode == 13) {
+                        $("#search-button").click();
+                    }
+                });
+            });
+        })();
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBgtqp7JWiiDLXuJUWurBipQVL4W9mcr7w&libraries=places&callback=initGoogleApi"
+    async defer></script>
+    <script>
+        (function() {
+            Array.prototype.slice.call(document.querySelectorAll('a[href*="|"],a[href*="%7Chttp"],a[href*="google.com/maps"]'), 0).forEach(function (link) {
+                if (link.textContent === "Map & Directions")
+                    return;
+
+                var urls = link.href.split(/%7C|\|/);
+                for (var i = 0; i < urls.length; i++) {
+                    if (urls[i] && urls[i].indexOf('google.com/maps') === -1) {
+                        link.href = urls[i];
+                        return;
+                    }
+                }
+                var span = document.createElement('span');
+                span.innerHTML = link.innerHTML;
+                link.parentNode.replaceChild(span, link);
+            });
+        })();
+    </script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            //setup odhp scheduling button and AppsOR legacy appointment request button. 
+            //determine if mobile or desktop view before instantiating the scheduling
+            if (window.innerWidth < 768) {
+                Array.prototype.slice.call(document.getElementsByClassName('mobile-schedule-button'), 0).forEach(function (btn) {
+                    var npiNumberMatch = btn.id.match(/[^\d]+(\d+)/);
+                    if (npiNumberMatch) {
+                        btn.appendChild(document.getElementById('npi-number-' + npiNumberMatch[1]));
+                    }
+                });
+            }
+        });
+    </script>
+    <script>
+        window.ODHP = window.ODHP || {}
+        window.ODHP.elements = window.ODHP.elements || {}
+        window.ODHP.elements.scheduleWidget = window.ODHP.elements.scheduleWidget || {};
+        window.ODHP.elements.scheduleWidget.orchBase = 'https://weborch.provinnovate.com';
+        window.ODHP.elements.scheduleWidget.odhpBase = 'https://nassau.provinnovate.com';
+    </script>
+    <script type="text/javascript" src="https://www.providence.org/doctors/Scripts/main.schedule_widget.js?region=or&v=20"></script>
+    <script type="text/javascript" src="https://www.providence.org/doctors/Scripts/main.schedule_widget_helper.js?region=or&v=20"></script>
+</body>
+</html>

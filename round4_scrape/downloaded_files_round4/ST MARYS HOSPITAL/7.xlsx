@@ -1,0 +1,1350 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="head"><title>
+	HSHS St. Mary&#39;s Hospital | Mission, Vision and Values
+</title><meta name="description" content="Learn more about the mission, vision, values and the Franciscan health care ministry of HSHS St. Mary's Hospital." /> 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+<meta http-equiv="pragma" content="no-cache" /> 
+<meta http-equiv="content-style-type" content="text/css" /> 
+<meta http-equiv="content-script-type" content="text/javascript" /> 
+<meta name="keywords" content="hospital, hospitals, clinics, physicians, doctors, decatur, il, illinois, macon county, health care, emergency, mental health, substance abuse" /> 
+<!--This will keep devices with higher resolutions displays such as iOS from resizing the content ~ if you're using a responsive design that scales ~ the viewport is the forced display width--> 
+<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="google-site-verification" content="eFDu7kPkexlvmYdc9uDbi2r8sSF5OwCNkgzVZQs6wi4" />
+<meta name="msvalidate.01" content="EA66B98857AC831B9E0EC157ED36F499" /> 
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="icon" />
+<!-- CSS ============================================================================================== -->
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=FontAwesome" type="text/css" rel="stylesheet" />
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=SMD_Styles" type="text/css" rel="stylesheet" />
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=bootstrap" type="text/css" rel="stylesheet" />
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=Base_Styles" type="text/css" rel="stylesheet" />
+<!-- END CSS ============================================================================================== -->
+
+<!-- Scripts ============================================================================================== -->
+
+  <!-- This will bring full browser support for media queries. Write your media queries like you would for browsers with native support. 
+       The script will parse your CSS and apply the styles for positive media query tests real time. Note: Doesn't work on @imported 
+       stylesheets or for the media attribute of the link and style elements. Respond.js will make the min-max width work. -->
+  <!--[if lt IE 9]>
+      <script src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/html5shiv_3_7_0.js" type="text/javascript"></script>
+      <script src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/respond_1_4_2.min.js" type="text/javascript"></script>
+  <![endif]-->
+  
+  <script async="async" src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/jquery.1.11.1.min.js" type="text/javascript"></script>
+  <!-- A fix for the iOS orientationchange zoom bug. http://filamentgroup.com/lab/a_fix_for_the_ios_orientationchange_zoom_bug/ -->
+  <script defer="defer" src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/ios-orientationchange-fix.js" type="text/javascript"></script>
+  <script defer="defer" src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/SkinScripts.js" type="text/javascript"></script>
+
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MZSBS57');</script>
+  
+<!-- END Scripts ============================================================================================== -->
+<link rel="shortcut icon" href="/FavIconImages/favicon.ico?v=1" />
+<link rel="icon" href="/FavIconImages/favicon.ico?v=1" /><link href="/CMSPages/GetResource.ashx?_webparts=677" type="text/css" rel="stylesheet" />
+</head>
+<body class="LTR ENUS MobileDevice ContentBody">
+    
+    <form method="post" action="/Hospital-Information/About/Mission-Vision-Values.aspx" id="form">
+<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="o1sCk07dZMzj8y+bLwWFmgStXuWwntx3Y0fFoWFopE26SuRRB9FzhqtgIb04GriPUBBPw57PZYdYP14phwQ9RHhy9i/hdZ4Y6pjDVTwF6do=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="lng" id="lng" value="en-US" />
+<script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fWebServiceCall.js" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=x6wALODbMJK5e0eRC_p1LY6Jn30MRCQ11mpZyskxRt0NymjkSZlBl6V4pBt7KmcaK5mejsO2-W-4upHySap5MTAqKbbzdhyfHEHuONvnbqwEEWzgba9bd3UDWcNRME-i0&amp;t=7c776dc1" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "isRTL": "false",
+  "isDebuggingEnabled": false,
+  "applicationUrl": "/",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDialog": false
+};
+
+//]]>
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+    
+    <div id="ctxM">
+
+</div>
+    
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZSBS57" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div>
+
+<div class="top_bar"></div>
+        <div class="page_wrapper">
+<div id="google_translate_element" style="float:right !important"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,de,en,es,fr,hi,hmn,it,ko,lo,nl,pl,ru,tl,ur,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script async="async" type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+          <nav class="mobile_menu">
+                        <div class="menu-untrigger"></div>
+	<ul id="menuElem" class="mobileCMSListMenuUL">
+		<li class="mobileCMSListMenuLI">
+			<a title="Patients &amp; Guests" class="mobileCMSListMenuLink" href="/Patient-Guest">Patients&nbsp;&amp;&nbsp;Guests</a>
+			<img alt="Patients &amp; Guests" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuLI">
+					<a title="Patient Financial Services" class="mobile2CMSListMenuLink" href="/Patient-Guest/Patient-Financial-Services">Patient&nbsp;Financial&nbsp;Services</a>
+					<img alt="Patient Financial Services" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Files" class="mobile3CMSListMenuLink" href="/Patient-Guest/Patient-Financial-Services/Files">Files</a>
+							<img alt="Files" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+								<li class="mobile3CMSListMenuLI">
+									<a title="2017-Financial-Assistance-Application" class="mobile3CMSListMenuLink" href="/Patient-Guest/Patient-Financial-Services/Files/2017-Financial-Assistance-Application">2017-Financial-Assistance-Application</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Financial-Aid-checklist" class="mobile3CMSListMenuLink" href="/Patient-Guest/Patient-Financial-Services/Files/Financial-Aid-checklist">Financial-Aid-checklist</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Financial-Assistance-Program-Policies" class="mobile3CMSListMenuLink" href="/Patient-Guest/Patient-Financial-Services/Files/Financial-Assistance-Program-Policies">Financial-Assistance-Program-Policies</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="test" class="mobile3CMSListMenuLink" href="/Patient-Guest/Patient-Financial-Services/Files/test">test</a>
+								</li>
+
+							</ul>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Financial Assistance" class="mobile3CMSListMenuLink" href="/Patient-Guest/Patient-Financial-Services/Financial-Assistance">Financial&nbsp;Assistance</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Insurance Billing and Payment Options" class="mobile3CMSListMenuLink" href="/Patient-Guest/Patient-Financial-Services/Patient-Billing-and-Payment-Options">Insurance&nbsp;Billing&nbsp;and&nbsp;Payment&nbsp;Options</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Insurance Plans Accepted" class="mobile3CMSListMenuLink" href="/Patient-Guest/Patient-Financial-Services/Insurance-Plans-Accepted">Insurance&nbsp;Plans&nbsp;Accepted</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Advance Directives" class="mobile2CMSListMenuLink" href="/Patient-Guest/Advanced-Directives">Advance&nbsp;Directives</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Calling a Patient&#39;s Room" class="mobile2CMSListMenuLink" href="/Patient-Guest/Calling-a-Patient-s-Room">Calling&nbsp;a&nbsp;Patient&#39;s&nbsp;Room</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Chapel" class="mobile2CMSListMenuLink" href="/Patient-Guest/Chapel">Chapel</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Daisy Award" class="mobile2CMSListMenuLink" href="/daisy">Daisy&nbsp;Award</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Dining" class="mobile2CMSListMenuLink" href="/Patient-Guest/Dining">Dining</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="E-Card" class="mobile2CMSListMenuLink" href="/Patient-Guest/E-Card">E-Card</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Education" class="mobile2CMSListMenuLink" href="/Patient-Guest/Education">Education</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Gift Shop" class="mobile2CMSListMenuLink" href="/Patient-Guest/Gift-Shop">Gift&nbsp;Shop</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Guest Services" class="mobile2CMSListMenuLink" href="/Patient-Guest/Guest-Services">Guest&nbsp;Services</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Locations" class="mobile2CMSListMenuLink" href="/Patient-Guest/Locations">Locations</a>
+					<img alt="Locations" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Fields-Wright Medical Facility" class="mobile3CMSListMenuLink" href="/Patient-Guest/Locations/Fields-Wright-Medical-Facility">Fields-Wright&nbsp;Medical&nbsp;Facility</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Maps" class="mobile2CMSListMenuLink" href="/Patient-Guest/Maps">Maps</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Medical Records" class="mobile2CMSListMenuLink" href="/Patient-Guest/Medical-Records">Medical&nbsp;Records</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="My Chart" class="mobile2CMSListMenuLink" href="/Patient-Guest/Chart-My-Health">My&nbsp;Chart</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Parking" class="mobile2CMSListMenuLink" href="/Patient-Guest/Parking">Parking</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Patient Guide" class="mobile2CMSListMenuLink" href="/Patient-Guest/Patient-Guide">Patient&nbsp;Guide</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Phone Directory" class="mobile2CMSListMenuLink" href="/Patient-Guest/Phone-Directory">Phone&nbsp;Directory</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Registration" class="mobile2CMSListMenuLink" href="/Patient-Guest/Registration">Registration</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Spiritual Care" class="mobile2CMSListMenuLink" href="/Spiritual-Care">Spiritual&nbsp;Care</a>
+					<img alt="Spiritual Care" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Chapel" class="mobile3CMSListMenuLink" href="/Patient-Guest/Pastoral-Care/Chapel">Chapel</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Visiting Hours" class="mobile2CMSListMenuLink" href="/Patient-Guest/Visiting-Hours">Visiting&nbsp;Hours</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Medical Services" class="mobileCMSListMenuLink" href="/Medical-Services">Medical&nbsp;Services</a>
+			<img alt="Medical Services" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuLI">
+					<a title="Adult Day Services" class="mobile2CMSListMenuLink" href="/Medical-Services/Adult-Day-Services">Adult&nbsp;Day&nbsp;Services</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Behavioral Health" class="mobile2CMSListMenuLink" href="/Medical-Services/Behavioral-Health">Behavioral&nbsp;Health</a>
+					<img alt="Behavioral Health" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="About Us" class="mobile3CMSListMenuLink" href="/Medical-Services/Behavioral-Health/About-Us">About&nbsp;Us</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Adult" class="mobile3CMSListMenuLink" href="/Medical-Services/Behavioral-Health/Adult">Adult</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Child and Adolescent" class="mobile3CMSListMenuLink" href="/Medical-Services/Behavioral-Health/Child-and-Adolescent">Child&nbsp;and&nbsp;Adolescent</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Memory Clinic" class="mobile3CMSListMenuLink" href="/Medical-Services/Behavioral-Health/Memory-Clinic">Memory&nbsp;Clinic</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Senior" class="mobile3CMSListMenuLink" href="/Medical-Services/Behavioral-Health/Senior">Senior</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Substance Abuse" class="mobile3CMSListMenuLink" href="/Medical-Services/Behavioral-Health/Substance-Abuse">Substance&nbsp;Abuse</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="FAQs" class="mobile3CMSListMenuLink" href="/Medical-Services/Behavioral-Health/FAQs">FAQs</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Classes &amp; Events" class="mobile3CMSListMenuLink" href="/Medical-Services/Behavioral-Health/Events-Classes">Classes&nbsp;&amp;&nbsp;Events</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Cancer Care" class="mobile2CMSListMenuLink" href="/Medical-Services/Cancer-Resources">Cancer&nbsp;Care</a>
+					<img alt="Cancer Care" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Chemotherapy" class="mobile3CMSListMenuLink" href="/Medical-Services/Cancer-Resources/Chemotherapy">Chemotherapy</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="PET CT" class="mobile3CMSListMenuLink" href="/Medical-Services/Cancer-Resources/PET-CT">PET&nbsp;CT</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Radiation Therapy" class="mobile3CMSListMenuLink" href="/Medical-Services/Cancer-Resources/Radiation-Therapy">Radiation&nbsp;Therapy</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Support Services" class="mobile3CMSListMenuLink" href="/Medical-Services/Cancer-Resources/Support-Services">Support&nbsp;Services</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Diabetes &amp; Nutrition" class="mobile2CMSListMenuLink" href="/Medical-Services/Diabetes-Nutrition">Diabetes&nbsp;&amp;&nbsp;Nutrition</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Emergency Services | Trauma" class="mobile2CMSListMenuLink" href="/Medical-Services/Emergency-Services">Emergency&nbsp;Services&nbsp;|&nbsp;Trauma</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Heart Care" class="mobile2CMSListMenuLink" href="/Medical-Services/Heart-Care">Heart&nbsp;Care</a>
+					<img alt="Heart Care" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Cardiac Catheterization" class="mobile3CMSListMenuLink" href="/Medical-Services/Heart-Care/Cardiac-Catheterization">Cardiac&nbsp;Catheterization</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Cardiopulmonary Rehabilitation" class="mobile3CMSListMenuLink" href="/Medical-Services/Heart-Care/Cardiac-Rehabilitation">Cardiopulmonary&nbsp;Rehabilitation</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Echocardiogram" class="mobile3CMSListMenuLink" href="/Medical-Services/Heart-Care/Echocardiogram">Echocardiogram</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Electrocardiogram" class="mobile3CMSListMenuLink" href="/Medical-Services/Heart-Care/Electrocardiogram">Electrocardiogram</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Electrophysiology" class="mobile3CMSListMenuLink" href="/Medical-Services/Heart-Care/Electrophysiology">Electrophysiology</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Heart Monitoring" class="mobile3CMSListMenuLink" href="/Medical-Services/Heart-Care/Heart-Monitoring">Heart&nbsp;Monitoring</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Heart Scan" class="mobile3CMSListMenuLink" href="/Medical-Services/Heart-Care/Heart-Scan">Heart&nbsp;Scan</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Interventional Cardiology" class="mobile3CMSListMenuLink" href="/Medical-Services/Heart-Care/Interventional-Cardiology">Interventional&nbsp;Cardiology</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Sleep Medicine Center" class="mobile3CMSListMenuLink" href="/Medical-Services/Heart-Care/Sleep-Medicine-Center">Sleep&nbsp;Medicine&nbsp;Center</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Stress Tests" class="mobile3CMSListMenuLink" href="/Medical-Services/Heart-Care/Stress-Tests">Stress&nbsp;Tests</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Vascular Services" class="mobile3CMSListMenuLink" href="/Medical-Services/Heart-Care/Vascular-Services">Vascular&nbsp;Services</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="FAQs" class="mobile3CMSListMenuLink" href="/Medical-Services/Heart-Care/Frequently-Asked-Questions">FAQs</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Together For Hearts" class="mobile3CMSListMenuLink" href="/Medical-Services/Heart-Care/Together-For-Hearts-(1)">Together&nbsp;For&nbsp;Hearts</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="HSHS Home Care and Hospice" class="mobile2CMSListMenuLink" href="https://www.hshshomecarecentralil.org/">HSHS&nbsp;Home&nbsp;Care&nbsp;and&nbsp;Hospice</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Radiology" class="mobile2CMSListMenuLink" href="/Medical-Services/Imaging">Radiology</a>
+					<img alt="Radiology" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Bone Density" class="mobile3CMSListMenuLink" href="/Medical-Services/Imaging/Bone-Density">Bone&nbsp;Density</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="CT Scan" class="mobile3CMSListMenuLink" href="/Medical-Services/Imaging/CT-Scan">CT&nbsp;Scan</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Interventional Radiology" class="mobile3CMSListMenuLink" href="/Medical-Services/Imaging/Interventional-Radiology">Interventional&nbsp;Radiology</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Lung Cancer Screening" class="mobile3CMSListMenuLink" href="/Medical-Services/Imaging/Lung-Cancer-Screening">Lung&nbsp;Cancer&nbsp;Screening</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Mammography" class="mobile3CMSListMenuLink" href="/Medical-Services/Imaging/Mammography">Mammography</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="MRI" class="mobile3CMSListMenuLink" href="/Medical-Services/Imaging/MRI">MRI</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="North Location" class="mobile3CMSListMenuLink" href="/Medical-Services/Imaging/North-Location">North&nbsp;Location</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Nuclear Medicine" class="mobile3CMSListMenuLink" href="/Medical-Services/Imaging/Nuclear-Medicine">Nuclear&nbsp;Medicine</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="PET CT" class="mobile3CMSListMenuLink" href="/Medical-Services/Imaging/PET-CT">PET&nbsp;CT</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Ultrasound" class="mobile3CMSListMenuLink" href="/Medical-Services/Imaging/Ultrasound">Ultrasound</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="X-Ray" class="mobile3CMSListMenuLink" href="/Medical-Services/Imaging/X-Ray">X-Ray</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Laboratory Services" class="mobile2CMSListMenuLink" href="/Medical-Services/Laboratory-Services">Laboratory&nbsp;Services</a>
+					<img alt="Laboratory Services" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Anatomic Pathology" class="mobile3CMSListMenuLink" href="/Medical-Services/Laboratory-Services/Anatomic-Pathology">Anatomic&nbsp;Pathology</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Clinical Pathology" class="mobile3CMSListMenuLink" href="/Medical-Services/Laboratory-Services/Clinical-Pathology">Clinical&nbsp;Pathology</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="North Location" class="mobile3CMSListMenuLink" href="/Medical-Services/Laboratory-Services/North-Location">North&nbsp;Location</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Professional Pathology" class="mobile3CMSListMenuLink" href="/Medical-Services/Laboratory-Services/Professional-Pathology">Professional&nbsp;Pathology</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Collection Guidelines" class="mobile3CMSListMenuLink" onclick="window.open(&#39;/Medical-Services/Laboratory-Services/ProviderPortal13-SMDLabMenuSpecimenCollection.aspx&#39;); return false;" href="/Medical-Services/Laboratory-Services/ProviderPortal13-SMDLabMenuSpecimenCollection">Collection&nbsp;Guidelines</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Medical Care Services" class="mobile2CMSListMenuLink" href="/Medical-Services/Medical-Care-Services">Medical&nbsp;Care&nbsp;Services</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Neurosurgery" class="mobile2CMSListMenuLink" href="/Medical-Services/Neurosurgery">Neurosurgery</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Orthopedic Services" class="mobile2CMSListMenuLink" href="/Medical-Services/JointCare">Orthopedic&nbsp;Services</a>
+					<img alt="Orthopedic Services" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Same-Day Total Knee Replacement" class="mobile3CMSListMenuLink" href="/Medical-Services/JointCare/Same-Day-Knee-Replacement">Same-Day&nbsp;Total&nbsp;Knee&nbsp;Replacement</a>
+							<img alt="Same-Day Total Knee Replacement" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+								<li class="mobile3CMSListMenuLI">
+									<a title="Candidates" class="mobile3CMSListMenuLink" href="/Medical-Services/JointCare/Same-Day-Knee-Replacement/Candidates">Candidates</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Therapy Care" class="mobile3CMSListMenuLink" href="/Medical-Services/JointCare/Same-Day-Knee-Replacement/Physical-Therapy">Therapy&nbsp;Care</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Home Care" class="mobile3CMSListMenuLink" href="/Medical-Services/JointCare/Same-Day-Knee-Replacement/Home-Care">Home&nbsp;Care</a>
+								</li>
+
+							</ul>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Advanced Rehabilitation Center" class="mobile3CMSListMenuLink" href="/Medical-Services/JointCare/Advanced-Rehabilitation-Center">Advanced&nbsp;Rehabilitation&nbsp;Center</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="AthletiCare" class="mobile3CMSListMenuLink" href="/Medical-Services/JointCare/AthletiCare">AthletiCare</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="FAQ" class="mobile3CMSListMenuLink" href="/Medical-Services/JointCare/FAQ">FAQ</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Occupational Health" class="mobile2CMSListMenuLink" href="/Medical-Services/Occupational-Health">Occupational&nbsp;Health</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Pain Medicine Center" class="mobile2CMSListMenuLink" href="/Medical-Services/Pain-Management">Pain&nbsp;Medicine&nbsp;Center</a>
+					<img alt="Pain Medicine Center" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Common Conditions" class="mobile3CMSListMenuLink" href="/Medical-Services/Pain-Management/Common-Conditions">Common&nbsp;Conditions</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Services" class="mobile3CMSListMenuLink" href="/Medical-Services/Pain-Management/Services">Services</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="FAQs" class="mobile3CMSListMenuLink" href="/Medical-Services/Pain-Management/FAQ">FAQs</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Pulmonary Clinic" class="mobile2CMSListMenuLink" href="/Medical-Services/Pulmonary-Clinic">Pulmonary&nbsp;Clinic</a>
+					<img alt="Pulmonary Clinic" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Cardiopulmonary Rehabilitation" class="mobile3CMSListMenuLink" href="/Medical-Services/Pulmonary-Clinic/Cardiac-Rehabilitation">Cardiopulmonary&nbsp;Rehabilitation</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Rehabilitation" class="mobile2CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation">Rehabilitation</a>
+					<img alt="Rehabilitation" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Advanced Rehabilitation Center" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/Advanced-Rehabilitation-Center">Advanced&nbsp;Rehabilitation&nbsp;Center</a>
+							<img alt="Advanced Rehabilitation Center" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+								<li class="mobile3CMSListMenuLI">
+									<a title="Stroke Care" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/Advanced-Rehabilitation-Center/Advanced-Rehabilitation-Center-(ARC)">Stroke&nbsp;Care</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Facilities" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/Advanced-Rehabilitation-Center/Facilities">Facilities</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Transition to Home" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/Advanced-Rehabilitation-Center/Transition-to-Home">Transition&nbsp;to&nbsp;Home</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Support Services" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/Advanced-Rehabilitation-Center/Support-Services">Support&nbsp;Services</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="FAQs" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/Advanced-Rehabilitation-Center/FAQs">FAQs</a>
+								</li>
+
+							</ul>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="AthletiCare" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/AthletiCare">AthletiCare</a>
+							<img alt="AthletiCare" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+								<li class="mobile3CMSListMenuLI">
+									<a title="Athlete&#39;s Edge" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/AthletiCare/Athlete-s-Edge">Athlete&#39;s&nbsp;Edge</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Concussion Care" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/AthletiCare/Concussion-Care">Concussion&nbsp;Care</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Fall Prevention and Balance Recovery" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/AthletiCare/Fall-Prevention-and-Balance-Recovery">Fall&nbsp;Prevention&nbsp;and&nbsp;Balance&nbsp;Recovery</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Path to Well Being" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/AthletiCare/Path-to-Well-Being">Path&nbsp;to&nbsp;Well&nbsp;Being</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Guided Exercise Program" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/AthletiCare/Guided-Exercise-Program">Guided&nbsp;Exercise&nbsp;Program</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="AthletiCare Team" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/AthletiCare/AthletiCare-Team">AthletiCare&nbsp;Team</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Where We Work" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/AthletiCare/Where-We-Work">Where&nbsp;We&nbsp;Work</a>
+								</li>
+
+							</ul>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Cardiopulmonary Rehabilitation" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/Cardiac-Rehabilitation">Cardiopulmonary&nbsp;Rehabilitation</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Occupational Therapy" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/Occupational-Therapy">Occupational&nbsp;Therapy</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Outpatient Rehabilitation" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/Outpatient-Rehabilitation">Outpatient&nbsp;Rehabilitation</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Physical Therapy" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/Physical-Therapy">Physical&nbsp;Therapy</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Rehab+" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/Rehab">Rehab+</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Speech Therapy" class="mobile3CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/Speech-Therapy">Speech&nbsp;Therapy</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Sleep Medicine Center" class="mobile2CMSListMenuLink" href="/sleep">Sleep&nbsp;Medicine&nbsp;Center</a>
+					<img alt="Sleep Medicine Center" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Sleep Apnea" class="mobile3CMSListMenuLink" href="/Medical-Services/Sleep-Medicine-Center/Sleep-Apnea">Sleep&nbsp;Apnea</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Sleeping Tips" class="mobile3CMSListMenuLink" href="/Medical-Services/Sleep-Medicine-Center/Sleeping-Tips">Sleeping&nbsp;Tips</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Sports Medicine" class="mobile2CMSListMenuLink" href="/Medical-Services/Physical-Rehabilitation/AthletiCare.aspx">Sports&nbsp;Medicine</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Stroke Care" class="mobile2CMSListMenuLink" href="/Medical-Services/Stroke-Care">Stroke&nbsp;Care</a>
+					<img alt="Stroke Care" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Stroke Care" class="mobile3CMSListMenuLink" href="/Medical-Services/Stroke-Care/Advanced-Rehabilitation-Center-(ARC)">Stroke&nbsp;Care</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Emergency Care" class="mobile3CMSListMenuLink" href="/Medical-Services/Stroke-Care/Emergency-Care">Emergency&nbsp;Care</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Inpatient Care" class="mobile3CMSListMenuLink" href="/Medical-Services/Stroke-Care/Inpatient-Care">Inpatient&nbsp;Care</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Radiology" class="mobile3CMSListMenuLink" href="/Medical-Services/Stroke-Care/Radiology">Radiology</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Stroke Signs and Symptoms" class="mobile3CMSListMenuLink" href="/Medical-Services/Stroke-Care/Stroke-Signs-and-Symptoms">Stroke&nbsp;Signs&nbsp;and&nbsp;Symptoms</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Stroke Team" class="mobile3CMSListMenuLink" href="/Medical-Services/Stroke-Care/Stroke-Team">Stroke&nbsp;Team</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Stroke Support Group" class="mobile3CMSListMenuLink" href="/Medical-Services/Stroke-Care/Stroke-Support-Group">Stroke&nbsp;Support&nbsp;Group</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Surgical Services" class="mobile2CMSListMenuLink" href="/Medical-Services/Surgical-Services">Surgical&nbsp;Services</a>
+					<img alt="Surgical Services" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Facilities" class="mobile3CMSListMenuLink" href="/Medical-Services/Surgical-Services/Facilities">Facilities</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Minimally Invasive Surgery" class="mobile3CMSListMenuLink" href="/Medical-Services/Surgical-Services/Minimally-Invasive-Surgery">Minimally&nbsp;Invasive&nbsp;Surgery</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Robotic Surgical Services" class="mobile3CMSListMenuLink" href="/Medical-Services/Surgical-Services/Robotic-Surgical-Services">Robotic&nbsp;Surgical&nbsp;Services</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Single Site Surgery" class="mobile3CMSListMenuLink" href="/Medical-Services/Surgical-Services/Single-Site-Surgery">Single&nbsp;Site&nbsp;Surgery</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Specialities" class="mobile3CMSListMenuLink" href="/Medical-Services/Surgical-Services/Specialities">Specialities</a>
+							<img alt="Specialities" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+								<li class="mobile3CMSListMenuLI">
+									<a title="Heart Care" class="mobile3CMSListMenuLink" href="/Medical-Services/Surgical-Services/Specialities/Heart-Care">Heart&nbsp;Care</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Neurosurgery" class="mobile3CMSListMenuLink" href="/Medical-Services/Surgical-Services/Specialities/Neurosurgery">Neurosurgery</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Orthopedic Services" class="mobile3CMSListMenuLink" href="/Medical-Services/Surgical-Services/Specialities/JointCare">Orthopedic&nbsp;Services</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Urology" class="mobile3CMSListMenuLink" href="/Medical-Services/Surgical-Services/Specialities/Urology">Urology</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Vascular Services" class="mobile3CMSListMenuLink" href="/Medical-Services/Surgical-Services/Specialities/Vascular-Services">Vascular&nbsp;Services</a>
+								</li>
+
+							</ul>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Support Services" class="mobile3CMSListMenuLink" href="/Medical-Services/Surgical-Services/Support-Services">Support&nbsp;Services</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="FAQs" class="mobile3CMSListMenuLink" href="/Medical-Services/Surgical-Services/FAQs">FAQs</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Urology" class="mobile2CMSListMenuLink" href="/Medical-Services/Urology">Urology</a>
+					<img alt="Urology" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Treatments" class="mobile3CMSListMenuLink" href="/Medical-Services/Urology/Treatments">Treatments</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Vascular Services" class="mobile2CMSListMenuLink" href="/Medical-Services/Vascular-Services">Vascular&nbsp;Services</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Women and Infants Center" class="mobile2CMSListMenuLink" href="/Medical-Services/Women-and-Infants-Center">Women&nbsp;and&nbsp;Infants&nbsp;Center</a>
+					<img alt="Women and Infants Center" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Midwifery" class="mobile3CMSListMenuLink" href="/Medical-Services/Women-and-Infants-Center/Midwifery">Midwifery</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Epidural Anesthesia" class="mobile3CMSListMenuLink" href="/Medical-Services/Women-and-Infants-Center/Epidural-Anesthesia">Epidural&nbsp;Anesthesia</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Nitrous Oxide" class="mobile3CMSListMenuLink" href="/Medical-Services/Women-and-Infants-Center/Nitrous-Oxide">Nitrous&nbsp;Oxide</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Cesarean Births" class="mobile3CMSListMenuLink" href="/Medical-Services/Women-and-Infants-Center/Cesarean-Births">Cesarean&nbsp;Births</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="High Risk Pregnancies" class="mobile3CMSListMenuLink" href="/Medical-Services/Women-and-Infants-Center/High-Risk-Pregnancies">High&nbsp;Risk&nbsp;Pregnancies</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Prenatal Classes and Tours" class="mobile3CMSListMenuLink" href="/Medical-Services/Women-and-Infants-Center/Prenatal-Classes-and-Tours">Prenatal&nbsp;Classes&nbsp;and&nbsp;Tours</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Birthing Suites" class="mobile3CMSListMenuLink" href="/Medical-Services/Women-and-Infants-Center/Birthing-Suites">Birthing&nbsp;Suites</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Special Care Nursery" class="mobile3CMSListMenuLink" href="/Medical-Services/Women-and-Infants-Center/Special-Care-Nursery">Special&nbsp;Care&nbsp;Nursery</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Newborn Follow-Up Care" class="mobile3CMSListMenuLink" href="/Medical-Services/Women-and-Infants-Center/Newborn-Follow-up-Care">Newborn&nbsp;Follow-Up&nbsp;Care</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Breastfeeding Support" class="mobile3CMSListMenuLink" href="/Medical-Services/Women-and-Infants-Center/Breastfeeding-Support">Breastfeeding&nbsp;Support</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Baby&#39;s First Photos" class="mobile3CMSListMenuLink" href="/Medical-Services/Women-and-Infants-Center/Baby-s-First-Photos">Baby&#39;s&nbsp;First&nbsp;Photos</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Women&#39;s Services" class="mobile2CMSListMenuLink" href="/Medical-Services/Women-s-Services">Women&#39;s&nbsp;Services</a>
+					<img alt="Women&#39;s Services" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Bone Density" class="mobile3CMSListMenuLink" href="/Medical-Services/Women-s-Services/Bone-Density">Bone&nbsp;Density</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Mammography" class="mobile3CMSListMenuLink" href="/Medical-Services/Women-s-Services/Mammography-(1)">Mammography</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Women and Infants Center" class="mobile3CMSListMenuLink" href="/Medical-Services/Women-s-Services/Maternal-Child-Care">Women&nbsp;and&nbsp;Infants&nbsp;Center</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Wound Clinic" class="mobile2CMSListMenuLink" href="/Medical-Services/Wound-Center">Wound&nbsp;Clinic</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Classes &amp; Events" class="mobileCMSListMenuLink" href="/Events-Classes">Classes&nbsp;&amp;&nbsp;Events</a>
+			<img alt="Classes &amp; Events" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuLI">
+					<a title="AARP Safe Driving Class" class="mobile2CMSListMenuLink" href="/Events-Classes/AARP-Safe-Driving-Class">AARP&nbsp;Safe&nbsp;Driving&nbsp;Class</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Car Seat Safety Check" class="mobile2CMSListMenuLink" href="/Events-Classes/Car-Seat-Safety-Check">Car&nbsp;Seat&nbsp;Safety&nbsp;Check</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Childbirth Prep" class="mobile2CMSListMenuLink" href="/Events-Classes/Childbirth-Prep">Childbirth&nbsp;Prep</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Lake Shore Connection" class="mobile2CMSListMenuLink" href="/Events-Classes/Lake-Shore-Connection-Lunch-and-Learn">Lake&nbsp;Shore&nbsp;Connection</a>
+					<img alt="Lake Shore Connection" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Lunch and Learn" class="mobile3CMSListMenuLink" href="/Events-Classes/Lake-Shore-Connection-Lunch-and-Learn/Lunch-and-Learn">Lunch&nbsp;and&nbsp;Learn</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Newborn Care for Dads" class="mobile2CMSListMenuLink" href="/Events-Classes/Newborn-Care-for-Dads">Newborn&nbsp;Care&nbsp;for&nbsp;Dads</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Newborn Care for Parents" class="mobile2CMSListMenuLink" href="/Events-Classes/Newborn-Care-for-Moms">Newborn&nbsp;Care&nbsp;for&nbsp;Parents</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Sibling Class" class="mobile2CMSListMenuLink" href="/Events-Classes/Sibling-Class">Sibling&nbsp;Class</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Support Groups" class="mobile2CMSListMenuLink" href="/Events-Classes/Support-Groups-(1)">Support&nbsp;Groups</a>
+					<img alt="Support Groups" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Breastfeeding" class="mobile3CMSListMenuLink" href="/Events-Classes/Support-Groups-(1)/Breastfeeding">Breastfeeding</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Breath of Life" class="mobile3CMSListMenuLink" href="/Events-Classes/Support-Groups-(1)/Breath-of-Life">Breath&nbsp;of&nbsp;Life</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Alcoholics Anonymous" class="mobile3CMSListMenuLink" href="/Events-Classes/Support-Groups-(1)/Alcoholics-Anonymous">Alcoholics&nbsp;Anonymous</a>
+							<img alt="Alcoholics Anonymous" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+								<li class="mobile3CMSListMenuLI">
+									<a title="DonorRegistration2016PHOTO (2)" class="mobile3CMSListMenuLink" href="/Events-Classes/Support-Groups-(1)/Alcoholics-Anonymous/DonorRegistration2016PHOTO-(2)">DonorRegistration2016PHOTO&nbsp;(2)</a>
+								</li>
+								<li class="mobile3CMSListMenuLI">
+									<a title="Minority Donor Awareness" class="mobile3CMSListMenuLink" href="/Events-Classes/Support-Groups-(1)/Alcoholics-Anonymous/Minority-Donor-Awareness">Minority&nbsp;Donor&nbsp;Awareness</a>
+									<img alt="Minority Donor Awareness" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+										<li class="mobile3CMSListMenuLI">
+											<a title="RMWP_WebBanner2 (3)" class="mobile3CMSListMenuLink" href="/Events-Classes/Support-Groups-(1)/Alcoholics-Anonymous/Minority-Donor-Awareness/RMWP_WebBanner2-(3)">RMWP_WebBanner2&nbsp;(3)</a>
+										</li>
+
+									</ul>
+								</li>
+
+							</ul>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Epilepsy Support" class="mobile3CMSListMenuLink" href="/Events-Classes/Support-Groups-(1)/Epilepsy-Support">Epilepsy&nbsp;Support</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Grief Support Group" class="mobile3CMSListMenuLink" href="/Events-Classes/Support-Groups-(1)/Grief-Support-Group">Grief&nbsp;Support&nbsp;Group</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Narcotics Anonymous" class="mobile3CMSListMenuLink" href="/Events-Classes/Support-Groups-(1)/Narcotics-Anonymous">Narcotics&nbsp;Anonymous</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Overeaters Anonymous - Monday" class="mobile3CMSListMenuLink" href="/Events-Classes/Support-Groups-(1)/Overeaters-Anonymous-Monday">Overeaters&nbsp;Anonymous&nbsp;-&nbsp;Monday</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Overeaters Anonymous - Saturday" class="mobile3CMSListMenuLink" href="/Events-Classes/Support-Groups-(1)/Overeaters-Anonymous-Saturday">Overeaters&nbsp;Anonymous&nbsp;-&nbsp;Saturday</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Postpartum Support Group" class="mobile3CMSListMenuLink" href="/Events-Classes/Support-Groups-(1)/Postpartum-Support-Group">Postpartum&nbsp;Support&nbsp;Group</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="SHARE Support Group" class="mobile3CMSListMenuLink" href="/Events-Classes/Support-Groups-(1)/SHARE-Support-Group">SHARE&nbsp;Support&nbsp;Group</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Widowed Support Group" class="mobile3CMSListMenuLink" href="/Events-Classes/Support-Groups-(1)/Widowed-Support-Group">Widowed&nbsp;Support&nbsp;Group</a>
+						</li>
+
+					</ul>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Find a Doctor" class="mobileCMSListMenuLink" href="/Provider-Directory">Find&nbsp;a&nbsp;Doctor</a>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Community Connection" class="mobileCMSListMenuLink" href="/Community-Connection">Community&nbsp;Connection</a>
+			<img alt="Community Connection" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuLI">
+					<a title="Community Health Needs Assessment" class="mobile2CMSListMenuLink" href="/Community-Connection/Community-Health-Needs-Assessment">Community&nbsp;Health&nbsp;Needs&nbsp;Assessment</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Community Partnerships" class="mobile2CMSListMenuLink" href="/Community-Connection/Community-Partnerships">Community&nbsp;Partnerships</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Health Insurance Marketplace" class="mobile2CMSListMenuLink" href="/Community-Connection/Health-Insurance-Marketplace">Health&nbsp;Insurance&nbsp;Marketplace</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Dental Voucher Program" class="mobile2CMSListMenuLink" href="/Community-Connection/Dental-Voucher-Program">Dental&nbsp;Voucher&nbsp;Program</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Lake Shore Connection" class="mobile2CMSListMenuLink" href="/Community-Connection/Lake-Shore-Connection">Lake&nbsp;Shore&nbsp;Connection</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="HSHS Nurses" class="mobile2CMSListMenuLink" href="/Community-Connection/HSHS-Nurses">HSHS&nbsp;Nurses</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Mary&#39;s Garden - CSA" class="mobile2CMSListMenuLink" href="/Community-Connection/Marys-garden-CSA">Mary&#39;s&nbsp;Garden&nbsp;-&nbsp;CSA</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Quality, Safety &amp; Patient Satisfaction" class="mobile2CMSListMenuLink" href="/Community-Connection/Quality,-Safety-Patient-Satisfaction">Quality,&nbsp;Safety&nbsp;&amp;&nbsp;Patient&nbsp;Satisfaction</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Reader&#39;s Choice Winner" class="mobile2CMSListMenuLink" href="/Community-Connection/Reader-s-Choice-Winner">Reader&#39;s&nbsp;Choice&nbsp;Winner</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Real Men Wear Pink 2018" class="mobile2CMSListMenuLink" href="/Community-Connection/Real-Men-Wear-Pink-2018">Real&nbsp;Men&nbsp;Wear&nbsp;Pink&nbsp;2018</a>
+					<img alt="Real Men Wear Pink 2018" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Pink Warrior" class="mobile3CMSListMenuLink" href="/Community-Connection/Real-Men-Wear-Pink-2018/Pink-Warrior">Pink&nbsp;Warrior</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Cancer Care" class="mobile3CMSListMenuLink" href="/Community-Connection/Real-Men-Wear-Pink-2018/Cancer-Resources">Cancer&nbsp;Care</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="3D Mammography" class="mobile3CMSListMenuLink" href="/Community-Connection/Real-Men-Wear-Pink-2018/3D-Mammography">3D&nbsp;Mammography</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Pink Game Schedule" class="mobile3CMSListMenuLink" href="/Community-Connection/Real-Men-Wear-Pink-2018/Pink-Game-Schedule">Pink&nbsp;Game&nbsp;Schedule</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Requests for Support" class="mobile2CMSListMenuLink" href="/Community-Connection/Requests-for-Support">Requests&nbsp;for&nbsp;Support</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Share Walk" class="mobile2CMSListMenuLink" href="/Community-Connection/Share-Walk">Share&nbsp;Walk</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Support Groups" class="mobile2CMSListMenuLink" href="/Community-Connection/Support-Groups">Support&nbsp;Groups</a>
+					<img alt="Support Groups" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Breath of Life Club" class="mobile3CMSListMenuLink" href="/Community-Connection/Support-Groups/Breath-of-Life">Breath&nbsp;of&nbsp;Life&nbsp;Club</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Grief Support Group" class="mobile3CMSListMenuLink" href="/Community-Connection/Support-Groups/Grief-Support-Group">Grief&nbsp;Support&nbsp;Group</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Share Support Group" class="mobile3CMSListMenuLink" href="/Community-Connection/Support-Groups/Share-Support-Group">Share&nbsp;Support&nbsp;Group</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Widowed Support Group" class="mobile3CMSListMenuLink" href="/Community-Connection/Support-Groups/Widowed-Support-Group">Widowed&nbsp;Support&nbsp;Group</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Stroke Support Group" class="mobile3CMSListMenuLink" href="/Community-Connection/Support-Groups/Stroke-Support-Group">Stroke&nbsp;Support&nbsp;Group</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Volunteer" class="mobile2CMSListMenuLink" href="/Community-Connection/Volunteer">Volunteer</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="News" class="mobileCMSListMenuLink" href="/News">News</a>
+			<img alt="News" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuLI">
+					<a title="2019" class="mobile2CMSListMenuLink" href="/News/2019">2019</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="AARP Safe Driving Class" class="mobile2CMSListMenuLink" href="/News/AARP-Safe-Driving-Class">AARP&nbsp;Safe&nbsp;Driving&nbsp;Class</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="ACA" class="mobile2CMSListMenuLink" href="/News/ACA">ACA</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Alzheimer&#39;s Series" class="mobile2CMSListMenuLink" href="/News/Alzheimer-s-Series">Alzheimer&#39;s&nbsp;Series</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Awareness Months and Health Tips" class="mobile2CMSListMenuLink" href="/News/Awareness-Months">Awareness&nbsp;Months&nbsp;and&nbsp;Health&nbsp;Tips</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Car Seat Safety Check" class="mobile2CMSListMenuLink" href="/News/Car-Seat-Safety-Check">Car&nbsp;Seat&nbsp;Safety&nbsp;Check</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="DAS" class="mobile2CMSListMenuLink" href="/News/DAS">DAS</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Foundation" class="mobile2CMSListMenuLink" href="/News/Foundation">Foundation</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="FY19" class="mobile2CMSListMenuLink" href="/News/FY19">FY19</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Newborn Gifts" class="mobile2CMSListMenuLink" href="/News/Newborn-Gifts">Newborn&nbsp;Gifts</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Spiritual care" class="mobile2CMSListMenuLink" href="/News/Spiritual-care">Spiritual&nbsp;care</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Giving" class="mobileCMSListMenuLink" href="/Giving">Giving</a>
+			<img alt="Giving" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuLI">
+					<a title="Angel of Hope Share Garden Memory Stones" class="mobile2CMSListMenuLink" href="/memorystone">Angel&nbsp;of&nbsp;Hope&nbsp;Share&nbsp;Garden&nbsp;Memory&nbsp;Stones</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Contact Us" class="mobile2CMSListMenuLink" href="/Giving/Contact-Us">Contact&nbsp;Us</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Donor Recognition" class="mobile2CMSListMenuLink" href="/Giving/Donor-Recognition">Donor&nbsp;Recognition</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Donor Support" class="mobile2CMSListMenuLink" href="/Giving/Donor-Support">Donor&nbsp;Support</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Donate Now" class="mobile2CMSListMenuLink" href="https://giving.hshs.org/smd/Donate.aspx">Donate&nbsp;Now</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Leadership Council" class="mobile2CMSListMenuLink" href="/Giving/Foundation-Leadership-Council">Leadership&nbsp;Council</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Ways to Give" class="mobile2CMSListMenuLink" href="/Giving/Ways-to-Give">Ways&nbsp;to&nbsp;Give</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuHighlightedLI">
+			<a title="About Us, Careers and Contact" class="mobileCMSListMenuLinkHighlighted" href="/Hospital-Information/About.aspx">About&nbsp;Us,&nbsp;Careers&nbsp;and&nbsp;Contact</a>
+			<img alt="About Us, Careers and Contact" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuHighlightedLI">
+					<a title="About" class="mobile2CMSListMenuLinkHighlighted" href="/Hospital-Information/About">About</a>
+					<img alt="About" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Administrative Team" class="mobile3CMSListMenuLink" href="/Hospital-Information/About/Administrative-Staff">Administrative&nbsp;Team</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Annual Report" class="mobile3CMSListMenuLink" href="/Hospital-Information/About/Annual-Report">Annual&nbsp;Report</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Board of Directors" class="mobile3CMSListMenuLink" href="/Hospital-Information/About/Board-of-Directors">Board&nbsp;of&nbsp;Directors</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Careers" class="mobile3CMSListMenuLink" href="/Hospital-Information/About/Careers">Careers</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Contact" class="mobile3CMSListMenuLink" href="/Hospital-Information/About/Contact">Contact</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Directions" class="mobile3CMSListMenuLink" href="/Hospital-Information/About/Directions">Directions</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Hospital Sisters of St. Francis" class="mobile3CMSListMenuLink" onclick="window.open(&#39;http://www.hospitalsisters.org&#39;);return false;" href="/Hospital-Information/About/Hospital-Sisters-of-St-Francis">Hospital&nbsp;Sisters&nbsp;of&nbsp;St.&nbsp;Francis</a>
+						</li>
+						<li class="mobile3CMSListMenuHighlightedLI">
+							<a title="Mission-Vision-Values" class="mobile3CMSListMenuLinkHighlighted" href="/mission">Mission-Vision-Values</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Our System HSHS" class="mobile3CMSListMenuLink" onclick="window.open(&#39;http://www.hshs.org&#39;);return false;" href="/HSHS-St-Mary-s-Hospital/About/Our-System-HSHS">Our&nbsp;System&nbsp;HSHS</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Volunteer" class="mobile3CMSListMenuLink" href="/Hospital-Information/About/Volunteer">Volunteer</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Careers" class="mobile2CMSListMenuLink" href="/Hospital-Information/Careers">Careers</a>
+					<img alt="Careers" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Hot Jobs" class="mobile3CMSListMenuLink" href="/Hospital-Information/Careers/Hot-Jobs">Hot&nbsp;Jobs</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Job Shadow" class="mobile3CMSListMenuLink" href="/Hospital-Information/Careers/Job-Shadow">Job&nbsp;Shadow</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Nurse Careers" class="mobile3CMSListMenuLink" href="https://hshscareers.referrals.selectminds.com/page/hshs-st-marys-hospital-nursing-careers-41">Nurse&nbsp;Careers</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Colleague Login" class="mobile2CMSListMenuLink" href="/Hospital-Information/Colleague-Login">Colleague&nbsp;Login</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Contact" class="mobile2CMSListMenuLink" href="/Hospital-Information/Contact">Contact</a>
+					<img alt="Contact" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Phone Directory" class="mobile3CMSListMenuLink" href="/Patient-Guest/Phone-Directory.aspx">Phone&nbsp;Directory</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Medical Professionals" class="mobile2CMSListMenuLink" href="/Hospital-Information/Medical-Professionals">Medical&nbsp;Professionals</a>
+					<img alt="Medical Professionals" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Contact the Medical Staff Office" class="mobile3CMSListMenuLink" href="/Hospital-Information/Medical-Professionals/Contact-the-Medical-Staff-Office">Contact&nbsp;the&nbsp;Medical&nbsp;Staff&nbsp;Office</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Credentials Application Request" class="mobile3CMSListMenuLink" href="https://www.st-johns.org/Hospital-Information/Medical-Professionals/Credentials-Application">Credentials&nbsp;Application&nbsp;Request</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Hospital Affiliation Verification Letters" class="mobile3CMSListMenuLink" href="/Hospital-Information/Medical-Professionals/Hospital-Affiliation-Verification-Letters">Hospital&nbsp;Affiliation&nbsp;Verification&nbsp;Letters</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Request Access to EpicCare Link" class="mobile3CMSListMenuLink" href="/Hospital-Information/Medical-Professionals/HSHS-EpicCare-Link.aspx">Request&nbsp;Access&nbsp;to&nbsp;EpicCare&nbsp;Link</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Directions" class="mobile2CMSListMenuLink" href="/Hospital-Information/Directions">Directions</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Healthy You" class="mobile2CMSListMenuLink" href="/Hospital-Information/Healthy-You">Healthy&nbsp;You</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Search" class="mobileCMSListMenuLink" href="/Search-Results">Search</a>
+		</li>
+
+	</ul>
+
+
+
+                    </nav>
+          <header>
+                <!-- Logo -->
+                <a href="/" class="logo" title="Home">
+                    <img src="/www-smd/media/SMD-Images/logo.png" alt="Logo" style="border-width: 0px;" />
+                </a>
+
+                <!-- Utility Nav -->
+                <div class="utilities_wrapper">
+                    <nav class="utility_menu">
+                        
+	<ul id="menuElem" class="utilitiesCMSListMenuUL">
+		<li class="utilitiesCMSListMenuHighlightedLI">
+			<a title="About" class="utilitiesCMSListMenuLinkHighlighted" href="/Hospital-Information/About">About</a>
+			<ul class="level1CMSListMenuUL">
+				<li class="level1CMSListMenuLI">
+					<a title="Administrative Team" class="level1CMSListMenuLink" href="/Hospital-Information/About/Administrative-Staff">Administrative&nbsp;Team</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Annual Report" class="level1CMSListMenuLink" href="/Hospital-Information/About/Annual-Report">Annual&nbsp;Report</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Board of Directors" class="level1CMSListMenuLink" href="/Hospital-Information/About/Board-of-Directors">Board&nbsp;of&nbsp;Directors</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Careers" class="level1CMSListMenuLink" href="/Hospital-Information/About/Careers">Careers</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Contact" class="level1CMSListMenuLink" href="/Hospital-Information/About/Contact">Contact</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Directions" class="level1CMSListMenuLink" href="/Hospital-Information/About/Directions">Directions</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Hospital Sisters of St. Francis" class="level1CMSListMenuLink" onclick="window.open(&#39;http://www.hospitalsisters.org&#39;);return false;" href="/Hospital-Information/About/Hospital-Sisters-of-St-Francis">Hospital&nbsp;Sisters&nbsp;of&nbsp;St.&nbsp;Francis</a>
+				</li>
+				<li class="level1CMSListMenuHighlightedLI">
+					<a title="Mission-Vision-Values" class="level1CMSListMenuLinkHighlighted" href="/mission">Mission-Vision-Values</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Our System HSHS" class="level1CMSListMenuLink" onclick="window.open(&#39;http://www.hshs.org&#39;);return false;" href="/HSHS-St-Mary-s-Hospital/About/Our-System-HSHS">Our&nbsp;System&nbsp;HSHS</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Volunteer" class="level1CMSListMenuLink" href="/Hospital-Information/About/Volunteer">Volunteer</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Careers" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Careers">Careers</a>
+			<ul class="level1CMSListMenuUL">
+				<li class="level1CMSListMenuLI">
+					<a title="Hot Jobs" class="level1CMSListMenuLink" href="/Hospital-Information/Careers/Hot-Jobs">Hot&nbsp;Jobs</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Job Shadow" class="level1CMSListMenuLink" href="/Hospital-Information/Careers/Job-Shadow">Job&nbsp;Shadow</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Nurse Careers" class="level1CMSListMenuLink" href="https://hshscareers.referrals.selectminds.com/page/hshs-st-marys-hospital-nursing-careers-41">Nurse&nbsp;Careers</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Colleague Login" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Colleague-Login">Colleague&nbsp;Login</a>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Contact" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Contact">Contact</a>
+			<ul class="level1CMSListMenuUL">
+				<li class="level1CMSListMenuLI">
+					<a title="Phone Directory" class="level1CMSListMenuLink" href="/Patient-Guest/Phone-Directory.aspx">Phone&nbsp;Directory</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Medical Professionals" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Medical-Professionals">Medical&nbsp;Professionals</a>
+			<ul class="level1CMSListMenuUL">
+				<li class="level1CMSListMenuLI">
+					<a title="Contact the Medical Staff Office" class="level1CMSListMenuLink" href="/Hospital-Information/Medical-Professionals/Contact-the-Medical-Staff-Office">Contact&nbsp;the&nbsp;Medical&nbsp;Staff&nbsp;Office</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Credentials Application Request" class="level1CMSListMenuLink" href="https://www.st-johns.org/Hospital-Information/Medical-Professionals/Credentials-Application">Credentials&nbsp;Application&nbsp;Request</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Hospital Affiliation Verification Letters" class="level1CMSListMenuLink" href="/Hospital-Information/Medical-Professionals/Hospital-Affiliation-Verification-Letters">Hospital&nbsp;Affiliation&nbsp;Verification&nbsp;Letters</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Request Access to EpicCare Link" class="level1CMSListMenuLink" href="/Hospital-Information/Medical-Professionals/HSHS-EpicCare-Link.aspx">Request&nbsp;Access&nbsp;to&nbsp;EpicCare&nbsp;Link</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Directions" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Directions">Directions</a>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Healthy You" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Healthy-You">Healthy&nbsp;You</a>
+		</li>
+
+	</ul>
+
+
+
+                    </nav>
+                    <!-- Search Box -->
+                  <div class="clearfix"></div>
+                    <div class="search_wrapper">
+                        <div class="PhoneNum">Phone: (217) 464-2966</div><div style="float: left;"><div id="p_lt_ctl03_SmartSearchBox_pnlSearch" class="searchBox">
+	
+    <label for="p_lt_ctl03_SmartSearchBox_txtWord" id="p_lt_ctl03_SmartSearchBox_lblSearch" style="display:none;">Search for:</label>
+    <input name="p$lt$ctl03$SmartSearchBox$txtWord" type="text" maxlength="1000" id="p_lt_ctl03_SmartSearchBox_txtWord" class="txt_search form-control" />
+    
+    <input type="image" name="p$lt$ctl03$SmartSearchBox$btnImageButton" id="p_lt_ctl03_SmartSearchBox_btnImageButton" class="btn_search" src="/St.NicholasHospital/media/TemplateImages/spacer.gif" alt="Search" />
+    <div id="p_lt_ctl03_SmartSearchBox_pnlPredictiveResultsHolder" class="predictiveSearchHolder">
+
+	</div>
+
+</div>
+</div><div class="menu-trigger" style="float: right;" id="showLeftPush"></div>
+                    </div>
+                  </div>
+                <div class="clearfix"></div>
+            </header>
+             <!-- Main Menu -->
+            <nav class="main_menu">
+                
+                    
+<ul id="menu"><li><a href="/Patient-Guest">Patients & Guests</a><ul><li><a href="/Patient-Guest/Patient-Financial-Services">Patient Financial Services</a></li><li><a href="/Patient-Guest/Advanced-Directives">Advance Directives</a></li><li><a href="/Patient-Guest/Calling-a-Patient-s-Room">Calling a Patient's Room</a></li><li><a href="/Patient-Guest/Chapel">Chapel</a></li><li><a href="/daisy">Daisy Award</a></li><li><a href="/Patient-Guest/Dining">Dining</a></li><li><a href="/Patient-Guest/E-Card">E-Card</a></li><li><a href="/Patient-Guest/Education">Education</a></li><li><a href="/Patient-Guest/Gift-Shop">Gift Shop</a></li><li><a href="/Patient-Guest/Guest-Services">Guest Services</a></li><li><a href="/Patient-Guest/Locations">Locations</a></li><li><a href="/Patient-Guest/Maps">Maps</a></li><li><a href="/Patient-Guest/Medical-Records">Medical Records</a></li><li><a href="/Patient-Guest/Chart-My-Health">My Chart</a></li><li><a href="/Patient-Guest/Parking">Parking</a></li><li><a href="/Patient-Guest/Patient-Guide">Patient Guide</a></li><li><a href="/Patient-Guest/Phone-Directory">Phone Directory</a></li><li><a href="/Patient-Guest/Registration">Registration</a></li><li><a href="/Spiritual-Care">Spiritual Care</a></li><li><a href="/Patient-Guest/Visiting-Hours">Visiting Hours</a></li></ul></li><li><a href="/Medical-Services">Medical Services</a><ul><li><a href="/Medical-Services/Adult-Day-Services">Adult Day Services</a></li><li><a href="/Medical-Services/Behavioral-Health">Behavioral Health</a></li><li><a href="/Medical-Services/Cancer-Resources">Cancer Care</a></li><li><a href="/Medical-Services/Diabetes-Nutrition">Diabetes & Nutrition</a></li><li><a href="/Medical-Services/Emergency-Services">Emergency Services | Trauma</a></li><li><a href="/Medical-Services/Heart-Care">Heart Care</a></li><li><a href="https://www.hshshomecarecentralil.org/">HSHS Home Care and Hospice</a></li><li><a href="/Medical-Services/Imaging">Radiology</a></li><li><a href="/Medical-Services/Laboratory-Services">Laboratory Services</a></li><li><a href="/Medical-Services/Medical-Care-Services">Medical Care Services</a></li><li><a href="/Medical-Services/Neurosurgery">Neurosurgery</a></li><li><a href="/Medical-Services/JointCare">Orthopedic Services</a></li><li><a href="/Medical-Services/Occupational-Health">Occupational Health</a></li><li><a href="/Medical-Services/Pain-Management">Pain Medicine Center</a></li><li><a href="/Medical-Services/Pulmonary-Clinic">Pulmonary Clinic</a></li><li><a href="/Medical-Services/Physical-Rehabilitation">Rehabilitation</a></li><li><a href="/sleep">Sleep Medicine Center</a></li><li><a href="/Medical-Services/Physical-Rehabilitation/AthletiCare.aspx">Sports Medicine</a></li><li><a href="/Medical-Services/Stroke-Care">Stroke Care</a></li><li><a href="/Medical-Services/Surgical-Services">Surgical Services</a></li><li><a href="/Medical-Services/Urology">Urology</a></li><li><a href="/Medical-Services/Vascular-Services">Vascular Services</a></li><li><a href="/Medical-Services/Women-and-Infants-Center">Women and Infants Center</a></li><li><a href="/Medical-Services/Women-s-Services">Women's Services</a></li><li><a href="/Medical-Services/Wound-Center">Wound Clinic</a></li></ul></li><li><a href="/Events-Classes">Classes & Events</a></li><li><a href="/Provider-Directory">Find a Doctor</a></li><li><a href="/Community-Connection">Community Connection</a><ul><li><a href="/Community-Connection/Community-Health-Needs-Assessment">Community Health Needs Assessment</a></li><li><a href="/Community-Connection/Community-Partnerships">Community Partnerships</a></li><li><a href="/Community-Connection/Health-Insurance-Marketplace">Health Insurance Marketplace</a></li><li><a href="/Community-Connection/Dental-Voucher-Program">Dental Voucher Program</a></li><li><a href="/Community-Connection/Lake-Shore-Connection">Lake Shore Connection</a></li><li><a href="/Community-Connection/HSHS-Nurses">HSHS Nurses</a></li><li><a href="/Community-Connection/Marys-garden-CSA">Mary's Garden - CSA</a></li><li><a href="/Community-Connection/Quality,-Safety-Patient-Satisfaction">Quality, Safety & Patient Satisfaction</a></li><li><a href="/Community-Connection/Reader-s-Choice-Winner">Reader's Choice Winner</a></li><li><a href="/Community-Connection/Real-Men-Wear-Pink-2018">Real Men Wear Pink 2018</a></li><li><a href="/Community-Connection/Requests-for-Support">Requests for Support</a></li><li><a href="/Community-Connection/Share-Walk">Share Walk</a></li><li><a href="/Community-Connection/Support-Groups">Support Groups</a></li><li><a href="/Community-Connection/Volunteer">Volunteer</a></li></ul></li><li><a href="/News">News</a></li><li><a href="/Giving">Giving</a><ul><li><a href="/memorystone">Angel of Hope Share Garden Memory Stones</a></li><li><a href="/Giving/Contact-Us">Contact Us</a></li><li><a href="/Giving/Donor-Recognition">Donor Recognition</a></li><li><a href="/Giving/Donor-Support">Donor Support</a></li><li><a href="https://giving.hshs.org/smd/Donate.aspx">Donate Now</a></li><li><a href="/Giving/Foundation-Leadership-Council">Leadership Council</a></li><li><a href="/Giving/Ways-to-Give">Ways to Give</a></li></ul></li></ul>
+
+                
+                <div class="clearfix"></div>
+            </nav>
+            <!-- Page Layout  -->
+            <div class="page_content">
+                
+
+<div>
+  
+</div>
+<div class="narrowLeftColLO">
+    <div class="top_zone">
+        <div class="top_zone_content">
+  
+
+
+
+
+</div><div class="breadcrumb">
+  <a href="/">HOME</a> > <a href="/Hospital-Information/About" title="About" class="CMSBreadCrumbsLink">About</a> &gt; <span class="CMSBreadCrumbsCurrentItem">Mission-Vision-Values</span>
+
+</div><div class="Top_Zone">
+  
+
+
+
+
+</div>
+    </div>
+ <div class="right_zone">
+        <h1><em-blue>Our</em-blue> Mission</h1>
+<strong>To reveal and embody Christ&#39;s healing love for all people through our high quality Franciscan health care ministry.</strong><br />
+<br />
+The foundational mission principles of Hospital Sisters Health System (HSHS) embody the belief that every life is a sacred gift and every human being is a unity of body, mind and spirit. Our health care ministry calls upon us to foster healing, serve with compassion, and promote wellness for all persons, with special attention to our brothers and sisters who are poor, underserved and most vulnerable.<br />
+<br />
+These principles are the basis for HSHS to provide high quality, cost-effective and compassionate health care for millions of people in Illinois and Wisconsin. Our health care ministry consists of thirteen hospitals and a network of physician partners committed to continuing the healing ministry of Jesus Christ.<br />
+&nbsp;
+<h4>Our Vision</h4>
+Proclaiming God&rsquo;s healing presence through our exceptional health care services.&nbsp;<br />
+&nbsp;
+<h4>HSHS Core Values</h4>
+Our values express the Franciscan spirit and our special charism. We serve with values that are important within this Franciscan health care ministry:<br />
+&nbsp;
+<p><em-blue></em-blue><strong>RESPECT</strong><em-blue> </em-blue>means the Franciscan respect for life from conception to natural death and for the dignity of each individual person. Respect is a commitment to freeing and empowering each person to develop his or her full potential.</p>
+
+<p><strong>CARE</strong> embodies the concern, compassion, and sensitivity with which we care for patients as individuals on a one-to-one basis. It depicts our way of dealing with patients, clients, and colleagues. Many times, it is thought of as bedside behavior, but it also belongs in administrative offices, cafeterias, and boardrooms.<br />
+<br />
+<strong>COMPETENCE</strong> means that our work is performed and our institutions are managed with the highest level of skill and ability. We are committed to recruiting and developing people who are competent in their work and whose values reflect our own. Our values are an integral part of our System&#39;s Strategic Plan, which provides the overall framework for our local activities.<br />
+<br />
+<strong>JOY</strong> is the manner in which our colleagues and all who join us in our ministry seek to perform their work -- the internal fulfillment of caring for others. It is an essential ingredient in bring a sense of hope to those who suffer.</p>
+
+
+
+
+
+    </div>
+    <div class="left_zone">
+        <div class="stained_glass">
+	<ul id="parent-menu">
+		<li class="Highlighted">
+			<a href="/Hospital-Information/About">About</a>
+		</li>
+
+	</ul>
+
+
+
+
+
+
+</div>
+    </div>
+
+   
+    <div class="clearfix"></div>
+    <div class="bottom_zone">
+        
+
+
+
+
+    </div>
+</div>
+                <div class="clearfix"></div>
+            </div>
+
+            <!-- Footer -->
+             <footer class="darkgrey-pattern row do-not-search">
+      <div class="top-shadow">
+        <div class="wrap row">
+          <div class="span5-1">
+  <div class="content-padding">
+  <h4>About Us<br />
+<br />
+<a href="/Hospital-Information/About.aspx">About HSHS St. Mary&#39;s</a><br />
+<a href="/Hospital-Information/About/Mission-Vision-Values.aspx" style="line-height: 1.4285;">Mission and Vision</a><br />
+<a href="/Hospital-Information/Careers.aspx">Apply for a Job</a><br />
+<a href="/Hospital-Information/Colleague-Secure-Login.aspx">Colleague Login</a><br />
+<a href="https://hshs.service-now.com/$pwd_reset.do?sysparm_url=password_reset" target="_blank">Colleague Password Reset</a></h4>
+
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4>Central Illinois Division</h4>
+
+<p><a href="http://hshsmedicalgroup.com" target="_blank">HSHS Medical Group</a><br />
+<a href="http://st-johns.org" target="_blank">HSHS St. John&#39;s Hospital</a><br />
+<a href="http://www.stfrancis-litchfield.org/" target="_blank">HSHS St. Francis Hospital</a><br />
+<a href="https://hshsgoodshepherd.org/" target="_blank">HSHS Good Shepherd Hospital</a><br />
+<a href="http://www.stjohnscollegespringfield.edu/" target="_blank">St. John&#39;s College</a></p>
+
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4>Connect with Us</h4>
+
+<ul class="inline-social-links">
+	<li class="facebook"><a href="https://www.facebook.com/stmarysdecatur" target="_blank">Like Us on Facebook</a></li>
+	<li class="twitter"><a href="https://twitter.com/stmarysdecatur" target="_blank">Follow Us on Twitter</a></li>
+	<li class="instagram"><a href="https://www.instagram.com/stmarysdecatur/" target="_blank">Follow Our Instagram</a></li>
+	<li class="youtube"><a href="https://www.youtube.com/stmarysdecatur" target="_blank">Find Us on YouTube</a></li>
+	<li class="linked-in"><a href="https://www.linkedin.com/company/st-mary's-hospital-decatur" target="_blank">Find Us on LinkedIn</a></li>
+	<li class="donate"><a href="https://giving.hshs.org/smd/Donate.aspx" target="_blank">Make a Donation</a></li>
+</ul>
+
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4>Contact Us</h4>
+
+<p>Dial 911 for medical emergencies</p>
+
+<p>Switchboard<br />
+(217) 464-2966</p>
+
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4>&copy; HSHS St. Mary&#39;s Hospital, 2011 - 2017.<br />
+<a href="/Hospital-Information/Patient-Privacy.aspx" style="line-height: 1.4285;">Patient Privacy</a><br />
+<a href="/Hospital-Information/Patient-Rights.aspx" style="line-height: 1.4285;">Patient Rights &amp; Responsibilities</a><br />
+<a href="/SiteMap.aspx" style="line-height: 1.4285;">Site Map</a><br />
+<a href="https://epic.accessonefamily.com/EpicCareLink/common/epic_login.asp" target="_blank">HSHS EpicCare</a></h4>
+
+
+
+
+
+ </div>
+</div>
+        </div>
+      </div>
+      <div class="footer-branding"></div>
+</footer>
+          <!-- Disclosure Layout  -->
+            <div class="disclosure_content">
+                <font face="Calibri"><strong>Notice of Nondiscrimination:</strong> </font><a href="/Hospital-Information/Language-Assistance-Services"><span style="color: rgb(0, 75, 141);"><u><font face="Calibri">English</font></u></span></a><br />
+<font face="Calibri"><strong>Language Assistance:</strong> </font><a href="/Hospital-Information/Language-Assistance-Services"><span style="color: rgb(0, 75, 141);"><u><font face="Calibri">Español&nbsp;|&nbsp;</font></u><font face="Calibri"><u>Hmoob</u></font><u><font face="Calibri">&nbsp;|&nbsp;</font></u><font face="Calibri"><u>Deutsch&nbsp;</u></font><u><font face="Calibri">|&nbsp;</font></u><font face="Calibri"><u>Français</u></font><font face="Calibri"><u>&nbsp;|</u></font><font face="Calibri"><u>&nbsp;</u></font><span style="font-family: &quot;MS Gothic&quot;;"><u>繁體中文</u></span><font face="Calibri"><u> | Deitsch | Polski |&nbsp;</u></font><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;"><u>العربية</u></span><font face="Calibri"><u>&nbsp;|&nbsp;Русский&nbsp;|&nbsp;Italiano&nbsp;|&nbsp;Tagalog&nbsp;|&nbsp;</u></font><span style="font-family: &quot;Mangal&quot;,&quot;serif&quot;;"><u>हिंदी</u></span><font face="Calibri"><u>&nbsp;</u></font><font face="Calibri"><u>&nbsp;|&nbsp;</u></font><span style="font-family: &quot;DokChampa&quot;,&quot;sans-serif&quot;;"><u>ພາສາລາວ</u></span><font face="Calibri"><u>&nbsp;|&nbsp;</u></font><span style="font-family: &quot;Gulim&quot;,&quot;sans-serif&quot;;"><u>한국어</u></span><font face="Calibri"><u>&nbsp;|&nbsp;Tiếng Việt&nbsp;|</u></font><font face="Calibri"><u>&nbsp;</u></font><u><span style="font-family: &quot;Arial&quot;,&quot;sans-serif&quot;;">اُردُو</span><font face="Calibri">&nbsp;</font></u></span></a>
+
+
+
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
+  <div class="bottom_bar"></div>
+</div>
+    
+    
+
+<script type="text/javascript">
+	//<![CDATA[
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+if ( (parent == null) || (!parent.IsCMSDesk) ) {
+try { 
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-51712167-1']);
+_gaq.push(['_trackPageview']);
+} catch(err) {}
+}
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+WebServiceCall('/cmsapi/webanalytics', 'LogHit', '{"NodeAliasPath":"/Hospital-Information/About/Mission-Vision-Values","DocumentCultureCode":"en-US","UrlReferrer":""}')
+//]]>
+</script></form>
+</body>
+</html>

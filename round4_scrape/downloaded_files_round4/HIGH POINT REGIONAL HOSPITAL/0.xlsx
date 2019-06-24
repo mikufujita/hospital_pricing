@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns:adam="urn:DataProcessor" xmlns:ax="http://www.adam.com" xmlns:exsl="http://exslt.org/common"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><meta http-equiv="x-ua-compatible" content="IE=edge" /><head><title></title><meta name="Keywords" content=""></meta>    
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<link rel="shortcut icon" href="https://www.wakehealth.edu/_res/Clinical/media/favicon.ico?v=20170323">
+	<link rel="stylesheet" href="https://www.wakehealth.edu/_res/Clinical/styles/ADAM_style.css">
+	
+<!-- Scripts moved to head from foot starts here -->	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<script>
+			window.jQuery || document.write('<script src="https://www.wakehealth.edu/_res/common/js/lib/jquery.min.js"><\/script>');
+	</script>	
+<script type="text/javascript" src="https://www.wakehealth.edu/_res/common/js/lib/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.wakehealth.edu/_res/common/js/lib/bootstrap.min.js"></script>
+<!-- Scripts moved to head from foot ends here -->
+	
+<script src="../../graphics/global/scripts/jquery-1.9.1.js"> </script><script src="//code.jquery.com/jquery-migrate-1.1.1.js"> </script><script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"> </script><script src="../../graphics/global/scripts/modernizr-2.5.3.min.js"> </script><script src="../../graphics/global/scripts/popeye/jquery.popeye-2.1.js"> </script><script type="text/javascript" src="../../graphics/global/jquery.innerfade.js"> </script><script type="text/javascript" src="../../graphics/global/jcarousel.js"> </script><script src="../../graphics/global/scripts/video.js" type="text/javascript"> </script><script language="javascript" type="text/javascript">                      function ADAM() { }                    </script><link rel="stylesheet" href="/clients/1797/127/css/mme-hm-mobile.css" type="text/css" /><script type="text/javascript"><!--
+          var Protocol = (("https:" == document.location.protocol) ? "https" : "http");
+          var JSLocationSSL='https://sdk.adam.com/javascriptlibraries/';
+          var JSLocation='http://sdk.adam.com/javascriptlibraries/';
+          if (typeof($) == "undefined")
+          {
+          document.write(unescape("%3Cscript src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+          }
+          
+          if(Protocol=="https")
+          {
+          if (typeof(ADAM$) == "undefined")
+          {
+          document.write(unescape("%3Cscript src='" + JSLocationSSL + "adamcore.1.0.js' type='text/javascript'%3E%3C/script%3E"));
+          }
+
+          document.write(unescape("%3Cscript src='" + JSLocationSSL + "ContentTracking.js' type='text/javascript'%3E%3C/script%3E"));
+          }
+          else
+          {
+          if (typeof(ADAM$) == "undefined")
+          {
+          document.write(unescape("%3Cscript src='" + JSLocation + "adamcore.1.0.js' type='text/javascript'%3E%3C/script%3E"));
+          }
+
+          document.write(unescape("%3Cscript src='" + JSLocation + "ContentTracking.js' type='text/javascript'%3E%3C/script%3E"));
+          }
+        --></script><script type="text/javascript">
+            $(document).ready(function() {
+            var previousUrl = document.referrer;
+            if(previousUrl == '' || previousUrl == 'null')
+            previousUrl = window.location.href;
+            
+            JsCaptureClient('1797','127','0','200000',previousUrl,'');
+            
+            });
+          </script></head><body>    <div class="skip-navigation"><a href="#" tabindex="1">Skip navigation</a></div>
+	
+	<header class="main-header solid-bg">
+		<!-- other sites nav-->
+		<!-- begin _other-sites.jade-->
+		<div class="other-sites">
+			<div class="container">
+				<nav>
+					<ul class="inline">
+						<li><a href="https://www.wakehealth.edu/">Wake Forest Baptist Health</a></li>
+						<li><a href="https://school.wakehealth.edu/">School of Medicine</a></li>
+						<li><a href="http://www.wakeforestinnovations.com/">Innovations</a></li>
+						<li class="dropdown"><a id="explore-other" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Explore Our System</a>
+							<div aria-labelledby="explore-other" class="dropdown-menu">
+								<ul>
+									<li><a href="https://www.brennerchildrens.org" target="_blank">Brenner Children&#39;s Hospital</a></li>
+									<li><a href="https://www.wakehealth.edu/Locations/Facilities/Comprehensive-Cancer-Center" target="">Comprehensive Cancer Center</a></li>
+									<li><span>Network Hospitals</span>
+										<ul>
+											<li><a href="https://www.wakehealth.edu/Davie-Medical-Center/" target="_blank">Davie Medical Center</a></li>
+											<li><a href="http://www.highpointregional.com/" target="_blank">High Point Medical Center</a></li>
+											<li><a href="https://lexington.wakehealth.edu" target="_blank">Lexington Medical Center</a></li>
+											<li><a href="http://wilkesregional.com/" target="_blank">Wilkes Medical Center</a></li>
+										</ul>
+									</li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>		
+		<div class="utility-nav">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-3 col-lg-4">
+						<a href="https://www.wakehealth.edu/" class="navbar-brand"><img src="https://www.wakehealth.edu/-/media/WakeForest/Clinical/Images/Logos-and-Signatures/logo.png" title="" alt="logo" class="logo"></a>
+					</div>
+					<div class="col-xs-9 col-lg-8">
+						<!-- begin n-01-header-utility-nav.jade-->
+						<form id="search" action="https://www.wakehealth.edu/Search">
+							<label for="search-terms" id="search-label"><i class="fa fa-search"></i></label>
+							<div class="search-wrap">
+								<div class="search-slide">
+									<input type="text" name="q" id="search-terms" placeholder="Search Keyword">
+									<input type="submit" value="Go" class="btn"><i class="fa fa-close"></i>
+								</div>
+							</div>
+						</form>
+						<nav>
+							<ul class="nav navbar-nav">
+								<li><a href="https://www.wakehealth.edu//Patient-and-Family-Resources/Billing-and-Insurance/Pay-My-Bill" target="">Pay My Bill</a></li>
+								<li><a href="http://www.wakehealth.edu/beinvolved/" target="_blank">Clinical Trials</a></li>
+								<li><a href="https://www.wakehealth.edu//Referring-Physicians" target="">Referring Physicians</a></li>
+								<li class="cta"><a href="https://www.wakehealth.edu/About-Us/Philanthropy" target="">Giving<i class="fa fa-heart-o"></i></a></li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- primary nav-->
+		<nav class="nav navbar main-nav">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						<ul id="primary-nav-desk" class="primary-nav is-fixed desk-view">
+							<li><a href="https://www.wakehealth.edu/Find-A-Provider" target="">Find a Provider</a></li>
+							<li><a href="https://www.wakehealth.edu/Appointments" target="">Appointments</a></li>
+							<li><a href="https://www.wakehealth.edu/Specialties-Conditions-and-Treatment-Search" target="">Specialties, Conditions and Treatments</a></li>
+							<li><a href="https://www.wakehealth.edu/Find-a-Location" target="">Locations</a></li>
+							<li class="has-children">
+								<a href="#">Patient and Family Resources</a>
+								<ul class="secondary-nav is-hidden index">
+									<li class="col-xs-12 col-md-3">
+										<ul>
+											<li>
+												<a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Preparing-for-Your-Visit">Preparing for Your Visit</a>
+												<ul></ul>
+											</li>
+											<li><a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Services-and-Amenities">Services and Amenities</a>
+												<ul></ul>
+											</li>
+											<li><a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Safety-Information-and-Patient-Rights">Safety Information and
+													Patient Rights</a>
+												<ul></ul>
+											</li>
+											<li><a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Support-Counseling-and-Continuing-Care">Support, Counseling and
+													Continuing Care</a>
+												<ul></ul>
+											</li>
+											<li><a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Health-and-Wellness">Health and Wellness</a>
+												<ul></ul>
+											</li>
+										</ul>
+									</li>
+									<li class="col-xs-12 col-md-3">
+										<ul>
+											<li>
+												<a href="https://www.wakehealth.edu/About-Us/Philanthropy">Philanthropy</a>
+												<ul></ul>
+											</li>
+											<li>
+												<a href="https://www.wakehealth.edu/About-Us/Quality-and-Awards">Quality and Awards</a>
+												<ul></ul>
+											</li>
+											<li>
+												<a href="https://www.wakehealth.edu/About-Us/Volunteer-Services">Volunteer Services</a>
+												<ul></ul>
+											</li>
+											<li>
+												<a href="https://www.wakehealth.edu/About-Us/Serving-Our-Communities">Serving Our Communities</a>
+												<ul></ul>
+											</li>
+											<li>
+												<a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Contact-Us">Contact Us</a>
+											</li>
+										</ul>
+									</li>
+									<li class="col-xs-12 col-md-3 text-block desk-only">
+										<div>
+											<p style="text-align: center;"><img alt="Business 40 Update" src="https://www.wakehealth.edu/-/media/WakeForest/Clinical/Images/Logos-and-Signatures/Bus-40-Icon_Spotlight.jpg?h=200&amp;w=170&amp;la=en&amp;hash=E1825BEB902CB1713B2E206B5241EA9683A72185" style="height: 200px; width: 170px; text-align: center;"></p>
+											<p>Stay connected with the latest updates around <a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Preparing-for-Your-Visit/Business-40-Updates">Business 40 construction</a>.</p>
+										</div>
+									</li>
+									<li class="all">
+										<a href="https://www.wakehealth.edu/Patient-and-Family-Resources" target="">Find More Resources</a>
+									</li>
+								</ul>
+
+							</li>
+							<li class="has-children mywake">
+								<a href="#">myWakeHealth</a>
+								<ul class="secondary-nav is-hidden">
+									<li class="text-block">
+										<div>
+											<h2>myWakeHealth</h2>
+											<a target="_blank" href="https://www.mywakehealth.org/mychart/" class="btn">Sign In</a>
+											<p class="disclaimer">
+												<p>Our myWakeHealth patient portal is a free, simple and secure way to help you better access the information you need to manage your care. </p>
+												<p>New user? <a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Services-and-Amenities/MyWakeHealth">Sign up here</a>.&nbsp;</p>
+											</p>
+										</div>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</nav>
+		<nav class="nav navbar mobile-nav">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						<ul id="primary-nav" class="primary-nav is-fixed device-view">
+							<li class="cta mobile-only">
+                                <p>Schedule an Appointment</p>
+                                <p><a href="tel:8887169253" class="btn">888-716-9253 (toll-free)</a></p>
+                        	</li>
+							<li><a href="https://www.wakehealth.edu/Find-A-Provider" target="">Find a Provider</a></li>
+							<li><a href="https://www.wakehealth.edu/Appointments" target="">Appointments</a></li>
+							<li><a href="https://www.wakehealth.edu/Specialties-Conditions-and-Treatment-Search" target="">Specialties, Conditions and Treatments</a></li>
+							<li><a href="https://www.wakehealth.edu/Find-a-Location" target="">Locations</a></li>
+							<li class="has-children"><a href="#">Patient &amp; Family Resources</a>
+								<ul class="secondary-nav is-hidden">
+									<li class="go-back"><a href="#">Back</a></li>
+									<li><a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Preparing-for-Your-Visit">Preparing for Your Visit</a>
+										<ul class="subsidiary-nav"></ul>
+									</li>
+									<li><a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Services-and-Amenities">Services and Amenities</a>
+										<ul class="subsidiary-nav"></ul>
+									</li>
+									<li><a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Safety-Information-and-Patient-Rights">Safety Information and Patient Rights</a>
+										<ul class="subsidiary-nav"></ul>
+									</li>
+									<li><a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Support-Counseling-and-Continuing-Care">Support, Counseling and Continuing Care</a>
+										<ul class="subsidiary-nav"></ul>
+									</li>
+									<li><a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Health-and-Wellness">Health and Wellness</a>
+										<ul class="subsidiary-nav"></ul>
+									</li>
+									<li><a href="https://www.wakehealth.edu/About-Us/Philanthropy">Philanthropy</a>
+										<ul class="subsidiary-nav"></ul>
+									</li>
+									<li><a href="https://www.wakehealth.edu/About-Us/Quality-and-Awards">Quality and Awards</a>
+										<ul class="subsidiary-nav"></ul>
+									</li>
+									<li><a href="https://www.wakehealth.edu/About-Us/Volunteer-Services">Volunteer Services</a>
+										<ul class="subsidiary-nav"></ul>
+									</li>
+									<li><a href="https://www.wakehealth.edu/About-Us/Serving-Our-Communities">Serving Our Communities</a>
+										<ul class="subsidiary-nav"></ul>
+									</li>
+									<li class="#"><a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Contact-Us">Contact Us</a></li>
+									<li class="all"><a href="https://www.wakehealth.edu/Patient-and-Family-Resources" target="">Find More Resources</a></li>
+								</ul>
+							</li>
+							<li class="has-children mywake">
+								<a href="#">myWakeHealth</a>
+								<ul class="secondary-nav is-hidden">
+									<li class="go-back"><a href="#">Back</a></li>
+									<li class="text-block">
+										<div>
+											<div>
+												<h2>myWakeHealth</h2>
+												<a href="https://www.mywakehealth.org/mychart/" class="btn">Sign In</a>
+												<p class="disclaimer"><p>Our myWakeHealth patient portal is a free, simple and secure way to help you better access the information you need to manage your care. </p>
+												<p>New user? <a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Services-and-Amenities/MyWakeHealth">Sign up here</a>.&nbsp;</p></p>
+											</div>
+										</div>
+									</li>
+								</ul>
+							</li>
+							<li class="gray"><a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Billing-and-Insurance/Pay-My-Bill" target="">Pay My Bill</a></li>
+							<li class="gray"><a href="http://www.wakehealth.edu/beinvolved/" target="_blank">Clinical Trials</a></li>
+							<li class="gray"><a href="https://www.wakehealth.edu/Referring-Physicians" target="">Referring Physicians</a></li>
+							<li class="gray cta"><a href="https://www.wakehealth.edu/About-Us/Philanthropy" target="">Giving<i class="fa fa-heart-o"></i></a></li>
+							<li class="gray"><a href="https://www.wakehealth.edu/" target="">Wake Forest Baptist Health</a></li>
+							<li class="gray"><a href="https://school.wakehealth.edu:443/" target="">School of Medicine</a></li>
+							<li class="gray"><a href="http://www.wakeforestinnovations.com" target="_blank">Innovations</a></li>
+							<li class="gray has-children">
+								<a href="#">Explore Our System</a>
+								<ul class="secondary-nav is-hidden">
+									<li class="go-back"><a href="#">Back</a></li>
+									<li><a href="https://www.brennerchildrens.org" target="_blank">Brenner Children&#39;s Hospital</a></li>
+									<li><a href="https://www.wakehealth.edu/Locations/Facilities/Comprehensive-Cancer-Center" target="">Comprehensive Cancer Center</a></li>
+									<li class="has-children"><a href="#">Network Hospitals</a>
+										<ul class="secondary-nav is-hidden">
+											<li class="go-back"><a href="#">Back</a></li>
+											<li><a href="https://www.wakehealth.edu/Davie-Medical-Center/" target="_blank">Davie Medical Center</a></li>
+											<li><a href="http://www.highpointregional.com/" target="_blank">High Point Medical Center</a></li>
+											<li><a href="https://lexington.wakehealth.edu" target="_blank">Lexington Medical Center</a></li>
+											<li><a href="http://wilkesregional.com/" target="_blank">Wilkes Medical Center</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</nav>
+		<!-- begin header-buttons.jade-->
+		<div class="header-buttons">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-3"><a href="#primary-nav" class="nav-trigger">Menu<span></span></a></div>
+					<div class="col-xs-6"><a href="#" class="navbar-brand"><img src="https://www.wakehealth.edu/_res/Clinical/media/images/logo.png" title="Wake Forest Logo" class="logo"></a></div>
+					<div class="col-xs-3"><a href="#nav-search" class="search-trigger">Search<span></span></a></div>
+				</div>
+			</div>
+		</div>
+		<!-- end header-buttons.jade-->
+		<!-- global search-->
+		<!-- begin global-search.jade-->
+		<div id="global-search" class="global-search">
+			<form action="https://www.wakehealth.edu/Search">
+				<fieldset>
+					<div class="col-xs-9 col-sm-10">
+						<label for="global-search">
+							<input type="search" name="q" id="global-search" placeholder="Search">
+						</label>
+					</div>
+					<div class="col-xs-3 col-sm-2">
+						<button type="submit" id="global-search-submit" class="btn">Go</button>
+					</div>
+				</fieldset>
+			</form>
+		</div>
+		<!-- end global-search.jade-->
+	</header>
+
+
+
+	<div class="container-fluid">
+		<div class="main-content" id="main-content">
+			<main>
+				<div class="row">
+					<div class="full-width">
+						<div class="white-bg">
+							<div class="container">
+								<div class="row">
+									<div class="col-xs-12"><div class="ADAMContent" align="center"><style type="text/css">      tr, td {      border:none!important;      }    </style><style type="text/css">      .ADAMContent {      Width: 100%;            position: relative;      margin: 0px auto;      top: 0;      z-index: 0;      text-align:left;      }      body {      color: #333333;      font-family: Arial,Helvetica,Geneva,sans-serif;      }    </style><script type="text/javascript">      $(document).ready(function(){      if(navigator.appName == 'Microsoft Internet Explorer')      if($.browser.version != '10.0'){      $("div#browse-a-z-nav").css('background','none');      }      });    </script><script language="javascript"><!--        $(document).ready(function() {        $('[placeholder]').focus(function () {        var input = $(this);        if (input.val() == input.attr('placeholder')) {        input.val('');        input.removeClass('placeholder');        }        }).blur(function () {        var input = $(this);        if (input.val() == '' || input.val() == input.attr('placeholder')) {        input.addClass('placeholder');        input.val(input.attr('placeholder'));        }        }).blur();        });        function checkEnter(event)        {        var iAscii = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;        if (iAscii == null) return false;        if (iAscii == 13) ADAMDefaultSearch('Article');        }        function InitForm()        {        var searchType = '';        var searchBox = document.getElementById('ADAMSearchBox');        /*searchBox.focus();*/        searchBox.onKeyPress = checkEnter;        if (searchType == 'taxa')        {        var searchTaxo = '';        var searchTaxoCode = '';        var taxoCheck = document.getElementById('ADAMMedicalCodeCheckBox');        var taxoPulldown = document.getElementById('ADAMTaxaVocab');        searchBox.value = searchTaxoCode;        taxoCheck.checked = true;        taxoPulldown.style.display = 'inline';        if (searchTaxo == 'ICD9CM') document.getElementById('ADAMTaxaVocabICD9CM').selected = 'selected';        else if (searchTaxo == 'MSH') document.getElementById('ADAMTaxaVocabMSH').selected = 'selected';        else if (searchTaxo == 'CPT') document.getElementById('ADAMTaxaVocabCPT').selected = 'selected';        else if (searchTaxo == 'SNOMEDCT') document.getElementById('ADAMTaxaVocabSNOMEDCT').selected = 'selected';        }        else if (searchType == 'keyword')        {        var searchInput = "";        /*searchBox.value = searchInput;*/        }        }        function ADAMDefaultSearch(searchScope)        {        var searchBox = document.getElementById('ADAMSearchBox');        var Language= "en";        if (searchBox.value =='')        {        alert('Please be more specific with your search.');        searchBox.focus();        }        else        {        ADAMSearchRedirect('&keyword=' + searchBox.value + '&searchScope=' + searchScope + '&lang=' + Language);        }        }        function ADAMChangeResultPage(resultSetPage)        {        var searchScope = '';        var searchInput = "";        var Language= "en";        ADAMSearchRedirect('&keyword=' + searchInput + '&searchScope=' + searchScope + '&resultSetPage=' + resultSetPage + '&lang=' + Language);        }        function ADAMNextResultPage() { ADAMChangeResultPage( + 1); }        function ADAMPrevResultPage() { ADAMChangeResultPage( - 1); }        function ADAMSearchRedirect(queryString)        {        var resultCount = '20';        if (resultCount == '') resultCount = 20;                    document.location = 'content.aspx?productid=26&pid=26&site=wakehealthse3.adam.com&login=WAKE5462' + queryString + '&count=' + resultCount;                  }        function ADAM()        {        InitForm();        }      --></script><link rel="stylesheet" href="/clients/1797/127/css/layout.css" /><script>      $(document).ready(function(){      if($('ul#your-care-nav li').length==0){      $('div#your-care-hdr').css('display','none');      $('div#your-care-nav').css('display','none');      }      if($('ul#your-symptoms-nav li').length==0){      $('div#your-symptoms-hdr').css('display','none');      $('ul#your-symptoms-nav').css('display','none');      }      if($('ul#your-patient-nav li').length==0){      $('div#your-patients-hdr').css('display','none');      $('div#your-patient-nav').css('display','none');      }      if($('ul#your-health-nav li').length==0){      $('div#your-health-hdr').css('display','none');      $('div#your-health-nav').css('display','none');      }      });    </script><div id="page-127"><div id="branding"><div id="header-inner"><div class="se-logo-127"><h1 id="site-title"><a rel="home" title="SmartEngage 3.0" name="ADAMTop" href="#"><img src="/clients/1797/127/img/se3-logo.png" /></a></h1></div></div></div><div id="main-127" class="stretch-me"><img id="bg-img" src="/clients/1797/127/img/127-hero.png" /><div id="tag-line-127"><p class="ttl-127">Smart Decisions.Smart Health.</p><div id="hm-search"><div id="browse-a-z-hm"><a id="toggle-a-z" href="">Browse A-Z</a></div><input type="text" onkeypress="javascript:checkEnter(event)" id="ADAMSearchBox" style="width:140px;margin-top: 11px;height:30px;" placeholder="Health Search" class="placeholder" /><div style="margin-top:-32px; margin-left:245px; position:relative;border:none;" id="searchbtn"><input type="button" style="width: 40px; margin-left: 3px; height: 33px; background-image: none; background-attachment: scroll; background-repeat: repeat; background-size: auto auto; background-origin: padding-box; background-clip: border-box; background-color: transparent; cursor: pointer;border:none;" value="" onmouseover="javascript:document.getElementById('searchClick').style.cursor = 'pointer';" onclick="javascript:ADAMDefaultSearch('Article');" id="searchClick" /></div><div id="browse-a-z-nav" style="filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/clients/1797/127/img/browse-a-z-bg.png', sizingMethod='scale') !important;"><ul><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=a&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">A</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=b&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">B</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=c&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">C</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=d&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">D</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=e&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">E</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=f&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">F</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=g&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">G</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=h&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">H</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=i&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">I</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=j&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">J</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=k&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">K</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=l&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">L</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=m&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">M</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=n&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">N</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=o&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">O</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=p&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">P</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=q&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">Q</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=r&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">R</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=s&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">S</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=t&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">T</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=u&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">U</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=v&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">V</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=w&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">W</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=x&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">X</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=y&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">Y</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=z&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">Z</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=0&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">0-9                      </a></li></ul></div></div><div id="autoSearchTitle" style="border: 2px solid #819139; top: 50px; z-index: 500; width:280px; display:none; background-color:white; float: left; right:290px;"><style>              ul#autoSearchUL li {              padding-left: 10px;              font: 300 16px/1.625 Helvetica, Arial, sans-serif!important;              }            </style><ul id="autoSearchUL" style="list-style: none; margin-left:0px;"></ul></div></div><div id="hm-main-nav"><div id="menu-col-1"><div id="your-care-hdr"><p>Your Care</p></div><ul id="your-care-nav"><li class="active"><a href="content.aspx?productid=117&amp;pid=1&amp;alpha=a&amp;sub=Symptoms&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">Your Symptoms                </a></li><li class="active"><a href="content.aspx?productid=117&amp;pid=60&amp;alpha=a&amp;sub=Self-Care%20Instructions&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">Self Care                </a></li><li class="active"><a href="content.aspx?productid=117&amp;pid=1&amp;alpha=a&amp;sub=Disease&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">Diseases &amp; Conditions                </a></li><li class="active"><a href="content.aspx?productid=117&amp;pid=1&amp;alpha=a&amp;sub=Surgery&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">Surgeries &amp; Procedures                </a></li><li class="active"><a href="content.aspx?productid=117&amp;pid=1&amp;alpha=a&amp;sub=Injury&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">Injuries                </a></li><li class="active"><a href="content.aspx?productid=117&amp;pid=1&amp;alpha=a&amp;sub=Test&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">Tests                </a></li><li class="in-active"><a href="content.aspx?productid=45&amp;pid=45&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">Drug Information                    </a><a href=""></a></li><li class="in-active"><a href="content.aspx?productid=46&amp;pid=46&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">Drug Interactions                    </a></li><li class="in-active"><a href="content.aspx?productid=50&amp;pid=50&amp;alpha=a&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">Drug Images                    </a></li></ul></div><div id="menu-col-2"><div id="your-symptoms-hdr"><p>Your Symptoms</p></div><ul id="your-symptoms-nav"><li class="active"><a href="content.aspx?productid=65&amp;pid=65&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">Health Navigator                    </a></li></ul></div><div id="menu-col-3"><div id="your-health-hdr"><p>Your Health</p></div><ul id="your-health-nav"><li class="active"><a href="content.aspx?productid=20&amp;pid=20&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">Wellness Tools                    </a></li><li class="active"><a href="content.aspx?productid=43&amp;pid=43&amp;site=wakehealthse3.adam.com&amp;login=WAKE5462">My Checkups                    </a></li></ul></div></div><div id="hm-navigation-bg"></div></div><footer class="se-footer"> </footer></div><div style="width:100%; font-size:11px;text-align:center; float: left;padding-bottom:10px">A.D.A.M. content is best viewed in IE9 or above, Fire Fox and Google Chrome browser.</div><script type="text/javascript"><!--            $(document).ready(function(){            $('#news').innerfade({            animationtype: 'fade',            speed: 'slow',            timeout: 5000,            type: 'sequence',            containerheight: '18px'            });            $('#toggle-a-z').click(function(event) {            event.preventDefault();            $('#browse-a-z-nav').toggle();            });            })          --></script><script type="text/javascript" src="https://sdk.adam.com/javascriptlibraries/adamcore.1.0.js"> </script><script type="text/javascript" src="https://sdk.adam.com/javascriptlibraries/TypeAheadSearch.js"> </script><script src="/clients/1797/127/js/css3-mediaqueries.js"> </script><script type="text/javascript"><!--        var current_index = 0;        function change_selection(len)        {        $('ul#autoSearchUL li').removeClass('selected');        $('ul#autoSearchUL li').eq(len).addClass('selected');        }        $(document).ready(function() {        $('#autoSearchUL li').on("mouseover", function() {        $('ul#autoSearchUL li').removeClass('selected');        current_index=0;        });        $("#ADAMSearchBox").keyup(function(e){        if (e.keyCode == 38) {        if (current_index > 1) {        current_index = current_index - 1;        change_selection(current_index-1);        $('#ADAMSearchBox').val($('ul#autoSearchUL li').eq(current_index-1).text());        }        }        else if (e.keyCode == 40) {        var items_total = $('ul#autoSearchUL li').length;        if (current_index < items_total) {        change_selection(current_index);        current_index++;        $('#ADAMSearchBox').val($('ul#autoSearchUL li').eq(current_index-1).text());        }        }        else        {        var searchboxValue = $("#ADAMSearchBox").val();        if(jQuery.trim(searchboxValue).length > 0)        {                jsGetSearchedItem('https://sdk.adam.com/webapi/',$(this).val(),'1797');        }        else        {                $('#autoSearchTitle').css('display', 'none');        current_index=0;        }        }        });        });      --></script><script type="text/javascript"><!--        function Setvalue(e)        {        var innerText = e.innerHTML;        $('#ADAMSearchBox').val(innerText);        ADAMDefaultSearch(innerText);        }      --></script><script type="text/javascript"><!--        var health=$("div#mme-hm-col3 > ul > li").length;        if(health < 1)        {        $("div#mme-hm-col3").css("visibility","hidden");        $("div#mme-hm-col3").hide();        }      --></script><style type="text/css">      #autoSearchUL li:hover {      background: #c0c0c0;      padding-left:11px;      cursor:pointer;      }    </style><style type="text/css">      .selected {background: #c0c0c0}    </style></div>                                    </div>
+								</div>
+							</div>
+						</div>
+						<div class="gray-bg">
+							<div class="container">
+								<div class="row">
+									<div class="col-xs-12">
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="white-bg">
+							<div class="container">
+								<div class="row">
+									<div class="col-xs-12">
+										<!-- begin c-100-pagination.jade-->
+										<div class="pagination">
+											<div class="row">
+												<div class="col-xs-12 col-md-8">
+													<p><span class="call-out">Need help finding a provider?</span> Let us help you find the right one. <a href="tel:336-716-9253" title="336-716-9253">336-716-WAKE</a></p>
+												</div>
+											</div>
+										</div>
+										<!-- end c-100-pagination.jade-->
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</main>
+		</div>
+	</div>
+
+
+
+
+
+	<footer>
+		<!-- begin c-09-social-connect.jade-->
+		<!-- begin fe-01-text-callout.jade-->
+		<div class="banner-full-width connect">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						<section class="banner">
+							<h1>Connect With Us</h1>
+							<ul>
+								<li><a href="https://www.facebook.com/wakehealth/" target="_blank" title="facebook"><i class="fa fa-facebook"></i></a></li>
+								<li><a href="https://twitter.com/wakehealth" target="_blank" title="twitter"><i class="fa fa-twitter"></i></a></li>
+								<li><a href="https://www.youtube.com/user/wakeforestbaptist" target="_blank" title="YouTube"><i class="fa fa-youtube"></i></a></li>
+							</ul>
+						</section>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- end fe-01-text-callout.jade-->
+		<!-- end c-09-social-connect.jade-->
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<section class="nav">
+						<div class="row">
+							<div class="col-xs-12 col-sm-4">
+								<a href="https://www.wakehealth.edu/" class="footer-brand"><img src="https://www.wakehealth.edu/-/media/WakeForest/Clinical/Images/Logos-and-Signatures/logo-footer.png" title="" class="logo"></a>
+								<div class="rte">
+									<p>.Wake Forest Baptist Health does not discriminate on the basis of race, color, national origin, sex, sexual orientation, gender identity, age or disability.</p>
+									<p>&nbsp;</p>
+									<p><a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Services-and-Amenities/Notice-of-Nondiscrimination">Learn more about our nondiscrimination policy and services available to you.</a></p>
+								</div>
+							</div>
+							<!-- begin n-03-footer-utility-nav.jade-->
+							<div class="col-xs-12 col-sm-2">
+								<nav>
+									<ul>
+										<li><a href="https://www.wakehealth.edu/About-Us" target="">About Us</a></li>
+										<li><a href="https://newsroom.wakehealth.edu" target="">Newsroom</a></li>
+										<li><a href="https://www.wakehealth.edu/About-Us/Careers-and-Training-Programs" target="">Careers and Training Programs</a></li>
+									</ul>
+								</nav>
+							</div>
+							<div class="col-xs-12 col-sm-2">
+								<nav>
+									<ul>
+										<li><a href="https://www.wakehealth.edu/About-Us/Financial-Statement" target="">Financial Statement</a></li>
+										<li><a href="https://www.wakehealth.edu/About-Us/Serving-Our-Communities" target="">Serving Our Communities</a></li>
+										<li><a href="https://www.wakehealth.edu/About-Us/Inclusion-and-Diversity">Inclusion and Diversity</a></li>
+										<li><a href="https://www.wakehealth.edu/About-Us/Conflict-of-Interest" target="">Conflict of Interest</a></li>
+										<li><a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Billing-and-Insurance/Financial-Assistance">Financial Assistance</a></li>
+									</ul>
+								</nav>
+							</div>
+							<div class="col-xs-12 col-sm-2">
+								<nav>
+									<ul>
+										<li><a href="https://www.wakehealth.edu/About-Us/Our-Website/Site-Policies-and-Statements" target="">Site Policies and Statements</a></li>
+										<li><a href="https://www.wakehealth.edu/About-Us/Our-Website/Site-Feedback" target="">Site Feedback</a></li>
+										<li><a href="https://school.wakehealth.edu:443/Campus-and-Community-Life/Campus-Safety-and-Security" target="">Annual Crime and Fire Report</a></li>
+										<li><a href="https://www.wakehealth.edu/About-Us/Audit-and-Compliance-Office/Notice-of-Privacy-Practices">Notice of Privacy Practices</a></li>
+									</ul>
+								</nav>
+							</div>
+							<div class="col-xs-12 col-sm-2">
+								<nav>
+									<ul>
+										<li><a href="https://www.wakehealth.edu/About-Us/Our-Website/Employees" target="">Employees</a></li>
+										<li><a href="https://www.wakehealth.edu/About-Us/Volunteer-Services" target="">Volunteer Services</a></li>
+										<li><a href="https://www.wakehealth.edu/About-Us/Philanthropy" target="">Philanthropy</a></li>
+										<li><a href="https://www.wakehealth.edu/Patient-and-Family-Resources/Contact-Us" target="">Contact Us</a></li>
+									</ul>
+								</nav>
+							</div>
+							<!-- end n-03-footer-utility-nav.jade-->
+						</div>
+					</section>
+					<hr>
+					<!-- begin c-11-disclaimer-text.jade-->
+					<!-- begin fe-03-text-panel.jade-->
+					<section class="disclaimer">
+						<p>Disclaimer: The information on this website is for general informational purposes only and SHOULD NOT be relied upon as a substitute for sound professional medical advice, evaluation or care from your physician or other qualified health care provider.</p>
+						<h1>Wake Forest Baptist Medical Center, Medical Center Boulevard, Winston-Salem, NC 27157. All Rights Reserved.</h1>
+					</section>
+					<!-- end fe-03-text-panel.jade-->
+					<!-- end c-11-disclaimer-text.jade-->
+				</div>
+			</div>
+		</div>
+	</footer>
+	<!-- end gc-02-04-06-footer.jade-->
+	<div class="white-bg">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<!-- begin C-89, C-90: floating pin-->
+					<aside class="pin">
+							<aside class="pin">
+							<a href="https://www.wakehealth.edu/Appointments" class="btn">Request an Appointment</a>
+						</aside>
+					</aside>
+					<!-- end C-89, C-90: floating pin-->
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="nav-overlay"></div>
+	<!-- jQuery CDN, and a fallback;-->
+	
+	<!-- Scripts moved to head starts here -->
+	<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> 
+	<script> 
+			<!-- window.jQuery || document.write('<script src="https://www.wakehealth.edu/_res/common/js/lib/jquery.min.js"><\/script>');
+	 </script>	 
+	 <script type="text/javascript" src="https://www.wakehealth.edu/_res/common/js/lib/jquery.min.js"></script>	
+	 <script type="text/javascript" src="https://www.wakehealth.edu/_res/common/js/lib/bootstrap.min.js"></script> -->
+	 <!-- Scripts moved to head ends here -->
+	 
+	<script type="text/javascript" src="https://www.wakehealth.edu/_res/common/js/lib/picturefill.min.js"></script>
+	<script type="text/javascript" src="https://www.wakehealth.edu/_res/common/js/lib/jquery.mobile.custom.min.js"></script>
+	<script type="text/javascript" src="https://www.wakehealth.edu/_res/common/js/lib/meganav.js"></script>
+	<script type="text/javascript" src="https://www.wakehealth.edu/_res/common/js/lib/skrollr.min.js"></script>
+	<script type="text/javascript" src="https://www.wakehealth.edu/_res/common/js/lib/owl.carousel.min.js"></script>
+	<script type="text/javascript" src="https://www.wakehealth.edu/_res/common/js/lib/typeahead.bundle.js"></script>
+	<script type="text/javascript" src="https://www.wakehealth.edu/_res/common/js/lib/skip-navigation.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-validator/0.4.5/js/bootstrapvalidator.min.js"></script>
+	<script src="//video.limelight.com/player/limelightjs-player.js"></script>
+	<script src="https://www.wakehealth.edu/_res/common/js/main.js"></script><script type="text/javascript" src="../../graphics/global/ga.js"> </script><script type="text/javascript">                  try {                  var adamPageTracker = _gat._getTracker("UA-49715577-3");                  adamPageTracker._trackPageview();                  } catch(err) {}                  try {                  var adamGlobalPageTracker = _gat._getTracker("UA-7878983-1");                  adamGlobalPageTracker._trackPageview();                  } catch(err) {}                </script></body></html>

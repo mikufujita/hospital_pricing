@@ -1,0 +1,245 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="head"><title>
+	Donate
+</title><meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+<meta http-equiv="pragma" content="no-cache" /> 
+<meta http-equiv="content-style-type" content="text/css" /> 
+<meta http-equiv="content-script-type" content="text/javascript" /> 
+ 
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="icon"/>
+<!-- CSS ============================================================================================== -->
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=bootstrap" type="text/css" rel="stylesheet">
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=Base_Styles" type="text/css" rel="stylesheet">
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=FontAwesome" type="text/css" rel="stylesheet">
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=Libertas_EWD_Styles" type="text/css" rel="stylesheet"> 
+ <!-- <link rel="stylesheet" href="//fast.fonts.net/cssapi/8d188fc4-f81b-49fe-9c3c-3df391afb0ae.css"> -->
+ <!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"> -->
+ <!-- <link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'> -->
+ <!-- <link href='https://fonts.googleapis.com/css?family=PT+Sans|Libre+Baskerville' rel='stylesheet' type='text/css'> -->
+<!-- END CSS ============================================================================================== -->
+
+<!-- Scripts ============================================================================================== -->
+
+  <!-- This will bring full browser support for media queries. Write your media queries like you would for browsers with native support. 
+       The script will parse your CSS and apply the styles for positive media query tests real time. Note: Doesn't work on @imported 
+       stylesheets or for the media attribute of the link and style elements. Respond.js will make the min-max width work. -->
+  <!--[if lt IE 9]>
+      <script src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/html5shiv_3_7_0.js" type="text/javascript"></script>
+      <script src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/respond_1_4_2.min.js" type="text/javascript"></script>
+  <![endif]-->
+  
+  <script src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/jquery.1.11.1.min.js" type="text/javascript"></script>
+  <!-- A fix for the iOS orientationchange zoom bug. http://filamentgroup.com/lab/a_fix_for_the_ios_orientationchange_zoom_bug/ -->
+  <script src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/ios-orientationchange-fix.js" type="text/javascript"></script>
+  <script src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/SkinScripts.js" type="text/javascript"></script>
+  
+<!-- END Scripts ============================================================================================== -->
+<link rel="shortcut icon" href="/FavIconImages/favicon.ico?v=1" />
+<link rel="icon" href="/FavIconImages/favicon.ico?v=1" /></head>
+<body class="LTR ENUS MobileDevice ContentBody" >
+    
+    <form method="post" action="/smd/Donate.aspx" id="form">
+<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="wyd4T9ROuuYWyNAoJrpi5hRsWtaqdZE3nrifK51bKKtgmOD9n1ci9oQnzw2JV3U2qhVBTiRRRlRETOaKwLtGH8DrAPFwZQIcYImU3xqoTp8=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="tdWna5/URMqED6ROj6ssal+uZV4dYNoFuemQhgTYSglMcuvoy6t0go6+z/50bFUbcWo9gZZgNQqg01ChRwGPwKA3HKp5EibeycsgQ7MMV7MC2kQTMdtOxb59KFyNXc1a1fvdsHT+GDunmxl8EzgspJG6jdkA2thYlhkcgqBxDhieLKsqTExxmXfLQuMmL4SIlLmaCIvQAXqGlg0tMG9eNYcoUowA1xYHHat+w9uiWdmOhHVO5pja0jzXPZDSL9EJSOQOqBq/MPsLl4yOzF986s7MSo0vqqYOD2u5WKoFVWixxaNaGY/GaBdWht8Ffqqq" />
+
+<input type="hidden" name="lng" id="lng" value="en-US" />
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=x6wALODbMJK5e0eRC_p1Lflgeo6YBdBxdn23PJgQeRz47nTzaQ41mfnKk9QdHEo4dDi2CKwGf1owWliH11qTKp4f95ZRbK8KaRNeZ623ZrV8yIPMBiSYgnVetxe1km2H0&amp;t=7c776dc1" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "isRTL": "false",
+  "isDebuggingEnabled": false,
+  "applicationUrl": "/",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDialog": false
+};
+
+//]]>
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+    
+    <div id="ctxM">
+
+</div>
+    
+<div>
+
+<div class="top_bar"></div>
+        <div class="page_wrapper">
+          <header>
+                <!-- Logo -->
+                <div class="col-sm-8 leftHeader">
+                  <img alt="" src="/logos/SMD-Foundation-logo" /><br />
+<img alt="" src="/Images/GivingAffiliate" />
+
+
+
+
+                </div>
+                  <!-- Utility Nav -->
+                <div class="col-sm-4 rightHeader">
+                    <h4 style="text-align: center;"><em-blue-adj><span style="color:#004B8D;"><strong><em>&quot;For it is in giving that we receive.&quot;</em></strong></span></em-blue-adj><br />
+<span style="color:#004B8D;"><strong>St. Francis of Assisi</strong></span></h4>
+
+
+
+
+
+                </div>
+                <div class="clearfix"></div>
+            </header>
+             <!-- Main Menu -->
+ 
+            <!-- Page Layout  -->
+            <div class="page_content">
+                
+
+<div class="narrowLeftColLO">
+    <div class="top_zone">
+        
+    </div>
+ <div class="right_zone">
+        <h3>Donate Now</h3>
+Thank you for your generosity that allows us to continue our shared mission.
+
+
+
+<div id="bbox-root"></div>
+<script type="text/javascript">
+       window.bboxInit = function () {
+           bbox.showForm('896ec2f4-7a83-4b0b-a33b-580b750f3cc9');
+       };
+       (function () {
+           var e = document.createElement('script'); e.async = true;
+           e.src = 'https://bbox.blackbaudhosting.com/webforms/bbox-min.js';
+           document.getElementsByTagName('head')[0].appendChild(e);
+       } ());
+</script><h4><br />
+...</h4>
+
+
+
+
+
+    </div>
+    <div class="left_zone">
+        <div class="stained_glass">
+
+
+
+<img id="p_lt_ctl03_pageplaceholder_p_lt_leftZone_EditableImage_ucEditableImage_imgImage" src="/Images/left-column-bg" alt="" />
+
+</div>
+    </div>
+
+   
+    <div class="clearfix"></div>
+    <div class="bottom_zone">
+        
+
+
+
+
+    </div>
+</div>
+                <div class="clearfix"></div>
+            </div>
+
+            <!-- Footer -->
+             <footer class="darkgrey-pattern row do-not-search">
+      <div class="top-shadow">
+        <div class="wrap row">
+          <div class="span5-1">
+  <div class="content-padding">
+  
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  
+
+
+
+
+ </div>
+</div>
+        </div>
+      </div>
+      <div class="footer-branding"></div>
+</footer>
+          <!-- Disclosure Layout  -->
+            <div class="disclosure_content">
+                
+
+
+
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
+  <div class="bottom_bar"></div>
+</div>
+    
+    
+
+<script type="text/javascript">
+	//<![CDATA[
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+if ( (parent == null) || (!parent.IsCMSDesk) ) {
+try { 
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-81810674-1']);
+_gaq.push(['_trackPageview']);
+} catch(err) {}
+}
+//]]>
+</script></form>
+</body>
+</html>

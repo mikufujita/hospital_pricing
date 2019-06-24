@@ -1,0 +1,1109 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<!-- ====================================================================== --> 
+<!-- Copyright (c)1998 - 2019 Geonetric, Inc. and Asante Health System.     --> 
+<!-- All rights reserved.  http://www.geonetric.com/                        --> 
+<!-- ====================================================================== --> 
+<head id="VsMasterPage_HtmlHeader">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- meta content-type added by WebControls.PageAdapter in ~/App_Browsers -->
+<script type="text/javascript">
+//<![CDATA[
+	window['VitalSite'] = {
+  "page": {
+    "Referrer": null,
+    "Method": "GET",
+    "IsPostBack": false,
+    "StatusCode": 200,
+    "Status": "200 OK"
+  },
+  "mapBrowserApiKey": "AIzaSyCZTizDLLK45iXOc2wtUdrOzWQStUuBSGo"
+};
+//]]>
+
+</script>
+<link type="text/css" rel="stylesheet" href="/css-min/default.css" />
+<link type="text/css" rel="stylesheet" href="/css-min/client.css" />
+<link type="text/css" rel="stylesheet" href="/css-min/templates/interior2012.css" />
+<link type="text/css" rel="stylesheet" href="/css-min/templates/no-cols2012.css" />
+<link type="text/css" rel="stylesheet" href="/css-min/modules/directory/locations.css" />
+<meta name="robots" content="noindex" />
+<meta name="copyright" content="(c)1998-2019 Geonetric. All Rights Reserved." />
+
+<script type="text/javascript" src="/scripts/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="/WebResource.axd?d=mwBaMIUX0yUw6OcxlhyR4vgYOFnlAOheyG8Reelj2bYJGieLPbKrQjnZYi7OvrP0Q0mocDJA6bFeUFMme7lnKSHhm3b9ALCXc3bQsyN_SpA5o76Zhf0a-jqqTcUYyGzvDI_wVsectL7OptILYsT6EA2&amp;t=636700344260000000"></script>
+<script type="text/javascript">
+//<![CDATA[
+Geonetric.Diagnostics.IS_DEBUG = false;
+window.Geonetric_DoPostBackPreparationFunctions = new Array();
+Geonetric.Page.VirtualDirectory = '/';
+Geonetric.Page.RequestMethod = 'GET';
+//]]>
+</script>
+<!--[if IE]>
+<script>
+if (document.location.href.indexOf('&hashFragment=') != -1) {
+  document.location.hash = getHashParameter();
+}
+else {
+  if (document.location.href.indexOf('?hashFragment=') != -1) {
+    document.location.hash = getHashParameter();
+  }
+}
+function getHashParameter() {
+  var qs = location.search.substring(1, location.search.length);
+  if (qs.length == 0) { return ""; }
+  var args = qs.split('&');
+  for (var i = 0; i < args.length; i++) {
+    var pair = args[i].split('=');
+    if ((pair.length == 2) && (pair[0] == "hashFragment")) {
+      return pair[1];
+    }
+  }
+}
+</script>
+<![endif]-->
+
+<script type="text/javascript" src="/WebResource.axd?d=R1Szx8MrM71zoEhh26LP1vek4FVN5l360EokjNTKBTLm-qmG8hdWXiYsleehjvEBp9Zdmd73P1TRjjfTVwgVPHwb51KmS6xvsAnD2QjIYRZgRJ2Ck3-dH-1Mz21LmvikCpwvBIYJ-phpaW4u9CNAgWNjQCjrtgmShbNhbtb-Rso3ar8rgHsG7hG7MBHVmfAV0&amp;t=636700344260000000"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="google-translate-customization" content="f1fda14cd6c87959-dad5a6c58cd64c4d-g70780647d35cb882-f" />
+    <script type="text/javascript" src="//fast.fonts.com/jsapi/faf633c6-efd7-4ad0-be7b-7af3ee470af3.js"></script>
+    <script type="text/javascript" src="/scripts/respond.min.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+Geonetric.Page.NavigationNode = '/1/39/3/';
+//]]>
+</script>
+<!-- Script Name: Google Tag Manager - Head -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T3M3D4');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Script Name: FB Insights -->
+<meta property="fb:admins" content="100002819903489" />
+
+<!-- Script Name: FB Custom Tracking Pixel -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '721305391338286');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=721305391338286&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Script Name: Bing -->
+<meta name="msvalidate.01" content="A941D5CEF2717B4690FB054222BE9640" />
+<title>
+	Location Detail - Asante
+</title></head>
+
+
+
+
+<!--[if lte IE 8]><style type="text/css" media="screen">@import "/css/hacks/lte-ie8.css"; /* IE 8 and earlier */</style><![endif]-->
+<body id="NoCols2012" class="Default 2012 BodyJSOff">
+    <!--[if IE 6]>
+    <script src="/scripts/DD_belatedPNG.js"></script>
+    <script>
+      DD_belatedPNG.fix('img, div, a, span, strong');
+    </script>
+    <![endif]-->
+    <div id="BodyWrapper">
+        <div id="HeaderWrapper">
+            <div id="HeaderWrapperTop2">
+                <div id="HeaderWrapperTop" class="ClearFix">
+					<a id="Top" class="Hide A11y" href="#Content">Skip to content</a>
+                    <div id="Logo">
+                        <a href="/"><img src="/imgs/logo_2012.gif" alt="Asante" /></a>
+                    </div>
+                    <div id="HeaderRight">
+                        <div id="HeaderRightTop" class="ClearFix">
+                            
+<div id="Search">
+<form action="../siteSearchResults.aspx" method="get" onsubmit="javascript:if(($id('SearchInput').value.length > 0) &amp;&amp; ($id('SearchInput').value != 'Search Site')) {return true;} else {alert('Please enter a search term.');$id('SearchInput').focus();return false;}">
+<fieldset>
+<legend class="Hide"></legend>
+<input type="hidden" name="navigationNode" value="/1/39/3/"/>
+<label class="Hide" for="SearchInput">Search Site</label>
+<input maxlength="128" id="SearchInput" name="term" type="text" value="Search Site" onfocus="javascript:if(this.value=='Search Site') {this.value='';}" onblur="javascript:if (this.value=='') {this.value='Search Site';}"/>
+<input type="image" alt="Search" class="ImgButton" src="/imgs/buttons/search-button.gif"/>
+</fieldset>
+</form>
+</div>
+
+
+                        </div>
+                        
+                        <div id="TopNav">
+                            <ul class="Horiz ClearFix">
+                                <li><a href="/classes-events/">Classes &amp; Events</a></li>
+                                <li><a href="/about-us/">About Asante</a></li>
+                                <li><a href="/careers/">Join Our Team</a></li>
+								<li><a href="/pay-your-bill/">Bill Pay</a></li>
+                                <li><a href="/giving/">Giving</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="CustomToggles">
+                <div class="CustomTogglesInner ClearFix">
+                    <ul class="Triggers">
+                        <li id="SearchButton">search</li>
+                        <li id="NavButton">menu</li>
+                    </ul>
+                    <ul class="Payloads ClearFix">
+                        <li id="MovedSearch" class="ClearFix"></li>
+                        <li id="MainNavWrapper" class="ClearFix">
+                            <nav role="navigation">
+							
+<div id="MainNav" class="ClearFix">
+
+	<h2 class="Hide">
+		Main Navigation
+	</h2>
+
+	<ul>
+
+
+		<li class="First"><a href="/find-a-doctor/"><span>Doctors</span></a></li>
+
+
+		<li><a href="/services/"><span>Services</span></a></li>
+
+
+		<li><a href="https://health.asante.org/"><span>Wellness</span></a></li>
+
+
+		<li><a href="/patients-visitors/"><span>Patients &amp; Visitors</span></a></li>
+
+
+		<li class="Active"><a href="/Locations/"><span>Locations</span></a></li>
+
+
+		<li class="Last"><a href="/mychart/"><span>MyChart</span></a></li>
+
+
+	</ul>
+
+</div>
+
+							<div id="Flyout1" class="Flyout">
+								<div class="ClearFix cmspanel" id="PanelMainNavDropdownDoctor">
+	<div class="Dec1">
+		<div class="Dec2">
+			<div class="ClearFix BasicPanel">
+				<div class="ClearFix cmsPanelContent">
+					<p></p>
+<!--<div class="basicSearch"><label for="DoctorSearch">Enter a name, specialty or location to search for a doctor or use <a href="/find-a-doctor/">advanced doctor search</a>.</label> <input class="theKeyword" id="DoctorSearch" name="keyword" type="text" /> <input class="thisInputText" type="hidden" value="" /> <input class="theSearchPage" type="hidden" value="/find-a-doctor/find-a-doctor-search-results/" /> <input class="querystr" type="hidden" value="keyword" /> <input class="errorText" type="hidden" value="Please enter your search criteria." /> <button class="Button basicSearchButton"><span>Search</span></button></div>-->
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+							</div>
+							<div id="Flyout2" class="Flyout">
+								<div class="ClearFix cmspanel" id="PanelMainNavDropdownServices">
+	<div class="Dec1">
+		<div class="Dec2">
+			<div class="ClearFix BasicPanel">
+				<div class="ClearFix cmsPanelContent">
+					<div class="TwoCol Primary">
+<ul class="Plain">
+<li><a href="/services/women-and-children/family-birth-center/">Birth Center</a></li>
+<li><a href="/services/emergency-services/">Emergency</a></li>
+<li><a href="/services/imaging/">Imaging</a></li>
+<li><a href="/services/lab-services/">Lab</a></li>
+<li><a href="/services/outpatient-rehabilitation-services/">Outpatient Rehabilitation</a></li>
+<li><a href="/services/urgent-care/">Urgent Care</a></li>
+<li><a href="/services/walk-in-care/">Walk-in Care</a></li>
+</ul>
+</div>
+<div class="TwoCol Secondary">
+<ul class="Plain">
+<li><a href="/services/asante-pharmacy/">Pharmacy</a></li>
+<li><a href="/services/primary-care/">Primary Care</a></li>
+<li><a href="/services/orthopedics-and-sports-medicine/">Orthopedic Surgery</a></li>
+<li><a href="/services/perioperative-services/">Perioperative Services</a></li>
+<li><a href="/services/bariatric-surgery/">Weight Loss Surgery</a></li>
+<li><a href="/services/heart-and-vascular/">Heart and Vasular</a></li>
+<li><span id="j3yq4zv0"><a href="/services/wound-care/wound-center-hyperbaric-medicine/hyperbaric-oxygen-therapy/">Hyperbaric Therapy</a></span></li>
+<li><a href="/services/diabetes-care-center/">Diabetes/Endocrinology</a></li>
+<li><a href="/services/robotic-spine-surgery/">Robotic Surgery</a></li>
+<li><a href="/services/sleep-center/">Sleep Center</a></li>
+<li><a href="/services/neuroscience-and-stroke/">Neuroscience/Stroke</a></li>
+<li><a href="/services/midwifery-services/">Midwifery</a></li>
+<li><a href="/services/cancer-services/">Cancer Care</a></li>
+<li><a href="/services/women-and-children/neonatal-intensive-care-unit/">NICU</a></li>
+<li><a href="/services/work-health/">Work Health</a></li>
+</ul>
+</div>
+<div class="basicSearch ClearBoth BorderTop"><label for="theServiceKeyword">Search for Medical Services</label> <input class="theKeyword" id="theServiceKeyword" name="keyword" type="text" /> <input class="theSearchPage" type="hidden" value="/services/service-search-results/" /> <input class="thisInputText" type="hidden" value="" /> <input class="querystr" type="hidden" value="keyword" /> <input class="errorText" type="hidden" value="Please enter in your search criteria." /><input class="Button basicSearchButton" type="button" value="Search" /></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+							</div>
+							<div id="Flyout3" class="Flyout">
+								<div class="ClearFix cmspanel" id="PanelMainNavDropdownPartners">
+	<div class="Dec1">
+		<div class="Dec2">
+			<div class="ClearFix BasicPanel">
+				<div class="ClearFix cmsPanelContent">
+					<p class="Label">Latest Articles</p>
+<script>// <![CDATA[
+$(function()
+{
+    $.getFeedHtml({
+            url: "https://health.asante.org/feed/atom", 
+            pageSize: 3,
+            RelativeViewPath: "Views/Feeds/Partials/Client/blog-feed.cshtml",
+
+        }, function(data) {
+             
+            var feed = $("#FeedContent").html(data);  
+        });
+});
+// ]]></script>
+<div id="FeedContent">Loading...</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+							</div>
+							<div id="Flyout4" class="Flyout">
+								<div class="ClearFix cmspanel" id="PanelMainNavDropdownPatients">
+	<div class="Dec1">
+		<div class="Dec2">
+			<div class="ClearFix BasicPanel">
+				<div class="ClearFix cmsPanelContent">
+					<ul class="Plain">
+<li><a href="/patients-visitors/billing-and-financial-assistance/">Billing &amp; Financial Assistance</a></li>
+<li><a href="/patients-visitors/francis-cheney-family-place/">Francis Cheney Family Place</a></li>
+<li><a href="/patients-visitors/medical-records/">Medical Records</a></li>
+<li><a href="/patients-visitors/phone-directory/">Phone Directory</a></li>
+<li><a href="/patients-visitors/values-in-action/">Recognize a Caregiver</a></li>
+<li><a href="/patients-visitors/">View More</a></li>
+</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+							</div>
+							<div id="Flyout5" class="Flyout">
+								<div class="ClearFix cmspanel" id="PanelMainNavDropdownLocation">
+	<div class="Dec1">
+		<div class="Dec2">
+			<div class="ClearFix BasicPanel">
+				<div class="ClearFix cmsPanelContent">
+					<div class="TwoCol">
+<p class="Label"><strong>Featured Locations</strong></p>
+<ul class="Plain">
+<li><a href="/Locations/location-detail/?id=1042">Asante Ashland Community Hospital</a>
+<div class="MoreInfo">
+<p><img alt="" src="/app/files/public/Asante-Ashland-Community-Hospital.jpg" /><br />280 Maple St. <br />Ashland, OR 97520 <br /><a class="MapPin" href="https://www.google.com/maps?q=asante+ashland+community+hospital&amp;hl=en&amp;sll=42.343588,-122.844125&amp;sspn=0.244621,0.406837&amp;hq=asante+ashland+community+hospital&amp;t=m&amp;z=17" rel="noopener" target="_blank">Driving directions</a></p>
+</div>
+</li>
+<li><a href="/Locations/location-detail/?id=1018">Asante Rogue Regional Medical Center</a>
+<div class="MoreInfo">
+<p><img alt="" src="/app/files/public/img-location-RVMC-location.jpg" /><br />2825 E. Barnett Rd <br />Medford, OR 97504 <br /><a class="MapPin" href="https://www.google.com/maps?q=Asante+Rogue+Regional+Medical+Center,+East+Barnett+Road,+Medford,+OR&amp;hl=en&amp;sll=42.316623,-122.837427&amp;sspn=0.015295,0.025427&amp;gl=us&amp;hq=Asante+Rogue+Regional+Medical+Center,&amp;hnear=1619+E+Barnett+Rd,+Medford,+Oregon+97504&amp;t=m&amp;z=15" rel="noopener" target="_blank">Driving directions</a></p>
+</div>
+</li>
+<li><a href="/Locations/location-detail/?id=1022">Asante Three Rivers Medical Center</a>
+<div class="MoreInfo">
+<p><img alt="" src="/app/files/public/img-location-TRCH-location.jpg" /><br />500 SW Ramsey Ave <br />Grants Pass, OR 97527 <br /><a class="MapPin" href="https://www.google.com/maps?q=Asante+Three+Rivers+Medical+Center,+Southwest+Ramsey+Avenue,+Grants+Pass,+OR&amp;hl=en&amp;ll=42.420827,-123.342959&amp;spn=0.00716,0.016372&amp;sll=42.421115,-123.343257&amp;sspn=0.00716,0.016372&amp;oq=Asante+&amp;gl=us&amp;t=m&amp;z=17&amp;iwloc=A" rel="noopener" target="_blank">Driving directions</a></p>
+</div>
+</li>
+<li><a href="/Locations/?keyword=Imaging">Imaging Locations</a>
+<div class="MoreInfo">
+<p><img alt="X-ray - Asante Imaging" height="123" src="/app/files/public/2836/x-ray.jpg" width="180" /><br />&#8226;<a href="/Locations/location-detail/?id=1375">Ashland</a><br />&#8226;<a href="/Locations/location-detail/?id=1022">Grants Pass</a><br />&#8226;<a href="/Locations/location-detail/?id=1252">Medford</a><br /><a class="MapPin" href="/Locations/?keyword=Imaging">Driving directions</a></p>
+</div>
+</li>
+<li><a href="/Locations/?keyword=Lab">Lab Locations</a>
+<div class="MoreInfo">
+<p><img alt="Lab draw - Asante Lab" height="120" src="/app/files/public/2837/Lab-draw.jpg" width="180" /><br />&#8226;<a href="/Locations/location-detail/?id=1375">Ashland</a><br />&#8226;<a href="/Locations/location-detail/?id=1401">Grants Pass</a><br />&#8226;<a href="/Locations/location-detail/?id=1322">Medford</a><br /><a class="MapPin" href="/Locations/?keyword=Lab">Driving directions</a></p>
+</div>
+</li>
+<li><a href="/Locations/?keyword=urgent">Urgent Care Locations</a>
+<div class="MoreInfo">
+<p><img alt="Asante Urgent Care" src="/app/files/public/2835/Urgent-Care---flyout-image.jpg" /><br />&#8226;<a href="/Locations/location-detail/?id=1399">Grants Pass</a><br />&#8226;<a href="/Locations/location-detail/?id=1423">Medford</a><br />&#8226;<a href="/Locations/location-detail/?id=1430">White City</a><br /><a class="MapPin" href="/Locations/?keyword=Urgent">Driving directions</a></p>
+</div>
+</li>
+<li><a href="/Locations/?keyword=walk-in">Walk-in Care Locations</a>
+<div class="MoreInfo">
+<p><img alt="Asante Walk-in Care" src="/app/files/public/3197/Asante-Walkin-Care-location-flyout.png" /><br />&#8226;<a href="/Locations/location-detail/central-point-walk-in-care">Central Point</a><br />&#8226;<a href="/Locations/location-detail/medford-walk-in-care">Medford</a></p>
+</div>
+</li>
+</ul>
+</div>
+<div class="basicSearch ClearBoth BorderTop"><label for="LocationSearch">Search by Name, Specialty or Zip Code</label> <input class="theKeyword" id="LocationSearch" name="keyword" type="text" /> <input class="thisInputText" type="hidden" value="" /> <input class="theSearchPage" type="hidden" value="/Locations/" /> <input class="thisInputText" type="hidden" value="Find a Location" /> <input class="querystr" type="hidden" value="keyword" /> <input class="errorText" type="hidden" value="Please enter your search criteria." /> <button class="Button basicSearchButton"><span>Search</span></button></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+							</div>
+							<div id="Flyout6" class="Flyout">
+								<div class="ClearFix cmspanel" id="PanelMainNavDropdownMyChart">
+	<div class="Dec1">
+		<div class="Dec2">
+			<div class="ClearFix BasicPanel">
+				<div class="ClearFix cmsPanelContent">
+					<ul>
+<li><a href="/mychart/">Communicate with your doctor</a></li>
+<li><a href="/mychart">Access your test results</a></li>
+<li><a href="/mychart">View after-visit summaries</a></li>
+<li><a href="/mychart">Manage your appointments</a></li>
+<li><a href="/mychart">Pay your bill</a></li>
+<li><a href="/mychart">Request prescription refills</a></li>
+</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+							</div>
+							</nav>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <form method="post" action="/app/locations/index.aspx?navigationNode=%2f1%2f39%2f3%2f" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2NzkxMjg2MzEQZGQWAmYPZBYCAh8PFgIeBmFjdGlvbgU5L2FwcC9sb2NhdGlvbnMvaW5kZXguYXNweD9uYXZpZ2F0aW9uTm9kZT0lMmYxJTJmMzklMmYzJTJmFgICCQ9kFgICBQ9kFgJmD2QWAgIBD2QWCGYPZBYCAgEPDxYCHgRNb2RlCyolU3lzdGVtLldlYi5VSS5XZWJDb250cm9scy5UZXh0Qm94TW9kZQAWAh4Jb25rZXlkb3duBYkBcmV0dXJuIFN1Ym1pdEZvcm1JZkVudGVyS2V5KGV2ZW50LCdWc01hc3RlclBhZ2UkTWFpbkNvbnRlbnQkQWR2YW5jZWRTZWFyY2hGaWVsZHMkc2VhcmNoRm9ybSRMb2NhdGlvblNlYXJjaEJ1dHRvbiRJbnRlcm5hbEJ1dHRvbicsdHJ1ZSwnJylkAgIPEA8WAh4LXyFEYXRhQm91bmRnZBAVCAhBbnkgQ2l0eQdBc2hsYW5kDUNhdmUgSnVuY3Rpb24NQ2VudHJhbCBQb2ludAtHcmFudHMgUGFzcwdNZWRmb3JkBlRhbGVudApXaGl0ZSBDaXR5FQgIQW55IENpdHkHQXNobGFuZA1DYXZlIEp1bmN0aW9uDUNlbnRyYWwgUG9pbnQLR3JhbnRzIFBhc3MHTWVkZm9yZAZUYWxlbnQKV2hpdGUgQ2l0eRQrAwhnZ2dnZ2dnZxYBZhYCAgEPEA8WHh4EXyFTQgL8Ax4MQXV0b1Bvc3RCYWNraB4LQm9yZGVyQ29sb3IMHgZIZWlnaHQcHgdWaXNpYmxlZx4JRm9yZUNvbG9yDB4IVGFiSW5kZXgBAAAeEENhdXNlc1ZhbGlkYXRpb25oHgtCb3JkZXJXaWR0aBweBVdpZHRoHB4JQmFja0NvbG9yDB4HVG9vbFRpcGUeD1ZhbGlkYXRpb25Hcm91cGUeC0JvcmRlclN0eWxlCyolU3lzdGVtLldlYi5VSS5XZWJDb250cm9scy5Cb3JkZXJTdHlsZQAeCUFjY2Vzc0tleWVkEBUICEFueSBDaXR5B0FzaGxhbmQNQ2F2ZSBKdW5jdGlvbg1DZW50cmFsIFBvaW50C0dyYW50cyBQYXNzB01lZGZvcmQGVGFsZW50CldoaXRlIENpdHkVCAhBbnkgQ2l0eQdBc2hsYW5kDUNhdmUgSnVuY3Rpb24NQ2VudHJhbCBQb2ludAtHcmFudHMgUGFzcwdNZWRmb3JkBlRhbGVudApXaGl0ZSBDaXR5FCsDCGdnZ2dnZ2dnFgFmZAIDD2QWAgIBDw8WAh8BCysEABYCHwIFiQFyZXR1cm4gU3VibWl0Rm9ybUlmRW50ZXJLZXkoZXZlbnQsJ1ZzTWFzdGVyUGFnZSRNYWluQ29udGVudCRBZHZhbmNlZFNlYXJjaEZpZWxkcyRzZWFyY2hGb3JtJExvY2F0aW9uU2VhcmNoQnV0dG9uJEludGVybmFsQnV0dG9uJyx0cnVlLCcnKWQCBQ9kFgJmDxBkDxYBZhYBBQNBbnkWABYCAgEPEA8WHh8EAvwDHwVoHwYMHwccHwhnHwkMHwoBAAAfC2gfDBwfDRwfDgwfD2UfEGUfEQsrBQAfEmVkDxYBZhYBBQNBbnkWAWZkZAzk7sp4Ucsm657DDIEAPzGtnJfT244cxMiN+1o1inYu" />
+
+
+<script src="../../scripts/client.js" type="text/javascript"></script>
+<script src="/WebResource.axd?d=H_1Wj833EvFXv4qB7SCx2Ks4rTc8r43rsLgrOoEwML40IblVmfSI2Xk34ige47f3xFDe7FlZZiMy2VPitzy48axK3CS85YIrWAg_l7gruOKKZFCseeAhX56IofJw6h4vsB3ZaUoAWdVMtIJr6uNWkFGDYNGvYW5xrWf_XCXo0MoYzTLlNpdOYesUFZaQMHFSVDJYq7ZFLSSihVXSjZpkNQ2&amp;t=636700344260000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.PageMessagesListScript = {"ClientIDSeparator":"_","DivClientID":"VsMasterPage_MessageDisplay","ErrorsClass":"Message MessageError","ErrorsSuffix":"Errors","InfoClass":"Message MessageInfo","InfoSuffix":"Info","WarningsClass":"Message MessageWarning","WarningsSuffix":"Warnings"};
+//]]>
+</script>
+
+<script src="/WebResource.axd?d=Mi0KFyfNaJXw7kNFNNKDNUot7mlYyzGoeB5sw-9YYpvrUOk07Y6B4I2_gq2RbD2K3tJ7k8cJmExt18uX7t6S6N5U8awpeny4UvAD5MG_L3y_pb5Z22G0nqcZwoDzm3_0jDu1yW94xvYfSO-hhjEI-R2sNc2XtEb128QneVsX4Jw1&amp;t=636700344260000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+
+function clearDefaultValue(objectId,defaultValue,cssClass) {
+	var jqObj = $("#"+objectId);
+	if (jqObj.val() == defaultValue) {
+		jqObj.val("");
+	}
+
+	jqObj.removeClass(cssClass);
+}
+
+function addBackDefaultValue(objectId,defaultValue,cssClass) {
+	var jqObj = $("#"+objectId);
+	if (jqObj.val() == "") {
+		jqObj.val(defaultValue);
+		jqObj.addClass(cssClass);
+	}
+}
+//]]>
+</script>
+
+<script src="/WebResource.axd?d=H18OE2zfm6FnPaa54lifHULpekknJ8kk12g6XSTbWTcuKj7cHabopfgw5btbfZg8SRRO-pGYfGhqzMPTzEXxvNnxpSvNOm7ZyY1jR8Chf8Nq893DiHmkwHsy5m4TawGIInat-Qs1kPj9svglA9DRT8kZCZzrVxx_5wkmeDLvWFYZ4rWHcQk1g-qxTWZPBgK50&amp;t=636700344260000000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=RwkwW5mgCRwu-vuBKkoVdSiRyVQNc-fnWhscMHMAOBQ_FBV6lPnre0LG7KY8XAeV2QUK_tbymSSsSY53a5rBToRnfqSQ14YQ26JGLmoH6KaNKgPwZlkgY8PM2X8d5RxeP3aqBa3-odWaZMA4ffPMRXFOpsC2x1SmkPca2qcDZUvPilFzvQrxVrj31jGMOzEX0&amp;t=ffffffff999c3159" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7A159A63" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdACnn3nE9mzdDh/lptdukyyVBCrj1eCDurjxkLQ6yAfzsih7GROTUFTPvO4DKEoP0s9MI/rEtMOYVTaWGD+HMY1/6th+bE3bYcislLCeRNrjV7Nmt5Qi5YgBjuJ+fee+1gcoP+be7fEEXTqybPniTMDreT1RhB/hvQP0BWSx0BIdl+lyvlR5WxiGZxTCIAzUVJfZNI9iaD2+5G7VxK4BumwzP01XEWOiQxes/9lgGKw7FHGN/DTFE37dnJjekT9AOqpwsNaW8/kf5ZYv+LToaZMeRiW76C+9bNAbvL80cEaI3nwqfZb3SUtzpSKj8Q5eAqTzu7TbYkJeo8qezaljB89pZilpXdBofLFYZWa3c9m0n7kkV/iT8+yXgSe3UR+aU9WhhVTkAhYnGqLaeOjcBrxIagbYCEeXqrsyEgxIGIyUdyFQn1Lv6zLQFlpluPYTOtREJDArCTACywAPmpouGPxEUjGA59wemmnDQdHZK623SEZhk/d+fGau1j83bbFsVy3//nCbpKKaJHh0KdbOL9G0kXOLQIvLRmS/+SX7/IosP31UhpNDaegKc6BTW1agrmpdagCEFrYwlYEfEzOMZFKSozNToL0otMl5yw9Fd+bcnXzoBQm896vkO+uMbC+jT6Gc0m/fs+0erO5jkTzn9AiDHC/JXBZaLV4uL+dWAjYe5jX89tJmVLItdLNWlaYvCF3Ll2pq8C1pLATf6HbeiUTssjypzeXlTF/WHfLZTfcQmM1uVVx6+BNaDiPzCCeKG51XdrHc9T6mwvViB+vnFao4jqeoVvXDYeWNq6DkeqR0eVOVDRtFxfnaAqlZJDFW3ruAt8o1sf75kPRR2EwXMmca0raFEeqZNpPHLd8esgSG3q/jTx6EBGL4H3skCG+6OQ+rJrE5XvZ5ILZ5TYj9InzxK" />
+            <div id="ContentWrapper" class="ClearFix">
+                <div id="ColumnWrapper" class="ClearFix">
+                    <div id="Col2Col3Wrapper" class="ClearFix">
+                        <div id="Col2Col3Wrapper2" class="ClearFix">
+                            <div id="Col2Wrapper">
+                                <div id="Col2" class="ClearFix">
+                                    <div id="Content">
+                                        <div id="Banner">
+                                            
+                                        </div>
+                                        <div id="BreadcrumbWrapper">
+		                                    
+<div id="Breadcrumbs">
+	<h2 class="Hide">
+		You are here:
+	</h2>
+	<p><a href="/">Home</a> &gt; <a href="/Locations/">Locations</a> &gt; <strong>Location Detail</strong></p>
+
+</div>
+
+                                        </div>
+                                        
+<div id="VsMasterPage_MessageDisplay" class="Message">
+</div>
+
+				                        
+                                        <div class="cmspage ClearFix">
+                                            
+	
+	<div id="LocationsSearch" class="ModuleSearch">
+		
+<div class="SearchBox">
+	<fieldset>
+		<label for="VsMasterPage_MainContent_LocationSearch_SearchTextBox" class="Hide">Search for a Location</label>
+		<input name="VsMasterPage$MainContent$LocationSearch$SearchTextBox" type="text" maxlength="128" id="VsMasterPage_MainContent_LocationSearch_SearchTextBox" class="SearchTextbox" onkeydown="return SubmitFormIfEnterKey(event,&#39;VsMasterPage$MainContent$LocationSearch$LocationSearchButton&#39;,true,&#39;&#39;)" onfocus="clearDefaultValue(&quot;VsMasterPage_MainContent_LocationSearch_SearchTextBox&quot;,&quot;Search by name, city, or ZIP code&quot;,&quot;InputFaded&quot;)" onblur="addBackDefaultValue(&quot;VsMasterPage_MainContent_LocationSearch_SearchTextBox&quot;,&quot;Search by name, city, or ZIP code&quot;,&quot;InputFaded&quot;)" />
+		<input type="submit" name="VsMasterPage$MainContent$LocationSearch$LocationSearchButton" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;VsMasterPage$MainContent$LocationSearch$LocationSearchButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="VsMasterPage_MainContent_LocationSearch_LocationSearchButton" class="Button" />
+	</fieldset>
+</div>
+
+        <div id="LocationAdvancedSearch" class="LocationAdvancedSearch ClearFix">
+            
+<div class="LocationSearch">
+	<div id="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_ValidationSummary" class="Validator">
+
+	</div>
+	<fieldset class="BlockLabels" id="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_fieldset1">
+		<legend class="Hide">
+
+		</legend>
+		<div id="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_displayName" class="DisplayName">
+			<label for="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_displayName_InternalTextBox">
+			Location Name
+			</label>
+			<input name="VsMasterPage$MainContent$AdvancedSearchFields$searchForm$displayName$InternalTextBox" type="text" maxlength="128" id="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_displayName_InternalTextBox" onkeydown="return SubmitFormIfEnterKey(event,&#39;VsMasterPage$MainContent$AdvancedSearchFields$searchForm$LocationSearchButton$InternalButton&#39;,true,&#39;&#39;)" />
+            
+        
+		</div>
+		<div id="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_cities" class="City">
+			<label for="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_cities_InternalDropDownList">
+			City
+			</label>
+			<select name="VsMasterPage$MainContent$AdvancedSearchFields$searchForm$cities$InternalDropDownList" id="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_cities_InternalDropDownList">
+				<option selected="selected" value="Any City">Any City</option>
+				<option value="Ashland">Ashland</option>
+				<option value="Cave Junction">Cave Junction</option>
+				<option value="Central Point">Central Point</option>
+				<option value="Grants Pass">Grants Pass</option>
+				<option value="Medford">Medford</option>
+				<option value="Talent">Talent</option>
+				<option value="White City">White City</option>
+
+			</select>
+		</div>
+		<div id="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_zipCode" class="ZipCode">
+			<label for="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_zipCode_InternalTextBox">
+			ZIP Code
+			</label>
+			<input name="VsMasterPage$MainContent$AdvancedSearchFields$searchForm$zipCode$InternalTextBox" type="text" maxlength="20" size="10" id="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_zipCode_InternalTextBox" class="AutoWidth" onkeydown="return SubmitFormIfEnterKey(event,&#39;VsMasterPage$MainContent$AdvancedSearchFields$searchForm$LocationSearchButton$InternalButton&#39;,true,&#39;&#39;)" />
+            
+        
+		</div><span id="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_radius" class="aspNetDisabled RadiusControls">
+		<div id="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_radius_RadiusList" class="Radius">
+			<label for="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_radius_RadiusList_InternalDropDownList">
+			Radius
+			</label>
+			<select name="VsMasterPage$MainContent$AdvancedSearchFields$searchForm$radius$RadiusList$InternalDropDownList" disabled="disabled" id="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_radius_RadiusList_InternalDropDownList">
+				<option selected="selected" value="">Any</option>
+				<option value="1">1 mile</option>
+				<option value="5">5 miles</option>
+				<option value="10">10 miles</option>
+				<option value="25">25 miles</option>
+				<option value="50">50 miles</option>
+
+			</select>
+		</div><div class='selectedRadiusHolder'><input type="hidden" name="VsMasterPage$MainContent$AdvancedSearchFields$searchForm$radius$hiddenRadiusField" id="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_radius_hiddenRadiusField" /></div></span>
+		<div id="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_LocationSearchButton" class="ButtonHolder">
+			<input type="submit" name="VsMasterPage$MainContent$AdvancedSearchFields$searchForm$LocationSearchButton$InternalButton" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;VsMasterPage$MainContent$AdvancedSearchFields$searchForm$LocationSearchButton$InternalButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="VsMasterPage_MainContent_AdvancedSearchFields_searchForm_LocationSearchButton_InternalButton" class="Button" />
+		</div>
+	</fieldset>
+</div>
+
+
+        </div>
+		
+<table class="Paging" cellspacing="0">
+	<thead style="display:none;">
+		<tr>
+			<th>Page Info</th><th>Page</th>
+		</tr>
+	</thead><colgroup>
+		<col /><col />
+	</colgroup><tbody>
+		<tr>
+			<td><span><label for="VsMasterPage_MainContent_LocationList_TopPaging_InternalDropDownList" class="Hide">Go to Page</label>
+			Page <select name="VsMasterPage$MainContent$LocationList$TopPaging$InternalDropDownList" id="VsMasterPage_MainContent_LocationList_TopPaging_InternalDropDownList" class="SuperShort" onchange="javascript:__doPostBack(&#39;VsMasterPage$MainContent$LocationList$TopPaging$InternalButton&#39;, &#39;&#39;)">
+				<option selected="selected" value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1">1</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=2">2</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=3">3</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=4">4</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=5">5</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=6">6</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=7">7</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=8">8</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=9">9</option>
+
+			</select><input type="submit" name="VsMasterPage$MainContent$LocationList$TopPaging$InternalButton" value="GO" id="VsMasterPage_MainContent_LocationList_TopPaging_InternalButton" /> of 9</span>, showing locations 1-10 of 84</td><td class="BackNext"><span class="FloatRight"><a class="Previous Disabled" title="Go to the previous page of locations in the list.">Previous</a> <a class="Next" href="/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=2" title="Go to the next page of locations in the list.">Next</a> </span></td>
+		</tr>
+	</tbody>
+</table>
+
+
+		<div class="LocationsList">
+			<ul>
+	
+<li id="VsMasterPage_MainContent_LocationList_ResultsList_ctl01_LocationListItem_ListItem" class="First Featured">
+	<a href="../../Locations/location-detail/?id=1073&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl01_LocationListItem_LocationImageLink" class="Picture" title="Asante Family Medicine — State Street">
+		<img src="/app/files/public/APP-2859-State-Street.jpg?size=locsmall" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl01_LocationListItem_LocationImage" alt="Asante Family Medicine — State Street" />
+	</a>
+	<div class="Address">
+		<div class="Headline">
+			<span id="VsMasterPage_MainContent_LocationList_ResultsList_ctl01_LocationListItem_PhoneNumber" class="Phone">541-282-6505</span>
+			<a href="../../Locations/location-detail/?id=1073&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl01_LocationListItem_HospitalNameLink" class="Name">Asante Family Medicine — State Street</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl01_LocationListItem_MinorDetailsHolder" class="MinorDetails">
+			
+			<a href="https://www.google.com/maps/dir/?api=1&destination=Asante+Family+Medicine+%e2%80%94+State+Street%2c+2859+State+Street%0d%0aSuite+101%0d%0aMedford%2c+OR+97504" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl01_LocationListItem_DirectionsLink" class="DrivingDirections" target="_blank">
+				Get Driving Directions
+			</a>
+			<a href="../../find-a-doctor/provider-results/?termId=9c106961-99f3-dd11-8c78-0019b9f32c20" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl01_LocationListItem_PhysiciansLink" class="DoctorLink">
+				Find a Physician at this Location
+			</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl01_LocationListItem_MajorDetailsHolder" class="MajorDetails">
+			<p id="VsMasterPage_MainContent_LocationList_ResultsList_ctl01_LocationListItem_Address" class="TheAddress">2859 State Street
+<br />
+Suite 101
+<br />
+Medford, OR 97504</p>
+		</div>
+	</div>
+</li>
+
+<li id="VsMasterPage_MainContent_LocationList_ResultsList_ctl02_LocationListItem_ListItem" class="Featured">
+	<a href="../../Locations/location-detail/?id=1443&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl02_LocationListItem_LocationImageLink" class="Picture" title="Central Point Walk-in Care">
+		<img src="/app/files/public/Walk-in-Care-Central-Point.jpg?size=locsmall" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl02_LocationListItem_LocationImage" alt="Central Point Walk-in Care" />
+	</a>
+	<div class="Address">
+		<div class="Headline">
+			<span id="VsMasterPage_MainContent_LocationList_ResultsList_ctl02_LocationListItem_PhoneNumber" class="Phone">541-789-8755</span>
+			<a href="../../Locations/location-detail/?id=1443&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl02_LocationListItem_HospitalNameLink" class="Name">Central Point Walk-in Care</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl02_LocationListItem_MinorDetailsHolder" class="MinorDetails">
+			
+			<a href="https://www.google.com/maps/dir/?api=1&destination=Central+Point+Walk-in+Care%2c+1710+East+Pine+St.%2c+Ste.+D%0d%0aCentral+Point%2c+OR+97502" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl02_LocationListItem_DirectionsLink" class="DrivingDirections" target="_blank">
+				Get Driving Directions
+			</a>
+			
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl02_LocationListItem_MajorDetailsHolder" class="MajorDetails">
+			<p id="VsMasterPage_MainContent_LocationList_ResultsList_ctl02_LocationListItem_Address" class="TheAddress">1710 East Pine St., Ste. D
+<br />
+Central Point, OR 97502</p>
+		</div>
+	</div>
+</li>
+
+<li id="VsMasterPage_MainContent_LocationList_ResultsList_ctl03_LocationListItem_ListItem" class="Featured">
+	<a href="../../Locations/location-detail/?id=1442&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl03_LocationListItem_LocationImageLink" class="Picture" title="Medford Walk-in Care">
+		<img src="/app/files/public/walk-in-care-medford.jpg?size=locsmall" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl03_LocationListItem_LocationImage" alt="Medford Walk-in Care" />
+	</a>
+	<div class="Address">
+		<div class="Headline">
+			<span id="VsMasterPage_MainContent_LocationList_ResultsList_ctl03_LocationListItem_PhoneNumber" class="Phone">541-789-8750</span>
+			<a href="../../Locations/location-detail/?id=1442&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl03_LocationListItem_HospitalNameLink" class="Name">Medford Walk-in Care</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl03_LocationListItem_MinorDetailsHolder" class="MinorDetails">
+			
+			<a href="https://www.google.com/maps/dir/?api=1&destination=Medford+Walk-in+Care%2c+1429+Center+Dr.%2c+Space+105%0d%0aMedford%2c+OR+97504" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl03_LocationListItem_DirectionsLink" class="DrivingDirections" target="_blank">
+				Get Driving Directions
+			</a>
+			
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl03_LocationListItem_MajorDetailsHolder" class="MajorDetails">
+			<p id="VsMasterPage_MainContent_LocationList_ResultsList_ctl03_LocationListItem_Address" class="TheAddress">1429 Center Dr., Space 105
+<br />
+Medford, OR 97504</p>
+		</div>
+	</div>
+</li>
+
+<li id="VsMasterPage_MainContent_LocationList_ResultsList_ctl04_LocationListItem_ListItem" class="Featured">
+	<a href="../../Locations/location-detail/?id=1345&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl04_LocationListItem_LocationImageLink" class="Picture" title="Asante Family Medicine – Talent">
+		<img src="/app/files/public/Talent-Center-for-Family-Medicine.jpg?size=locsmall" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl04_LocationListItem_LocationImage" alt="Asante Family Medicine – Talent" />
+	</a>
+	<div class="Address">
+		<div class="Headline">
+			<span id="VsMasterPage_MainContent_LocationList_ResultsList_ctl04_LocationListItem_PhoneNumber" class="Phone">541-201-4900</span>
+			<a href="../../Locations/location-detail/?id=1345&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl04_LocationListItem_HospitalNameLink" class="Name">Asante Family Medicine – Talent</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl04_LocationListItem_MinorDetailsHolder" class="MinorDetails">
+			
+			<a href="https://www.google.com/maps/dir/?api=1&destination=Asante+Family+Medicine+%e2%80%93+Talent%2c+49+Talent+Avenue%0d%0aTalent%2c+OR+97540" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl04_LocationListItem_DirectionsLink" class="DrivingDirections" target="_blank">
+				Get Driving Directions
+			</a>
+			<a href="../../find-a-doctor/provider-results/?termId=c85cce32-a4f0-e211-bd4d-001cc4150de6" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl04_LocationListItem_PhysiciansLink" class="DoctorLink">
+				Find a Physician at this Location
+			</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl04_LocationListItem_MajorDetailsHolder" class="MajorDetails">
+			<p id="VsMasterPage_MainContent_LocationList_ResultsList_ctl04_LocationListItem_Address" class="TheAddress">49 Talent Avenue
+<br />
+Talent, OR 97540</p>
+		</div>
+	</div>
+</li>
+
+<li id="VsMasterPage_MainContent_LocationList_ResultsList_ctl05_LocationListItem_ListItem" class="Featured">
+	<a href="../../Locations/location-detail/?id=1346&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl05_LocationListItem_LocationImageLink" class="Picture" title="Asante Internal Medicine/Endocrinology">
+		<img src="/app/files/public/560-Catalina.jpg?size=locsmall" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl05_LocationListItem_LocationImage" alt="Asante Internal Medicine/Endocrinology" />
+	</a>
+	<div class="Address">
+		<div class="Headline">
+			<span id="VsMasterPage_MainContent_LocationList_ResultsList_ctl05_LocationListItem_PhoneNumber" class="Phone">541-201-4800</span>
+			<a href="../../Locations/location-detail/?id=1346&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl05_LocationListItem_HospitalNameLink" class="Name">Asante Internal Medicine/Endocrinology</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl05_LocationListItem_MinorDetailsHolder" class="MinorDetails">
+			
+			<a href="https://www.google.com/maps/dir/?api=1&destination=Asante+Internal+Medicine%2fEndocrinology%2c+560+Catalina+Drive%0d%0aSuite+100%0d%0aAshland%2c+OR+97520" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl05_LocationListItem_DirectionsLink" class="DrivingDirections" target="_blank">
+				Get Driving Directions
+			</a>
+			<a href="../../find-a-doctor/provider-results/?termId=6a605627-b5f0-e211-bd4d-001cc4150de6" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl05_LocationListItem_PhysiciansLink" class="DoctorLink">
+				Find a Physician at this Location
+			</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl05_LocationListItem_MajorDetailsHolder" class="MajorDetails">
+			<p id="VsMasterPage_MainContent_LocationList_ResultsList_ctl05_LocationListItem_Address" class="TheAddress">560 Catalina Drive
+<br />
+Suite 100
+<br />
+Ashland, OR 97520</p>
+		</div>
+	</div>
+</li>
+
+<li id="VsMasterPage_MainContent_LocationList_ResultsList_ctl06_LocationListItem_ListItem" class="Featured">
+	<a href="../../Locations/location-detail/?id=1047&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl06_LocationListItem_LocationImageLink" class="Picture" title="Asante Family Medicine – 628 N Main">
+		<img src="/app/files/public/628northmain-1.jpg?size=locsmall" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl06_LocationListItem_LocationImage" alt="Asante Family Medicine – 628 N Main" />
+	</a>
+	<div class="Address">
+		<div class="Headline">
+			<span id="VsMasterPage_MainContent_LocationList_ResultsList_ctl06_LocationListItem_PhoneNumber" class="Phone">541-201-4930</span>
+			<a href="../../Locations/location-detail/?id=1047&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl06_LocationListItem_HospitalNameLink" class="Name">Asante Family Medicine – 628 N Main</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl06_LocationListItem_MinorDetailsHolder" class="MinorDetails">
+			
+			<a href="https://www.google.com/maps/dir/?api=1&destination=Asante+Family+Medicine+%e2%80%93+628+N+Main%2c+628+N+Main+Street%0d%0aAshland%2c+OR+97520" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl06_LocationListItem_DirectionsLink" class="DrivingDirections" target="_blank">
+				Get Driving Directions
+			</a>
+			<a href="../../find-a-doctor/provider-results/?termId=7ca8ebe6-97f3-dd11-8c78-0019b9f32c20" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl06_LocationListItem_PhysiciansLink" class="DoctorLink">
+				Find a Physician at this Location
+			</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl06_LocationListItem_MajorDetailsHolder" class="MajorDetails">
+			<p id="VsMasterPage_MainContent_LocationList_ResultsList_ctl06_LocationListItem_Address" class="TheAddress">628 N Main Street
+<br />
+Ashland, OR 97520</p>
+		</div>
+	</div>
+</li>
+
+<li id="VsMasterPage_MainContent_LocationList_ResultsList_ctl07_LocationListItem_ListItem" class="Featured">
+	<a href="../../Locations/location-detail/?id=1093&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl07_LocationListItem_LocationImageLink" class="Picture" title="Asante Pulmonary Consultants and Sleep Specialists">
+		<img src="/app/files/public/555-blackoak-1.jpg?size=locsmall" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl07_LocationListItem_LocationImage" alt="Asante Pulmonary Consultants and Sleep Specialists" />
+	</a>
+	<div class="Address">
+		<div class="Headline">
+			<span id="VsMasterPage_MainContent_LocationList_ResultsList_ctl07_LocationListItem_PhoneNumber" class="Phone">541-789-8100</span>
+			<a href="../../Locations/location-detail/?id=1093&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl07_LocationListItem_HospitalNameLink" class="Name">Asante Pulmonary Consultants and Sleep Specialists</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl07_LocationListItem_MinorDetailsHolder" class="MinorDetails">
+			
+			<a href="https://www.google.com/maps/dir/?api=1&destination=Asante+Pulmonary+Consultants+and+Sleep+Specialists%2c+555+Black+Oak+Dr.%0d%0aSuite+300%0d%0aMedford%2c+OR+97504" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl07_LocationListItem_DirectionsLink" class="DrivingDirections" target="_blank">
+				Get Driving Directions
+			</a>
+			<a href="../../find-a-doctor/provider-results/?termId=b2cf9ba6-9af3-dd11-8c78-0019b9f32c20" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl07_LocationListItem_PhysiciansLink" class="DoctorLink">
+				Find a Physician at this Location
+			</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl07_LocationListItem_MajorDetailsHolder" class="MajorDetails">
+			<p id="VsMasterPage_MainContent_LocationList_ResultsList_ctl07_LocationListItem_Address" class="TheAddress">555 Black Oak Dr.
+<br />
+Suite 300
+<br />
+Medford, OR 97504</p>
+		</div>
+	</div>
+</li>
+
+<li id="VsMasterPage_MainContent_LocationList_ResultsList_ctl08_LocationListItem_ListItem" class="Featured">
+	<a href="../../Locations/location-detail/?id=1395&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl08_LocationListItem_LocationImageLink" class="Picture" title="Asante Pediatric Hematology and Oncology – Medford">
+		<img src="/app/files/public/img-location-RVMC-location.jpg?size=locsmall" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl08_LocationListItem_LocationImage" alt="Asante Pediatric Hematology and Oncology – Medford" />
+	</a>
+	<div class="Address">
+		<div class="Headline">
+			<span id="VsMasterPage_MainContent_LocationList_ResultsList_ctl08_LocationListItem_PhoneNumber" class="Phone">541-789-4231</span>
+			<a href="../../Locations/location-detail/?id=1395&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl08_LocationListItem_HospitalNameLink" class="Name">Asante Pediatric Hematology and Oncology – Medford</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl08_LocationListItem_MinorDetailsHolder" class="MinorDetails">
+			
+			<a href="https://www.google.com/maps/dir/?api=1&destination=Asante+Pediatric+Hematology+and+Oncology+%e2%80%93+Medford%2c+2825+E.+Barnett+Rd.%0d%0aMedford%2c+OR+97504" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl08_LocationListItem_DirectionsLink" class="DrivingDirections" target="_blank">
+				Get Driving Directions
+			</a>
+			<a href="../../find-a-doctor/provider-results/?termId=a64ae545-d095-e311-bd4d-001cc4150de6" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl08_LocationListItem_PhysiciansLink" class="DoctorLink">
+				Find a Physician at this Location
+			</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl08_LocationListItem_MajorDetailsHolder" class="MajorDetails">
+			<p id="VsMasterPage_MainContent_LocationList_ResultsList_ctl08_LocationListItem_Address" class="TheAddress">2825 E. Barnett Rd.
+<br />
+Medford, OR 97504</p>
+		</div>
+	</div>
+</li>
+
+<li id="VsMasterPage_MainContent_LocationList_ResultsList_ctl09_LocationListItem_ListItem" class="Featured">
+	<a href="../../Locations/location-detail/?id=1437&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl09_LocationListItem_LocationImageLink" class="Picture" title="Asante General Surgery – Ashland">
+		<img src="/app/files/public/560-Catalina.jpg?size=locsmall" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl09_LocationListItem_LocationImage" alt="Asante General Surgery – Ashland" />
+	</a>
+	<div class="Address">
+		<div class="Headline">
+			<span id="VsMasterPage_MainContent_LocationList_ResultsList_ctl09_LocationListItem_PhoneNumber" class="Phone">541-201-4850</span>
+			<a href="../../Locations/location-detail/?id=1437&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl09_LocationListItem_HospitalNameLink" class="Name">Asante General Surgery – Ashland</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl09_LocationListItem_MinorDetailsHolder" class="MinorDetails">
+			
+			<a href="https://www.google.com/maps/dir/?api=1&destination=Asante+General+Surgery+%e2%80%93+Ashland%2c+560+Catalina+Drive%0d%0aAshland%2c+OR+97520" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl09_LocationListItem_DirectionsLink" class="DrivingDirections" target="_blank">
+				Get Driving Directions
+			</a>
+			<a href="../../find-a-doctor/provider-results/?termId=44d1dbc4-916a-e811-80ff-9cb654886c84" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl09_LocationListItem_PhysiciansLink" class="DoctorLink">
+				Find a Physician at this Location
+			</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl09_LocationListItem_MajorDetailsHolder" class="MajorDetails">
+			<p id="VsMasterPage_MainContent_LocationList_ResultsList_ctl09_LocationListItem_Address" class="TheAddress">560 Catalina Drive
+<br />
+Ashland, OR 97520</p>
+		</div>
+	</div>
+</li>
+
+<li id="VsMasterPage_MainContent_LocationList_ResultsList_ctl10_LocationListItem_ListItem" class="Last Featured">
+	<a href="../../Locations/location-detail/?id=1393&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl10_LocationListItem_LocationImageLink" class="Picture" title="Asante Pediatrics – Ashland">
+		<img src="/app/files/public/628northmain-2.jpg?size=locsmall" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl10_LocationListItem_LocationImage" alt="Asante Pediatrics – Ashland" />
+	</a>
+	<div class="Address">
+		<div class="Headline">
+			<span id="VsMasterPage_MainContent_LocationList_ResultsList_ctl10_LocationListItem_PhoneNumber" class="Phone">541-201-4930</span>
+			<a href="../../Locations/location-detail/?id=1393&amp;searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1&amp;pageSize=10" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl10_LocationListItem_HospitalNameLink" class="Name">Asante Pediatrics – Ashland</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl10_LocationListItem_MinorDetailsHolder" class="MinorDetails">
+			
+			<a href="https://www.google.com/maps/dir/?api=1&destination=Asante+Pediatrics+%e2%80%93+Ashland%2c+628+N+Main+Street%0d%0aAshland%2c+OR+97520" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl10_LocationListItem_DirectionsLink" class="DrivingDirections" target="_blank">
+				Get Driving Directions
+			</a>
+			<a href="../../find-a-doctor/provider-results/?termId=c424e6d0-8f92-e311-bd4d-001cc4150de6" id="VsMasterPage_MainContent_LocationList_ResultsList_ctl10_LocationListItem_PhysiciansLink" class="DoctorLink">
+				Find a Physician at this Location
+			</a>
+		</div>
+		<div id="VsMasterPage_MainContent_LocationList_ResultsList_ctl10_LocationListItem_MajorDetailsHolder" class="MajorDetails">
+			<p id="VsMasterPage_MainContent_LocationList_ResultsList_ctl10_LocationListItem_Address" class="TheAddress">628 N Main Street
+<br />
+Ashland, OR 97520</p>
+		</div>
+	</div>
+</li>
+
+			</ul>
+		</div>
+	
+
+<table class="Paging" cellspacing="0">
+	<thead style="display:none;">
+		<tr>
+			<th>Page Info</th><th>Page</th>
+		</tr>
+	</thead><colgroup>
+		<col /><col />
+	</colgroup><tbody>
+		<tr>
+			<td><span><label for="VsMasterPage_MainContent_LocationList_BottomPaging_InternalDropDownList" class="Hide">Go to Page</label>
+			Page <select name="VsMasterPage$MainContent$LocationList$BottomPaging$InternalDropDownList" id="VsMasterPage_MainContent_LocationList_BottomPaging_InternalDropDownList" class="SuperShort" onchange="javascript:__doPostBack(&#39;VsMasterPage$MainContent$LocationList$BottomPaging$InternalButton&#39;, &#39;&#39;)">
+				<option selected="selected" value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=1">1</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=2">2</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=3">3</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=4">4</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=5">5</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=6">6</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=7">7</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=8">8</option>
+				<option value="~/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=9">9</option>
+
+			</select><input type="submit" name="VsMasterPage$MainContent$LocationList$BottomPaging$InternalButton" value="GO" id="VsMasterPage_MainContent_LocationList_BottomPaging_InternalButton" /> of 9</span>, showing locations 1-10 of 84</td><td class="BackNext"><span class="FloatRight"><a class="Previous Disabled" title="Go to the previous page of locations in the list.">Previous</a> <a class="Next" href="/Locations/location-search-results/?searchId=75210a26-9696-e911-810b-c4346bca2454&amp;sort=11&amp;page=2" title="Go to the next page of locations in the list.">Next</a> </span></td>
+		</tr>
+	</tbody>
+</table>
+
+
+	</div>
+
+                                        </div>
+                                        <div id="BottomPanels" class="ClearFix">
+					                        <div id="BelowCol1"></div>
+					                        <div id="BelowCol2"></div>
+				                        </div>
+				                        
+                                    </div><!-- END #Content -->
+                                </div><!-- END #Col2 -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="FooterWrapper" class="ClearFix">
+                <div id="IWantTo" class="ClearFix JSOff">
+                    <div id="IWantToInside" class="ClearFix">
+                        <div id="IWantToButton" class="Hidden">
+                            <div class="SlideButton">I Want To...</div>
+                        </div>
+                        <div id="IWantToSlide">
+                            
+                        </div>
+                        <div id="CloseSlide" class="SlideButton">&nbsp;</div>
+                    </div>
+                </div>
+                <div id="SocialMedia">
+                    <ul class="Social">
+                        <li><a target="_blank" href="https://www.facebook.com/AsanteHealth"><img src="/imgs/icons/facebook.gif" alt="Facebook" /></a></li>
+                        <li><a target="_blank" href="https://www.instagram.com/asantehealth/"><img src="/imgs/icons/Instagram.png" alt="Instagram" /></a></li>
+                        <li><a target="_blank" href="http://twitter.com/AsanteHS"><img src="/imgs/icons/twitter.gif" alt="Twitter" /></a></li>
+                        <li><a target="_blank" href="https://www.youtube.com/user/AsanteHealthSystem "><img src="/imgs/icons/youtube.gif" alt="You Tube" /></a></li>
+                    </ul>
+                </div>
+				
+				
+				
+				<div id="FooterTab"></div>
+				<div id="FooterTop">
+                    <div class="FooterTopLeft">
+						<div class="ClearFix cmspanel" id="PanelFooterLeft">
+	<div class="Dec1">
+		<div class="Dec2">
+			<div class="ClearFix BasicPanel">
+				<div class="ClearFix cmsPanelContent">
+					<h4>Asante Physician Partners</h4>
+<p><em><strong>Clinic Information</strong></em></p>
+<div class="Accordion">
+<h4 class="Trigger">Ashland</h4>
+<div class="Payload">
+<p><a href="/Locations/location-detail/?id=1047">Family Medicine</a> (628 N. Main)</p>
+<p><a href="/Locations/location-detail/?id=1413">Family Medicine</a> (595 N. Main)</p>
+<p><a href="/Locations/location-detail/?id=1437">General Surgery</a></p>
+<p><a href="/Locations/location-detail/?id=1421">Specialty and Midwifery Services</a></p>
+<p><a href="/Locations/location-detail/?id=1346">Internal Medicine/Endocrinology</a></p>
+<p><a href="/Locations/location-detail/?id=1393">Pediatrics</a></p>
+</div>
+<h4 class="Trigger">Grants Pass</h4>
+<div class="Payload">
+<p><a href="/Locations/location-detail/?id=1161">Ear, Nose and Throat</a></p>
+<p><a href="/Locations/location-detail/?id=1364">Endocrinology</a></p>
+<p><a href="/Locations/location-detail/?id=1308">Family Medicine</a></p>
+<p><a href="/Locations/location-detail/?id=1255">General and Colorectal Surgery</a></p>
+<p><a href="/Locations/location-detail/?id=1313">Neurology</a></p>
+<p><a href="/Locations/location-detail/?id=1224">Occupational Health</a></p>
+<p><a href="/Locations/location-detail/?id=1166">Orthopedic Surgery</a></p>
+<p><a href="/Locations/location-detail/?id=1394">Urology</a></p>
+</div>
+<h4 class="Trigger">Medford</h4>
+<div class="Payload">
+<p><a href="/Locations/location-detail/?id=1223">Asante Work Health</a></p>
+<p><a href="/Locations/location-detail/?id=1228">Behavioral Health Clinic</a></p>
+<p><a href="/Locations/location-detail/?id=1060">Cardiovascular and Thoracic Surgeons</a></p>
+<p><a href="/Locations/location-detail/?id=1419">Endocrinology</a></p>
+<p><a href="/Locations/location-detail/?id=1420">Family Medicine &#8212; Black Oak</a></p>
+<p><a href="/Locations/location-detail/?id=1335">Family Medicine &#8212; Murphy Road</a></p>
+<p><a href="/Locations/location-detail/?id=1073">Family Medicine &#8212; State Street</a></p>
+<p><a href="/Locations/location-detail/?id=1120"> Maternal Fetal Medicine</a></p>
+<p><a href="/Locations/location-detail/?id=1312">Neurology</a></p>
+<p><a href="/Locations/location-detail/?id=1395">Pediatric Hematology and Oncology</a></p>
+<p><a href="/Locations/location-detail/?id=1093">Pulmonary Consultants and Sleep Specialists</a></p>
+<p><a href="/Locations/location-detail/?id=1435">Urology</a></p>
+</div>
+<h4 class="Trigger">Talent</h4>
+<div class="Payload">
+<p><a href="/Locations/location-detail/?id=1345">Family Medicine</a></p>
+</div>
+<h4 class="Trigger">White City</h4>
+<div class="Payload">
+<p><a href="/Locations/location-detail/?id=1391">Family Medicine</a></p>
+</div>
+</div>
+<p></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+					</div>
+					<div class="FooterTopMiddle">
+						<div class="ClearFix cmspanel" id="PanelFooterMiddle">
+	<div class="Dec1">
+		<div class="Dec2">
+			<div class="ClearFix BasicPanel">
+				<div class="ClearFix cmsPanelContent">
+					<h4>Services</h4>
+<div class="ClearFix">
+<ul class="TwoCol">
+<li><a href="/APP/">Physician</a></li>
+<li><a href="/service-search/women-and-children/family-birth-center/">Birth Center</a></li>
+<li><a href="/service-search/cancer-services/">Cancer</a></li>
+<li><a href="/service-search/heart-and-vascular/">Cardiac</a></li>
+<li><a href="/service-search/neuroscience-and-stroke/">Neuroscience</a></li>
+</ul>
+<ul class="TwoCol">
+<li><a href="/service-search/imaging/">Imaging</a></li>
+<li><a href="/service-search/lab-services/">Lab</a></li>
+<li><a href="/service-search/women-and-children/pediatrics/">Pediatrics</a></li>
+<li><a href="/service-search/outpatient-rehabilitation-services/">Rehabilitation</a></li>
+<li><a href="/service-search/">Other Services</a></li>
+</ul>
+</div>
+<p></p>
+<hr />
+<h4>Asante Moments</h4>
+<p><a href="//health.asante.org/category/asante-moments/">Defining moments of care, and acts of kindness or compassion, that patients experience or employees observe.&gt;&gt;</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+					</div>
+					<div class="FooterTopRight">
+						<div class="ClearFix cmspanel" id="PanelFooterRight">
+	<div class="Dec1">
+		<div class="Dec2">
+			<div class="ClearFix BasicPanel">
+				<div class="ClearFix cmsPanelContent">
+					<p><a class="Button" href="/contact-us/">Contact Us</a></p>
+<h4>High-quality&#160;health care for everyone</h4>
+<p>As the largest health care provider in nine counties, Asante provides comprehensive medical care to more than 600,000 people throughout southern Oregon and northern California. Our facilities include Asante Ashland Community Hospital in Ashland, Asante Rogue Regional Medical Center in Medford, Asante Three Rivers Medical Center in Grants Pass, Asante Physician Partners and additional health care partnerships throughout the region.</p>
+<h4>Hospitals</h4>
+<ul>
+<li><a href="/Locations/location-detail/?id=1042" target="_blank">Asante Ashland Community Hospital</a>
+<p class="FooterPhone"><strong><a href="tel://541-201-4000">541-201-4000</a></strong></p>
+</li>
+</ul>
+<ul>
+<li><a href="/Locations/location-detail/?id=1018" target="_blank">Asante Rogue Regional Medical Center</a>
+<p class="FooterPhone"><strong><a href="tel://541-789-7000">541-789-7000</a></strong></p>
+</li>
+</ul>
+<ul>
+<li><a href="/Locations/location-detail/?id=1022" target="_blank">Asante Three Rivers Medical Center</a>
+<p class="FooterPhone"><strong><a href="tel://541-472-7000">541-472-7000</a></strong></p>
+</li>
+</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+					</div>
+                </div>
+				
+				<div id="FooterBottom">
+                <div id="FooterLeft">
+                    
+<p class="copyright"><a href="/">&copy; 2019 Asante</a></p>
+                </div>
+                <div id="FooterRight">
+                    
+	<ul class="Horiz ClearFix">
+		<li class="First"><a href="/contact-us/">Contact</a></li>
+		<li><a href="/employees/">Employees</a></li>
+		<li><a href="/providers/">Physicians</a></li>
+		<li><a href="/about-us/news/">News</a></li>
+		<li><a href="/privacy/">Privacy</a></li>
+		<li><a href="/nondiscrimination/">Nondiscrimination</a></li>
+	</ul>
+                    <div id="google_translate_element"></div>
+                    <script type="text/javascript">// <![CDATA[
+                        function googleTranslateElementInit() {
+                            new google.translate.TranslateElement({
+                                pageLanguage: 'en',
+                                includedLanguages: 'es',
+                                layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+                                gaTrack: true,
+                                gaId: 'UA-1763661-1'
+                            }, 'google_translate_element');
+                        }
+                    // ]]></script>
+                    
+                </div>
+				</div>
+				
+				
+				
+            </div>
+        
+
+<script type="text/javascript">
+//<![CDATA[
+
+		$('div.Radius select').change(function()
+			{
+				$('div.selectedRadiusHolder input').val($(this).val());
+			});
+		$('.ZipCode input').bind('change paste keyup', function (e) {
+			if (e.target.value.length >= 5) {
+				$('.RadiusControls select').attr('disabled', false);
+			}
+			else {
+				$('.RadiusControls select').attr('disabled', true);
+			}
+		});
+		$('input.UserEnteredPosition').bind('change paste keyup', function(e){
+			if (e.target.value){
+				$('.RadiusControls select').attr('disabled', false);
+			}
+			else {
+				$('.RadiusControls select').attr('disabled', true);
+			}
+		});
+$(document).ready(function() {
+	var jqObj= $("#VsMasterPage_MainContent_LocationSearch_SearchTextBox");
+	if (Geonetric.String.IsNullOrEmpty(jqObj.val())) {
+		jqObj.val("Search by name, city, or ZIP code");
+		jqObj.addClass("InputFaded");
+	}
+});
+
+$('#VsMasterPage_MainContent_LocationList_TopPaging_InternalButton').hide();
+var pageSizeButton = $('#VsMasterPage_MainContent_LocationList_TopPaging_InternalPageSizeButton');
+if (pageSizeButton.length > 0) {
+	pageSizeButton.hide();
+}
+
+$('#VsMasterPage_MainContent_LocationList_BottomPaging_InternalButton').hide();
+var pageSizeButton = $('#VsMasterPage_MainContent_LocationList_BottomPaging_InternalPageSizeButton');
+if (pageSizeButton.length > 0) {
+	pageSizeButton.hide();
+}
+//]]>
+</script>
+
+<!-- Script Name: Google - Customer Satisfaction -->
+<script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=shzsapp2t3cedc3xl2si252mcm"></script>
+
+</form>
+    </div>
+    <script type="text/javascript" src="/scripts/jquery.flexslider-min.js"></script>
+</body>
+</html>

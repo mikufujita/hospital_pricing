@@ -1,0 +1,1066 @@
+
+
+<!DOCTYPE html>
+    <!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+    <!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+    <!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+    <!--[if (gte IE 9)|!(IE)]><!-->
+
+<html lang="en" class="no-js">
+
+	<head>
+		<!--[if lt IE 9]>
+				<script type="text/javascript" src="/scripts/html5shiv.js"></script>
+				<script type="text/javascript" src="/scripts/respond.min.js"></script>
+		<![endif]-->
+		
+		<title>
+	Pricing FAQ - MySparrow - Sparrow Health System
+</title>
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+			<meta name="description" content="" />
+			<meta name="keywords" content="FAQ, hospital, pricing, costs, bills, " />
+			<meta name="author" content="Rose Tantraphol" />
+			<meta name="copyright" content="Copyright 2019 MySparrow" />
+			<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+			
+				<link href="/skins/menu.css" rel="stylesheet" type="text/css" />
+				<link href="/skins/menu/menu.design001.css" rel="stylesheet" type="text/css" />
+				<link href="/skins/menu/menu.design004.css" rel="stylesheet" type="text/css" />
+				
+				<link href="/images/obout/style/Design004/obout_treeview2.css" rel="stylesheet" type="text/css" />
+				
+            <link href="/styles/bootstrap.min.css" rel="stylesheet" />
+            <link href= "/skins/ComboBox.sparrowTest.css" rel="stylesheet" type="text/css" />
+			<link href="/styles/design004.css" rel="stylesheet" type="text/css" />
+            <link href="/styles/design004/landing_area.css" rel="stylesheet" type="text/css" />
+            
+
+            
+				<!-- causing issue in IE 7 - appears unused -->
+				<!--<script src="/scripts/prototype.js" type="text/javascript"></script>-->
+				        
+            <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+			<link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icon-57x57.png">
+			<link rel="apple-touch-icon" sizes="72x72" href="/images/apple-icon-72x72.png">
+			<link rel="apple-touch-icon" sizes="114x114" href="/images/apple-icon-114x114.png">
+			<link rel="apple-touch-icon" sizes="144x144" href="/images/apple-icon-144x144.png">			
+
+			<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/json2/20110223/json2.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><script type="text/javascript" src="/Scripts/namespace.js"></script><script type="text/javascript" src="/Scripts/SpecialCharacterUtilities.js"></script>
+
+            <script type="text/javascript" src="/scripts/bootstrap.min.3.0.1.js"></script>
+
+            <script type="text/javascript" src="/Scripts/design001/MobileMenu.js"></script>
+            <link href="/Styles/MobileNavigation.css" rel="stylesheet" />
+            <script type="text/javascript" src="/Scripts/radiobtn_js.js"></script>
+
+            <script type="text/javascript" src="/Scripts/design004/content_swapper.js"></script>
+
+<!-- uncomment if site has media gallery-->
+<!--
+            <script src="/MediaGallery/Scripts/jquery.cw.mediagallery.js" type="text/javascript"></script>
+            <script src="/MediaGallery/Scripts/jquery.nivo.slider.js" type="text/javascript"></script>
+-->
+
+            
+
+
+<script src="/scripts/global_bookmark.js" type="text/javascript"></script>
+<script src="/scripts/global_iframe.js" type="text/javascript"></script>
+<script src="/scripts/global_print.js" type="text/javascript"></script>
+<script src="/scripts/global_swfobject.js" type="text/javascript"></script>
+<script src="/scripts/global_textsizer.js" type="text/javascript"></script>
+<script src="/Scripts/Utilities/CareTech.CMS.Utilities.TextResizer.js" type="text/javascript"></script>
+
+
+            <link href="/styles/design001/JumpMenus.css" rel="stylesheet" type="text/css" />
+            <link href= "/skins/ComboBox.sparrowTest.css" rel="stylesheet" type="text/css" />
+
+            <link href="/upload/templates/Sparrow/Sparrow.css" rel="stylesheet" type="text/css" />
+            <script src="/upload/templates/Sparrow/Sparrow.js" type="text/javascript"></script>			
+
+            <script type="text/javascript" src="/Scripts/AdjustWidthForWindowsPhone.js"></script>
+            <script type="text/javascript">
+                jQuery(document).ready(function () {
+                    adjustWidthForWindowsPhone();
+                });
+	        </script>
+
+			<script type="text/JavaScript">
+/*<![CDATA[*/
+var ids=new Array('a1','a2','a3','a4','a5','a6','a7','a8','a9','a10','a11','a12','a13','a14');
+
+function switchid(id){     
+                hideallids();
+                showdiv(id);
+}
+
+function hideallids(){
+                for (var i=0; i<ids.length; i++){
+                                hidediv(ids[i]);
+                }                                
+}
+
+
+
+function hidediv(id) {
+                                if (document.getElementById) { 
+                                document.getElementById(id).style.display = 'none';
+                }
+                else {
+                                if (document.layers) { 
+                                                document.id.display = 'none';
+                                }
+                                else { 
+                                                document.all.id.style.display = 'none';
+                                }
+                }
+}
+
+function showdiv(id) {     
+                if (document.getElementById) { 
+                                document.getElementById(id).style.display = 'block';
+                }
+                else {
+                                if (document.layers) { 
+                                                document.id.display = 'block';
+                                }
+                                else { 
+                                                document.all.id.style.display = 'block';
+                                }
+                }
+}
+
+///*]]>*/
+</script>
+
+			
+
+            
+
+        <script type="text/javascript" >
+            // Copyright 2006-2007 javascript-array.com
+
+            var timeout = 500;
+            var closetimer = 0;
+            var ddmenuitem = 0;
+
+            // open hidden layer
+            function mopen(id) {
+                // cancel close timer
+                mcancelclosetime();
+
+                // close old layer
+                if (ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+                // get new layer and show it
+                ddmenuitem = document.getElementById(id);
+                ddmenuitem.style.visibility = 'visible';
+
+            }
+            // close showed layer
+            function mclose() {
+                if (ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+            }
+
+            // go close timer
+            function mclosetime() {
+                closetimer = window.setTimeout(mclose, timeout);
+            }
+
+            // cancel close timer
+            function mcancelclosetime() {
+                if (closetimer) {
+                    window.clearTimeout(closetimer);
+                    closetimer = null;
+                }
+            }
+
+            // close layer when click-out
+            document.onclick = mclose;
+
+            //config for add this
+            var addthis_config =
+            {
+                ui_offset_top: -15
+            }
+    </script>
+
+    <style type="text/css">
+
+        @media (max-width:560px)
+        {
+            .contentBanner
+            {
+                font-size: 26px;
+            }
+        }
+
+        @media (max-width:350px)
+        {
+            .contentBanner
+            {
+                font-size: 22px;
+            }
+        }
+
+        @media (max-width:759px){
+	        .contentUtilities {
+		        margin-bottom: 15px;
+	        }
+        }
+        @media (max-width:351px){
+	        .contentUtilities {
+		        display:none;
+	        }
+        }
+
+    </style>    
+
+		
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-18264335-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function () {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	<link href="http://aspnet-skins.telerikstatic.com/ajaxz/2013.3.1324/ComboBox.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+
+	<body id="ctl00_CWBody">
+		<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WBFJ68"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script src="/upload/templates/Sparrow/SparrowLPTagManagerCode.js" type="text/javascript"></script>
+		<!-- End Google Tag Manager -->
+		<form method="post" action="/Default.aspx?id=1684&amp;sid=5&amp;CWFriendlyUrl=true" id="aspnetForm">
+<input type="hidden" name="ctl00_ctl03_TSM" id="ctl00_ctl03_TSM" value="" />
+<input type="hidden" name="ctl00_ctl04_TSSM" id="ctl00_ctl04_TSSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE1NDE0MzU1N2QYBAUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgYFE2N0bDAwJHNwYXJyb3dTZWFyY2gFFWN0bDAwJEhlYWx0aExpYlNlYXJjaAUdY3RsMDAkUHJpbWFyeU5hdmlnYXRpb25HbG9iYWwFL2N0bDAwJERlc2lnbjAwMUhvbWVKdW1wTWVudXMkanVtcE1lbnVRdWlja0xpbmtzBS1jdGwwMCREZXNpZ24wMDFIb21lSnVtcE1lbnVzJGp1bXBNZW51U2VydmljZXMFK2N0bDAwJERlc2lnbjAwMUhvbWVKdW1wTWVudXMkanVtcE1lbnVHcm91cHMFK2N0bDAwJERlc2lnbjAwMUhvbWVKdW1wTWVudXMkanVtcE1lbnVHcm91cHMPFCsAAgUGU2VsZWN0ZWQFLWN0bDAwJERlc2lnbjAwMUhvbWVKdW1wTWVudXMkanVtcE1lbnVTZXJ2aWNlcw8UKwACBQZTZWxlY3RlZAUvY3RsMDAkRGVzaWduMDAxSG9tZUp1bXBNZW51cyRqdW1wTWVudVF1aWNrTGlua3MPFCsAAgUGU2VsZWN0ZWT/Sr2pDxPexofy4v8K/lcawuVEmw==" />
+
+
+<script src="http://ajax.aspnetcdn.com/ajax/4.5.2/1/MicrosoftAjax.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=mtdNSAgmoBMzjOwzt6Btymj8Vpo2Vikc-R7S25LbPwe-Q17d-8Q8e4eY318kCzpVMwCyVrg30GOCBg-xYto7oBLO-MRmflXaT_j3VUrryG07dsHumqACDZQZKGWjMT7YJrMfckzySQzX6O7sbZPiAiHTqbM1&t=2b48f70a"><\/script>');//]]>
+</script>
+
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/Core.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/jQuery.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/jQueryPlugins.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/Scrolling/ScrollingScripts.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/Navigation/OData/OData.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/Navigation/NavigationScripts.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/Navigation/OverlayScript.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Menu/RadMenuScripts.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/TouchScrollExtender.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/ComboBox/RadComboBoxScripts.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAX9dSjq5xw3pkIGerVpWWjL4+3WpZQNb82rzs2KnT3rh1V6RkAfufrqJa6LpqnGFgtSYlec8NsbLec3MoBGt1N/bxlSekcFgimTbAr/zLEX4Lea6p99UlQ97sgtEAivmoxsNywv" />
+            <a id="top" name="top"></a>
+			
+
+                    <div class="container">
+                        <div class="row clearfix">
+	                        <div class="col-md-3 column">
+                    <div class="logo"><a href="/">
+                        <img src="/images/design001/logo.gif" width="151" height="49" alt="logo" /></a></div>
+	                        </div>
+
+	                        <div class="col-md-6 column">
+		                        <div class="utilities">
+			                        <ul class="utilityLinks">
+				                        <li><a href="/">Home</a></li> 
+				                        <li><a href="/?id=7&amp;sid=1">Careers</a></li>
+				                        <li><a href="/news">Newsroom</a></li>
+				                        <li><a href="/?id=9&amp;sid=1">Volunteering</a></li>
+                            <li><a href="/mededucation">Medical Education</a></li>
+			                        </ul>
+		                        </div>
+	                        </div>
+
+                <div class="col-md-3 column">
+                    <div id="ctl00_pnlSearch" class="search-collapse collapse">
+	
+			                        <ul class="search">
+                            <li class="searchField">
+                                <input name="ctl00$txtSearch" type="text" id="ctl00_txtSearch" value="Search" onblur="if (value == &#39;&#39;) {value = &#39;Search&#39;}" onfocus="if (value == &#39;Search&#39;) {value =&#39;&#39;}" /></li>
+                            <li class="searchBtn">
+                                <a id="ctl00_btnSearch" class="searchBtn" href="javascript:__doPostBack(&#39;ctl00$btnSearch&#39;,&#39;&#39;)"></a></li>
+			                        </ul>
+                        <div style="clear: right">
+                        </div>
+			                        <div class="searchOptions">
+                            <div style="float: left; padding-right: 5px;">
+                                <input value="0" name="ctl00$radio" type="radio" id="ctl00_sparrowSearch" class="styled" checked="checked" title="Sparrow" /><label for="ctl00_sparrowSearch">Sparrow</label>
+                            </div>
+                            <div style="float: right;">
+                                <input value="1" name="ctl00$radio" type="radio" id="ctl00_HealthLibSearch" class="styled" title="Health Library" /><label for="ctl00_HealthLibSearch">Health Library</label>
+                            </div>
+			                        </div>
+		                        
+</div>
+	                        </div>
+                        </div>
+
+                        <div class="row clearfix">
+                            <div class="col-md-12 column">
+                        <nav class="navbar navbar-sparrow" role="navigation">
+                            <div class="topNav">        
+                        <div id="ctl00_PrimaryNavigationGlobal" class="RadMenu RadMenu_Design001 rmSized">
+	<!-- 2013.3.1324.40 --><ul class="rmRootGroup rmHorizontal">
+		<li class="rmItem rmFirst"><a class="rmLink rmRootLink" href="/aboutsparrow"><span class="rmText">About Sparrow</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/?id=2&amp;sid=1"><span class="rmText">About Sparrow</span></a></li><li class="rmItem "><a class="rmLink" href="/missionvision"><span class="rmText">Mission, Vision and Values</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/OurVision"><span class="rmText">Our Vision</span></a></li><li class="rmItem "><a class="rmLink" href="/ourstory"><span class="rmText">Our Story</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1540&amp;sid=1"><span class="rmText">The Sparrow Way</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/who-we-are"><span class="rmText">Hospitals, Affiliates and Partners </span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1578&amp;sid=1"><span class="rmText">Hospitals</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst"><a class="rmLink" href="/sparrowhospital"><span class="rmText">Sparrow Hospital</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=528&amp;sid=1"><span class="rmText">About the St. Lawrence Campus</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=787&amp;sid=1"><span class="rmText">Visiting Hours and Guidelines</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1098&amp;sid=1"><span class="rmText">Sparrow Patient Financial Services</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/?id=1099&amp;sid=1"><span class="rmText">Financial aid</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/?id=1100&amp;sid=1"><span class="rmText">Parking options</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1101&amp;sid=1"><span class="rmText">Free concierge services through SPA</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1102&amp;sid=1"><span class="rmText">Dining Options</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1103&amp;sid=1"><span class="rmText">Give feedback on my Sparrow experience</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1104&amp;sid=1"><span class="rmText">Guest lodging options</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1105&amp;sid=1"><span class="rmText">Discounted Lodging</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1106&amp;sid=1"><span class="rmText">Patient rights information</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/?id=1107&amp;sid=1"><span class="rmText">Release of Information FAQ</span></a></li>
+											</ul>
+										</div></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1108&amp;sid=1"><span class="rmText">Durable Power of Attorney</span></a></li>
+									</ul>
+								</div></li><li class="rmItem "><a class="rmLink" href="/?id=161&amp;sid=1"><span class="rmText">Sparrow Specialty Hospital</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.sparrow.org/sparrowclinton"><span class="rmText">Sparrow Clinton Hospital</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1903&amp;sid=1"><span class="rmText">Where&#39;s the newest hospital?</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1084&amp;sid=1"><span class="rmText">Visiting hours and guidelines</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1085&amp;sid=1"><span class="rmText">Sparrow Clinton Patient Financial Services</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/?id=1086&amp;sid=1"><span class="rmText">Community financial aid</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/?id=1087&amp;sid=1"><span class="rmText">View parking information</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1088&amp;sid=1"><span class="rmText">Patient care and safety</span></a></li>
+									</ul>
+								</div></li><li class="rmItem "><a class="rmLink" href="https://www.sparrow.org/?sid=17&amp;id=1813"><span class="rmText">Sparrow Ionia Hospital</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1089&amp;sid=1"><span class="rmText">View visiting hours and guidelines</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1090&amp;sid=1"><span class="rmText">Food and nutrition services</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1091&amp;sid=1"><span class="rmText">Patient Financial Services</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1092&amp;sid=1"><span class="rmText">Patient privacy</span></a></li>
+									</ul>
+								</div></li><li class="rmItem rmLast"><a class="rmLink" href="/sparrowcarson"><span class="rmText">Sparrow Carson Hospital</span></a></li>
+							</ul>
+						</div></li><li class="rmItem "><a class="rmLink" href="/?id=1579&amp;sid=1"><span class="rmText">Affiliates</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst"><a class="rmLink" target="_blank" href="http://www.phpmichigan.com/"><span class="rmText">Physicians Health Plan</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.sparrow.org/clinicalintegration"><span class="rmText">Sparrow Care Network</span></a></li><li class="rmItem "><a class="rmLink" target="_self" href="/?id=264&amp;sid=2"><span class="rmText">Michigan Athletic Club</span></a></li><li class="rmItem "><a class="rmLink" href="/sphn"><span class="rmText">Sparrow Physicians Health Network</span></a></li><li class="rmItem "><a class="rmLink" href="/smg"><span class="rmText">Sparrow Medical Group</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=2694&amp;sid=1"><span class="rmText">General Surgery Practices</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=2088&amp;sid=1"><span class="rmText">SMG General Surgery Carson City</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2696&amp;sid=1"><span class="rmText">SMG General Surgery Ionia</span></a></li><li class="rmItem "><a class="rmLink" href="/SMGGeneralSurgeryLansing"><span class="rmText">SMG General Surgery Lansing</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=2697&amp;sid=1"><span class="rmText">SMG General Surgery St. Johns</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/SMG/NewPatientPaperwork"><span class="rmText">New Patient Paperwork</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2127&amp;sid=1"><span class="rmText">Nephrology</span></a></li><li class="rmItem "><a class="rmLink" href="/smg/orthopedics-sports-medicine"><span class="rmText">Sparrow Medical Group Orthopedics &amp; Sports Medicine</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=2698&amp;sid=1"><span class="rmText">SMG Orthopedics &amp; Sports Medicine Ionia</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2699&amp;sid=1"><span class="rmText">SMG Orthopedics &amp; Sports Medicine St. Johns</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2700&amp;sid=1"><span class="rmText">SMG Orthopedics &amp; Sports Medicine Lansing</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=2093&amp;sid=1"><span class="rmText">SMG Orthopedics Carson City</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/smgurology"><span class="rmText">SMG Urology</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1748&amp;sid=1"><span class="rmText">Senior Health  </span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2087&amp;sid=1"><span class="rmText">Sparrow Medical Group Pediatrics Carson City</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2091&amp;sid=1"><span class="rmText">Sparrow Medical Group Pain Management Carson City</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.carsonhealth.org/services/rehabilitation-care.html"><span class="rmText">Sparrow Medical Group Physical Rehabilitation Center Carson City</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2094&amp;sid=1"><span class="rmText">Sparrow Medical Group Specialty Care Center Carson City</span></a></li><li class="rmItem "><a class="rmLink" href="/PCP"><span class="rmText">Primary Care Practices</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=457&amp;sid=1"><span class="rmText">Sparrow Medical Group DeWitt</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2109&amp;sid=1"><span class="rmText">Sparrow Medical Group Ashley</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2111&amp;sid=1"><span class="rmText">Sparrow Medical Group Carson City</span></a><div class="rmSlide">
+													<ul class="rmVertical rmGroup rmLevel6">
+														<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/CarsonWalkIn"><span class="rmText">Carson Walk-In Clinic</span></a></li>
+													</ul>
+												</div></li><li class="rmItem "><a class="rmLink" href="/?id=2113&amp;sid=1"><span class="rmText">Sparrow Medical Group Fowler</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2115&amp;sid=1"><span class="rmText">Sparrow Medical Group Greenville</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2117&amp;sid=1"><span class="rmText">Sparrow Medical Group Ithaca</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2121&amp;sid=1"><span class="rmText">Sparrow Medical Group Stanton</span></a></li><li class="rmItem "><a class="rmLink" href="/smgwilliamston"><span class="rmText">Sparrow Medical Group Williamston</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=458&amp;sid=1"><span class="rmText">Sparrow Medical Group Eastside</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1510&amp;sid=1"><span class="rmText">Sparrow Medical Group Holt</span></a></li><li class="rmItem "><a class="rmLink" href="/tony-balice-clinic"><span class="rmText">Sparrow Medical Group Ionia</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=463&amp;sid=1"><span class="rmText">Sparrow Medical Group Lansing</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1806&amp;sid=1"><span class="rmText">Sparrow Medical Group Lansing Internal Medicine</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=459&amp;sid=1"><span class="rmText">Sparrow Medical Group Mason</span></a></li><li class="rmItem "><a class="rmLink" href="/smg-muir"><span class="rmText">Sparrow Medical Group Muir</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=460&amp;sid=1"><span class="rmText">Sparrow Medical Group North</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=461&amp;sid=1"><span class="rmText">Sparrow Medical Group Okemos</span></a></li><li class="rmItem "><a class="rmLink" href="/physicianservices-portland"><span class="rmText">Sparrow Medical Group Portland</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=462&amp;sid=1"><span class="rmText">Sparrow Medical Group Potterville </span></a></li><li class="rmItem "><a class="rmLink" href="/physicianservices-sjpa"><span class="rmText">Sparrow Medical Group St. Johns</span></a></li><li class="rmItem "><a class="rmLink" href="/SMG-VOA"><span class="rmText">Sparrow Volunteers of America Community Health Center</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=464&amp;sid=1"><span class="rmText">Sparrow Medical Group West</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2751&amp;sid=1"><span class="rmText">SMG Family Medicine Residency Central</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2752&amp;sid=1"><span class="rmText">SMG Family Medicine Residency Mason</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=2753&amp;sid=1"><span class="rmText">SMG Internal Medicine Residency</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/physicianservices-peds-clinics"><span class="rmText">Pediatric Subspecialty Clinics</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="http://www.sparrow.org/urgentcare"><span class="rmText">Urgent Care</span></a></li>
+									</ul>
+								</div></li><li class="rmItem "><a class="rmLink" href="/MedicalSupply"><span class="rmText">Sparrow Medical Supply</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/medicalsupply-about"><span class="rmText">About SMS</span></a></li>
+									</ul>
+								</div></li><li class="rmItem rmLast"><a class="rmLink" href="/pharmacyservices"><span class="rmText">Sparrow Pharmacy Plus</span></a></li>
+							</ul>
+						</div></li><li class="rmItem "><a class="rmLink" href="/sparrowpartners"><span class="rmText">Partners and Memberships</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/locations"><span class="rmText">Find a Location</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/CEO"><span class="rmText">About Our New CEO</span></a></li><li class="rmItem "><a class="rmLink" href="/boards"><span class="rmText">Boards Governing Sparrow Health System</span></a></li><li class="rmItem "><a class="rmLink" href="/recognitions"><span class="rmText">Sparrow’s Accreditations and Recognitions</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/?id=2587&amp;sid=1"><span class="rmText">Sparrow Clinton Hospital distinctions</span></a></li><li class="rmItem "><a class="rmLink" href="/NurseMagnet"><span class="rmText">Top in the nation for Nursing Excellence</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/?id=2737&amp;sid=1"><span class="rmText">2019 Public Notice: Magnet Recognition Program&#174; - Site Visit</span></a></li>
+							</ul>
+						</div></li><li class="rmItem rmLast"><a class="rmLink" href="/mayo"><span class="rmText">Sparrow &amp; Mayo. Working together for you.</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/research"><span class="rmText">Research at Sparrow</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1750&amp;sid=1"><span class="rmText">Quality and Transparency Commitment</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/languageservices"><span class="rmText">Nondiscrimination and Accessibility Notice / Language Services </span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1859&amp;sid=1"><span class="rmText">Quality Care Scorecard</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="http://www.sparrow.org/Default.aspx?id=1683&amp;sid=5&amp;CWFriendlyUrl=true"><span class="rmText">Pricing</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/CommunityHealthAssessment"><span class="rmText">Community Health Needs Assessments</span></a></li><li class="rmItem "><a class="rmLink" href="http://sparrowannualreport.org"><span class="rmText">Annual Report</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/archives"><span class="rmText">Report Archives</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst"><a class="rmLink" target="_blank" href="http://sparrowannualreport.org/"><span class="rmText">2017 Report to the Community</span></a></li><li class="rmItem "><a class="rmLink" href="http://sparrowannualreport.org/2016/"><span class="rmText">2016 Report to the Community</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.sparrowannualreport.org/2015/"><span class="rmText">2015 Report to the Community</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.sparrowannualreport.org/2014/"><span class="rmText">2014 Report to the Community</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2381&amp;sid=1"><span class="rmText">2013 Report to the Community</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/teamwork"><span class="rmText">Team/Work</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/anna-cooley"><span class="rmText">Anna Cooley, RN</span></a></li><li class="rmItem "><a class="rmLink" href="/mike-devlin"><span class="rmText">Mike Devlin</span></a></li><li class="rmItem "><a class="rmLink" href="/gregory-lawson"><span class="rmText">Gregory Lawson, M.D.</span></a></li><li class="rmItem "><a class="rmLink" href="/denise-pratt"><span class="rmText">Denise Pratt</span></a></li><li class="rmItem "><a class="rmLink" href="/joseph-meunier"><span class="rmText">Joseph Meunier, D.O.</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/karen-kent-vandorder"><span class="rmText">Karen Kent VanGorder, M.D.</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/awards"><span class="rmText">Awards and Recognitions</span></a></li><li class="rmItem "><a class="rmLink" href="/contributions"><span class="rmText">Contributions Toward Community Health</span></a></li><li class="rmItem "><a class="rmLink" href="/financial-performance"><span class="rmText">Financial Performance Summary</span></a></li><li class="rmItem "><a class="rmLink" href="/governance"><span class="rmText">Governance</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/sparrow-foundation"><span class="rmText">The Sparrow Foundation</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/sparrow-foundation/funding"><span class="rmText">2013 Funding</span></a></li><li class="rmItem "><a class="rmLink" href="/sparrow-foundation/corporate-partners"><span class="rmText">Corporate Partners</span></a></li><li class="rmItem "><a class="rmLink" href="/sparrow-foundation/individual-partners"><span class="rmText">Individual Partners</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/sparrow-foundation/ways-to-help"><span class="rmText">Ways To Help</span></a></li>
+											</ul>
+										</div></li>
+									</ul>
+								</div></li><li class="rmItem "><a class="rmLink" href="/?id=1907&amp;sid=1"><span class="rmText">2012 Report to the Community</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1911&amp;sid=1"><span class="rmText">From the President</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1912&amp;sid=1"><span class="rmText">Everyday Experiences</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1913&amp;sid=1"><span class="rmText">Innovation</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1914&amp;sid=1"><span class="rmText">Compassion</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1915&amp;sid=1"><span class="rmText">Accountability</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1916&amp;sid=1"><span class="rmText">Respect</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1917&amp;sid=1"><span class="rmText">Excellence</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/?id=1918&amp;sid=1"><span class="rmText">Awards and Recognitions</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1919&amp;sid=1"><span class="rmText">Contribution Toward Community Health</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1920&amp;sid=1"><span class="rmText">Financial Performance Summary</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1921&amp;sid=1"><span class="rmText">Governance</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1993&amp;sid=1"><span class="rmText">2013 Nursing Report</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1994&amp;sid=1"><span class="rmText">Unit Highlight</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1995&amp;sid=1"><span class="rmText">Caregiver Highlights</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1996&amp;sid=1"><span class="rmText">Transformational Leadership</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1997&amp;sid=1"><span class="rmText">Structural Empowerment</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1998&amp;sid=1"><span class="rmText">Exemplary Professional Practice</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1999&amp;sid=1"><span class="rmText">Knowledge, Innovations &amp; Improvements</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=2000&amp;sid=1"><span class="rmText">Empirical Outcomes</span></a></li>
+											</ul>
+										</div></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1922&amp;sid=1"><span class="rmText">The Sparrow Foundation</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1923&amp;sid=1"><span class="rmText">2013 Funding</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1924&amp;sid=1"><span class="rmText">Lifetime Giving</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1925&amp;sid=1"><span class="rmText">Corporate Partners</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1926&amp;sid=1"><span class="rmText">Individual Partners</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1927&amp;sid=1"><span class="rmText">Ways to Help</span></a></li>
+											</ul>
+										</div></li>
+									</ul>
+								</div></li><li class="rmItem "><a class="rmLink" href="/?id=1908&amp;sid=1"><span class="rmText">2011 Report to the Commumity</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1928&amp;sid=1"><span class="rmText">Letter from the President</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1929&amp;sid=1"><span class="rmText">Transforming Health Care</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1930&amp;sid=1"><span class="rmText">The Sparrow Way</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1931&amp;sid=1"><span class="rmText">iSparrow</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1932&amp;sid=1"><span class="rmText">National Recognition</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1933&amp;sid=1"><span class="rmText">Sparrow Specialty Hospital</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1934&amp;sid=1"><span class="rmText">Sparrow Ionia Hospital</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1935&amp;sid=1"><span class="rmText">Joint Camp</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1936&amp;sid=1"><span class="rmText">Nursing</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/?id=1937&amp;sid=1"><span class="rmText">Awards and Recogntions</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1938&amp;sid=1"><span class="rmText">Contribution Toward Community Health</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1939&amp;sid=1"><span class="rmText">Financial Performance Summary</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1940&amp;sid=1"><span class="rmText">Governance</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1941&amp;sid=1"><span class="rmText">2012 Nursing Report</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1942&amp;sid=1"><span class="rmText">Department Highlights</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1943&amp;sid=1"><span class="rmText">Transformational Leadership</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1944&amp;sid=1"><span class="rmText">Structural Empowerment</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1945&amp;sid=1"><span class="rmText">Exemplary Professional Practice</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1946&amp;sid=1"><span class="rmText">Knowledge, Innovations and Improvements</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1947&amp;sid=1"><span class="rmText">Empirical Outcomes</span></a></li>
+											</ul>
+										</div></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1948&amp;sid=1"><span class="rmText">The Sparrow Foundation</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1949&amp;sid=1"><span class="rmText">2011 Funding</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1950&amp;sid=1"><span class="rmText">Corporate Partners</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1951&amp;sid=1"><span class="rmText">Individual Donors</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1952&amp;sid=1"><span class="rmText">Ways to Help</span></a></li>
+											</ul>
+										</div></li>
+									</ul>
+								</div></li><li class="rmItem "><a class="rmLink" href="/?id=1909&amp;sid=1"><span class="rmText">2010 Report to the Community</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1953&amp;sid=1"><span class="rmText">Letter from the President</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1954&amp;sid=1"><span class="rmText">Meet Our Caregivers</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1955&amp;sid=1"><span class="rmText">Debbie Lopez, RN, Emergency Department</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1956&amp;sid=1"><span class="rmText">J.J. Jackson, Volunteer</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1957&amp;sid=1"><span class="rmText">DeAnthony Jones, Environmental Services Technician</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1958&amp;sid=1"><span class="rmText">Jennifer Koresky, Physical Therapist, Williamston Rehabilitation Center</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1959&amp;sid=1"><span class="rmText">Sarah Nussbaum, Service Desk, Michigan Athletic Club</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1960&amp;sid=1"><span class="rmText">Donald L. Porter, MD, Sparrow Clinton Hospital</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1961&amp;sid=1"><span class="rmText">Peter DeRose, RN, Intermediate Care</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1962&amp;sid=1"><span class="rmText">Tracy Trumble, Customer Services Supervisor, Physicians Health Plan</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1963&amp;sid=1"><span class="rmText">Marilena Muto, Pharmacist, Sparrow Pharmacy Plus</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1964&amp;sid=1"><span class="rmText">Christine Thwaites, RN, Home Care Case Manager</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1965&amp;sid=1"><span class="rmText">John Armstrong, MD, Pulmonary Critical Care, Chief of Medical Staff-Elect</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/?id=1966&amp;sid=1"><span class="rmText">Awards and Recognitions</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1967&amp;sid=1"><span class="rmText">Contribution Toward Community Health</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1968&amp;sid=1"><span class="rmText">Financial Performance Summary</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1969&amp;sid=1"><span class="rmText">Governance</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1970&amp;sid=1"><span class="rmText">2011 Nursing Report</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1971&amp;sid=1"><span class="rmText">Transformational Leadership</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1972&amp;sid=1"><span class="rmText">Structural Empowerment</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1973&amp;sid=1"><span class="rmText">Exemplary Professional Practice</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1974&amp;sid=1"><span class="rmText">Knowledge, Innovations, and Improvements</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1975&amp;sid=1"><span class="rmText">Empirical Outcomes</span></a></li>
+											</ul>
+										</div></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1976&amp;sid=1"><span class="rmText">The Sparrow Foundation</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1977&amp;sid=1"><span class="rmText">2010 Funding</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1978&amp;sid=1"><span class="rmText">How to Give</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1979&amp;sid=1"><span class="rmText">Corporate Funding</span></a></li>
+											</ul>
+										</div></li>
+									</ul>
+								</div></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1910&amp;sid=1"><span class="rmText">2009 Annual Report to the Region</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1980&amp;sid=1"><span class="rmText">The Sparrow Vision</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1981&amp;sid=1"><span class="rmText">Letter from the President</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1982&amp;sid=1"><span class="rmText">Inspired By</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1983&amp;sid=1"><span class="rmText">Caregiver &amp; Patient</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1984&amp;sid=1"><span class="rmText">Sparrow &amp; the Region</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1985&amp;sid=1"><span class="rmText">Sparrow &amp; MSU</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1986&amp;sid=1"><span class="rmText">Heritage &amp; Vision</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1987&amp;sid=1"><span class="rmText">Quality &amp; the Patient Experience</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/?id=1988&amp;sid=1"><span class="rmText">Financial Performance Summary</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1989&amp;sid=1"><span class="rmText">Governance</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1990&amp;sid=1"><span class="rmText">2010 Nursing Report</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1991&amp;sid=1"><span class="rmText">Foundation List of Donors</span></a></li>
+									</ul>
+								</div></li>
+							</ul>
+						</div></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="http://sparrowannualreport.org/nursing-report.html"><span class="rmText">Nursing Annual Report</span></a></li><li class="rmItem "><a class="rmLink" href="/giving"><span class="rmText">Charitable Giving </span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/sparrowfoundation"><span class="rmText">Sparrow Foundation</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/sparrowfoundation-donate"><span class="rmText">Donate</span></a></li>
+							</ul>
+						</div></li><li class="rmItem "><a class="rmLink" href="/clintonfoundation"><span class="rmText">Sparrow Clinton Hospital Foundation</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst"><a class="rmLink" href="/?id=696&amp;sid=1"><span class="rmText">Foundation Background</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=698&amp;sid=1"><span class="rmText">Types of Gifts - Gift Designations</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=699&amp;sid=1"><span class="rmText">Planned Giving</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/whymanscholarship"><span class="rmText">Whyman Health Careers Scholarship</span></a></li>
+							</ul>
+						</div></li><li class="rmItem rmLast"><a class="rmLink" href="/ioniafoundation"><span class="rmText">Sparrow Ionia Hospital Foundation</span></a></li>
+					</ul>
+				</div></li><li class="rmItem rmLast"><a class="rmLink" href="/contact"><span class="rmText">Contact Us</span></a></li>
+			</ul>
+		</div></li><li class="rmItem rmSeparator"><span class="rmText"></span></li><li class="rmItem "><a class="rmLink rmRootLink" href="/findadoc"><span class="rmText">Find a Doctor</span></a></li><li class="rmItem rmSeparator"><span class="rmText"></span></li><li class="rmItem "><a class="rmLink rmRootLink" href="/eventcalendar"><span class="rmText">Events</span></a></li><li class="rmItem rmSeparator"><span class="rmText"></span></li><li class="rmItem "><a class="rmLink rmRootLink" href="http://www.sparrow.org/healthlibrary"><span class="rmText">Healthy Living</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="http://www.sparrow.org/HealthLibrary/DiseasesConditions.aspx"><span class="rmText">Mayo Clinic Health Library</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="http://www.sparrow.org/HealthLibrary/DiseasesConditions.aspx"><span class="rmText">Diseases and Conditions</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.sparrow.org/HealthLibrary/TestsProcedures.aspx"><span class="rmText">Tests and Procedures</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.sparrow.org/HealthLibrary/HealthyLiving.aspx"><span class="rmText">Health Information</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="http://www.sparrow.org/HealthLibrary/FirstAid.aspx"><span class="rmText">First Aid</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="http://www.sparrowbewell.com/"><span class="rmText">Be Well</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/bewellatwork"><span class="rmText">Be Well At Work</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst"><a class="rmLink" href="https://atwork.sparrowbewell.com/dt/v2/corporateindex.asp"><span class="rmText">Be Well at Work login</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=869&amp;sid=1"><span class="rmText">Additional programs for employers</span></a></li>
+							</ul>
+						</div></li><li class="rmItem rmLast"><a class="rmLink" href="/bewellatsparrow"><span class="rmText">For Sparrow Caregivers</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst rmLast"><a class="rmLink" href="https://atsparrow.sparrowbewell.com/dt/v2/caregiverindex.asp"><span class="rmText">Be Well at Sparrow login</span></a></li>
+							</ul>
+						</div></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="#"><span class="rmText">For Children</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/mileageclub"><span class="rmText">Feelin&#39; Good &#174; Mileage Club &#174;</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst"><a class="rmLink" href="/?id=247&amp;sid=1"><span class="rmText">How to Get Your School Involved</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=248&amp;sid=1"><span class="rmText">Testimonials</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=249&amp;sid=1"><span class="rmText">Program Expectations</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=250&amp;sid=1"><span class="rmText">Get Active!</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=252&amp;sid=1"><span class="rmText">Contact Us</span></a></li>
+							</ul>
+						</div></li><li class="rmItem "><a class="rmLink" href="/michiganmile"><span class="rmText">Sparrow Michigan Mile</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="http://www.sparrowfoundation.org/page.aspx?pid=420"><span class="rmText">Children&#39;s Miracle Network</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/smarthealth"><span class="rmText">SmartHealth</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/?id=675&amp;sid=1"><span class="rmText">Sparrow services and programs</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=676&amp;sid=1"><span class="rmText">Choosing care options</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=677&amp;sid=1"><span class="rmText">End-of-life planning</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/lifetime"><span class="rmText">For Seniors</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" target="_blank" href="http://www.sparrow.org/formbuilder/forms.aspx?formid=69612&amp;sid=1"><span class="rmText">Join Online Now</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=573&amp;sid=1"><span class="rmText">Health &amp; Fitness Programs</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/lunch-with-a-doctor"><span class="rmText">Lunch with a Doctor</span></a></li>
+							</ul>
+						</div></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=578&amp;sid=1"><span class="rmText">Helpful Information and Resources</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" target="_self" href="/?id=264&amp;sid=2"><span class="rmText">Michigan Athletic Club</span></a></li><li class="rmItem rmLast"><a class="rmLink" target="_blank" href="/upload/docs/Physician_SPeaker_Series/SPEAKER_SERIES.pdf"><span class="rmText">Physician Speaker Series</span></a></li>
+			</ul>
+		</div></li><li class="rmItem rmSeparator"><span class="rmText"></span></li><li class="rmItem rmLast"><a class="rmLink rmRootLink" href="/Locations"><span class="rmText">Locations</span></a></li>
+	</ul><input id="ctl00_PrimaryNavigationGlobal_ClientState" name="ctl00_PrimaryNavigationGlobal_ClientState" type="hidden" />
+</div>
+                            </div>
+                                </nav>
+                            </div>
+                        </div>
+
+            <div class="row clearfix mobile-nav">
+                <div class="toggle-buttons">
+                    <button class="search-toggle" data-target=".search-collapse" data-toggle="collapse" type="button"><span class="sr-only">Toggle search</span><span class="glyphicon glyphicon-search search-icon-min"></span></button>
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".mobile-nav-collapse"><span class="sr-only">Toggle navigation</span><span class="menu_btn">Menu</span></button>
+                                        </div>
+                                        
+                <div class="mobile-nav-collapse collapse">
+                    <ul class="top_level"><li><a href="/mysparrowassociates" alt="For Caregivers">For Caregivers</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/dresscode" alt="Color uniform policy">Color uniform policy</a></li><li><a href="/?id=1751&sid=5" alt="Ebola Virus Disease (EVD) Preparedness at Sparrow">Ebola Virus Disease (EVD) Preparedness at Sparrow</a></li><li><a href="/associates-scheduling" alt="Event Management & Catering for Caregivers">Event Management & Catering for Caregivers</a></li><li><a href="/humanresources" alt="Human Resources">Human Resources</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="http://careers.sparrow.org" alt="Career opportunities at Sparrow">Career opportunities at Sparrow</a></li><li><a href="http://www.sparrow.org/upload/docs/MySparrow/Associates/Benefits/DIA%20Instructions.pdf" alt="Diversified investments">Diversified investments</a></li><li><a href="https://careers.sparrow.org/diversity-and-inclusion" alt="Diversity and inclusion">Diversity and inclusion</a></li><li><a href="/humanresources-forms" alt="Frequently requested Sparrow HR forms">Frequently requested Sparrow HR forms</a></li><li><a href="/carsoncity-hr" alt="Sparrow Carson Hospital HR">Sparrow Carson Hospital HR</a></li></ul></li><li><a href="/inspiredbyphysicians" alt="Inspired by Physicians">Inspired by Physicians</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1398&sid=5" alt="Past Inspired By responses">Past Inspired By responses</a></li></ul></li><li><a href="/nursing" alt="Learn about nursing at Sparrow">Learn about nursing at Sparrow</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/nursesleadingtheway" alt="Sparrow Nurses: Charting the Course">Sparrow Nurses: Charting the Course</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1679&sid=5" alt="Past Nurses' Week responses">Past Nurses' Week responses</a></li></ul></li></ul></li><li><a href="/associatelogin" alt="Login to Sparrow accounts">Login to Sparrow accounts</a></li><li><a href="/quietcontest" alt="'Quiet for you' campaign">'Quiet for you' campaign</a></li><li><a href="/spa-for-associates" alt="SPA Concierge Services and Discounts">SPA Concierge Services and Discounts</a></li><li><a href="/carsoncaregivers" alt="Sparrow Carson Caregivers">Sparrow Carson Caregivers</a></li><li><a href="/sparrowchildtime" alt="Sparrow Childtime Learning Center">Sparrow Childtime Learning Center</a></li><li><a href="/sparrowlibrary" alt="Sparrow Health Sciences Library">Sparrow Health Sciences Library</a></li><li><a href="/maincampusparking" alt="Sparrow Michigan Avenue Campus Caregiver parking ">Sparrow Michigan Avenue Campus Caregiver parking </a></li><li><a href="/mobileaccess" alt="Sparrow Mobile Access">Sparrow Mobile Access</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1432&sid=5" alt="Frequently Asked Questions">Frequently Asked Questions</a></li><li><a href="/?id=1423&sid=5" alt="Mobile OS Version Help">Mobile OS Version Help</a></li><li><a href="/newphonerequest" alt="New Phone Request">New Phone Request</a></li><li><a href="/nonsmartphonereplacement" alt="Non-Smart Phone Replacement">Non-Smart Phone Replacement</a></li></ul></li><li><a href="/associates-news" alt="Staying connected — with Sparrow!">Staying connected — with Sparrow!</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="http://sparrowtv.org/channels/sparrow-news/#.US5R4aJBSKI" alt="Sparrow News Video Edition">Sparrow News Video Edition</a></li></ul></li><li><a href="/eventcalendar" alt="View upcoming events">View upcoming events</a></li></ul></li><li><a href="/mysparrowpatients" alt="For Patients">For Patients</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/clinicaltrials" alt="Clinical Trials at Sparrow">Clinical Trials at Sparrow</a></li><li><a href="/physicians" alt="Find a doctor">Find a doctor</a></li><li><a href="/MySparrow" alt="MySparrow: Innovating technology">MySparrow: Innovating technology</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=2670&sid=5" alt="MyChart Bedside">MyChart Bedside</a></li><li><a href="/mysparrowlogin" alt="MySparrow login page">MySparrow login page</a></li></ul></li><li><a href="/pharmacyservices" alt="Prescription Refills">Prescription Refills</a></li><li><a href="http://www.carsoncityhospital.com" alt="Sparrow Carson Hospital">Sparrow Carson Hospital</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1229&sid=5" alt="Carson City Hospital privacy policy">Carson City Hospital privacy policy</a></li><li><a href="/?id=1230&sid=5" alt="Durable Power of Attorney">Durable Power of Attorney</a></li></ul></li><li><a href="/mysparrow-clinton" alt="Sparrow Clinton Hospital">Sparrow Clinton Hospital</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1222&sid=5" alt="Patient care and safety">Patient care and safety</a></li><li><a href="/?id=1219&sid=5" alt="Sparrow Clinton Patient Financial Services">Sparrow Clinton Patient Financial Services</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1220&sid=5" alt="Community financial aid">Community financial aid</a></li></ul></li><li><a href="/?id=1218&sid=5" alt="Visiting hours and guidelines">Visiting hours and guidelines</a></li></ul></li><li><a href="/mysparrow-sparrow-hospital" alt="Sparrow Hospital">Sparrow Hospital</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1213&sid=5" alt="Discounted lodging">Discounted lodging</a></li><li><a href="/?id=1216&sid=5" alt="Durable Power of Attorney">Durable Power of Attorney</a></li><li><a href="/?id=1211&sid=5" alt="Give feedback on my Sparrow experience">Give feedback on my Sparrow experience</a></li><li><a href="/?id=1212&sid=5" alt="Guest lodging options">Guest lodging options</a></li><li><a href="/patient-rights-information" alt="Patient rights information">Patient rights information</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/release-of-information-faq" alt="Release of Information FAQ">Release of Information FAQ</a></li></ul></li><li><a href="/?id=1210&sid=5" alt="Restaurants and cafes">Restaurants and cafes</a></li><li><a href="/?id=1207&sid=5" alt="Sparrow Hospital parking information">Sparrow Hospital parking information</a></li><li><a href="/?id=1208&sid=5" alt="Visiting hours and guidelines">Visiting hours and guidelines</a></li></ul></li><li><a href="/mysparrow-ionia" alt="Sparrow Ionia Hospital">Sparrow Ionia Hospital</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1225&sid=5" alt="Food and nutrition services">Food and nutrition services</a></li><li><a href="/?id=1226&sid=5" alt="Insurance, billing and payment">Insurance, billing and payment</a></li><li><a href="/?id=1227&sid=5" alt="Patient privacy">Patient privacy</a></li><li><a href="/?id=1224&sid=5" alt="View visiting hours and guidelines">View visiting hours and guidelines</a></li></ul></li><li><a href="/financialservices" alt="Sparrow Patient Financial Services ">Sparrow Patient Financial Services </a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1697&sid=5" alt=" Frequently Asked Questions"> Frequently Asked Questions</a></li><li><a href="/?id=1687&sid=5" alt="Financial Assistance">Financial Assistance</a></li><li><a href="/?id=1686&sid=5" alt="Financial Estimates">Financial Estimates</a></li><li><a href="/?id=1696&sid=5" alt="Glossary">Glossary</a></li><li><a href="/?id=1692&sid=5" alt="Healthcare Coverage Options">Healthcare Coverage Options</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/exchangeanswers" alt="Healthcare Exchange FAQ">Healthcare Exchange FAQ</a></li></ul></li><li><a href="/insurance" alt="Insurance coverage at Sparrow">Insurance coverage at Sparrow</a></li><li><a href="/?id=1690&sid=5" alt="Pay My Bill">Pay My Bill</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1688&sid=5" alt="Billing FAQ">Billing FAQ</a></li></ul></li><li><a href="/preregistration" alt="Pre-registration">Pre-registration</a></li><li><a href="/mammogram" alt="Pre-service Scheduling">Pre-service Scheduling</a></li><li><a href="/pricing" alt="Pricing">Pricing</a><a href="#" class="mobile-nav-next"></a><ul class="active"><li class="active_row"><a href="/PricingFAQ" alt="Pricing FAQ">Pricing FAQ</a></li><li><a href="/?id=2701&sid=5" alt="Sparrow Standard Charge Listing">Sparrow Standard Charge Listing</a></li></ul></li></ul></li></ul></li><li><a href="/mysparrowphysicians" alt="For Physicians">For Physicians</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/187sparrow1" alt="Admissions, transfers, and dispatch">Admissions, transfers, and dispatch</a></li><li><a href="/clinicaltrials" alt="Clinical Trials at Sparrow">Clinical Trials at Sparrow</a></li><li><a href="/cme" alt="Continuing Medical Education">Continuing Medical Education</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=2635&sid=5" alt="Activity Highlights">Activity Highlights</a></li><li><a href="https://cmetracker.net/SPARROWMSU/Catalog" alt="CME Events">CME Events</a></li></ul></li><li><a href="/medicalforms" alt="Download forms for medical providers">Download forms for medical providers</a></li><li><a href="/physicianscheduling" alt="Event Management & Catering for Physicians">Event Management & Catering for Physicians</a></li><li><a href="/inspiredbyphysicians" alt="Every day, doctors inspire us">Every day, doctors inspire us</a></li><li><a href="/?id=1607&sid=5" alt="Exchange Answers">Exchange Answers</a></li><li><a href="https://remote.sparrow.org" alt="Log in to remote.sparrow.org">Log in to remote.sparrow.org</a></li><li><a href="/mededucation" alt="Medical Education">Medical Education</a></li><li><a href="/FAQs" alt="NRAD FAQs">NRAD FAQs</a></li><li><a href="/performance" alt="Read more about performance and quality">Read more about performance and quality</a></li><li><a href="http://www.sparrow.org/?id=2164&sid=20" alt="Sparrow Care Network">Sparrow Care Network</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1710&sid=5" alt="2014 Milestones">2014 Milestones</a></li><li><a href="/?id=1744&sid=5" alt="Board of Managers">Board of Managers</a></li><li><a href="/?id=1708&sid=5" alt="Formational Committees">Formational Committees</a></li><li><a href="/?id=1722&sid=5" alt="Quality Initiatives">Quality Initiatives</a></li><li><a href="/?id=1709&sid=5" alt="Video Library">Video Library</a></li></ul></li><li><a href="/sparrowlibrary" alt="Sparrow Health Sciences Library">Sparrow Health Sciences Library</a></li><li><a href="/physiciannews" alt="Sparrow Physician news">Sparrow Physician news</a></li><li><a href="/physicianorientation" alt="Take our online orientation modules">Take our online orientation modules</a></li></ul></li><li><a href="http://www.sparrow.org" alt="Home">Home</a></li></ul>
+
+                            </div>
+                        </div>
+
+                        <div class="row clearfix">
+                <div class="col-md-12 column">
+                            <div class="h_mid_area">
+                              <div class="row clearfix">                                
+                            <div class="hidden-xs hidden-sm col-md-3 column">
+                               
+                                <div id="cssmenu" class="hidden-xs" style="margin-top:180px;">
+                                    
+
+<!--   ASP TreeView component version 2.0.39     www.obout.com    (.NET dll) -->
+
+<script type="text/javascript">var ob_tree_id="tree1";verdadero=true;falso=false;wahr=true;falsch=false;vrai=true;faux=false;var ob_icons="/images/obout/Icons";var ob_style="/images/obout/style/Design004";ob_select_on_collapse=true;ob_tree_dnd_enable=false;ob_tree_editnode_enable=false;ob_tree_keynav_enable=false;ob_tree_multiselect_enable=false;ob_expand_single=false;ob_t2_showicons=false;</script><script type="text/javascript" src="/images/obout/Script/ob_tree_2039.js"></script><script type="text/javascript" src="/images/obout/Script/ob_events_2039.js"></script>
+<div id="tree1" class="ob_tree" style="width:200px;overflow:visible;"><div class="ob_di2"><div class="ob_d2b"><table class="ob_t2b" cellspacing="0" style="display:none;"><tr><td class="ob_t8" style="display:none;"><img alt="" src="/images/obout/style/Design004/minus_r.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4"><div class="ob_d4"></div></td><td id="root_tree1" onclick="ob_t22(this, event)" class="ob_t2" valign="middle"></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:block;"><tr><td><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/plusik_l.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1179" onclick="ob_t22(this, event)" class="ob_t2"><a href="/mysparrowpatients"><span class='OboutTitle'>For Patients</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1203" onclick="ob_t22(this, event)" class="ob_t2"><a href="/financialservices"><span class='OboutHeader'>Sparrow Patient Financial Services </span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1669" onclick="ob_t22(this, event)" class="ob_t2"><a href="/insurance"><span class='OboutHeader'>Insurance coverage at Sparrow</span></a></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1683" onclick="ob_t22(this, event)" class="ob_t2"><a href="/pricing"><span class='OboutHeader'>Pricing</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1684" onclick="ob_t22(this, event)" class="ob_t2"><a href="/PricingFAQ"><span class='OboutHeader'>Pricing FAQ</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a2701" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=2701&amp;sid=5"><span class='OboutHeader'>Sparrow Standard Charge Listing</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1686" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1686&amp;sid=5"><span class='OboutHeader'>Financial Estimates</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1687" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1687&amp;sid=5"><span class='OboutHeader'>Financial Assistance</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1689" onclick="ob_t22(this, event)" class="ob_t2"><a href="/mammogram"><span class='OboutHeader'>Pre-service Scheduling</span></a></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1690" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1690&amp;sid=5"><span class='OboutHeader'>Pay My Bill</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1688" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1688&amp;sid=5"><span class='OboutHeader'>Billing FAQ</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1691" onclick="ob_t22(this, event)" class="ob_t2"><a href="/preregistration"><span class='OboutHeader'>Pre-registration</span></a></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1692" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1692&amp;sid=5"><span class='OboutHeader'>Healthcare Coverage Options</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1604" onclick="ob_t22(this, event)" class="ob_t2"><a href="/exchangeanswers"><span class='OboutHeader'>Healthcare Exchange FAQ</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1696" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1696&amp;sid=5"><span class='OboutHeader'>Glossary</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1697" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1697&amp;sid=5"><span class='OboutHeader'> Frequently Asked Questions</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1575" onclick="ob_t22(this, event)" class="ob_t2"><a href="/MySparrow"><span class='OboutHeader'>MySparrow: Innovating technology</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1235" onclick="ob_t22(this, event)" class="ob_t2"><a href="/mysparrowlogin"><span class='OboutHeader'>MySparrow login page</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a2670" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=2670&amp;sid=5"><span class='OboutHeader'>MyChart Bedside</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1729" onclick="ob_t22(this, event)" class="ob_t2"><a href="/clinicaltrials" target="_blank"><span class='OboutHeader'>Clinical Trials at Sparrow</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1247" onclick="ob_t22(this, event)" class="ob_t2"><a href="/pharmacyservices"><span class='OboutHeader'>Prescription Refills</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1248" onclick="ob_t22(this, event)" class="ob_t2"><a href="/physicians"><span class='OboutHeader'>Find a doctor</span></a></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1205" onclick="ob_t22(this, event)" class="ob_t2"><a href="/mysparrow-sparrow-hospital"><span class='OboutHeader'>Sparrow Hospital</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1207" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1207&amp;sid=5"><span class='OboutHeader'>Sparrow Hospital parking information</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1208" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1208&amp;sid=5"><span class='OboutHeader'>Visiting hours and guidelines</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1210" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1210&amp;sid=5"><span class='OboutHeader'>Restaurants and cafes</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1211" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1211&amp;sid=5"><span class='OboutHeader'>Give feedback on my Sparrow experience</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1212" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1212&amp;sid=5"><span class='OboutHeader'>Guest lodging options</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1213" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1213&amp;sid=5"><span class='OboutHeader'>Discounted lodging</span></a></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1214" onclick="ob_t22(this, event)" class="ob_t2"><a href="/patient-rights-information"><span class='OboutHeader'>Patient rights information</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1215" onclick="ob_t22(this, event)" class="ob_t2"><a href="/release-of-information-faq"><span class='OboutHeader'>Release of Information FAQ</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1216" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1216&amp;sid=5"><span class='OboutHeader'>Durable Power of Attorney</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1217" onclick="ob_t22(this, event)" class="ob_t2"><a href="/mysparrow-clinton"><span class='OboutHeader'>Sparrow Clinton Hospital</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1218" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1218&amp;sid=5"><span class='OboutHeader'>Visiting hours and guidelines</span></a></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1219" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1219&amp;sid=5"><span class='OboutHeader'>Sparrow Clinton Patient Financial Services</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1220" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1220&amp;sid=5"><span class='OboutHeader'>Community financial aid</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1222" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1222&amp;sid=5"><span class='OboutHeader'>Patient care and safety</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1223" onclick="ob_t22(this, event)" class="ob_t2"><a href="/mysparrow-ionia"><span class='OboutHeader'>Sparrow Ionia Hospital</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1224" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1224&amp;sid=5"><span class='OboutHeader'>View visiting hours and guidelines</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1225" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1225&amp;sid=5"><span class='OboutHeader'>Food and nutrition services</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1226" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1226&amp;sid=5"><span class='OboutHeader'>Insurance, billing and payment</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1227" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1227&amp;sid=5"><span class='OboutHeader'>Patient privacy</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/plusik_l.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1228" onclick="ob_t22(this, event)" class="ob_t2"><a href="/mysparrow-carson-city"><span class='OboutHeader'>Sparrow Carson Hospital</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1229" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1229&amp;sid=5"><span class='OboutHeader'>Carson City Hospital privacy policy</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1230" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1230&amp;sid=5"><span class='OboutHeader'>Durable Power of Attorney</span></a></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr></table></div></div></div><script type="text/javascript">/*<![CDATA[*/var ob_noedit='';ob_KeepLastExpanded=0;ob_KeepLastCollapsed=0;var sNoSelect='';var ob_eventFlags={"OnSomeEvent":true};function getStyle(oElm,strCssRule){var strValue="";if(document.defaultView && document.defaultView.getComputedStyle){strValue=document.defaultView.getComputedStyle(oElm,"").getPropertyValue(strCssRule);}else if(oElm.currentStyle){try{strCssRule=strCssRule.replace(/\-(\w)/g, function (strMatch,p1){return p1.toUpperCase();});strValue=oElm.currentStyle[strCssRule];}catch(ex){}}return strValue;};function ob_RootNode(){var rt=document.getElementById(ob_tree_id).firstChild.firstChild.firstChild;var ct=rt.nextSibling;if(ct==null){return;}var c=ct.firstChild.firstChild.firstChild;var it=rt.firstChild.firstChild.firstChild;var sIS="";var sRS="";try{sIS=getStyle(it,"display");}catch(ex){sIS="none";}try{sRS=getStyle(rt,"display");}catch(ex){sRS="none";} if(ct!=null&&(sRS=="none"||sIS=="none")){ if(navigator.userAgent.toLowerCase().indexOf("firefox")==-1) {c.style.display="none";}else{c.style.width="1px";c.firstChild.style.display="none";}}}ob_RootNode();function ob_initTree(i){if((typeof(ob_tree_js_version)=="undefined")||(ob_tree_js_version!="2039")){if(i<30){window.setTimeout("ob_initTree("+(i+1)+")",900);}else{}return;}else{ob_t26("a1684");}}ob_initTree(0);/*]]>*/</script>
+
+<!--   ASP TreeView component version 2.0.39     www.obout.com    (.NET dll) -->
+
+
+
+                                </div>
+                                <div class="hidden-xs jumpMenus" id="jumpMenuDiv">
+                                    
+<div class="padding10Left">
+    <h1 class="greenHeader">
+        <span>Our services:</span> quick view</h1>
+</div>
+<div class="padding10Left">
+    <h1 class="jumpHeaders">
+       Quick Links</h1>
+</div>
+<div>
+    <div id="ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks" class="RadComboBox RadComboBox_sparrowTest">
+	<table summary="combobox" style="border-width:0;border-collapse:collapse;width:100%">
+		<tr>
+			<td class="rcbInputCell rcbInputCellLeft" style="width:100%;"><input name="ctl00$Design001HomeJumpMenus$jumpMenuQuickLinks" type="text" class="rcbInput radPreventDecorate" id="ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks_Input" value="Select" /></td><td class="rcbArrowCell rcbArrowCellRight"><a id="ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks_Arrow" style="overflow: hidden;display: block;position: relative;outline: none;">select</a></td>
+		</tr>
+	</table><div class="rcbSlide" style="z-index:6000;"><div id="ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks_DropDown" class="RadComboBoxDropDown RadComboBoxDropDown_sparrowTest " style="display:none;width:200px;"><div class="rcbScroll rcbWidth" style="width:100%;"><ul class="rcbList" style="list-style:none;margin:0;padding:0;zoom:1;"><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1596">
+			Contact Us
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=2131">
+			FastCare
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1598">
+			Find a Doctor
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1599">
+			Pre-register for a Sparrow Hospital appointment
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1600">
+			Refill Sparrow Pharmacy Plus prescriptions
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1597">
+			Review and pay your Sparrow Hospital bill
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1630">
+			Sparrow facility projects. Building a healthy future.
+		</a>
+     </li></ul></div></div></div><input id="ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks_ClientState" name="ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks_ClientState" type="hidden" />
+</div>
+</div>
+
+<div class="padding10Left">
+    <h1 class="jumpHeaders">
+        Departments &amp; Services</h1>
+</div>
+<div>
+    <div id="ctl00_Design001HomeJumpMenus_jumpMenuServices" class="RadComboBox RadComboBox_sparrowTest">
+	<table summary="combobox" style="border-width:0;border-collapse:collapse;width:100%">
+		<tr>
+			<td class="rcbInputCell rcbInputCellLeft" style="width:100%;"><input name="ctl00$Design001HomeJumpMenus$jumpMenuServices" type="text" class="rcbInput radPreventDecorate" id="ctl00_Design001HomeJumpMenus_jumpMenuServices_Input" value="Select" /></td><td class="rcbArrowCell rcbArrowCellRight"><a id="ctl00_Design001HomeJumpMenus_jumpMenuServices_Arrow" style="overflow: hidden;display: block;position: relative;outline: none;">select</a></td>
+		</tr>
+	</table><div class="rcbSlide" style="z-index:6000;"><div id="ctl00_Design001HomeJumpMenus_jumpMenuServices_DropDown" class="RadComboBoxDropDown RadComboBoxDropDown_sparrowTest " style="display:none;width:200px;"><div class="rcbScroll rcbWidth" style="width:100%;"><ul class="rcbList" style="list-style:none;margin:0;padding:0;zoom:1;"><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/OurServices">
+			All Services
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=45">
+			Bariatric Services
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/birthing">
+			Birthing Services and Mother Baby Center
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/cancer">
+			Cancer Center
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/childrenscenter">
+			Children's Center
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1677">
+			Clinical Trials at Sparrow
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/emergencyservices">
+			Emergency Services
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=2132">
+			FastCare
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1279">
+			Heart and Vascular Center
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/homecare">
+			Home Care
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/Hospice">
+			Hospice Service
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/neurosciences">
+			Neurosciences
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/orthopedics">
+			Orthopedic Services
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=2151">
+			Rehabilitation
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/mobileclinic">
+			Sparrow Mobile Clinics
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1577">
+			Urgent Care
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/women">
+			Women's Services
+		</a>
+     </li></ul></div></div></div><input id="ctl00_Design001HomeJumpMenus_jumpMenuServices_ClientState" name="ctl00_Design001HomeJumpMenus_jumpMenuServices_ClientState" type="hidden" />
+</div>
+</div>
+<div class="padding10Left">
+    <h1 class="jumpHeaders">
+        Physician Groups &amp; Practices</h1>
+</div>
+<div>
+    <div id="ctl00_Design001HomeJumpMenus_jumpMenuGroups" class="RadComboBox RadComboBox_sparrowTest">
+	<table summary="combobox" style="border-width:0;border-collapse:collapse;width:100%">
+		<tr>
+			<td class="rcbInputCell rcbInputCellLeft" style="width:100%;"><input name="ctl00$Design001HomeJumpMenus$jumpMenuGroups" type="text" class="rcbInput radPreventDecorate" id="ctl00_Design001HomeJumpMenus_jumpMenuGroups_Input" value="Select" /></td><td class="rcbArrowCell rcbArrowCellRight"><a id="ctl00_Design001HomeJumpMenus_jumpMenuGroups_Arrow" style="overflow: hidden;display: block;position: relative;outline: none;">select</a></td>
+		</tr>
+	</table><div class="rcbSlide" style="z-index:6000;"><div id="ctl00_Design001HomeJumpMenus_jumpMenuGroups_DropDown" class="RadComboBoxDropDown RadComboBoxDropDown_sparrowTest " style="display:none;width:200px;"><div class="rcbScroll rcbWidth" style="width:100%;"><ul class="rcbList" style="list-style:none;margin:0;padding:0;zoom:1;"><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/physicianservices-cts">
+			Cardiovascular and Thoracic Surgeons
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/physicianservices-familyhealthcenters">
+			Family Health Centers
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/physicianservices-iss">
+			Ionia Surgical Services
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/carsonhealthnetwork">
+			Sparrow Carson
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/physicianservices-hospitalists">
+			Sparrow Hospitalists 
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=78">
+			Sparrow Medical Group 
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/SMG/Ionia">
+			Sparrow Medical Group Ionia
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1634">
+			Sparrow Medical Group OB/GYN
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/SMG/Portland">
+			Sparrow Medical Group Portland
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=2081">
+			Sparrow Medical Group Saranac 
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/SMG/StJohns">
+			Sparrow Medical Group St. Johns
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/physicianservices-medical-oncology">
+			Sparrow Medical Oncology 
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/physicianservices-radiationoncology">
+			Sparrow Radiation Oncology
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/physicianservices-tci">
+			Thoracic Cardiovascular Institute
+		</a>
+     </li></ul></div></div></div><input id="ctl00_Design001HomeJumpMenus_jumpMenuGroups_ClientState" name="ctl00_Design001HomeJumpMenus_jumpMenuGroups_ClientState" type="hidden" />
+</div>
+</div>
+
+                                    </div>
+                               
+                            </div>
+               
+                            <div class="col-md-9 column clearfix">
+						                
+
+                                    <div class="contentBanner">
+                                        <div id="PageTitle">
+                                                Pricing FAQ</div>
+                                                        </div>
+                                    <div class="breadcrumbs">
+                                        <ul>
+						                <li><a href="/?sid=5">Home</a></li><li><a class="breadcrumbChild" href="/mysparrowpatients">For Patients</a><li><a class="breadcrumbChild" href="/financialservices">Sparrow Patient Financial Services </a><li><a class="breadcrumbChild" href="/pricing">Pricing</a><li><a class="breadcrumbChild" href="/PricingFAQ">Pricing FAQ</a>
+									                                    
+                                        </ul>
+                                                                    </div>
+
+                                    <div class="contentUtilities">
+                                        <ul class="c_utilities">
+                                            <li class="aPlus"><a href="javascript:ts('printReady',1)"><em class="hidden">aPlus</em></a></li>
+                                            <li class="aMinus"><a href="javascript:ts('printReady',-1)"><em class="hidden">aMinus</em></a></li>
+                                            <li class="print"><a href="javascript:void(printSpecial('printReady','001'))">Print</a></li>
+                                            <li id="shareOption">
+			                                    <div><a class="addthis_button">Share</a>																									
+				                                    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js"></script>
+                                                            </div>
+                                            </li>
+                                        </ul>
+                                                        </div>
+                                        
+						                
+                            </div>
+
+									                                                                    
+                                
+                                <div class="col-md-9 column">
+                                    
+
+                                    
+                                    <div id="printReady">
+
+                                        <div id="PageContent" class="content">
+					                    
+                                            <script language="JavaScript">
+//here you place the ids of every element you want.
+var ids=new Array('a1','a2','a3','a4','a5','a6','a7','a8','a9','a10','a11','a12','a13','a14');
+
+function switchid(id){	
+	hideallids();
+	showdiv(id);
+}
+
+function hideallids(){
+	//loop through the array and hide each element by id
+	for (var i=0;i&lt;ids.length;i++){
+		hidediv(ids[i]);
+	}		  
+}
+
+function hidediv(id) {
+	//safe function to hide an element with a specified id
+	if (document.getElementById) { // DOM3 = IE5, NS6
+		document.getElementById(id).style.display = 'none';
+	}
+	else {
+		if (document.layers) { // Netscape 4
+			document.id.display = 'none';
+		}
+		else { // IE 4
+			document.all.id.style.display = 'none';
+		}
+	}
+}
+
+function showdiv(id) {
+	//safe function to show an element with a specified id
+		  
+	if (document.getElementById) { // DOM3 = IE5, NS6
+		document.getElementById(id).style.display = 'block';
+	}
+	else {
+		if (document.layers) { // Netscape 4
+			document.id.display = 'block';
+		}
+		else { // IE 4
+			document.all.id.style.display = 'block';
+		}
+	}
+}
+</script>
+<p class="contentH3"><a href="javascript:switchid('a1');" shape="rect">How are prices established for services?</a></p>
+<div id="a1" style="display: none;">
+<p class="contentBodyCopy1">Each hospital has its own policy for setting prices.  Hospital charges vary because they reflect the individual hospital&rsquo;s mission and the Patient population it serves.</p>
+<p class="contentBodyCopy1">A hospital that provides highly specialized services, such as trauma units or dedicated intensive care services, like Sparrow, has a different cost structure and pricing than one that does not.</p>
+<p class="contentBodyCopy1">Prices are reviewed each year on Jan. 1, and are subject to change during the year.  To establish prices, we consider many factors including:</p>
+<ul class="contentUL">
+    <li>The cost of staff, equipment, medications and other supplies involved in Patient care</li>
+    <li>The amount of time our facilities and staff are involved in providing services </li>
+    <li>The cost of administrative expenses such as billing, technology, housekeeping, etc.</li>
+    <li>Insurance company contracts</li>
+    <li>Information provided by the Centers for Medicare and Medicaid Services, the federal agency that manages the Medicare and Medicaid programs</li>
+</ul>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a2');" shape="rect">Do these prices reflect the total cost?</a></p>
+<div id="a2" style="display: none;">
+<p class="contentBodyCopy1">Not necessarily.  In addition to your hospital charges, you could receive separate bills for physician&rsquo;s fees from your surgeon, anesthesiologist, radiologist, emergency room physician and other specialists.  Please contact those offices directly for price information:</p>
+<ul class="contentUL">
+    <li>Anesthesiology &ndash; 517.484.2777</li>
+    <li>EKG (test interpretation) &ndash; 517.364.3278</li>
+    <li>Emergency Services &ndash; 517.364.4149</li>
+    <li>Imaging/Radiology (test interpretation) &ndash; 517.364.2300</li>
+    <li>Surgery &ndash; Contact your surgeon&rsquo;s office.  If you have not selected a surgeon or need a referral, call 1.800.Sparrow or visit our Find a Doctor page.</li>
+</ul>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a3');" shape="rect">What is a CPT Code?</a></p>
+<div id="a3" style="display: none;">
+<p class="contentBodyCopy1">CPT stands for Current Procedural Terminology.  A CPT code is a five-digit code used by all hospitals, physicians, and insurance companies to identify a type of service or procedure. You will see CPT codes located on our pricing lists to help ensure that you are viewing the price information for the specific procedure your physician has ordered.</p>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a4');" shape="rect">What is a DRG?</a></p>
+<div id="a4" style="display: none;">
+<p class="contentBodyCopy1">DRG stands for Diagnosis Related Group.  A DRG is only assigned to an inpatient hospital service.  DRGs are universal groupings used by Medicare and most insurance companies to clarify the type of inpatient care a Patient receives.  Insurance companies use the DRG code, along with a diagnosis/CPT code and the length of the inpatient stay, to determine payment and reimbursement for claims.</p>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a5');" shape="rect">What if a procedure is not listed on the website?</a></p>
+<div id="a5" style="display: none;">
+<p class="contentBodyCopy1">Charges for many common, high-volume procedures are listed on our <a href="/?id=2701&amp;sid=5">site</a>.  Additional service areas are being added regularly. Please contact a Sparrow Financial Assistance Specialist at 517.364.6060 for pricing on a procedure not listed.</p>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a6');" shape="rect">Will my bill be different than the price listed here?</a></p>
+<div id="a6" style="display: none;">
+<p class="contentBodyCopy1">The amount you owe may vary due to a number of circumstances:</p>
+<ul class="contentUL">
+    <li>Additional testing, medications, services or procedures ordered by your physician</li>
+    <li>The procedure planned may not be the procedure performed based on your physician&rsquo;s assessment</li>
+    <li>If you have insurance, the type of insurance you have, your deductibles, coinsurance, and out-of-pocket limits will determine your final Sparrow bill.</li>
+</ul>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a7');" shape="rect">Where can I get information on the quality of health care at Sparrow?</a></p>
+<div id="a7" style="display: none;">
+<p class="contentBodyCopy1">Sparrow is developing a quality of care report card for the public showing current data that is clear to all audiences to help people make decisions about their care. Work is expected to be completed on this project later this year and made available on our website.</p>
+<p class="contentBodyCopy1">Our Patients&rsquo; safety and preventing hospital-acquired infections is a major focus at Sparrow. We are proud that we perform better than national benchmarks in the majority of categories of hospital-acquired infection rates. Our Caregivers are dedicated to improving in this area, and it remains a constant priority for Sparrow.</p>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a8');" shape="rect">If I have insurance, does this reflect how much I will have to pay?</a></p>
+<div id="a8" style="display: none;">
+<p class="contentBodyCopy1">No.  The amount you will be responsible for will depend on your specific insurance plan.  We have provided an average of the reimbursement Sparrow receives from insurance companies for these procedures, but our Patient Financial Services Department can assist you in determining an individual estimate of your out-of-pocket costs based on your personal insurance policy.</p>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a9');" shape="rect">What insurance companies does Sparrow accept?</a></p>
+<div id="a9" style="display: none;">
+<p class="contentBodyCopy1">Click <strong><a href="/insurance">here </a></strong>for a list of insurance plans and whether Sparrow is considered an &ldquo;in-network&rdquo; or &ldquo;out-of-network&rdquo; provider.  Or, call your insurance provider directly to verify that Sparrow is in your network.</p>
+<p class="contentBodyCopy1">Sparrow will file claims to any insurance company you authorize, but your employer and insurance company determine your level of coverage.  An insurance contract between your insurance company and Sparrow doesn&rsquo;t guarantee that your claims will be paid in full.  You&rsquo;re responsible for payment of services not authorized by your insurance company and any balance remaining after insurance payments and adjustments have been applied.</p>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a10');" shape="rect">If Sparrow is &ldquo;out-of-network,&rdquo; may I still receive care at Sparrow?</a></p>
+<div id="a10" style="display: none;">
+<p class="contentBodyCopy1">Yes.  In an emergency, always go to the closest hospital.  Your insurance provider generally will cover emergency department costs or recommend a transfer  to an &ldquo;in-network&rdquo; hospital when  it is safe to do so.</p>
+<p class="contentBodyCopy1">If you choose to go to an &ldquo;out-of-network&rdquo; hospital in a non-emergency, you may be required to pay a larger deductible or a greater portion of your bill.   Call your insurance company to find out your health plan&rsquo;s &ldquo;out-of-network&rdquo; options.</p>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a11');" shape="rect">How will I know how much I owe?</a></p>
+<div id="a11" style="display: none;">
+<p class="contentBodyCopy1">Your health plan may require a co-payment or deductible that will be due during appointment registration. Check with your provider on the amount that you will be responsible for at this time.</p>
+<p class="contentBodyCopy1">Following your healthcare services, your insurance provider will send you an Explanation of Benefits (EOB), which will detail the amount it has paid, any non-covered or denied amounts, and the remaining balance that you are responsible for paying to Sparrow.</p>
+<p class="contentBodyCopy1">Review this EOB, compare it to your Sparrow billing statement, and call your insurance provider or a Sparrow Financial Assistance Specialist if you have questions or concerns.</p>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a12');" shape="rect">Can I receive an estimate for the cost of a procedure before I receive the service?</a></p>
+<div id="a12" style="display: none;">
+<p class="contentBodyCopy1">Yes. We can help you determine the cost of a medical procedure or service.  Contact Sparrow Financial Assistance Services at 517.364.6060 to speak to a Specialist. Please be sure to have your health insurance card, the name of your Physician, and information about the procedure you will be having ready before you call.</p>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a13');" shape="rect">Is there help if my health insurance does not cover my bills?</a></p>
+<div id="a13" style="display: none;">
+<p class="contentBodyCopy1">Yes. Sparrow Financial Assistance Specialists assist individuals and families that have health insurance but who need additional financial resources to cover medical bills.  We can identify and help you apply for programs including Medicaid, Social Security, and other financial assistance. </p>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a14');" shape="rect">What if I don&rsquo;t have health insurance?</a></p>
+<div id="a14" style="display: none;">
+<p class="contentBodyCopy1">We can help you determine if you are eligible for government programs, a product on the Health Insurance Marketplace, or financial assistance through Sparrow&rsquo;s Community Financial Aid program.</p>
+<p class="contentBodyCopy1">Please note: emergency services will never be delayed or withheld on the basis of a patient&rsquo;s ability to pay.</p>
+<p class="contentBodyCopy1">For general care, if you do not have health insurance, call the Sparrow Patient Financial Services Department at 517.364.6060.  The Sparrow Financial Assistance Specialist will review payment and financial assistance options that may be available to you. Discounts vary and are based on family income and size.  To receive discounts and payment plans, or to apply for other financial aid programs, you will need to fill out an application and meet certain requirements.</p>
+</div>
+
+					                    
+                                            </div>
+                                        </div>
+                                    
+             
+                            </div>  
+
+
+                        
+
+
+				</div>
+			</div>
+                </div>
+            </div>
+
+                    <div id="relocate-jumpMenuDiv" class="jumpMenus"></div>
+
+                
+                    
+
+<div class="row clearfix">
+    <h1 class="greenHeaderFooter"><span>Site view:</span> at a glance</h1>
+<div class="row clearfix">
+<div class="col-md-2 column">
+<div class="footerLinks">
+<ul>
+    <li><a href="/Sitemap/?sid=1" class="childLink" shape="rect">Site Map</a></li>
+    <li><a href="/Contact/" class="childLink" shape="rect">Contact us</a></li>
+    <li><a href="/sparrow-privacy-policy/" class="childLink" shape="rect">Privacy Policy </a></li>
+    <li><a href="/sparrow-notice-privacy-policies/" class="childLink" shape="rect">Notice of Privacy Practices</a></li>
+    <li><a href="/sparrow-terms-of-use/" class="childLink" shape="rect">Terms of use</a></li>
+    <li><a href="http://www.sparrow.org/upload/docs/Sparrow-TermsandConditionsofPurchase.pdf" class="childLink">For Suppliers - Terms and Conditions of Purchase</a>
+    </li>
+</ul>
+<div class="socLinks"><a href="http://sparrowtv.org/" target="_blank" shape="rect"><img alt="" style="width: 30px; height: 30px;" src="/upload/images/ABOUT_SPARROW/Social%20media%20icons/sparrow%20tv%20icon%20green.png" /></a> <a href="http://twitter.com/sparrowhealth" target="_blank" shape="rect"><img alt="" src="/upload/images/ABOUT_SPARROW/Social%20media%20icons/twitter.png" /></a> <a href="http://www.facebook.com/SparrowHealthSystem" target="_blank" shape="rect"><img alt="" src="/upload/images/ABOUT_SPARROW/Social%20media%20icons/facebook.png" /></a> </div>
+</div>
+</div>
+<div class="col-md-2 column">
+<div class="footerLinks">
+<ul>
+    <li><a href="/" class="childLink" shape="rect">Home</a></li>
+    <li><a href="/careers/" class="childLink" shape="rect">Careers</a></li>
+    <li><a href="/news/?id=8&amp;sid=1" class="childLink" shape="rect">Newsroom</a></li>
+    <li><a href="/volunteer/" class="childLink" shape="rect">Volunteering</a></li>
+    <li><a href="/mysparrowpatients/" class="childLink" shape="rect">MySparrow for Patients</a></li>
+    <li><a href="/mysparrowphysicians/" class="childLink" shape="rect">MySparrow for Physicians</a></li>
+    <li><a href="/mysparrowassociates/" class="childLink" shape="rect">MySparrow for Caregivers</a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-2 column">
+<div class="footerLinks">
+<ul>
+    <li><a href="/aboutsparrow/" class="childLink" shape="rect">About Sparrow</a></li>
+    <li><a href="/who-we-are/" class="childLink" shape="rect">Hospitals and Subsidiaries</a></li>
+    <li><a href="/missionvision/" class="childLink" shape="rect">Mission, Vision, Values</a></li>
+    <li><a href="/recognitions/" class="childLink" shape="rect">Accreditations &amp; Recognitions</a></li>
+    <li><a href="http://sparrowannualreport.org" class="childLink" shape="rect">Annual Report</a></li>
+    <li><a href="/giving/" class="childLink" shape="rect">Charitable Giving</a></li>
+    <li><a href="/sparrowpartners/" class="childLink" shape="rect">Affiliates and partners</a></li>
+    <li><a href="/boards/" class="childLink" shape="rect">Governing Boards</a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-2 column">
+<div class="footerLinks">
+<ul>
+    <li><a href="/locations/" class="childLink" shape="rect">Locations</a></li>
+    <li><a href="/physicians/?id=4&amp;sid=1&amp;CWFriendlyUrlApp=true" class="childLink" shape="rect">Find a doc</a></li>
+    <li><a href="/creg/?id=5&amp;sid=1&amp;CWFriendlyUrlApp=true" class="childLink" shape="rect">Events</a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-2 column">
+<div class="footerLinks">
+<ul>
+    <li><a href="/?id=1106&amp;sid=1" class="childLink" shape="rect">Patient Rights</a></li>
+    <li><a href="/healthlibrary/?id=803&amp;sid=1" class="childLink" shape="rect">Healthy Library</a></li>
+    <li><a href="/lifetime/" class="childLink" shape="rect">LifeTime</a></li>
+    <li><a href="http://www.sparrowbewell.com/" class="childLink" shape="rect">Sparrow Be Well</a></li>
+    <li><a href="/mac/" class="childLink" shape="rect">Michigan Athletic Club</a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-2 column">
+<div class="footerLinks">
+<ul>
+    <li><a href="/?id=36&amp;sid=1" class="childLink" shape="rect">Departments &amp; Services</a></li>
+    <li><a href="/otherservices/" class="childLink" shape="rect">Other Services</a></li>
+    <li><a href="/?id=77&amp;sid=1" class="childLink" shape="rect">Physician Groups &amp; Practices</a></li>
+    <br />
+    <li><span class="childLink" href="/">Sparrow</span></li>
+    <li><span class="childLink" href="/">1.800.SPARROW</span></li>
+    <li><span class="childLink" href="/">1.517.364.1000</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+                    <div class="row clearfix">
+                        <div class="copyright_info"><a class="copyright" href="/admin/" onclick="window.open('/admin/'); return false;">&copy;</a> Copyright 2019 Sparrow Health System <a href="/admin/Pages/?PageID=1684" onclick="window.open('https://www.sparrow.org/admin/Pages/?PageID=1684'); return false;">
+                            <img alt="Pencil" src="/images/pencil.gif" width="8" height="8" style="border: none;" /></a>
+                        </div>
+                    </div>
+            </div>
+		
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_skin":"Design001","clientStateFieldID":"ctl00_PrimaryNavigationGlobal_ClientState","collapseAnimation":"{\"duration\":450}","enableAutoScroll":true,"expandAnimation":"{\"duration\":450}","itemData":[{"items":[{"navigateUrl":"/?id=2\u0026sid=1"},{"items":[{"navigateUrl":"/OurVision"},{"navigateUrl":"/ourstory"},{"navigateUrl":"/?id=1540\u0026sid=1"}],"navigateUrl":"/missionvision"},{"items":[{"items":[{"items":[{"navigateUrl":"/?id=528\u0026sid=1"},{"navigateUrl":"/?id=787\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1099\u0026sid=1"}],"navigateUrl":"/?id=1098\u0026sid=1"},{"navigateUrl":"/?id=1100\u0026sid=1"},{"navigateUrl":"/?id=1101\u0026sid=1"},{"navigateUrl":"/?id=1102\u0026sid=1"},{"navigateUrl":"/?id=1103\u0026sid=1"},{"navigateUrl":"/?id=1104\u0026sid=1"},{"navigateUrl":"/?id=1105\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1107\u0026sid=1"}],"navigateUrl":"/?id=1106\u0026sid=1"},{"navigateUrl":"/?id=1108\u0026sid=1"}],"navigateUrl":"/sparrowhospital"},{"navigateUrl":"/?id=161\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1903\u0026sid=1"},{"navigateUrl":"/?id=1084\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1086\u0026sid=1"}],"navigateUrl":"/?id=1085\u0026sid=1"},{"navigateUrl":"/?id=1087\u0026sid=1"},{"navigateUrl":"/?id=1088\u0026sid=1"}],"navigateUrl":"http://www.sparrow.org/sparrowclinton"},{"items":[{"navigateUrl":"/?id=1089\u0026sid=1"},{"navigateUrl":"/?id=1090\u0026sid=1"},{"navigateUrl":"/?id=1091\u0026sid=1"},{"navigateUrl":"/?id=1092\u0026sid=1"}],"navigateUrl":"https://www.sparrow.org/?sid=17\u0026id=1813"},{"navigateUrl":"/sparrowcarson"}],"navigateUrl":"/?id=1578\u0026sid=1"},{"items":[{"navigateUrl":"http://www.phpmichigan.com/","target":"_blank"},{"navigateUrl":"http://www.sparrow.org/clinicalintegration"},{"navigateUrl":"/?id=264\u0026sid=2","target":"_self"},{"navigateUrl":"/sphn"},{"items":[{"items":[{"navigateUrl":"/?id=2088\u0026sid=1"},{"navigateUrl":"/?id=2696\u0026sid=1"},{"navigateUrl":"/SMGGeneralSurgeryLansing"},{"navigateUrl":"/?id=2697\u0026sid=1"}],"navigateUrl":"/?id=2694\u0026sid=1"},{"navigateUrl":"/SMG/NewPatientPaperwork"},{"navigateUrl":"/?id=2127\u0026sid=1"},{"items":[{"navigateUrl":"/?id=2698\u0026sid=1"},{"navigateUrl":"/?id=2699\u0026sid=1"},{"navigateUrl":"/?id=2700\u0026sid=1"},{"navigateUrl":"/?id=2093\u0026sid=1"}],"navigateUrl":"/smg/orthopedics-sports-medicine"},{"navigateUrl":"/smgurology"},{"navigateUrl":"/?id=1748\u0026sid=1"},{"navigateUrl":"/?id=2087\u0026sid=1"},{"navigateUrl":"/?id=2091\u0026sid=1"},{"navigateUrl":"http://www.carsonhealth.org/services/rehabilitation-care.html"},{"navigateUrl":"/?id=2094\u0026sid=1"},{"items":[{"navigateUrl":"/?id=457\u0026sid=1"},{"navigateUrl":"/?id=2109\u0026sid=1"},{"items":[{"navigateUrl":"/CarsonWalkIn"}],"navigateUrl":"/?id=2111\u0026sid=1"},{"navigateUrl":"/?id=2113\u0026sid=1"},{"navigateUrl":"/?id=2115\u0026sid=1"},{"navigateUrl":"/?id=2117\u0026sid=1"},{"navigateUrl":"/?id=2121\u0026sid=1"},{"navigateUrl":"/smgwilliamston"},{"navigateUrl":"/?id=458\u0026sid=1"},{"navigateUrl":"/?id=1510\u0026sid=1"},{"navigateUrl":"/tony-balice-clinic"},{"navigateUrl":"/?id=463\u0026sid=1"},{"navigateUrl":"/?id=1806\u0026sid=1"},{"navigateUrl":"/?id=459\u0026sid=1"},{"navigateUrl":"/smg-muir"},{"navigateUrl":"/?id=460\u0026sid=1"},{"navigateUrl":"/?id=461\u0026sid=1"},{"navigateUrl":"/physicianservices-portland"},{"navigateUrl":"/?id=462\u0026sid=1"},{"navigateUrl":"/physicianservices-sjpa"},{"navigateUrl":"/SMG-VOA"},{"navigateUrl":"/?id=464\u0026sid=1"},{"navigateUrl":"/?id=2751\u0026sid=1"},{"navigateUrl":"/?id=2752\u0026sid=1"},{"navigateUrl":"/?id=2753\u0026sid=1"}],"navigateUrl":"/PCP"},{"navigateUrl":"/physicianservices-peds-clinics"},{"navigateUrl":"http://www.sparrow.org/urgentcare"}],"navigateUrl":"/smg"},{"items":[{"navigateUrl":"/medicalsupply-about"}],"navigateUrl":"/MedicalSupply"},{"navigateUrl":"/pharmacyservices"}],"navigateUrl":"/?id=1579\u0026sid=1"},{"navigateUrl":"/sparrowpartners"},{"navigateUrl":"/locations"}],"navigateUrl":"/who-we-are"},{"navigateUrl":"/CEO"},{"navigateUrl":"/boards"},{"items":[{"navigateUrl":"/?id=2587\u0026sid=1"},{"items":[{"navigateUrl":"/?id=2737\u0026sid=1"}],"navigateUrl":"/NurseMagnet"},{"navigateUrl":"/mayo"}],"navigateUrl":"/recognitions"},{"navigateUrl":"/research"},{"items":[{"navigateUrl":"/languageservices"},{"navigateUrl":"/?id=1859\u0026sid=1"},{"navigateUrl":"http://www.sparrow.org/Default.aspx?id=1683\u0026sid=5\u0026CWFriendlyUrl=true"}],"navigateUrl":"/?id=1750\u0026sid=1"},{"navigateUrl":"/CommunityHealthAssessment"},{"items":[{"items":[{"navigateUrl":"http://sparrowannualreport.org/","target":"_blank"},{"navigateUrl":"http://sparrowannualreport.org/2016/"},{"navigateUrl":"http://www.sparrowannualreport.org/2015/"},{"navigateUrl":"http://www.sparrowannualreport.org/2014/"},{"items":[{"items":[{"navigateUrl":"/anna-cooley"},{"navigateUrl":"/mike-devlin"},{"navigateUrl":"/gregory-lawson"},{"navigateUrl":"/denise-pratt"},{"navigateUrl":"/joseph-meunier"},{"navigateUrl":"/karen-kent-vandorder"}],"navigateUrl":"/teamwork"},{"navigateUrl":"/awards"},{"navigateUrl":"/contributions"},{"navigateUrl":"/financial-performance"},{"navigateUrl":"/governance"},{"items":[{"navigateUrl":"/sparrow-foundation/funding"},{"navigateUrl":"/sparrow-foundation/corporate-partners"},{"navigateUrl":"/sparrow-foundation/individual-partners"},{"navigateUrl":"/sparrow-foundation/ways-to-help"}],"navigateUrl":"/sparrow-foundation"}],"navigateUrl":"/?id=2381\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1911\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1913\u0026sid=1"},{"navigateUrl":"/?id=1914\u0026sid=1"},{"navigateUrl":"/?id=1915\u0026sid=1"},{"navigateUrl":"/?id=1916\u0026sid=1"},{"navigateUrl":"/?id=1917\u0026sid=1"}],"navigateUrl":"/?id=1912\u0026sid=1"},{"navigateUrl":"/?id=1918\u0026sid=1"},{"navigateUrl":"/?id=1919\u0026sid=1"},{"navigateUrl":"/?id=1920\u0026sid=1"},{"navigateUrl":"/?id=1921\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1994\u0026sid=1"},{"navigateUrl":"/?id=1995\u0026sid=1"},{"navigateUrl":"/?id=1996\u0026sid=1"},{"navigateUrl":"/?id=1997\u0026sid=1"},{"navigateUrl":"/?id=1998\u0026sid=1"},{"navigateUrl":"/?id=1999\u0026sid=1"},{"navigateUrl":"/?id=2000\u0026sid=1"}],"navigateUrl":"/?id=1993\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1923\u0026sid=1"},{"navigateUrl":"/?id=1924\u0026sid=1"},{"navigateUrl":"/?id=1925\u0026sid=1"},{"navigateUrl":"/?id=1926\u0026sid=1"},{"navigateUrl":"/?id=1927\u0026sid=1"}],"navigateUrl":"/?id=1922\u0026sid=1"}],"navigateUrl":"/?id=1907\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1928\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1930\u0026sid=1"},{"navigateUrl":"/?id=1931\u0026sid=1"},{"navigateUrl":"/?id=1932\u0026sid=1"},{"navigateUrl":"/?id=1933\u0026sid=1"},{"navigateUrl":"/?id=1934\u0026sid=1"},{"navigateUrl":"/?id=1935\u0026sid=1"},{"navigateUrl":"/?id=1936\u0026sid=1"}],"navigateUrl":"/?id=1929\u0026sid=1"},{"navigateUrl":"/?id=1937\u0026sid=1"},{"navigateUrl":"/?id=1938\u0026sid=1"},{"navigateUrl":"/?id=1939\u0026sid=1"},{"navigateUrl":"/?id=1940\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1942\u0026sid=1"},{"navigateUrl":"/?id=1943\u0026sid=1"},{"navigateUrl":"/?id=1944\u0026sid=1"},{"navigateUrl":"/?id=1945\u0026sid=1"},{"navigateUrl":"/?id=1946\u0026sid=1"},{"navigateUrl":"/?id=1947\u0026sid=1"}],"navigateUrl":"/?id=1941\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1949\u0026sid=1"},{"navigateUrl":"/?id=1950\u0026sid=1"},{"navigateUrl":"/?id=1951\u0026sid=1"},{"navigateUrl":"/?id=1952\u0026sid=1"}],"navigateUrl":"/?id=1948\u0026sid=1"}],"navigateUrl":"/?id=1908\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1953\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1955\u0026sid=1"},{"navigateUrl":"/?id=1956\u0026sid=1"},{"navigateUrl":"/?id=1957\u0026sid=1"},{"navigateUrl":"/?id=1958\u0026sid=1"},{"navigateUrl":"/?id=1959\u0026sid=1"},{"navigateUrl":"/?id=1960\u0026sid=1"},{"navigateUrl":"/?id=1961\u0026sid=1"},{"navigateUrl":"/?id=1962\u0026sid=1"},{"navigateUrl":"/?id=1963\u0026sid=1"},{"navigateUrl":"/?id=1964\u0026sid=1"},{"navigateUrl":"/?id=1965\u0026sid=1"}],"navigateUrl":"/?id=1954\u0026sid=1"},{"navigateUrl":"/?id=1966\u0026sid=1"},{"navigateUrl":"/?id=1967\u0026sid=1"},{"navigateUrl":"/?id=1968\u0026sid=1"},{"navigateUrl":"/?id=1969\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1971\u0026sid=1"},{"navigateUrl":"/?id=1972\u0026sid=1"},{"navigateUrl":"/?id=1973\u0026sid=1"},{"navigateUrl":"/?id=1974\u0026sid=1"},{"navigateUrl":"/?id=1975\u0026sid=1"}],"navigateUrl":"/?id=1970\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1977\u0026sid=1"},{"navigateUrl":"/?id=1978\u0026sid=1"},{"navigateUrl":"/?id=1979\u0026sid=1"}],"navigateUrl":"/?id=1976\u0026sid=1"}],"navigateUrl":"/?id=1909\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1980\u0026sid=1"},{"navigateUrl":"/?id=1981\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1983\u0026sid=1"},{"navigateUrl":"/?id=1984\u0026sid=1"},{"navigateUrl":"/?id=1985\u0026sid=1"},{"navigateUrl":"/?id=1986\u0026sid=1"},{"navigateUrl":"/?id=1987\u0026sid=1"}],"navigateUrl":"/?id=1982\u0026sid=1"},{"navigateUrl":"/?id=1988\u0026sid=1"},{"navigateUrl":"/?id=1989\u0026sid=1"},{"navigateUrl":"/?id=1990\u0026sid=1"},{"navigateUrl":"/?id=1991\u0026sid=1"}],"navigateUrl":"/?id=1910\u0026sid=1"}],"navigateUrl":"/archives"}],"navigateUrl":"http://sparrowannualreport.org"},{"navigateUrl":"http://sparrowannualreport.org/nursing-report.html"},{"items":[{"items":[{"navigateUrl":"/sparrowfoundation-donate"}],"navigateUrl":"/sparrowfoundation"},{"items":[{"navigateUrl":"/?id=696\u0026sid=1"},{"navigateUrl":"/?id=698\u0026sid=1"},{"navigateUrl":"/?id=699\u0026sid=1"},{"navigateUrl":"/whymanscholarship"}],"navigateUrl":"/clintonfoundation"},{"navigateUrl":"/ioniafoundation"}],"navigateUrl":"/giving"},{"navigateUrl":"/contact"}],"navigateUrl":"/aboutsparrow"},{"isSeparator":true},{"navigateUrl":"/findadoc"},{"isSeparator":true},{"navigateUrl":"/eventcalendar"},{"isSeparator":true},{"items":[{"items":[{"navigateUrl":"http://www.sparrow.org/HealthLibrary/DiseasesConditions.aspx"},{"navigateUrl":"http://www.sparrow.org/HealthLibrary/TestsProcedures.aspx"},{"navigateUrl":"http://www.sparrow.org/HealthLibrary/HealthyLiving.aspx"},{"navigateUrl":"http://www.sparrow.org/HealthLibrary/FirstAid.aspx"}],"navigateUrl":"http://www.sparrow.org/HealthLibrary/DiseasesConditions.aspx"},{"items":[{"items":[{"navigateUrl":"https://atwork.sparrowbewell.com/dt/v2/corporateindex.asp"},{"navigateUrl":"/?id=869\u0026sid=1"}],"navigateUrl":"/bewellatwork"},{"items":[{"navigateUrl":"https://atsparrow.sparrowbewell.com/dt/v2/caregiverindex.asp"}],"navigateUrl":"/bewellatsparrow"}],"navigateUrl":"http://www.sparrowbewell.com/"},{"items":[{"items":[{"navigateUrl":"/?id=247\u0026sid=1"},{"navigateUrl":"/?id=248\u0026sid=1"},{"navigateUrl":"/?id=249\u0026sid=1"},{"navigateUrl":"/?id=250\u0026sid=1"},{"navigateUrl":"/?id=252\u0026sid=1"}],"navigateUrl":"/mileageclub"},{"navigateUrl":"/michiganmile"},{"navigateUrl":"http://www.sparrowfoundation.org/page.aspx?pid=420"}]},{"items":[{"navigateUrl":"/?id=675\u0026sid=1"},{"navigateUrl":"/?id=676\u0026sid=1"},{"navigateUrl":"/?id=677\u0026sid=1"}],"navigateUrl":"/smarthealth"},{"items":[{"navigateUrl":"http://www.sparrow.org/formbuilder/forms.aspx?formid=69612\u0026sid=1","target":"_blank"},{"items":[{"navigateUrl":"/lunch-with-a-doctor"}],"navigateUrl":"/?id=573\u0026sid=1"},{"navigateUrl":"/?id=578\u0026sid=1"}],"navigateUrl":"/lifetime"},{"navigateUrl":"/?id=264\u0026sid=2","target":"_self"},{"navigateUrl":"/upload/docs/Physician_SPeaker_Series/SPEAKER_SERIES.pdf","target":"_blank"}],"navigateUrl":"http://www.sparrow.org/healthlibrary"},{"isSeparator":true},{"navigateUrl":"/Locations"}]}, null, null, $get("ctl00_PrimaryNavigationGlobal"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadComboBox, {"_dropDownWidth":200,"_height":0,"_isTemplated":true,"_skin":"sparrowTest","_text":"Select","_uniqueId":"ctl00$Design001HomeJumpMenus$jumpMenuQuickLinks","autoCompleteSeparator":",;","clientStateFieldID":"ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks_ClientState","collapseAnimation":"{\"duration\":450}","emptyMessage":"Select","expandAnimation":"{\"duration\":450}","itemData":[{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"}],"localization":"{\"AllItemsCheckedString\":\"All items checked\",\"ItemsCheckedString\":\"items checked\",\"CheckAllString\":\"Check All\"}","markFirstMatch":true}, null, null, $get("ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadComboBox, {"_dropDownWidth":200,"_height":0,"_isTemplated":true,"_skin":"sparrowTest","_text":"Select","_uniqueId":"ctl00$Design001HomeJumpMenus$jumpMenuServices","autoCompleteSeparator":",;","clientStateFieldID":"ctl00_Design001HomeJumpMenus_jumpMenuServices_ClientState","collapseAnimation":"{\"duration\":450}","emptyMessage":"Select","expandAnimation":"{\"duration\":450}","itemData":[{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"}],"localization":"{\"AllItemsCheckedString\":\"All items checked\",\"ItemsCheckedString\":\"items checked\",\"CheckAllString\":\"Check All\"}","markFirstMatch":true}, null, null, $get("ctl00_Design001HomeJumpMenus_jumpMenuServices"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadComboBox, {"_dropDownWidth":200,"_height":0,"_isTemplated":true,"_skin":"sparrowTest","_text":"Select","_uniqueId":"ctl00$Design001HomeJumpMenus$jumpMenuGroups","autoCompleteSeparator":",;","clientStateFieldID":"ctl00_Design001HomeJumpMenus_jumpMenuGroups_ClientState","collapseAnimation":"{\"duration\":450}","emptyMessage":"Select","expandAnimation":"{\"duration\":450}","itemData":[{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"}],"localization":"{\"AllItemsCheckedString\":\"All items checked\",\"ItemsCheckedString\":\"items checked\",\"CheckAllString\":\"Check All\"}","markFirstMatch":true}, null, null, $get("ctl00_Design001HomeJumpMenus_jumpMenuGroups"));
+});
+//]]>
+</script>
+</form>
+	</body>
+</html>

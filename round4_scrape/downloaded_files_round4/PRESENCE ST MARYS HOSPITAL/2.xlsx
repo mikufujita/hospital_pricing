@@ -1,0 +1,880 @@
+<!DOCTYPE html><html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="pagetype" content="static"/>
+<meta property="og:title" content="Page Not Found"/>
+<meta property="og:url" content="https://www.amitahealth.org/page-not-found"/>
+<meta property="og:locale" content="en_US"/>
+<meta name="robots" content="index, follow"/><title>Page Not Found</title>
+<link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="/assets/css/cms.css" />
+<link rel="stylesheet" href="/assets/css/base.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<script type="text/javascript">
+var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-36990309-1']);_gaq.push(['_trackPageview']);(function () {var ga = document.createElement('script');ga.type = 'text/javascript';ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga, s);})();
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script>window.jQuery || document.write('%3Cscript src="/assets/js/jquery.min.js"%3E%3C/script%3E')</script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="/assets/js/html5.js"></script>
+<![endif]-->
+<!-- Google Tag Manager -->
+        <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W3FCP7S');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Proxima Nova Webfont -->
+<!--<link rel="stylesheet" href="https://use.typekit.net/mlh3cdi.css">
+<style type="text/css">@font-face{font-family:tk-proxima-nova-n7;src:url(https://use.typekit.net/af/71f83c/00000000000000003b9b093b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/71f83c/00000000000000003b9b093b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/71f83c/00000000000000003b9b093b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");font-weight:700;font-style:normal;}@font-face{font-family:tk-proxima-nova-n1;src:url(https://use.typekit.net/af/ed0e78/00000000000000003b9b0931/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n1&v=3) format("woff2"),url(https://use.typekit.net/af/ed0e78/00000000000000003b9b0931/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n1&v=3) format("woff"),url(https://use.typekit.net/af/ed0e78/00000000000000003b9b0931/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n1&v=3) format("opentype");font-weight:100;font-style:normal;}@font-face{font-family:tk-proxima-nova-n4;src:url(https://use.typekit.net/af/4838bd/00000000000000003b9b0934/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/4838bd/00000000000000003b9b0934/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/4838bd/00000000000000003b9b0934/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("opentype");font-weight:400;font-style:normal;}@font-face{font-family:tk-proxima-nova-n3;src:url(https://use.typekit.net/af/437c3d/00000000000000003b9b0932/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff2"),url(https://use.typekit.net/af/437c3d/00000000000000003b9b0932/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("woff"),url(https://use.typekit.net/af/437c3d/00000000000000003b9b0932/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3) format("opentype");font-weight:300;font-style:normal;}</style>
+-->
+ <script src="https://use.typekit.net/yxn8jxm.js"></script>
+            <script>try { Typekit.load({ async: true }); } catch (e) { }</script>		
+<!-- jquery ui-->
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+
+<!-- SiteImprove -->
+<script type="text/JavaScript">
+	(function() {
+		var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+		sz.src = '//siteimproveanalytics.com/js/siteanalyze_1341.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+	})();
+</script>
+<!--End SiteImprove -->
+
+<!-- Pingdom -->
+<script src="//rum-static.pingdom.net/pa-5d08f2a04ccefd00170000c1.js" async></script>
+</head>
+<body >	
+<div class="container-fluid" id="asset237121"><header id="site-header">
+        <div id="container-utility">
+           <div class="container">
+              <div class="row">
+                 <div class="col-xs-12">
+                    <div class="utility-container">
+                       <ul class="level1 nav nav-pills" id="utilitynav">
+<li role="presentation" id="linkFirst-utilityMenu-240785-1" data-assetid="240785" class="level1"><a href="/about-us/">About Us</a></li>
+<li role="presentation" id="linkFirst-utilityMenu-241061-2" data-assetid="241061" class="level1"><a href="/patient-portal/"> Patient Portals</a></li>
+<li role="presentation" id="linkFirst-utilityMenu-241073-3" data-assetid="241073" class="level1"><a href="/patient-resources/pay-your-bill/">Pay Bill</a></li>
+<li role="presentation" id="linkFirst-utilityMenu-241088-4" data-assetid="241088" class="level1"><a href="/schedule-appointment/">Schedule an Appointment</a></li>
+<li role="presentation" id="linkFirst-utilityMenu-245831-5" data-assetid="245831" class="level1"><a href="/careers/" target="_blank">Jobs</a></li>
+<li role="presentation" id="linkFirst-utilityMenu-240824-6" data-assetid="240824" class="level1"><a href="/contact-us/">Contact Us</a></li>
+</ul>
+
+                    </div>
+                 </div>
+              </div>
+           </div>
+        </div>
+        <div id="container-dedicated">
+        <div class="container">
+           <div class="row">
+              <div class="col-sm-3 ih-header-logo-wrap">
+                 <div class="logo item">
+                    <a href="/" target="_self" title="AMITA Health" itemprop="url"><img src="/assets/images/amita-health.png" alt="AMITA Health" class="img-responsive" itemprop="logo" /></a>
+                 </div>
+              </div>
+              <div class="header-phone col-sm-9 text-right"><a href="tel:8556926482" class="tel">855.MyAMITA</a></div>
+           </div>
+           <div class="row navrow">
+              <div class="col-xs-11 text-left ih-header-navigation-wrap">
+                 
+	<nav class="navbar navbar-default">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#global-menu-output" aria-expanded="false">
+					<span class="pull-right">Menu</span>
+					<div class="pull-left">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</div>
+				</button>
+			</div>
+			<div class="collapse navbar-collapse" id="global-menu-output">
+				<div id="topnav" class="nav navbar-nav">
+<ul class="level1 nav navbar-nav" id="navbar-global-menu-6">
+<li role="presentation" id="linkFirst-global-menu-248775-1" data-assetid="248775" data-asset-path="248775" class="navbarFirst level1"><a href="/doctor/">Find a Doctor</a></li>
+<li role="presentation" id="linkFirst-global-menu-238210-2" data-assetid="238210" data-asset-path="238210" class="navbarFirst level1"><a href="/medical-group/">AMITA Health Medical Group</a></li>
+<li role="presentation" id="linkFirst-global-menu-241094-3" data-assetid="241094" data-asset-path="241094" class="navbarFirst dropdown hidden-xs level1"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-href="/services/">Our Expertise <span class="caret"></span></a><div id="navbar-global-menu-3" class="dropdown-menu">
+
+
+<div class="navbarMenuContent WideDesktop hidden-xs visible-lg" style="width:100%; clear:both;"><div class="container">
+<div class="col-md-12">
+<h3>Our Expertise</h3>
+</div>
+<div class="col-md-3">
+<ul class="list list-links-bold">
+<li><a href="/services/center-for-bariatrics-and-weight-loss/">Bariatric &amp; Weight Loss Center</a></li>
+<li><a href="/services/behavioral-medicine-institute/">Behavioral Medicine Institute</a></li>
+<li><a href="/services/cancer-institute/">Cancer Institute</a></li>
+<li><a href="/services/digestive-health-institute/">Digestive Health Institute</a></li>
+<li><a href="/services/heart-and-vascular-institute/">Heart &amp; Vascular Institute</a></li>
+<li><a href="/services/immediate-care">Immediate Care</a></li>
+<li><a href="/services/neurosciences-institute/">Neurosciences Institute</a></li>
+<li><a href="/services/orthopedics-institute/">Orthopedics Institute</a></li>
+<li><a href="/services/pediatrics-institute/">Pediatrics Institute</a></li>
+<li><a href="/services/womens-health-institute/">Women's Health Institute</a></li>
+<li><strong><a href="/services/" class="with-arrow"><strong>View All&nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i> </strong></a></strong></li>
+</ul>
+</div>
+<div class="col-md-3">
+<ul class="list">
+<li><a href="/services/endocrinology/">Diabetes/Endocrinology</a></li>
+<li><a href="/services/emergency-services">Emergency Services</a></li>
+<li><a href="/services/geriatrics/">Geriatrics</a></li>
+<li><a href="/services/home-care/">Home Care</a></li>
+<li><a href="/services/hospice-care/">Hospice Care</a></li>
+<li><a href="/services/hyperhidrosis-program/">Hyperhidrosis Program</a></li>
+<li><a href="/services/imaging-services/">Imaging Services</a></li>
+<li><a href="/services/laboratory-services">Laboratory Services</a></li>
+<li><a href="/services/nutrition-services/">Nutrition</a></li>
+<li><a href="/services/ophthalmology">Ophthalmology Services</a></li>
+<li><a href="/services/ear-nose-and-throat-otolaryngology">Otolaryngology (Ear, Nose and Throat)</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<ul class="list">
+<li><a href="/services/pain-management-program/">Pain Management Program</a></li>
+<li><a href="/services/palliative-care/">Palliative Care</a></li>
+<li><a href="/services/pulmonology/">Pulmonology</a></li>
+<li><a href="/services/physical-medicine-and-rehabilitation/">Rehabilitation</a></li>
+<li><a href="/services/rheumatology">Rheumatology</a></li>
+<li><a href="/services/sleep-health/">Sleep Health</a></li>
+<li><a href="/services/surgical-services/">Surgical Services</a></li>
+<li><a href="/services/behavioral-medicine-institute/conditions-treated/therapeutic-day-school-and-transition-program/">Therapeutic Day Schools</a></li>
+<li><a href="/services/urology/">Urology</a></li>
+<li><a href="/services/wound-healing-center/">Wound Healing Center</a></li>
+<li><a href="/services/vein-center/">Vein Center</a></li>
+</ul>
+</div>
+</div></div>
+
+<div class="navbarMenuContent Desktop hidden-xs visible-md" style="width:100%; clear:both;"><div class="container">
+<div class="col-md-12">
+<h3>Our Expertise</h3>
+</div>
+<div class="col-md-3">
+<ul class="list list-links-bold">
+<li><a href="/services/center-for-bariatrics-and-weight-loss/">Bariatric &amp; Weight Loss Center</a></li>
+<li><a href="/services/behavioral-medicine-institute/">Behavioral Medicine Institute</a></li>
+<li><a href="/services/cancer-institute/">Cancer Institute</a></li>
+<li><a href="/services/digestive-health-institute/">Digestive Health Institute</a></li>
+<li><a href="/services/heart-and-vascular-institute/">Heart &amp; Vascular Institute</a></li>
+<li><a href="/services/immediate-care">Immediate Care</a></li>
+<li><a href="/services/neurosciences-institute/">Neurosciences Institute</a></li>
+<li><a href="/services/orthopedics-institute/">Orthopedics Institute</a></li>
+<li><a href="/services/pediatrics-institute/">Pediatrics Institute</a></li>
+<li><a href="/services/womens-health-institute/">Women's Health Institute</a></li>
+<li><strong><a href="/services/" class="with-arrow"><strong>View All&nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i> </strong></a></strong></li>
+</ul>
+</div>
+<div class="col-md-3">
+<ul class="list">
+<li><a href="/services/endocrinology/">Diabetes/Endocrinology</a></li>
+<li><a href="/services/emergency-services">Emergency Services</a></li>
+<li><a href="/services/geriatrics/">Geriatrics</a></li>
+<li><a href="/services/home-care/">Home Care</a></li>
+<li><a href="/services/hospice-care/">Hospice Care</a></li>
+<li><a href="/services/hyperhidrosis-program/">Hyperhidrosis Program</a></li>
+<li><a href="/services/imaging-services/">Imaging Services</a></li>
+<li><a href="/services/laboratory-services">Laboratory Services</a></li>
+<li><a href="/services/nutrition-services/">Nutrition</a></li>
+<li><a href="/services/ophthalmology">Ophthalmology Services</a></li>
+<li><a href="/services/ear-nose-and-throat-otolaryngology">Otolaryngology (Ear, Nose and Throat)</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<ul class="list">
+<li><a href="/services/pain-management-program/">Pain Management Program</a></li>
+<li><a href="/services/palliative-care/">Palliative Care</a></li>
+<li><a href="/services/pulmonology/">Pulmonology</a></li>
+<li><a href="/services/physical-medicine-and-rehabilitation/">Rehabilitation</a></li>
+<li><a href="/services/rheumatology">Rheumatology</a></li>
+<li><a href="/services/sleep-health/">Sleep Health</a></li>
+<li><a href="/services/surgical-services/">Surgical Services</a></li>
+<li><a href="/services/behavioral-medicine-institute/conditions-treated/therapeutic-day-school-and-transition-program/">Therapeutic Day Schools</a></li>
+<li><a href="/services/urology/">Urology</a></li>
+<li><a href="/services/wound-healing-center/">Wound Healing Center</a></li>
+<li><a href="/services/vein-center/">Vein Center</a></li>
+</ul>
+</div>
+</div></div>
+
+<div class="navbarMenuContent Tablet hidden-xs visible-sm" style="width:100%; clear:both;"><div class="container">
+<div class="col-md-12">
+<h3>Our Expertise</h3>
+</div>
+<div class="col-md-3">
+<ul class="list list-links-bold">
+<li><a href="/services/center-for-bariatrics-and-weight-loss/">Bariatric &amp; Weight Loss Center</a></li>
+<li><a href="/services/behavioral-medicine-institute/">Behavioral Medicine Institute</a></li>
+<li><a href="/services/cancer-institute/">Cancer Institute</a></li>
+<li><a href="/services/digestive-health-institute/">Digestive Health Institute</a></li>
+<li><a href="/services/heart-and-vascular-institute/">Heart &amp; Vascular Institute</a></li>
+<li><a href="/services/immediate-care">Immediate Care</a></li>
+<li><a href="/services/neurosciences-institute/">Neurosciences Institute</a></li>
+<li><a href="/services/orthopedics-institute/">Orthopedics Institute</a></li>
+<li><a href="/services/pediatrics-institute/">Pediatrics Institute</a></li>
+<li><a href="/services/womens-health-institute/">Women's Health Institute</a></li>
+<li><strong><a href="/services/" class="with-arrow"><strong>View All&nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i> </strong></a></strong></li>
+</ul>
+</div>
+<div class="col-md-3">
+<ul class="list">
+<li><a href="/services/endocrinology/">Diabetes/Endocrinology</a></li>
+<li><a href="/services/emergency-services">Emergency Services</a></li>
+<li><a href="/services/geriatrics/">Geriatrics</a></li>
+<li><a href="/services/home-care/">Home Care</a></li>
+<li><a href="/services/hospice-care/">Hospice Care</a></li>
+<li><a href="/services/hyperhidrosis-program/">Hyperhidrosis Program</a></li>
+<li><a href="/services/imaging-services/">Imaging Services</a></li>
+<li><a href="/services/laboratory-services">Laboratory Services</a></li>
+<li><a href="/services/nutrition-services/">Nutrition</a></li>
+<li><a href="/services/ophthalmology">Ophthalmology Services</a></li>
+<li><a href="/services/ear-nose-and-throat-otolaryngology">Otolaryngology (Ear, Nose and Throat)</a></li>
+</ul>
+</div>
+<div class="col-md-3">
+<ul class="list">
+<li><a href="/services/pain-management-program/">Pain Management Program</a></li>
+<li><a href="/services/palliative-care/">Palliative Care</a></li>
+<li><a href="/services/pulmonology/">Pulmonology</a></li>
+<li><a href="/services/physical-medicine-and-rehabilitation/">Rehabilitation</a></li>
+<li><a href="/services/rheumatology">Rheumatology</a></li>
+<li><a href="/services/sleep-health/">Sleep Health</a></li>
+<li><a href="/services/surgical-services/">Surgical Services</a></li>
+<li><a href="/services/behavioral-medicine-institute/conditions-treated/therapeutic-day-school-and-transition-program/">Therapeutic Day Schools</a></li>
+<li><a href="/services/urology/">Urology</a></li>
+<li><a href="/services/wound-healing-center/">Wound Healing Center</a></li>
+<li><a href="/services/vein-center/">Vein Center</a></li>
+</ul>
+</div>
+</div></div>
+
+</div>
+</li>
+<li role="presentation" id="linkFirst-global-menu-241001-4" data-assetid="241001" data-asset-path="241001" class="navbarFirst dropdown hidden-xs level1"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-href="/our-locations/">Locations <span class="caret"></span></a><div id="navbar-global-menu-4" class="dropdown-menu">
+
+
+<div class="navbarMenuContent hidden-xs visible-lg visible-md visible-sm" style="width:100%; clear:both;"><div class="module-wrap"><div class="row ih-widget-row">
+	<div class="col-xs-12 ih-widget-column">
+		<div id="ih-widget-content" class="ih-widget-wrap">
+			<script type="text/javascript">
+    var g_ihApplicationPath = 'https://contentapps.influencehealth.com/ah';
+    var moduleInstanceData_IH_PublicDetailViewf552f56e_93fd_480d_85c0_70d1348afae5 = {"IsNewRecord":false,"IsEditMode":false,"ModuleInstanceId":"43e51d26-3e1d-47b1-8c30-2173325b1ce6","ModuleName":"location","ModuleViewName":"PublicSearchView","ModuleDisplayName":"Locations","ModuleViewDisplayName":"Search View","TemplateName":"Search","SettingsData":"{\"SearchButtonText\":\"Search Now\",\"BingMappingKey\":\"\",\"GoogleMappingKey\":\"AIzaSyD5xEoUgPhZ-aKs_Pq-_TYGznSsr1a3fuE\",\"AvailableFields\":[],\"ExclusiveLayoutTemplates\":[],\"StaticPageZones\":[{\"Key\":\"Body\",\"Value\":{\"ZoneTitle\":\"\",\"FieldColumns\":[{\"IsRowBreaker\":false,\"ColumnWidth\":6,\"Fields\":[{\"UniqueId\":\"770\",\"FieldType\":\"TextBox\",\"FieldName\":\"PostalCode\",\"DisplayName\":\"ZIP Code\",\"PublicLabel\":\"ZIP Code\",\"ShowLabel\":false,\"TextSize\":\"Normal\",\"CssClass\":\"mega-menu-zip\",\"Settings\":[],\"TrueValue\":\"True\",\"FalseValue\":\"False\",\"Values\":[],\"AvailableFields\":[],\"FieldColumns\":[],\"HintText\":\"Enter ZIP Code\",\"Options\":[],\"FilterSettings\":{\"NumberToShow\":0,\"FilterValues\":[]},\"Tokens\":[],\"HideComplexFieldChildrenInPreview\":false,\"HideFromAvailableFields\":false,\"AutoQueryLocation\":false},{\"FieldCategory\":\"Control\",\"UniqueId\":\"9628\",\"FieldType\":\"RawText\",\"FieldName\":\"RawText\",\"DisplayName\":\"Raw Text\",\"ShowLabel\":false,\"TextSize\":\"Normal\",\"Settings\":[],\"Value\":\"or\",\"TrueValue\":\"True\",\"FalseValue\":\"False\",\"Values\":[],\"AvailableFields\":[],\"FieldColumns\":[],\"Options\":[],\"FilterSettings\":{\"NumberToShow\":0,\"FilterValues\":[]},\"Tokens\":[],\"URL\":\"\",\"HideComplexFieldChildrenInPreview\":false,\"HideFromAvailableFields\":false,\"AutoQueryLocation\":false},{\"UniqueId\":\"2238\",\"FieldType\":\"GeolocationLink\",\"FieldName\":\"GeolocationLink\",\"DisplayName\":\"User Geolocation\",\"ShowLabel\":true,\"TextSize\":\"Normal\",\"Settings\":[],\"Value\":\"View Locations Near Me\",\"TrueValue\":\"(click to remove)\",\"FalseValue\":\"Finding Location...\",\"Values\":[],\"AvailableFields\":[],\"FieldColumns\":[],\"Options\":[],\"FilterSettings\":{\"NumberToShow\":0,\"FilterValues\":[]},\"Tokens\":[],\"HideComplexFieldChildrenInPreview\":false,\"HideFromAvailableFields\":false,\"AutoQueryLocation\":false}]},{\"IsRowBreaker\":false,\"ColumnWidth\":6,\"Fields\":[{\"FieldCategory\":\"Control\",\"UniqueId\":\"6514\",\"FieldType\":\"WYSIWYG\",\"FieldName\":\"WYSIWYG\",\"DisplayName\":\"Content Editor\",\"ShowLabel\":false,\"TextSize\":\"Normal\",\"Settings\":[],\"Value\":\"<h4><b>Locations by location type:</b></h4><ul class=\\\"list list-links-bold\\\"><li><a href=\\\"/our-locations/?LocationTypeId=3&amp;LocationTypeText=Hospital&amp;&amp;LocationDescendants=true\\\">Hospitals</a></li><li><a href=\\\"/our-locations/?LocationTypeId=7&amp;LocationTypeText=Immediate%20Care&amp;&amp;LocationDescendants=true\\\">Immediate Care Centers</a></li><li><a href=\\\"/our-locations/?LocationTypeId=4&amp;LocationTypeText=Outpatient%20Center&amp;&amp;LocationDescendants=true\\\">AMITA Health Medical Group</a></li><li><a href=\\\"/our-locations/?ServicesId=1&amp;ServicesText=Behavioral%20Medicine&amp;&amp;LocationDescendants=true\\\">Behavioral Medicine Institute</a></li><li><a href=\\\"/our-locations/?LocationTypeId=6&amp;LocationTypeText=Hospice&amp;&amp;LocationDescendants=true\\\">Hospice</a></li><li><a href=\\\"/our-locations/?LocationTypeId=5&amp;LocationTypeText=Imaging%20Center&amp;&amp;LocationDescendants=true\\\">Imaging Centers</a></li><li><a href=\\\"/our-locations/?LocationTypeId=11&amp;LocationTypeText=Laboratory&amp;&amp;LocationDescendants=true\\\">Laboratories</a></li><li><a href=\\\"/our-locations/?LocationTypeId=13&amp;LocationTypeText=Occupational%20Health%20Center&amp;&amp;LocationDescendants=true\\\">Occupational Health Centers</a></li><li><a href=\\\"/our-locations/?LocationTypeId=10&amp;LocationTypeText=Rehabilitation%20Center&amp;&amp;LocationDescendants=true\\\">Rehabilitation Centers</a></li></ul>\",\"TrueValue\":\"True\",\"FalseValue\":\"False\",\"Values\":[],\"AvailableFields\":[],\"FieldColumns\":[],\"Options\":[],\"FilterSettings\":{\"NumberToShow\":0,\"FilterValues\":[]},\"Tokens\":[],\"HideComplexFieldChildrenInPreview\":false,\"HideFromAvailableFields\":false,\"AutoQueryLocation\":false}]}],\"IsDefaultOpen\":false,\"FieldDataExists\":false}}],\"DynamicPageZones\":[],\"SettingGroups\":[{\"Name\":\"Basic Settings\",\"Settings\":[{\"Name\":\"SearchResultsPageUrl\",\"DisplayName\":\"Search Results Page URL\",\"SettingType\":\"Text\",\"Value\":\"/our-locations/\",\"Options\":[]},{\"Name\":\"MinAutoCompleteChars\",\"DisplayName\":\"Minimum Autocomplete Characters Required\",\"SettingType\":\"Text\",\"Value\":3,\"Options\":[]}],\"IsOpen\":true,\"IsHidden\":false},{\"Name\":\"Location Settings\",\"Settings\":[{\"Name\":\"LocationSettingsHelp\",\"DisplayName\":\"\",\"SettingType\":\"HTML\",\"Value\":\"<div class='col-xs-12 bg-info'><div class='col-xs-12'>Note: These settings are ignored if location settings are present in the page's query string.</div></div>\",\"Options\":[]},{\"Name\":\"LocationContext\",\"DisplayName\":\"Limit Results to Location\",\"SettingType\":\"Dropdown\",\"Value\":0,\"Options\":[{\"Key\":0,\"Value\":\"- Automatic -\"},{\"Key\":1,\"Value\":\"AMITA Health\"},{\"Key\":3,\"Value\":\"AMITA Health > AMITA Health Adventist Medical Center Bolingbrook\"},{\"Key\":381,\"Value\":\"AMITA Health > AMITA Health Adventist Medical Center Hinsdale New Day Center\"},{\"Key\":517,\"Value\":\"AMITA Health > AMITA Health Center for Psychiatric Research\"},{\"Key\":331,\"Value\":\"AMITA Health > AMITA Health La Grange Family Medicine Center\"},{\"Key\":39,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Behavioral Medicine Westmont\"},{\"Key\":252,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Cardiovascular Associates\"},{\"Key\":261,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Cardiovascular Associates\"},{\"Key\":116,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Diabetes Education Services Bolingbrook\"},{\"Key\":149,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Diabetes Education Services Carol Stream\"},{\"Key\":319,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Diabetes Education Services Hinsdale\"},{\"Key\":318,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Ear Institute of Illinois, Hinsdale\"},{\"Key\":119,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Ear, Nose & Throat Bolingbrook\"},{\"Key\":150,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Ear, Nose & Throat Carol Stream\"},{\"Key\":242,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Ear, Nose & Throat Downers Grove\"},{\"Key\":315,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Ear, Nose & Throat Hinsdale, Salt Creek Ln.\"},{\"Key\":313,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Ear, Nose & Throat Hinsdale, York Rd.\"},{\"Key\":83,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Ear, Nose & Throat Plainfield\"},{\"Key\":311,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Endocrinology Hinsdale\"},{\"Key\":21,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Bloomingdale\"},{\"Key\":120,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Bolingbrook, E. Boughton Rd.\"},{\"Key\":121,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Bolingbrook, Remington Blvd.\"},{\"Key\":152,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Carol Stream\"},{\"Key\":327,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Chicago, Archer Ave.\"},{\"Key\":234,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Clarendon Hills\"},{\"Key\":246,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Elgin\"},{\"Key\":254,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Elk Grove Village\"},{\"Key\":308,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Hinsdale, 908 N. Elm St.\"},{\"Key\":306,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Hinsdale, 911 N. Elm St., Ste. 123\"},{\"Key\":304,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Hinsdale, 911 N. Elm St., Ste. 301\"},{\"Key\":302,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Hinsdale, Salt Creek Lane\"},{\"Key\":258,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Hoffman Estates\"},{\"Key\":192,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Itasca\"},{\"Key\":131,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine La Grange\"},{\"Key\":122,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Lake Zurich\"},{\"Key\":103,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Mount Prospect\"},{\"Key\":87,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Palatine\"},{\"Key\":82,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Plainfield, 135th St.\"},{\"Key\":81,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Plainfield, S. Rt. 59\"},{\"Key\":73,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Riverside\"},{\"Key\":69,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Schaumburg, Golf Rd.\"},{\"Key\":70,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Schaumburg, Schaumburg Rd.\"},{\"Key\":43,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Westchester\"},{\"Key\":41,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Western Springs\"},{\"Key\":31,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Family Medicine Woodridge\"},{\"Key\":372,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Gastroenterology Bolingbrook\"},{\"Key\":153,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Gastroenterology Carol Stream\"},{\"Key\":297,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Gastroenterology Hinsdale\"},{\"Key\":80,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Gastroenterology Plainfield\"},{\"Key\":124,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group General Surgery Bolingbrook\"},{\"Key\":314,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group General Surgery Glendale Heights\"},{\"Key\":296,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group General Surgery Hinsdale, 908 N. Elm St.\"},{\"Key\":294,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group General Surgery Hinsdale, 911 N. Elm St.\"},{\"Key\":128,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group General Surgery La Grange\"},{\"Key\":79,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group General Surgery Plainfield\"},{\"Key\":30,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group General Surgery Woodridge\"},{\"Key\":240,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Geriatrics Des Plaines\"},{\"Key\":256,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Geriatrics Elk Grove Village\"},{\"Key\":68,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Geriatrics Schaumburg\"},{\"Key\":257,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Health Psychology Elk Grove Village\"},{\"Key\":292,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Health Psychology Hinsdale\"},{\"Key\":255,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Health Psychology Hoffman Estates\"},{\"Key\":125,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Heart & Vascular Bolingbrook\"},{\"Key\":291,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Heart & Vascular Hinsdale\"},{\"Key\":42,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Heart & Vascular Westchester\"},{\"Key\":97,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Internal Medicine Addison\"},{\"Key\":115,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Internal Medicine Bloomingdale\"},{\"Key\":127,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Internal Medicine Bolingbrook\"},{\"Key\":196,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Internal Medicine Chicago, 5327 N. Sheridan Rd.\"},{\"Key\":186,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Internal Medicine Chicago, Archer Ave.\"},{\"Key\":236,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Internal Medicine Countryside\"},{\"Key\":244,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Internal Medicine Downers Grove\"},{\"Key\":259,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Internal Medicine Elk Grove Village, 800 Biesterfield Rd., Ste. 505\"},{\"Key\":260,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Internal Medicine Elk Grove Village, Biesterfield Rd., Ste. 206\"},{\"Key\":293,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Internal Medicine Elmhurst\"},{\"Key\":253,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Internal Medicine Hoffman Estates\"},{\"Key\":126,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Internal Medicine La Grange\"},{\"Key\":71,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Internal Medicine Romeoville\"},{\"Key\":262,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Interventional Neuroradiology Elk Grove Village\"},{\"Key\":290,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Interventional Neuroradiology Hinsdale\"},{\"Key\":129,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Maternal Fetal Medicine Bolingbrook\"},{\"Key\":263,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Maternal Fetal Medicine Elk Grove Village\"},{\"Key\":316,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Maternal Fetal Medicine Glendale Heights\"},{\"Key\":289,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Maternal Fetal Medicine Hinsdale\"},{\"Key\":250,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Maternal Fetal Medicine Hoffman Estates\"},{\"Key\":264,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Memory Disorders Elk Grove Village\"},{\"Key\":245,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Memory Disorders Hoffman Estates\"},{\"Key\":288,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Neuro-Epilepsy Hinsdale\"},{\"Key\":243,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Neuro-Epilepsy Hoffman Estates\"},{\"Key\":287,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Neurology Hinsdale\"},{\"Key\":265,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Neuropsychology Elk Grove Village\"},{\"Key\":286,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Neuropsychology Hinsdale\"},{\"Key\":241,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Neuropsychology Hoffman Estates\"},{\"Key\":266,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Neurosurgery Elk Grove Village\"},{\"Key\":285,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Neurosurgery Hinsdale\"},{\"Key\":239,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Neurosurgery Hoffman Estates\"},{\"Key\":26,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology Barrington\"},{\"Key\":106,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology Bartlett\"},{\"Key\":133,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology Bolingbrook\"},{\"Key\":373,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology Buffalo Grove\"},{\"Key\":154,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology Carol Stream\"},{\"Key\":374,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology Downers Grove\"},{\"Key\":267,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology Elk Grove Village\"},{\"Key\":284,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology Hinsdale, Elm Street\"},{\"Key\":237,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology Hoffman Estates\"},{\"Key\":232,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology Hoffman Estates, Barrington Rd., Ste. 335\"},{\"Key\":123,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology La Grange\"},{\"Key\":118,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology Lake Zurich\"},{\"Key\":96,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology Naperville\"},{\"Key\":76,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology Plainfield\"},{\"Key\":67,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology Schaumburg\"},{\"Key\":29,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics & Gynecology Woodridge\"},{\"Key\":376,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Obstetrics, Midwifery & Gynecology Hinsdale\"},{\"Key\":135,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Oncology & Hematology Bolingbrook\"},{\"Key\":268,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Oncology & Hematology Elk Grove Village\"},{\"Key\":317,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Oncology & Hematology Glendale Heights\"},{\"Key\":283,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Oncology & Hematology Hinsdale\"},{\"Key\":139,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Orthopedics Bolingbrook\"},{\"Key\":282,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Orthopedics Hinsdale\"},{\"Key\":324,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pain Management Bartlett\"},{\"Key\":156,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pain Management Carol Stream\"},{\"Key\":269,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pain Management Elk Grove Village\"},{\"Key\":231,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pain Management Hoffman Estates\"},{\"Key\":28,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pain Management Woodridge\"},{\"Key\":34,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatric Adolescent Gynecology Wheaton\"},{\"Key\":33,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatric Adolescent Medicine Wheaton\"},{\"Key\":228,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatric Cardiology Hoffman Estates\"},{\"Key\":219,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatric Concussion Clinic Hoffman Estates\"},{\"Key\":216,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatric Development Hoffman Estates\"},{\"Key\":213,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatric Endocrinology Hoffman Estates\"},{\"Key\":212,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatric Infectious Disease Hoffman Estates\"},{\"Key\":211,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatric Nephrology Hoffman Estates\"},{\"Key\":210,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatric Neurology Hoffman Estates\"},{\"Key\":271,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatric Neuropsychology Elk Grove Village\"},{\"Key\":208,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatric Neuropsychology Hoffman Estates\"},{\"Key\":206,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatric Neurosurgery Hoffman Estates\"},{\"Key\":203,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatric Pulmonology Hoffman Estates\"},{\"Key\":201,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatric Surgery Hoffman Estates\"},{\"Key\":272,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatrics Elk Grove Village\"},{\"Key\":199,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Pediatrics Hoffman Estates\"},{\"Key\":102,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Primary Care Barrington\"},{\"Key\":107,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Primary Care Bartlett\"},{\"Key\":273,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Surgical Oncology Elk Grove Village\"},{\"Key\":193,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Urogynecology Hoffman Estates\"},{\"Key\":140,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Urology Bolingbrook\"},{\"Key\":378,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Urology Hinsdale\"},{\"Key\":274,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Vein Clinic Elk Grove Village\"},{\"Key\":108,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Weight Loss Solutions Bartlett\"},{\"Key\":233,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Weight Loss Solutions Chicago\"},{\"Key\":101,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Weight Loss Solutions Mount Prospect\"},{\"Key\":66,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Weight Loss Solutions Schaumburg\"},{\"Key\":35,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Weight Loss Solutions Westmont\"},{\"Key\":27,\"Value\":\"AMITA Health > AMITA Health Medical Group > AMITA Health Medical Group Weight Loss Solutions Woodridge\"},{\"Key\":104,\"Value\":\"AMITA Health > AMITA Health Medical Group Breast Surgery Bartlett\"},{\"Key\":379,\"Value\":\"AMITA Health > AMITA Health OPTIONS Outpatient Adolescent Program\"},{\"Key\":380,\"Value\":\"AMITA Health > AMITA Health OPTIONS Outpatient Adult Program\"}]},{\"Name\":\"LocationDescendants\",\"DisplayName\":\"Include Child Locations\",\"SettingType\":\"Boolean\",\"Value\":true,\"Options\":[]}],\"IsOpen\":true,\"IsHidden\":false}],\"HideConfigHeader\":false,\"ShowReusablityFields\":false,\"HideConfigLayoutTab\":false,\"HideConfigPreviewTab\":false,\"HideConfigSettingsTab\":false}","Action":null,"DisplayName":null,"IsReusable":false,"ModuleDefinitions":null,"DiagnosticOutput":[]};
+
+    if (!window.controllerNames) {
+        window.controllerNames = [];
+    }
+
+    window.controllerNames.push("IH_PublicDetailViewf552f56e_93fd_480d_85c0_70d1348afae5");
+
+    function AddScriptIfNeeded(scriptPath, onLoadFunction, compareFullPath) {
+
+        var head = document.getElementsByTagName("head")[0];
+        var scriptPathFileName;
+
+        if (scriptPath.indexOf("?") == -1) {
+            if (compareFullPath)
+                scriptPathFileName = scriptPath;
+            else
+                scriptPathFileName = scriptPath.substring(scriptPath.lastIndexOf("/") + 1);
+        }
+        else {
+            if (compareFullPath)
+                scriptPathFileName = scriptPath.substring(0, scriptPath.indexOf("?"));
+            else
+                scriptPathFileName = scriptPath.substring(scriptPath.lastIndexOf("/") + 1, scriptPath.indexOf("?"));
+        }
+
+        for (var i = 0; i < head.children.length; i++) {
+            if (head.children[i].src && head.children[i].src.indexOf(scriptPathFileName) != -1)
+            {
+                if(onLoadFunction && scriptPathFileName == 'jquery.min.js')
+                    onLoadFunction();
+                return;
+            }
+        }
+
+        if (IsFileBundled(scriptPathFileName, head))
+            return;
+
+        var fileref = document.createElement('script')
+        fileref.setAttribute("type", "text/javascript")
+        fileref.setAttribute("src", scriptPath)
+        fileref.onload = onLoadFunction;
+        head.appendChild(fileref)
+    }
+
+    function IsFileBundled(scriptPathFileName, head){
+
+        if (scriptPathFileName.indexOf("jquery.min.js") >=0 || scriptPathFileName.indexOf("bootstrap.min.css") >=0 || scriptPathFileName.indexOf("font-awesome.min.css") >=0){
+            for (var i = 0; i < head.children.length; i++) {
+                if (head.children[i].href && head.children[i].href.indexOf("cms.css") != -1)
+                    return true;
+            }
+        }
+
+        return false;
+    }
+
+    function AddStyleReferenceIfNeeded(stylePath)
+    {
+        var head = document.getElementsByTagName("head")[0];
+        var styleFileName;
+
+        if(stylePath.indexOf("?") == -1)
+            styleFileName = stylePath.substring(stylePath.lastIndexOf("/") + 1);
+        else
+            styleFileName = stylePath.substring(stylePath.lastIndexOf("/") + 1, stylePath.indexOf("?"));
+
+        for (var i = 0; i < head.children.length; i++) {
+            if (head.children[i].href && head.children[i].href.indexOf(styleFileName) != -1)
+                return;
+        }
+
+        if (IsFileBundled(styleFileName, head))
+            return;
+
+        var fileref = document.createElement('link')
+        fileref.setAttribute("rel", "stylesheet")
+        fileref.setAttribute("href", stylePath)
+        head.appendChild(fileref)
+    }
+
+    // Use this function to execute any script after the DOM is fully rendered
+    function DocumentIsReady()
+    {
+        AddScriptIfNeeded("https://contentapps.influencehealth.com/ah/resources/js/atc.min.js?v=5.0.0.30674");
+    }
+
+    AddStyleReferenceIfNeeded("https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css");
+    AddStyleReferenceIfNeeded("https://contentapps.influencehealth.com/ah/resources/css/bootstrap.min.css?v=5.0.0.30674");
+    AddStyleReferenceIfNeeded("https://contentapps.influencehealth.com/ah/resources/css/select.min.css?v=5.0.0.30674");
+    AddStyleReferenceIfNeeded("https://contentapps.influencehealth.com/ah/resources/css/CSF-public.css?v=5.0.0.30674");
+    AddStyleReferenceIfNeeded("https://contentapps.influencehealth.com/ah/resources/css/textAngular.css?v=5.0.0.30674");
+    AddStyleReferenceIfNeeded("https://contentapps.influencehealth.com/ah/resources/css/atc-style-blue.css?v=5.0.0.30674");
+    AddStyleReferenceIfNeeded("https://contentapps.influencehealth.com/ah/resources/css/atc-style-button-icon.css?v=5.0.0.30674");
+    AddStyleReferenceIfNeeded("https://contentapps.influencehealth.com/ah/resources/css/atc-style-menu-wb.css?v=5.0.0.30674");
+
+    AddScriptIfNeeded("https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js", function () {
+        AddScriptIfNeeded("https://contentapps.influencehealth.com/ah/resources/js/angular.min.js?v=5.0.0.30674", function () {
+            AddScriptIfNeeded("https://contentapps.influencehealth.com/ah/resources/js/textAngular-rangy.min.js?v=5.0.0.30674");
+            AddScriptIfNeeded("https://contentapps.influencehealth.com/ah/resources/js/textAngular-sanitize.min.js?v=5.0.0.30674");
+            AddScriptIfNeeded("https://contentapps.influencehealth.com/ah/resources/js/textAngular.min.js?v=5.0.0.30674");
+            AddScriptIfNeeded("https://contentapps.influencehealth.com/ah/resources/js/angular-animate.js?v=5.0.0.30674");
+            AddScriptIfNeeded("https://contentapps.influencehealth.com/ah/resources/js/ui-bootstrap-tpls-0.14.3.js?v=5.0.0.30674");
+            AddScriptIfNeeded("https://contentapps.influencehealth.com/ah/resources/js/select.min.js?v=5.0.0.30674");
+            AddScriptIfNeeded("https://contentapps.influencehealth.com/ah/resources/js/ngStorage.min.js?v=5.0.0.30674");
+            AddScriptIfNeeded("https://contentapps.influencehealth.com/ah/resources/js/bingmapping.js?v=5.0.0.30674");
+            AddScriptIfNeeded("https://contentapps.influencehealth.com/ah/resources/js/googlemapping.js?v=5.0.0.30674");
+        });
+    });
+</script>
+
+<script type="text/javascript" src="https://contentapps.influencehealth.com/ah/Views/ModulePublicV1/PublicDetailView.js?v=5.0.0.30674"></script>
+
+<div id="IH-Container" ng-cloak data-ng-controller="IH_PublicDetailViewf552f56e_93fd_480d_85c0_70d1348afae5 as mainController" data-ng-element-ready="DocumentIsReady()" data-ng-init="init({ ApplicationPath: 'https://contentapps.influencehealth.com/ah', ModuleInstanceId: '43e51d26-3e1d-47b1-8c30-2173325b1ce6', ModuleInstanceDataVariableName: 'moduleInstanceData_IH_PublicDetailViewf552f56e_93fd_480d_85c0_70d1348afae5', ControllerName: 'IH_PublicDetailViewf552f56e_93fd_480d_85c0_70d1348afae5', ServiceProxyEndpoint: '/ServiceProxy.ashx', ExtraQueryString: '', ConfigViewName: '', showAdmin: '' })" data-ng-style="{'border' : showInstanceAdminButton ? 'dashed black 1px' : 'dashed transparent 1px'}">
+    
+    <div id="{{ModuleInstanceModel.ModuleName}}_{{ModuleInstanceModel.ModuleViewName}}_{{ModuleInstanceModel.TemplateName.toLowerCase().split(' ').join('')}}" class="ih-{{ModuleInstanceModel.ModuleName}} ih-{{ModuleInstanceModel.ModuleViewName.toLowerCase()}}">
+        
+        <div data-ng-controller="searchViewController as searchViewController" data-ng-init="searchViewController.init(mainController.scope)">
+	<div data-ng-keyup="SearchKeyPressed($event)">
+		<div class="row">
+			<div class="col-xs-12">
+				<ih-static-zone class="IH_PageZone" zones="SettingsData.StaticPageZones" name="Body"></ih-static-zone>
+			</div>
+		</div>
+		<div class="row stacked">
+			<div class="col-xs-12">
+				<ih-configurable-button text="SettingsData.SearchButtonText" on-click="DoSearch()" button-class="btn btn-primary ih-button-search"></ih-configurable-button>
+			</div>
+		</div>
+	</div>
+</div>
+
+    </div>
+
+</div>
+
+
+		</div>
+	</div>
+</div></div></div>
+
+</div>
+</li>
+<li role="presentation" id="linkFirst-global-menu-240815-5" data-assetid="240815" data-asset-path="240815" class="navbarFirst level1"><a href="/clinical-research/">Clinical Research</a></li>
+<li role="presentation" id="linkFirst-global-menu-241391-6" data-assetid="241391" data-asset-path="241391" class="navbarFirst dropdown hidden-xs level1"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" data-href="/wellness/">Wellness <span class="caret"></span></a><div id="navbar-global-menu-6" class="dropdown-menu">
+
+
+<div class="navbarMenuContent WideDesktop hidden-xs visible-lg" style="width:100%; clear:both;"><div class="container">
+<div class="col-md-4">
+<h3><a href="https://classes.amitahealth.org/wlp2/#!/classes/search">Classes &amp; Events</a></h3>
+<ul class="list">
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=MAT">Birthing Center Tours</a></li>
+<li><a href="https://www.amitahealth.org/services/cancer/support-services/classes-and-care-programs">Cancer Support</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=CP">Childbirth &amp; Parenting</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=DIACH">Diabetes Management</a></li>
+<li><a href="/services/hospice-care/bereavement-services">Grief Support</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=ORTCH">Joint Replacement</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=SPCH">Senior Programs</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=NOSMK">Smoking Cessation</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=WLS">Weight Loss</a></li>
+</ul>
+</div>
+<div class="col-md-5">
+<h3>Screenings &amp; Assessments</h3>
+<ul class="list list-links-bold">
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=COMM" target="_blank">FREE Screenings</a></li>
+<li><a href="/wellness/risk-assessments" target="_blank">FREE Assessments</a></li>
+</ul>
+<ul class="list">
+<li><a href="/services/cancer-institute/prevention-and-wellness/">Cancer</a>
+<ul>
+<li><a href="/services/cancer-institute/prevention-and-wellness/colon-cancer">Colonoscopy</a></li>
+</ul>
+</li>
+<ul class="list">
+<li><a href="/services/cancer-institute/programs/genetic-counseling">Genetic Counseling</a></li>
+<li><a href="/services/cancer-institute/prevention-and-wellness/lung-cancer-screening">Lung Screening</a></li>
+<li><a href="/services/imaging-services/procedures/breast-imaging">Mammogram</a></li>
+</ul>
+<li><a href="/services/digestive-health-institute/center-for-gastroenterology/">Digestive Health</a></li>
+<ul class="list">
+<li><a href="/services/digestive-health-institute/center-for-gastroenterology/hepatitis-c-clinic">Hepatitis C</a></li>
+</ul>
+<li><a href="/services/heart-and-vascular-institute/prevention-and-wellness/">Heart &amp; Vascular</a></li>
+<ul class="list">
+<li><a href="/heartscan/">Heart Disease</a></li>
+<li><a href="/vascularcare/">Vascular Disease</a></li>
+<li><a href="/services/vein-center/">Vein Problems</a></li>
+</ul>
+<li><a href="/services/pediatrics-institute/prevention-wellness">Pediatrics</a></li>
+<ul class="list">
+<li><a href="/services/pediatrics-institute/specialized-outpatient-care/cystic-fibrosis-screening">Cystic Fibrosis</a></li>
+</ul>
+</ul>
+</div>
+<div class="col-md-3">
+<h3><a href="/wellness/support-groups">Support Groups</a></h3>
+<ul class="list">
+<li><a href="/services/behavioral-medicine-institute/support-groups">Behavioral Health</a></li>
+<li><a href="/services/cancer-institute/support-services/support-groups">Cancer</a></li>
+<li><a href="/services/hospice-care/bereavement-services">Grief</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=CARD">Heart &amp; Vascular</a></li>
+<li><a href="/services/neurosciences-institute/treatments/comprehensive-stroke-care/support-group">Stroke</a></li>
+</ul>
+<h3><a href="/blog/">Blog</a></h3>
+</div>
+</div></div>
+
+<div class="navbarMenuContent Desktop hidden-xs visible-md" style="width:100%; clear:both;"><div class="container">
+<div class="col-md-4">
+<h3><a href="https://classes.amitahealth.org/wlp2/#!/classes/search">Classes &amp; Events</a></h3>
+<ul class="list">
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=MAT">Birthing Center Tours</a></li>
+<li><a href="https://www.amitahealth.org/services/cancer/support-services/classes-and-care-programs">Cancer Support</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=CP">Childbirth &amp; Parenting</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=DIACH">Diabetes Management</a></li>
+<li><a href="/services/hospice-care/bereavement-services">Grief Support</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=ORTCH">Joint Replacement</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=SPCH">Senior Programs</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=NOSMK">Smoking Cessation</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=WLS">Weight Loss</a></li>
+</ul>
+</div>
+<div class="col-md-5">
+<h3>Screenings &amp; Assessments</h3>
+<ul class="list list-links-bold">
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=COMM" target="_blank">FREE Screenings</a></li>
+<li><a href="/wellness/risk-assessments" target="_blank">FREE Assessments</a></li>
+</ul>
+<ul class="list">
+<li><a href="/services/cancer-institute/prevention-and-wellness/">Cancer</a>
+<ul>
+<li><a href="/services/cancer-institute/prevention-and-wellness/colon-cancer">Colonoscopy</a></li>
+</ul>
+</li>
+<ul class="list">
+<li><a href="/services/cancer-institute/programs/genetic-counseling">Genetic Counseling</a></li>
+<li><a href="/services/cancer-institute/prevention-and-wellness/lung-cancer-screening">Lung Screening</a></li>
+<li><a href="/services/imaging-services/procedures/breast-imaging">Mammogram</a></li>
+</ul>
+<li><a href="/services/digestive-health-institute/center-for-gastroenterology/">Digestive Health</a></li>
+<ul class="list">
+<li><a href="/services/digestive-health-institute/center-for-gastroenterology/hepatitis-c-clinic">Hepatitis C</a></li>
+</ul>
+<li><a href="/services/heart-and-vascular-institute/prevention-and-wellness/">Heart &amp; Vascular</a></li>
+<ul class="list">
+<li><a href="/heartscan/">Heart Disease</a></li>
+<li><a href="/vascularcare/">Vascular Disease</a></li>
+<li><a href="/services/vein-center/">Vein Problems</a></li>
+</ul>
+<li><a href="/services/pediatrics-institute/prevention-wellness">Pediatrics</a></li>
+<ul class="list">
+<li><a href="/services/pediatrics-institute/specialized-outpatient-care/cystic-fibrosis-screening">Cystic Fibrosis</a></li>
+</ul>
+</ul>
+</div>
+<div class="col-md-3">
+<h3><a href="/wellness/support-groups">Support Groups</a></h3>
+<ul class="list">
+<li><a href="/services/behavioral-medicine-institute/support-groups">Behavioral Health</a></li>
+<li><a href="/services/cancer-institute/support-services/support-groups">Cancer</a></li>
+<li><a href="/services/hospice-care/bereavement-services">Grief</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=CARD">Heart &amp; Vascular</a></li>
+<li><a href="/services/neurosciences-institute/treatments/comprehensive-stroke-care/support-group">Stroke</a></li>
+</ul>
+<h3><a href="/blog/">Blog</a></h3>
+</div>
+</div></div>
+
+<div class="navbarMenuContent Tablet hidden-xs visible-sm" style="width:100%; clear:both;"><div class="container">
+<div class="col-md-4">
+<h3><a href="https://classes.amitahealth.org/wlp2/#!/classes/search">Classes &amp; Events</a></h3>
+<ul class="list">
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=MAT">Birthing Center Tours</a></li>
+<li><a href="https://www.amitahealth.org/services/cancer/support-services/classes-and-care-programs">Cancer Support</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=CP">Childbirth &amp; Parenting</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=DIACH">Diabetes Management</a></li>
+<li><a href="/services/hospice-care/bereavement-services">Grief Support</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=ORTCH">Joint Replacement</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=SPCH">Senior Programs</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=NOSMK">Smoking Cessation</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=WLS">Weight Loss</a></li>
+</ul>
+</div>
+<div class="col-md-5">
+<h3>Screenings &amp; Assessments</h3>
+<ul class="list list-links-bold">
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=COMM" target="_blank">FREE Screenings</a></li>
+<li><a href="/wellness/risk-assessments" target="_blank">FREE Assessments</a></li>
+</ul>
+<ul class="list">
+<li><a href="/services/cancer-institute/prevention-and-wellness/">Cancer</a>
+<ul>
+<li><a href="/services/cancer-institute/prevention-and-wellness/colon-cancer">Colonoscopy</a></li>
+</ul>
+</li>
+<ul class="list">
+<li><a href="/services/cancer-institute/programs/genetic-counseling">Genetic Counseling</a></li>
+<li><a href="/services/cancer-institute/prevention-and-wellness/lung-cancer-screening">Lung Screening</a></li>
+<li><a href="/services/imaging-services/procedures/breast-imaging">Mammogram</a></li>
+</ul>
+<li><a href="/services/digestive-health-institute/center-for-gastroenterology/">Digestive Health</a></li>
+<ul class="list">
+<li><a href="/services/digestive-health-institute/center-for-gastroenterology/hepatitis-c-clinic">Hepatitis C</a></li>
+</ul>
+<li><a href="/services/heart-and-vascular-institute/prevention-and-wellness/">Heart &amp; Vascular</a></li>
+<ul class="list">
+<li><a href="/heartscan/">Heart Disease</a></li>
+<li><a href="/vascularcare/">Vascular Disease</a></li>
+<li><a href="/services/vein-center/">Vein Problems</a></li>
+</ul>
+<li><a href="/services/pediatrics-institute/prevention-wellness">Pediatrics</a></li>
+<ul class="list">
+<li><a href="/services/pediatrics-institute/specialized-outpatient-care/cystic-fibrosis-screening">Cystic Fibrosis</a></li>
+</ul>
+</ul>
+</div>
+<div class="col-md-3">
+<h3><a href="/wellness/support-groups">Support Groups</a></h3>
+<ul class="list">
+<li><a href="/services/behavioral-medicine-institute/support-groups">Behavioral Health</a></li>
+<li><a href="/services/cancer-institute/support-services/support-groups">Cancer</a></li>
+<li><a href="/services/hospice-care/bereavement-services">Grief</a></li>
+<li><a href="https://classes.amitahealth.org/wlp2/#!/classes/search//1/$Category=CARD">Heart &amp; Vascular</a></li>
+<li><a href="/services/neurosciences-institute/treatments/comprehensive-stroke-care/support-group">Stroke</a></li>
+</ul>
+<h3><a href="/blog/">Blog</a></h3>
+</div>
+</div></div>
+
+</div>
+</li>
+</ul>
+</div>
+
+			</div>
+	</nav>
+              </div>
+              <div class="search-icon col-xs-1">
+                 <span class="fa fa-search"></span>
+              </div>
+              
+                  
+           </div>
+           <div class="row">
+               <div class="col-xs-12 search-container">
+                    <div class="sitesearch">
+                        
+<form id="search" class="form-inline" role="form">
+	<div class="form-group">
+		<div class="input-group">
+			<input type="text" id="globalSiteSearchBox" placeholder="Search this site..." onfocus="this.placeholder=''" onblur="this.placeholder='Search this site...'" class="form-control ui-autocomplete-input" autocomplete="off" onkeydown="if (event.keyCode == 13) {event.preventDefault();document.getElementById('siteSearchButton').click();}">
+			<span class="ui-helper-hidden-accessible" role="status" aria-live="polite"></span>
+			<div class="input-group-addon searchBtnContainer">
+				<button id="siteSearchButton" class="btn btn-default" type="button" onclick="doSearch();">
+					<span class="fa fa-search"></span>
+				</button>
+			</div>
+		</div>
+	</div>
+</form>
+                        <div class="close-icon"><i class="fa fa-times"></i></div>
+                    </div>
+                </div>
+           </div>
+        </div>
+     </header><script type="text/javascript">
+function doSearch() {
+var searchUrl = '/site-search/search-results.aspx?q=' + document.getElementById('globalSiteSearchBox').value;
+searchUrl = searchUrl.replace('.aspx', '');
+document.location = searchUrl;
+}
+</script><div id="container-carousel" class="container-fluid ih-top-banner-carousel">
+<div class="row">
+<div class="col-xs-12"></div>
+</div>
+</div>
+<div id="site-body"><div class="container-fluid">
+<script type='text/javascript'>
+var ih_ContentAppSettingsData = {"AdamHealthContentDetailPageUrl":"","EventDetailPageUrl":"\/event\/{directurl}","LocationContextId":"-1","LocationDetailPageUrl":"\/location\/{directurl}","ProviderDetailPageUrl":"\/provider\/{directurl}","ServiceDetailPageUrl":""};
+var ih_PageMeta = {"Locations":[],"Providers":[],"Services":[]};
+</script>
+           <div class="row ih-breadcrumb-row">
+				<div class="col-xs-12 ih-breadcrumb-column">
+					<div id="ih-page-breadcrumb">
+						
+					</div>
+				</div>
+			</div>
+
+           <div class="row ih-header-row">
+				<div class="col-xs-12 ih-header-column">
+					<div id="ih-page-header">
+						
+					</div>
+				</div>
+			</div>
+
+			<div class="row ih-content-row">
+				<div class="col-md-3 col-xs-12 ih-left-column">
+					<div id="ih-page-left-navigation">
+						
+					</div>
+					<div id="ih-page-left-rail">
+						<div><div class="row">
+	<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 fad-btn">
+		<p><a href="/doctor/"><img src="/services/easset_upload_file97183_241093_e.svg" alt="find a doctor" width="60" height="60"/></a></p>
+		<p><a href="/doctor/">Find a Doctor</a></p>
+	</div>
+
+	<div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 raa-btn">
+		<p><a href="/schedule-appointment/"><img src="/services/easset_upload_file88144_241093_e.svg" alt="request an appointment" width="60" height="60"/></a></p>
+		<p><a href="/schedule-appointment/">Schedule&nbsp;an Appointment</a></p>
+	</div>
+</div><div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 openclose-btn">
+		<div class="open-btn">
+		<p><img src="/services/easset_upload_file75449_241093_e.svg" alt="In this section" width="60" height="60"/></p>
+		<p>In this section</p>
+		</div>
+		<div class="close-btn">
+		<p><img src="/services/easset_upload_file75319_241093_e.svg" alt="Close" width="28" height="28"/></p>
+		<p>Close</p>
+		</div>
+	</div>
+</div></div>
+					</div>
+				</div>
+				<div class="col-md-9  col-xs-12 ih-content-column">
+					<div id="ih-page-body">
+						
+<h1 id="cphMain_ihPageTitle" class="ih-page-title" itemprop="name">Page Not Found</h1>
+<script type="text/javascript">var hierarchalData = "237233";</script>
+					</div>
+				</div>
+			</div>
+
+			<div class="row ih-footer-row">
+				<div class="col-xs-12 ih-footer-column">
+					<div id="ih-page-footer">
+						<div class="row">
+	<div class="col-xs-12">		<footer id="footer-row">
+		<div class="contain">
+		<div class="footer-quick-btns">
+		<div class="quick-btns">
+		<ul class="quick-list">
+		<li><a href="/doctor/"><span class="icon-quick-stethoscope"> <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span><span class="path5"></span><span class="path6"></span><span class="path7"></span> </span><span>Find a Doctor</span></a></li>
+		<li><a href="/schedule-appointment/"><span class="icon-quick-appointment"> </span><span>Request an Appointment</span></a></li>
+		<li><a href="/our-locations/"><span class="icon-quick-location"> </span><span>Find a Location</span></a></li>
+		<li><a href="/patient-resources/pay-your-bill/"><span class="icon-quick-paybill"> </span><span>Pay Your Bill</span></a></li>
+		</ul>
+		</div>
+		</div>
+		<div class="footer-nav-row">
+		<div class="footer-col">
+		<div class="footer-nav">
+		<h3><span><a href="/about-us/">About Us</a></span><i class="icon-box-plus"></i></h3>
+		<ul>
+		<li><a href="/about-us/mission-and-values/">Mission &amp; Values</a></li>
+		<li><a href="/about-us/meet-our-leaders">Leadership</a></li>
+		<li><a href="/about-us/community-benefit/">Community Benefit</a></li>
+		<li><a href="/about-us/social-media">Social Media</a></li>
+		<li><a href="/about-us/volunteer-programs/">Volunteer</a></li>
+		<li><a href="https://amitahealth.sharepoint.com/sites/iamita">Employee Portal</a></li>
+		<ul>
+		<li><a href="/for-associates/">Remote Access</a></li>
+		</ul>
+		</ul>
+		<h3><span><a href="/news">News</a></span></h3>
+		<h3><span><a href="/wellness/">Wellness</a></span></h3>
+		<h3><span><a href="https://classes.amitahealth.org/wlp2/#!/classes/find" target="_blank">Classes &amp; Events</a></span></h3>
+		<h3><span><a href="/patient-resources/giving/">Giving</a></span></h3>
+		</div>
+		</div>
+		<div class="footer-col">
+		<div class="footer-nav">
+		<h3><span><a href="/services">Our Expertise</a></span><i class="icon-box-plus"></i></h3>
+		<ul>
+		<li><a href="/services/center-for-bariatrics-and-weight-loss/">Bariatric &amp; Weight Loss Center</a></li>
+		<li><a href="/services/behavioral-medicine-institute/">Behavioral Medicine Institute</a></li>
+		<li><a href="/services/cancer-institute/">Cancer Institute</a></li>
+		<li><a href="/services/digestive-health-institute/">Digestive Health Institute</a></li>
+		<li><a href="/services/heart-and-vascular-institute/">Heart &amp; Vascular Institute</a></li>
+		<li><a href="/services/immediate-care">Immediate Care</a></li>
+		<li><a href="/services/neurosciences-institute/">Neurosciences Institute</a></li>
+		<li><a href="/services/neurosciences-institute/">Orthopedics Institute</a></li>
+		<li><a href="/services/pediatrics-institute/">Pediatrics Institute</a></li>
+		<li><a href="/services/womens-health-institute/">Women's Heath Institute</a></li>
+		<li><strong><a href="/services/" class="with-arrow"><strong>View All</strong></a></strong></li>
+		</ul>
+		</div>
+		</div>
+		<div class="footer-col">
+		<div class="footer-nav">
+		<h3><span><a href="/patient-resources/">Patient Resources</a></span><i class="icon-box-plus"></i></h3>
+		<ul>
+		<li><a href="/patient-resources/advance-directives">Advance Directives</a></li>
+		<li><a href="/healthcheck">AMITA Health Check</a></li>
+		<li><a href="/patient-resources/community-resources">Community Resources</a></li>
+		<li><a href="/patient-resources/gift-shops">Gift Shops</a></li>
+		<li><a href="/patient-resources/interpreter-services">Interpreter Services</a></li>
+		<li><a href="/patient-resources/medical-resources">Medical Resources</a></li>
+		<li><a href="/patient-resources/patient-rights/">Patient Rights</a></li>
+		<li><a href="/patient-resources/pay-your-bill/">Paying Your Bill</a></li>
+		<li><a href="/patient-resources/pharmacy-services">Pharmacy Services</a></li>
+		<li><a href="/patient-resources/preparing-for-your-visit">Preparing For Your Visit</a></li>
+		<li><a href="/patient-resources/resources-guides">Resource Guides</a></li>
+		<li><a href="/patient-resources/spiritual-care/">Spiritual Care</a></li>
+		<li><a href="/patient-resources/surgery-tips">Surgery Tips</a></li>
+		</ul>
+		</div>
+		</div>
+		<div class="footer-col">
+		<div class="footer-nav">
+		<h3><span><a href="/for-healthcare-professionals/">For Healthcare Professionals</a></span><i class="icon-box-plus"></i></h3>
+		<ul>
+		<li><a href="/medical-group/">AMITA Health Medical Group</a></li>
+		<li><a href="/for-healthcare-professionals/recruitment">Recruitment</a></li>
+		<li><a href="/for-healthcare-professionals/amita-health-care-network/">The AMITA Health Care Network</a></li>
+		<li><i></i><a href="http://clinicalconnections.amitahealth.org/" target="_blank"><i>Vital Signs</i> eZine</a></li>
+		<li><a href="https://amitahealth.sharepoint.com/sites/clinicalconnection">Clinical Connection Provider Portal</a></li>
+		</ul>
+		<h3><span><a href="/for-employers/">For Employers</a></span><i class="icon-box-plus"></i></h3>
+		<ul>
+		<li><a href="/for-employers/amita-health-care-network">AMITA Health Care Network</a></li>
+		<li><a href="/for-employers/employee-wellness">Employee Wellness</a></li>
+		<li><a href="/for-employers/occupational-health-services">Occupational Health</a></li>
+		</ul>
+		</div>
+		</div>
+		<div class="footer-col">
+		<div class="footer-nav">
+		<h3><span><a href="tel: 8556926482" class="tel">855.MyAMITA</a></span></h3>
+		<h3><span><a href="/contact-us/">Contact Us</a></span><i class="icon-box-plus"></i></h3>
+		<ul>
+		<li><a href="/schedule-appointment/">Request an Appointment</a></li>
+		<li><a href="/contact-us/request-medical-records">Request Medical Records</a></li>
+		<li><a href="/contact-us/media-inquiries">Media Inquiries</a></li>
+		</ul>
+		<h3><span><a href="/careers" target="_blank">Careers</a></span><i class="icon-box-plus"></i></h3>
+		<ul>
+		<li><a href="/about-us/careers/culture">Culture</a></li>
+		<li><a href="http://iamamita.org/welcome">Benefits</a></li>
+		<li><a href="/careers/search-jobs/" target="_blank">Find Jobs</a></li>
+		</ul>
+		</div>
+		</div>
+		</div>
+		</div>
+		<div id="copy-row">
+		<div class="contain">
+		<div class="copy-col">
+		<ul class="social-list">
+		<li class="jobs"><a href="https://amita.ttcportals.com/jobs/search">Jobs</a></li>
+		<li class="blog"><a href="/blog">Blog</a></li>
+		<li class="icon"><a href="http://www.facebook.com/AmitaHealth"><em class="fa fa-facebook"></em></a></li>
+		<li class="icon"><a href="http://www.twitter.com/AMITAHealth"><em class="fa fa-twitter"></em></a></li>
+		<li class="icon"><a href="http://www.youtube.com/c/AMITAhealthorg"><em class="fa fa-youtube"></em></a></li>
+		<li class="icon"><a href="http://www.pinterest.com/AMITAHealth"><em class="fa fa-pinterest"></em></a></li>
+		<li class="icon"><a href="http://www.instagram.com/AMITAHealth/"><em class="fa fa-instagram"></em></a></li>
+		</ul>
+		</div>
+		<div class="copy-col"><a href="/" class="footer-logo"><img src="/_configuration/easset_upload_file72695_237103_e.png" alt="Amita Health" class="img-responsive" data-rjs="2" caption="false" width="211" height="31"/></a>
+		<ul class="copy-list">
+		<li>
+		<div class="copy">&copy;
+		<script type="text/javascript">// <![CDATA[
+		document.write(new Date().getFullYear());
+		// ]]></script>
+		AMITA Health All Rights Reserved.</div>
+		</li>
+		<li><a href="/medical-disclaimer/">Disclaimers</a></li>
+		<li><a href="/privacy-policy/">Privacy</a></li>
+		</ul>
+		</div>
+		</div>
+		</div>
+		</footer>
+
+	</div>
+</div>
+					</div>
+				</div>
+			</div></div>
+</div>
+<footer>
+<div id="site-footer">
+	<div id="container-footer">
+		<div id="container-fat-footer">
+			<div id="fat-footer-columns">
+				<div class="container-fluid">
+					<div class="row">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="site-footer-copyright"></div>
+</footer>
+</div>
+<script type="text/javascript">
+var persuadeURL = "";
+</script>
+<script type="text/javascript" src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"/></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"/></script>
+<script type="text/javascript" src="/assets/js/cms.js"></script>
+<script type="text/javascript" src="/assets/js/base.js"/></script>
+<div id="snippet_048b1f3d-2157-48df-ac2c-d37159db0d38"></div><script async type="text/javascript" src="//snippet.omm.crownpeak.com/s/8ae64dfb-97d1-4c61-a295-1a312fbe93dd?_wco_embedid=snippet_048b1f3d-2157-48df-ac2c-d37159db0d38"></script></body>
+</html>

@@ -1,0 +1,140 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><meta http-equiv="Page-Enter" content="Alpha(opacity=100)" /><link id="AppIcon" rel="shortcut icon" href="epicor.ico" /><link rel="stylesheet" type="text/css" href="Scripts/ext/ext-3.3.0/resources/css/ext-all.css" /><link rel="stylesheet" type="text/css" href="Scripts/Ext-Extension/ivantage-ext-style.css" /><link rel="stylesheet" type="text/css" href="RadControls/Spell/Skins/Vista/Main.css" /><link rel="stylesheet" type="text/css" href="Scripts/iVantage.css" /><link rel="stylesheet" type="text/css" href="Scripts/WebControls/stylesheet.css" />
+
+  <script type="text/javascript" src="Scripts/ext/ext-3.3.0/adapter/ext/ext-base.js"></script>
+  <script type="text/javascript" src="Scripts/ext/ext-3.3.0/ext-all-debug.js"></script>
+  <script type="text/javascript" src="Scripts/Ext-Extension/ivantage-ext.js" ></script>
+  <script type="text/javascript" src="Scripts/iVantage.js"></script>
+  <script type="text/javascript" src="Scripts/Default.js"></script>
+  <script type="text/javascript" src="Scripts/TaskExecute.js"></script>
+  <script type="text/javascript" src="Scripts/ModuleLayoutEditor.js"></script>
+  <script type="text/javascript" src="Scripts/QuickLinkFetcher.js"></script>
+  <script type="text/javascript" src="Scripts/WebControls/WebControls.js"></script>
+  <script type="text/javascript" src="Scripts/WebControls/Wizard.js"></script>
+  <script type="text/javascript" src="Scripts/PayStubLayoutEditor.js" ></script>
+  <script type="text/javascript" src="Scripts/Performance/ConductPerformanceReview.js" ></script>
+  
+  <script type="text/javascript" src="Scripts/Timesheets/TimeEntry.js" ></script>
+  <script type="text/javascript" src="Scripts/Timesheets/TimesheetSummary.js"></script>
+  <script type="text/javascript" src="Help/HelpHome.js"></script>
+  <script type="text/javascript" src="Scripts/SalaryPlanning/CreateASalaryPlan.js"></script>
+<link type="text/css" rel="stylesheet" href="/EpicorProd/RadControls/TabStrip/Scripts/3_6_5/tabstrip.css" /><link type="text/css" rel="stylesheet" href="/EpicorProd/RadControls/TabStrip/Skins/dnn/styles.css" /><title>
+	Account Maintenance - Epicor HCM
+</title></head>
+<body id="SpectrumHR">
+  <div id="zero-height-holder" class="shr-zeroheight"></div>
+  <form name="aspnetForm" method="post" action="Default.aspx?Tab=67b8d26f-0d69-4e81-95a7-505023cf8561" id="aspnetForm" autocomplete="off" onsubmit="Ext.get(&#39;IsFormSubmit&#39;).value=&#39;true&#39;; return true;">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="8+DTLpDN9cPIWWPoHOMiuGEKTztNiA/NxuSsvxHLZ1B+zR6TNiIwvmrN5YDIeaTr4Hpe6wpAD4jkv8rtVxkabJZWz+eCN5IRbk+0TV/Pj48B77XNSaZuWV7MJX2T6zbZWrJOl3nPogb5Jem6G3+udB9Ir7z/9bm9AF7dz1SQKHHFNjLVBblLvpIuJXuCqjU8zn61GuBmmMz/fJQAWLV0SaC2YVCMeqB9KJOecjFCLllrz+u9Y/3i30r2O3CHmfP83dmd/P8X74SpyJmBKOi0jW7zU8AcswUUz+kJ/CUtWP8=" />
+
+
+<script src="Scripts/Timesheets/ClockInOut.js" type="text/javascript"></script>
+<script src="scripts\locale\shr-lang-en_US.js" type="text/javascript"></script>
+<script src="/EpicorProd/ScriptResource.axd?d=o-vOo_NrjbPHGrd7Ef09azFHh-AToJyqpGqJWT3ISN9N4wB7r3PZIT2QcltX7atkEA6i6dtuW5K2HGkX1afphc7kC_boqcVm49TRFwQ8GOqSyS9VYuiOPHT-cbQ5C_CNsUVhZ6yXlVhrDPwAXwhId0-Gp6dmV_-R6kdiEZMZIJ01&amp;t=42a7acab" type="text/javascript"></script>
+<script src="RadControls/Spell/Scripts/3_2_5/EventMixin.js" type="text/javascript"></script>
+<script src="RadControls/Spell/Scripts/3_2_5/AppendStyleSheet.js" type="text/javascript"></script>
+<script src="RadControls/Spell/Scripts/3_2_5/HtmlElementTextSource.js" type="text/javascript"></script>
+<script src="RadControls/Spell/Scripts/3_2_5/Wrappers.js" type="text/javascript"></script>
+<script src="RadControls/Spell/Scripts/3_2_5/RadSpell.js" type="text/javascript"></script>
+<script src="RadControls/Spell/Scripts/3_2_5/DialogOpener.js" type="text/javascript"></script>
+<script src="RadControls/Spell/Scripts/3_2_5/Browser.js" type="text/javascript"></script>
+<script src="RadControls/Spell/Scripts/3_2_5/ContentDisplay.js" type="text/javascript"></script>
+<script src="RadControls/Spell/Scripts/3_2_5/Screen.js" type="text/javascript"></script>
+<script src="RadControls/Spell/Scripts/3_2_5/Localization.js" type="text/javascript"></script>
+<script src="RadControls/Spell/Scripts/3_2_5/RadWindow.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="23A46203" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+    
+    <div id="divHeaderPanel" class="shr-zeroheight"><div id="HeaderPanel" class>
+
+<div class="HeaderPanelTop">
+    <img src="API/FileDisplay.aspx?b=SysPortal&p=HeaderBackgroundImage&k=3b7af30e-4a8b-4af9-9ae4-be011474bf57&source=DatabaseFileDisplay" id="HeaderPanel_HeaderBanner" style="position:absolute;top:0px;left:0px;" />
+    <div style="position:absolute;top:0px;left:0px;background:transparent">
+        <a href="http://www.epicor.com" id="HeaderPanel_HeaderLogoLink" target="_blank">
+            <img src="API/FileDisplay.aspx?b=SysPortal&p=HeaderCompanyImage&k=3b7af30e-4a8b-4af9-9ae4-be011474bf57&source=DatabaseFileDisplay" id="HeaderPanel_HeaderLogo" class="HeaderCompanyLogo" />
+        </a>
+    </div>
+</div>
+<div style="position: relative; background: transparent">
+    <div id="HeaderPanel_headerTabs"><div id="HeaderPanel_headerTabs_tabstrip" class="tabstrip RadTabStrip_dnn ">
+	<!-- 3.6.5 --><script type="text/javascript" src="/EpicorProd/RadControls/TabStrip/Scripts/3_6_5/RadTabStrip.js"></script><span id="HeaderPanel_headerTabs_tabstripStyleSheetHolder" style="display:none;"></span><div class="levelwrap level1">
+		<ul>
+			<li class="first last"><a href="/EpicorProd/Default.aspx?Tab=67b8d26f-0d69-4e81-95a7-505023cf8561" class="selected" tabvalue="67b8d26f-0d69-4e81-95a7-505023cf8561" id="HeaderPanel_headerTabs_tabstrip_ctl00"><span class="wrap"><span class="innerWrap">Employee Self-Service</span></span></a>
+				<ul style="display:none;">
+
+						<li class="first"><a href="/EpicorProd/Default.aspx?Tab=67b8d26f-0d69-4e81-95a7-505023cf8561" class="selected" tabvalue="67b8d26f-0d69-4e81-95a7-505023cf8561" id="HeaderPanel_headerTabs_tabstrip_ctl00_ctl00"><span class="wrap"><span class="innerWrap">Account Maintenance</span></span></a></li>
+						<li class="last"><a href="/EpicorProd/Default.aspx?Tab=5f0fe0d7-9ace-4acb-af06-d170cd5c309b" tabvalue="5f0fe0d7-9ace-4acb-af06-d170cd5c309b" id="HeaderPanel_headerTabs_tabstrip_ctl00_ctl01"><span class="wrap"><span class="innerWrap">Human Resources</span></span></a></li>
+
+				</ul>
+			</li>
+		</ul>
+	</div><input type="hidden" id="HeaderPanel_headerTabs_tabstrip_Hidden" name="HeaderPanel$headerTabs$tabstrip" /><script type="text/javascript">window["HeaderPanel_headerTabs_tabstrip"] = new RadTabStrip("HeaderPanel_headerTabs_tabstrip");window["HeaderPanel_headerTabs_tabstrip"].Initialize({"ClickSelectedTab":true,"Skin":"dnn","Enabled":true},{"HeaderPanel_headerTabs_tabstrip_ctl00":{"NavigateAfterClick":true,"ScrollChildren":true,"Selected":true,"Value":"67b8d26f-0d69-4e81-95a7-505023cf8561"},"HeaderPanel_headerTabs_tabstrip_ctl00_ctl00":{"NavigateAfterClick":true,"Selected":true,"Value":"67b8d26f-0d69-4e81-95a7-505023cf8561"},"HeaderPanel_headerTabs_tabstrip_ctl00_ctl01":{"NavigateAfterClick":true,"Value":"5f0fe0d7-9ace-4acb-af06-d170cd5c309b"}});</script>
+</div></div>
+</div>
+<div id="HeaderPanel_crumbLinks" class="CrumbLinks" style="position:relative; overflow:hidden;"><a href="Default.aspx?Tab=67b8d26f-0d69-4e81-95a7-505023cf8561">Employee Self-Service</a> > Account Maintenance</div>
+<div id="HeaderPanel_HeaderCommands" style="position:absolute;top:4px;right:0px;">
+    
+    
+    
+    
+	
+</div>
+</div></div>
+    <input type="hidden" id="IsFormSubmit" />
+    <div id="LoginPanel">
+        <img src="images/EPICOR_41x150.png" alt="" style="margin-left:10px;" />
+        <br />
+        <br />
+        <div id="Username" class="shr-field shr-login-field x-form-element"><label for="Username_fieldText" class="shr-field-label">Username:</label><input name="Username$fieldText" type="text" id="Username_fieldText" /></div>
+        <div id="Password" class="shr-field shr-login-field x-form-element"><label for="Password_fieldText" class="shr-field-label">Password:</label><input name="Password$fieldText" type="password" id="Password_fieldText" /></div>
+        <br />
+    	
+    	<table id="Logon" class="x-btn x-btn-text-icon " style="width:160px" cellspacing="0" postbackCommand="__doPostBack('Logon','__ICONBUTTONCLICKED')" onclick="Shr.commandClicked('Logon'); return false;"><tbody class="x-btn-small x-btn-icon-small-left"><tr><td class="x-btn-tl"><i>&nbsp;</i></td><td class="x-btn-tc"></td><td class="x-btn-tr"><i>&nbsp;</i></td></tr><tr><td class="x-btn-ml"><i>&nbsp;</i></td><td class="x-btn-mc"><em unselectable="on"><button class="shr-btn-text-icon shr-btn-logon" type="submit">Log On</button></em></td><td class="x-btn-mr"><i>&nbsp;</i></td></tr><tr><td class="x-btn-bl"><i>&nbsp;</i></td><td class="x-btn-bc"></td><td class="x-btn-br"><i>&nbsp;</i></td></tr></tbody></table>
+    	<br />
+        
+		<br />
+		<table id="SelfRegister" class="x-btn x-btn-text-icon " style="width:160px" cellspacing="0" postbackCommand="__doPostBack('SelfRegister','__ICONBUTTONCLICKED')" onclick="Shr.commandClicked('SelfRegister'); return false;"><tbody class="x-btn-small x-btn-icon-small-left"><tr><td class="x-btn-tl"><i>&nbsp;</i></td><td class="x-btn-tc"></td><td class="x-btn-tr"><i>&nbsp;</i></td></tr><tr><td class="x-btn-ml"><i>&nbsp;</i></td><td class="x-btn-mc"><em unselectable="on"><button class="shr-btn-text-icon shr-btn-newperson-small" type="button">Log on for first time</button></em></td><td class="x-btn-mr"><i>&nbsp;</i></td></tr><tr><td class="x-btn-bl"><i>&nbsp;</i></td><td class="x-btn-bc"></td><td class="x-btn-br"><i>&nbsp;</i></td></tr></tbody></table>
+		<br />
+		<br />
+        <table id="ForgotPassword" class="x-btn x-btn-text-icon " style="width:160px" cellspacing="0" postbackCommand="__doPostBack('ForgotPassword','__ICONBUTTONCLICKED')" onclick="Shr.commandClicked('ForgotPassword'); return false;"><tbody class="x-btn-small x-btn-icon-small-left"><tr><td class="x-btn-tl"><i>&nbsp;</i></td><td class="x-btn-tc"></td><td class="x-btn-tr"><i>&nbsp;</i></td></tr><tr><td class="x-btn-ml"><i>&nbsp;</i></td><td class="x-btn-mc"><em unselectable="on"><button class="shr-btn-text-icon shr-btn-help" type="button">Forgot Password?</button></em></td><td class="x-btn-mr"><i>&nbsp;</i></td></tr><tr><td class="x-btn-bl"><i>&nbsp;</i></td><td class="x-btn-bc"></td><td class="x-btn-br"><i>&nbsp;</i></td></tr></tbody></table>
+        
+		<div class="shr-login-accesswarning">Unauthorized access is prohibited</div>
+	    <table id="USRightsPopup" class="x-btn x-btn-text-icon " style="width:auto" cellspacing="0" onclick="new Shr.WebControls.Dialog({ title: 'US Government Restricted Rights', pageUrl: '', sourceControl:'USGovtRights', 
+                                urlParams: '', height:400, width:400, modal:true, newWindow:false, showOkCancel:false, showPrint:false }).show();"><tbody class="x-btn-small x-btn-icon-small-left"><tr><td class="x-btn-tl"><i>&nbsp;</i></td><td class="x-btn-tc"></td><td class="x-btn-tr"><i>&nbsp;</i></td></tr><tr><td class="x-btn-ml"><i>&nbsp;</i></td><td class="x-btn-mc"><em unselectable="on"><span id="USRightsPopup" class="shr-popup-text ">US Government Restricted Rights</span></em></td><td class="x-btn-mr"><i>&nbsp;</i></td></tr><tr><td class="x-btn-bl"><i>&nbsp;</i></td><td class="x-btn-bc"></td><td class="x-btn-br"><i>&nbsp;</i></td></tr></tbody></table>
+    </div>
+    <input type="text" style="visibility:hidden;display:none;" disabled="disabled" />
+    <div id="ContentPanel">
+<table>
+    <tr>
+        <td colspan="3" style="vertical-align:top;"></td>
+    </tr>
+    <tr>
+        <td class="shr-module-layout-panel-column" ><table id="ModuleLayoutPanel_ctl07" class="shr-group" cellpadding="0px" cellspacing="0px"><tr class="shr-group-header"><td class="shr-group-header-left"></td><td class="shr-group-header-image"></td><td class="shr-group-header-text">Welcome</td><td class="shr-group-header-right"></td><td width="100%" class="shr-group-header-link"><table cellpadding="0px" cellspacing="0px"><tr><td width="100%"></td><td class="shr-group-header-link-print"><a href="javascript:void(0);" onclick="window.open('API/ControlFetcher.aspx?source=Controls/PrintModule.ascx&fullpage=true&Module=c6376953-36fc-4d0e-b194-09f1757083bc', '_blank', 'status=0,scrollbars=1,toolbar=0,menubar=0,resizable=1,location=0');"></a></td></tr></table></td></tr><tr><td class="shr-group-contents" colspan="5"><div id="HtmlText0">
+
+<div class="HtmlText" style="padding:0 10px 0 10px"><p><font color="#003366" size="5"><strong><font face="calibri"><font color="#003366" size="5">Current Self-Service Users:</font><br></font></strong><font color="#000000" size="3" face="calibri"><br>Enter your Username and Password</font><p><p><font color="#000000" size="3" face="calibri">Forgot your Password? Click the Forgot password button to receive email notification of your password.</font></p><p><br><strong>First Time Users:</strong></font></p><p><p>Click <strong>Log on for the first time.<br></strong><br>Enter your Last Name, Employee ID and a Username.<br><br>Click <strong>Register Me</strong> to complete the registration process.</p><p>You will receive an email with your username and temporary password.</p><p>Enter your username and temporary password.  You will be prompted to select a new password.  <br><br>Log-in and create your Electronic Signature Questions on the Account Maintenance tab.  <table cellspacing="0" cellpadding="0"><tbody><tr><td width="100%"></td><td class="shr-group-header-link-link"><a href="http://svh-epicor/EpicorProd/Default.aspx?Tab=67b8d26f-0d69-4e81-95a7-505023cf8561&Entity=6c1b6bb2-3920-47a1-8dc0-0036924cacce"></a></td></tr></tbody></table>Forgot your User ID and/or Password? Click the <strong>Forgot password</strong> button to receive email notification of your log-in information. <br><br><span style='FONT-SIZE: 14pt; FONT-FAMILY: "Calibri","sans-serif"; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: "Times New Roman"; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA'><font color="#000000" size="3">*Tip: If you do not receive an email with a temporary password, go to the Epicor Login site, click on the little gear icon</font><font color="#000000"><font size="3"> in the upper right corner, then click on Compatibility View Settings, ADD the SVH-Epicor website, then close. Repeat Forgot Password steps.</font><span style="FONT-SIZE: 10pt"><br><br><font size="3">*It is recommended that you use Google Chrome, Safari, Firefox or Internet Explorer 10 or lower when creating or accessing your Employee account.</font><br></span></font></span><font style="FONT-SIZE: 13px; FONT-FAMILY: calibri; COLOR: rgb(48,48,48)" size="3"><font style="FONT-FAMILY: calibri; COLOR: rgb(48,48,48)" size="3"><br><strong>For any other issues with this site, please contact our Help Desk at <font color="#008000"><span style='FONT-SIZE: 11pt; FONT-FAMILY: "Calibri",sans-serif; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: "Times New Roman"; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA'><font style="BACKGROUND-COLOR: #00ff00" color="#000000">360-814-2555</font></span></font> and create a help ticket.</strong></font></font></p></div>
+</div></td></tr></table></td>
+        <td class="shr-module-layout-panel-column" ></td>
+        <td class="shr-module-layout-panel-column" ></td>
+    </tr>
+    <tr>
+        <td colspan="3" style="vertical-align:top;"></td>
+    </tr>
+</table>
+</div>
+    <div class="x-form-invalid shr-zeroheight" style="border: none;"></div>
+    <div class="x-form-invalid-icon"></div>
+    
+	<div id="FooterPanel" class="FooterPanel">
+<div class="footerLeft">Copyright 2012, Epicor Software Corporation. All Rights Reserved.</div>
+</div>
+  
+
+<script type="text/javascript">
+//<![CDATA[
+Ext.onReady(function(){Ext.get('Username_fieldText').focus();});//]]>
+</script>
+</form>
+</body>
+</html>

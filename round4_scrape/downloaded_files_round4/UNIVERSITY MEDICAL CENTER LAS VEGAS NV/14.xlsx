@@ -1,0 +1,254 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="ctl00_Head1">
+
+<!--IE-8 fix compatibilty line must be exactly below head tag-->
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" /><meta name="google-site-verification" content="WZB1aPIHysHUSkah3-5BiO2SWIzB8egccpYwaXNhhsQ" /><title>
+	UMC - Contact Us
+</title><meta name="ROBOTS" content="INDEX,FOLLOW,NOIMAGEINDEX" /><meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="expires"content="-1" />
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE" /><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" /><meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Expires" content="0" /><meta name="category" content="Healthcare" /><meta name="geography" content="Las Vegas, Nevada" /><meta name="zipcode" content="89102" /><meta name="city" content="Las Vegas" /><meta name="state" content="NV" /><meta name="metropolitan area" content="Las Vegas" /><meta name="country" content="United States" /><meta name="description" /><link rel="Stylesheet" type="text/css" href="../App_Themes/UMCClassic/master.css" media="screen" /><link rel="Stylesheet" type="text/css" href="../App_Themes/UMCClassic/modules.css" media="screen" /><meta name="keywords" content="contacts, email, main number, feedback, phone numbers, comments, departments, mailing address" /><link href="../App_Themes/UMCClassic/master.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/UMCClassic/modules.css" type="text/css" rel="stylesheet" /></head>
+<body topmargin="0">
+<div class="master-wrapper-page">
+    <div class="header">
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+<div style="background-color:#6699ff; height:40px; padding-top:20px; padding-left:520px;">
+
+        <div style="float:left; padding-right:20px;">
+<a href="/EventPay/Payment_Form.aspx" target="_blank" style="background-color:#003399; color:#FFFFFF; padding:8px; border:thin #ccc groove; font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold;">DONATE HERE</a>
+
+
+</div>
+
+
+
+    <div style="width:65%; float:left;">           
+        <div></div>
+<script>
+  (function() {
+    var cx = '016154956610605486002:xtufcliblyg';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+<div></div>
+</div>
+
+
+
+</div>
+
+<div class="UMC-Best-in-Vegas-Header">
+    
+    <a href="/UMC-Home.aspx" title="Return to the UMCSN Home page" id="UMC-Best-in-Vegas-Header-02"></a>
+    <div id="UMC-Best-in-Vegas-Header-03"></div>
+    <div id="UMC-Best-in-Vegas-Header-04"></div>   
+    <div id="UMC-Best-in-Vegas-Header-05"></div>
+    <div id="UMC-Best-in-Vegas-Header-07"></div>  
+    <div id="UMC-Best-in-Vegas-Header-08"></div>
+    <div class="header-linkstext">
+       <a href="/Footer/UMCSN-Mission-Vision-and-Values.aspx?intMenuID=305&intPageID=310" target="_self">Mission, Vision and Values</a>&nbsp; | &nbsp;<a href="/Getting-Around-UMCSN/Directions-and-Parking-at-UMCSN.aspx?intMenuID=7100&intPageID=320" target="_self">Directions</a>&nbsp; | &nbsp;<a href="/Quality-and-Safety/Quality-And-Safety-Index.aspx?intMenuID=2400&intPageID=321" target="_self">Quality & Safety</a>&nbsp; | &nbsp;<a href="/Common/Contact-Us-Index.aspx?intMenuID=7000&intPageID=319" target="_self">Contact Us</a>
+    </div>    
+    
+
+    
+
+
+
+
+
+
+
+   
+
+</div>
+</div>  
+    <div class="master-wrapper-content">
+            <div class="master-wrapper-cph1">
+                
+  <form name="aspnetForm" method="post" action="Contact-Us-Index.aspx?intMenuID=7000&amp;intPageID=319" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTIyNjUyNTMwNw9kFgJmD2QWBAICD2QWAgIBD2QWAgIDD2QWBAIDDw8WAh4EVGV4dAUKQ29udGFjdCBVc2RkAgUPDxYCHwAFjD08ZGl2Pjx0YWJsZSB3aWR0aD0iMTAwJSIgYm9yZGVyPSIwIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjEwIj48dHI+PHRkIHJvd3NwYW49IjIiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0idG9wIj48aW1nIHNyYz0iL0ltYWdlcy9jb250YWN0LmpwZyIgd2lkdGg9IjI2OSIgaGVpZ2h0PSIzODAiIGFsaWduPSJsZWZ0Ij48L3RkPjx0ZCBjb2xzcGFuPSIzIiBhbGlnbj0ibGVmdCIgdmFsaWduPSJtaWRkbGUiPjxkaXY+PHA+PGltZyBzcmM9Ii9Db21tb24vSW1hZ2VzL0NvbnRhY3QtVXMtYXQtVU1DLmpwZyJhbHQ9IlBob25lLCBFbWFpbCBvciBWaXNpdCBVcyEiIHdpZHRoPSIxMjUiIGhlaWdodD0iMTAwIiBhbGlnbj0icmlnaHQiLz48aDI+SGF2ZSBhIFF1ZXN0aW9uPzwvaDI+PC9wPklmIHlvdSBkaWRuJ3QgZmluZCB5b3VyIGFuc3dlcnMgdXNpbmcgb3VyIG1lbnUgb3IgdXNpbmcgb3VyIFNlYXJjaCAoIGluIHRoZSB1cHBlciByaWdodCBjb3JuZXIgb2YgZWFjaCBwYWdlKSwgeW91ICAgY2FuIDxlbT5jb250YWN0IHVzPC9lbT4gZGlyZWN0bHkgdmlhIHBob25lLCBpbiBwZXJzb24sIG9yIGJ5IGUtbWFpbC48c3Ryb25nPjwvc3Ryb25nPjwvZGl2PjwvdGQ+PC90cj48dHI+PHRkIHdpZHRoPSIyNSUiIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCI+PGgyPlBoeXNpY2FsIEFkZHJlc3M6PC9oMj48cD5Vbml2ZXJzaXR5IE1lZGljYWwgQ2VudGVyPGJyLz4xODAwIFdlc3QgQ2hhcmxlc3RvbiBCbHZkLjxici8+TGFzIFZlZ2FzLCBOViA4OTEwMjwvcD48L3RkPjx0ZCB3aWR0aD0iMjUlIiBhbGlnbj0ibGVmdCIgdmFsaWduPSJ0b3AiPjxoMj5FLW1haWw6KjwvaDI+PHRhYmxlIHdpZHRoPSIxMDAlImJvcmRlcj0iMCIgYWxpZ249ImxlZnQiYm9yZGVyY29sb3I9IiM5OTk5OTkiPjx0cj48dGQ+PGEgaHJlZj0ibWFpbHRvOmRhbml0YS5jb2hlbkB1bWNzbi5jb20iIHRhcmdldD0iX2JsYW5rIj5QdWJsaWMgUmVsYXRpb25zPC9hPjwvdGQ+PC90cj48dHI+PHRkPjxhIGhyZWY9Im1haWx0bzpWb2x1bnRlZXJTZXJ2aWNlc0B1bWNzbi5jb20/U3ViamVjdD1Wb2x1bnRlZXJpbmciIHRhcmdldD0iX2JsYW5rIj5Wb2x1bnRlZXIgT3Bwb3J0dW5pdGllczwvYT48L3RkPjwvdHI+PHRyPjx0ZD48YSBocmVmPSJtYWlsdG86VU1DUGF0aWVudEFjY291bnRpbmdAdW1jc24uY29tP1N1YmplY3Q9UGF0aWVudCBCaWxsaW5nIiB0YXJnZXQ9Il9ibGFuayI+UGF0aWVudCBCaWxsaW5nL0lucXVpcnk8L2E+PC90ZD48L3RyPjx0cj48dGQ+PGEgaHJlZj0ibWFpbHRvOmZlZWRiYWNrQHVtY3NuLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPlBhdGllbnQgUmVsYXRpb25zPC9hPjwvdGQ+PC90cj48dHI+PHRkPjxhIGhyZWY9Im1haWx0bzp3ZWJtYXN0ZXJAdW1jc24uY29tIiB0YXJnZXQ9Il9ibGFuayI+V2VibWFzdGVyPC9hPjwvdGQ+PC90cj48L3RhYmxlPjxwPiZuYnNwOzwvcD48cD4mbmJzcDs8L3A+PHA+Jm5ic3A7PC9wPiA8cD4mbmJzcDs8L3A+PHA+KlBhdGllbnQgaW5mb3JtYXRpb24gaXMgbm90IGF2YWlsYWJsZSBvdmVyIHRoZSBpbnRlcm5ldC48L3A+PC90ZD48dGQgd2lkdGg9IjI1JSIgYWxpZ249ImxlZnQiIHZhbGlnbj0idG9wIj48cD5Gb3IgZ2VuZXJhbCBmZWVkYmFjayAvIGNvbW1lbnRzLCBwbGVhc2UgY2xpY2sgPGEgaHJlZj0ibWFpbHRvOmZlZWRiYWNrQHVtY3NuLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPmhlcmU8L2E+LjwvcD48cD48YSBocmVmPSJtYWlsdG86ZmVlZGJhY2tAdW1jc24uY29tIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Ii9Db21tb24vSW1hZ2VzL0NvbW1lbnRzLUVtYWlsLmpwZyJhbHQ9IlNoYXJlIHlvdXIgY29tbWVudHMiIHdpZHRoPSIxMjUiIGhlaWdodD0iMTAwIiBib3JkZXI9IjAiLz48L2E+PC9wPjwvdGQ+PC90cj48L3RhYmxlPjxwPiZuYnNwOzwvcD48dGFibGUgd2lkdGg9Ijk1JSIgYm9yZGVyPSIwIiBhbGlnbj0iY2VudGVyIiBjZWxscGFkZGluZz0iNSIgY2VsbHNwYWNpbmc9IjAiPjx0ciBpZD0idGV4dCJ2YWxpZ249InRvcCJiZ2NvbG9yPSIjRTBFM0ZDIj48dGQgd2lkdGg9IjM1JSIgYWxpZ249InJpZ2h0IiB2YWxpZ249Im1pZGRsZSJiZ2NvbG9yPSIjRTBFM0ZDIj5NYWluIE51bWJlcjwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIj43MDIuMzgzLjIwMDA8L3RkPjx0ZCB3aWR0aD0iMzUlIiBhbGlnbj0icmlnaHQiIHZhbGlnbj0ibWlkZGxlIj5NZWRpY2FsIFN0YWZmIERpcmVjdG9yeTwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIj43MDIuMzgzLjI2MDM8L3RkPjwvdHI+PHRyIGlkPSJ0ZXh0InZhbGlnbj0idG9wIj48dGQgd2lkdGg9IjM1JSIgYWxpZ249InJpZ2h0IiB2YWxpZ249Im1pZGRsZSI+UGF0aWVudCBJbmZvcm1hdGlvbjwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIj43MDIuMzgzLjIwMDA8L3RkPjx0ZCB3aWR0aD0iMzUlIiBhbGlnbj0icmlnaHQiIHZhbGlnbj0ibWlkZGxlIj5OdXJzZSBSZWNydWl0ZXI8L3RkPjx0ZCB3aWR0aD0iMTUlIiBhbGlnbj0iY2VudGVyIiB2YWxpZ249Im1pZGRsZSI+NzAyLjM4My4yNTQxPC90ZD48L3RyPjx0ciBpZD0idGV4dCJ2YWxpZ249InRvcCJiZ2NvbG9yPSIjRTBFM0ZDIj48dGQgd2lkdGg9IjM1JSIgYWxpZ249InJpZ2h0IiB2YWxpZ249Im1pZGRsZSI+QWRtaW5pc3RyYXRpb248L3RkPjx0ZCB3aWR0aD0iMTUlIiBhbGlnbj0iY2VudGVyIiB2YWxpZ249Im1pZGRsZSI+NzAyLjM4My4yMDAwPC90ZD48dGQgd2lkdGg9IjM1JSIgYWxpZ249InJpZ2h0IiB2YWxpZ249Im1pZGRsZSI+TnVyc2luZyBBZG1pbmlzdHJhdGlvbjwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIj43MDIuMzgzLjIyNDY8L3RkPjwvdHI+PHRyIGlkPSJ0ZXh0InZhbGlnbj0idG9wIj48dGQgd2lkdGg9IjM1JSIgYWxpZ249InJpZ2h0IiB2YWxpZ249Im1pZGRsZSI+QWRtaXR0aW5nPC90ZD48dGQgd2lkdGg9IjE1JSIgYWxpZ249ImNlbnRlciIgdmFsaWduPSJtaWRkbGUiPjcwMi4zODMuMjMyMTwvdGQ+PHRkIHdpZHRoPSIzNSUiIGFsaWduPSJyaWdodCIgdmFsaWduPSJtaWRkbGUiPlBlZGlhdHJpYyBFbWVyZ2VuY3kgRGVwYXJ0bWVudDwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIj43MDIuMzgzLjM3MzQ8L3RkPjwvdHI+PHRyIGlkPSJ0ZXh0InZhbGlnbj0idG9wImJnY29sb3I9IiNFMEUzRkMiPjx0ZCB3aWR0aD0iMzUlIiBhbGlnbj0icmlnaHQiIHZhbGlnbj0ibWlkZGxlIj5CaWxsaW5nIE9mZmljZTwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIj43MDIuMzgzLjIzNDc8L3RkPjx0ZCB3aWR0aD0iMzUlIiBhbGlnbj0icmlnaHQiIHZhbGlnbj0ibWlkZGxlIj5QZXJzb25uZWw8L3RkPjx0ZCB3aWR0aD0iMTUlIiBhbGlnbj0iY2VudGVyIiB2YWxpZ249Im1pZGRsZSI+NzAyLjM4My4zNzg0PC90ZD48L3RyPjx0ciBpZD0idGV4dCJ2YWxpZ249InRvcCI+PHRkIHdpZHRoPSIzNSUiIGFsaWduPSJyaWdodCIgdmFsaWduPSJtaWRkbGUiPkJ1cm4gQ2FyZSBDZW50ZXI8L3RkPjx0ZCB3aWR0aD0iMTUlIiBhbGlnbj0iY2VudGVyIiB2YWxpZ249Im1pZGRsZSI+NzAyLjM4My4yMjY4PC90ZD48dGQgd2lkdGg9IjM1JSIgYWxpZ249InJpZ2h0IiB2YWxpZ249Im1pZGRsZSI+UGVyc29ubmVsLVRERDwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIj43MDIuMzgzLjU5MTk8L3RkPjwvdHI+PHRyIGlkPSJ0ZXh0InZhbGlnbj0idG9wImJnY29sb3I9IiNFMEUzRkMiPjx0ZCB3aWR0aD0iMzUlIiBhbGlnbj0icmlnaHQiIHZhbGlnbj0ibWlkZGxlIj5DaGFwbGFpbjwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIj43MDIuMzgzLjI0MzQ8L3RkPjx0ZCB3aWR0aD0iMzUlIiBhbGlnbj0icmlnaHQiIHZhbGlnbj0ibWlkZGxlIj5QaHlzaWNhbCBNZWRpY2luZS1SZWhhYmlsaXRhdGlvbjwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIj43MDIuMzgzLjIyMzk8L3RkPjwvdHI+PHRyIGlkPSJ0ZXh0InZhbGlnbj0idG9wIj48dGQgd2lkdGg9IjM1JSIgYWxpZ249InJpZ2h0IiB2YWxpZ249Im1pZGRsZSI+Q2hlc3QgUGFpbjwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIj43MDIuMzgzLjM5NTM8L3RkPjx0ZCB3aWR0aD0iMzUlIiBhbGlnbj0icmlnaHQiIHZhbGlnbj0ibWlkZGxlIj5QaHlzaWNpYW4gUmVmZXJyYWwgU2VydmljZTwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIj43MDIuMzgzLjIwNjA8L3RkPjwvdHI+PHRyIGlkPSJ0ZXh0InZhbGlnbj0idG9wImJnY29sb3I9IiNFMEUzRkMiPjx0ZCB3aWR0aD0iMzUlIiBhbGlnbj0icmlnaHQiIHZhbGlnbj0ibWlkZGxlIj5DaGlsZGJpcnRoIENsYXNzZXM8L3RkPjx0ZCB3aWR0aD0iMTUlIiBhbGlnbj0iY2VudGVyIiB2YWxpZ249Im1pZGRsZSI+NzAyLjM4My4yMjI5PC90ZD48dGQgd2lkdGg9IjM1JSIgYWxpZ249InJpZ2h0IiB2YWxpZ249Im1pZGRsZSI+UHJpbWFyeSBDYXJlICBBcHBvaW50bWVudCBMaW5lPC90ZD48dGQgd2lkdGg9IjE1JSIgYWxpZ249ImNlbnRlciIgdmFsaWduPSJtaWRkbGUiPjcwMi4zODMuMjI3MzwvdGQ+PC90cj48dHIgaWQ9InRleHQidmFsaWduPSJ0b3AiPjx0ZCB3aWR0aD0iMzUlIiBhbGlnbj0icmlnaHQiIHZhbGlnbj0ibWlkZGxlIj5EYXkgU3VyZ2VyeTwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIj43MDIuMzgzLjI3MTE8L3RkPjx0ZCB3aWR0aD0iMzUlIiBhbGlnbj0icmlnaHQiIHZhbGlnbj0ibWlkZGxlIj5QdWJsaWMgUmVsYXRpb25zPC90ZD48dGQgd2lkdGg9IjE1JSIgYWxpZ249ImNlbnRlciIgdmFsaWduPSJtaWRkbGUiPjcwMi4zODMuMzk4NzwvdGQ+PC90cj48dHIgaWQ9InRleHQidmFsaWduPSJ0b3AiYmdjb2xvcj0iI0UwRTNGQyI+PHRkIHdpZHRoPSIzNSUiIGFsaWduPSJyaWdodCIgdmFsaWduPSJtaWRkbGUiPkVsaWdpYmlsaXR5L0ZpbmFuY2lhbCBDb3Vuc2VsaW5nPC90ZD48dGQgd2lkdGg9IjE1JSIgYWxpZ249ImNlbnRlciIgdmFsaWduPSJtaWRkbGUiPjcwMi4zODMuMjMyMDwvdGQ+PHRkIHdpZHRoPSIzNSUiIGFsaWduPSJyaWdodCIgdmFsaWduPSJtaWRkbGUiPlJhZGlvbG9neS1YLVJheSBTZXJ2aWNlczwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIj43MDIuMzgzLjIyNDE8L3RkPjwvdHI+PHRyIGlkPSJ0ZXh0InZhbGlnbj0idG9wIj48dGQgd2lkdGg9IjM1JSIgYWxpZ249InJpZ2h0IiB2YWxpZ249Im1pZGRsZSI+RW1lcmdlbmN5IERlcGFydG1lbnQ8L3RkPjx0ZCB3aWR0aD0iMTUlIiBhbGlnbj0iY2VudGVyIiB2YWxpZ249Im1pZGRsZSI+NzAyLjM4My4yMjExPC90ZD48dGQgd2lkdGg9IjM1JSIgYWxpZ249InJpZ2h0IiB2YWxpZ249Im1pZGRsZSI+U2VuaW9yIFByb2dyYW0tIFNlbmlvciBDZWxlYnJhdGlvbnM8L3RkPjx0ZCB3aWR0aD0iMTUlIiBhbGlnbj0iY2VudGVyIiB2YWxpZ249Im1pZGRsZSI+NzAyLjM4My4yMjI5PC90ZD48L3RyPjx0ciB2YWxpZ249InRvcCJiZ2NvbG9yPSIjRTBFM0ZDIj48dGQgYWxpZ249InJpZ2h0IiB2YWxpZ249Im1pZGRsZSI+RW1lcmdlbmN5IFJvb20tSGVhcmluZyBJbXBhaXJlZCBPbmx5PC90ZD48dGQgYWxpZ249ImNlbnRlciIgdmFsaWduPSJtaWRkbGUiPjcwMi4zODMuMjQ4NjwvdGQ+PHRkIGFsaWduPSJyaWdodCIgdmFsaWduPSJtaWRkbGUiPlNvY2lhbCBTZXJ2aWNlczwvdGQ+PHRkIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIj43MDIuMzgzLjI2NzE8L3RkPjwvdHI+PHRyIGlkPSJ0ZXh0InZhbGlnbj0idG9wImJnY29sb3I9IiNFMEUzRkMiPjx0ZCB3aWR0aD0iMzUlIiBhbGlnbj0icmlnaHQiIHZhbGlnbj0ibWlkZGxlIiBiZ2NvbG9yPSIjRkZGRkZGIj5GYW1pbHkgUmVzb3VyY2UgQ2VudGVyPC90ZD48dGQgd2lkdGg9IjE1JSIgYWxpZ249ImNlbnRlciIgdmFsaWduPSJtaWRkbGUiIGJnY29sb3I9IiNGRkZGRkYiPjcwMi4zODMuMjIyOTwvdGQ+PHRkIHdpZHRoPSIzNSUiIGFsaWduPSJyaWdodCIgdmFsaWduPSJtaWRkbGUiIGJnY29sb3I9IiNGRkZGRkYiPlRyYW5zcGxhbnQgU2VydmljZXM8L3RkPjx0ZCB3aWR0aD0iMTUlIiBhbGlnbj0iY2VudGVyIiB2YWxpZ249Im1pZGRsZSIgYmdjb2xvcj0iI0ZGRkZGRiI+NzAyLjM4My4yMjI0PC90ZD48L3RyPjx0ciBpZD0idGV4dCJ2YWxpZ249InRvcCI+PHRkIHdpZHRoPSIzNSUiIGFsaWduPSJyaWdodCIgdmFsaWduPSJtaWRkbGUiIGJnY29sb3I9IiNFMEUzRkMiPkpvYiBJbmZvcm1hdGlvbjwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIiBiZ2NvbG9yPSIjRTBFM0ZDIj43MDIuMzgzLjIyMzA8L3RkPjx0ZCB3aWR0aD0iMzUlIiBhbGlnbj0icmlnaHQiIHZhbGlnbj0ibWlkZGxlIiBiZ2NvbG9yPSIjRTBFM0ZDIj5XZWxsbmVzcyBDZW50ZXI8L3RkPjx0ZCB3aWR0aD0iMTUlIiBhbGlnbj0iY2VudGVyIiB2YWxpZ249Im1pZGRsZSIgYmdjb2xvcj0iI0UwRTNGQyI+NzAyLjM4My4yNjkxPC90ZD48L3RyPjx0ciBpZD0idGV4dCJ2YWxpZ249InRvcCJiZ2NvbG9yPSIjRTBFM0ZDIj48dGQgd2lkdGg9IjM1JSIgYWxpZ249InJpZ2h0IiB2YWxpZ249Im1pZGRsZSIgYmdjb2xvcj0iI0ZGRkZGRiI+TGFib3JhdG9yeTwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIiBiZ2NvbG9yPSIjRkZGRkZGIj43MDIuMzgzLjI1NjE8L3RkPjx0ZCB3aWR0aD0iMzUlIiBhbGlnbj0icmlnaHQiIHZhbGlnbj0ibWlkZGxlIiBiZ2NvbG9yPSIjRkZGRkZGIj4mbmJzcDs8L3RkPjx0ZCB3aWR0aD0iMTUlIiBhbGlnbj0iY2VudGVyIiB2YWxpZ249Im1pZGRsZSIgYmdjb2xvcj0iI0ZGRkZGRiI+Jm5ic3A7PC90ZD48L3RyPjx0ciBpZD0idGV4dCJ2YWxpZ249InRvcCI+PHRkIHdpZHRoPSIzNSUiIGFsaWduPSJyaWdodCIgdmFsaWduPSJtaWRkbGUiIGJnY29sb3I9IiNFMEUzRkMiPk1lZGlhL01hcmtldGluZzwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIiBiZ2NvbG9yPSIjRTBFM0ZDIj43MDIuMzgzLjM5ODc8L3RkPjx0ZCB3aWR0aD0iMzUlIiBhbGlnbj0icmlnaHQiIHZhbGlnbj0ibWlkZGxlIiBiZ2NvbG9yPSIjRTBFM0ZDIj4mbmJzcDs8L3RkPjx0ZCB3aWR0aD0iMTUlIiBhbGlnbj0iY2VudGVyIiB2YWxpZ249Im1pZGRsZSIgYmdjb2xvcj0iI0UwRTNGQyI+Jm5ic3A7PC90ZD48L3RyPjx0ciBpZD0idGV4dCJ2YWxpZ249InRvcCJiZ2NvbG9yPSIjRTBFM0ZDIj48dGQgd2lkdGg9IjM1JSIgYWxpZ249InJpZ2h0IiB2YWxpZ249Im1pZGRsZSIgYmdjb2xvcj0iI0ZGRkZGRiI+TWVkaWNhbCBSZWNvcmRzPC90ZD48dGQgd2lkdGg9IjE1JSIgYWxpZ249ImNlbnRlciIgdmFsaWduPSJtaWRkbGUiIGJnY29sb3I9IiNGRkZGRkYiPjcwMi4zODMuMjI1NTwvdGQ+PHRkIHdpZHRoPSIzNSUiIGFsaWduPSJyaWdodCIgdmFsaWduPSJtaWRkbGUiIGJnY29sb3I9IiNGRkZGRkYiPiZuYnNwOzwvdGQ+PHRkIHdpZHRoPSIxNSUiIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0ibWlkZGxlIiBiZ2NvbG9yPSIjRkZGRkZGIj4mbmJzcDs8L3RkPjwvdHI+PC90YWJsZT48ZGl2PjwvZGl2PjwvZGl2PmRkAgMPZBYUAgEPDxYCHgtOYXZpZ2F0ZVVybAVNfi9Gb290ZXIvQWJvdXQtVU1DLW9mLVNvdXRoZXJuLU5ldmFkYS1JbmRleC5hc3B4P2ludE1lbnVJRD02NjAwJmludFBhZ2VJRD0zMDVkZAIDDw8WAh8BBUR+L0Zvb3Rlci9DbGFyay1Db3VudHktQm9hcmQtTWVtYmVycy5hc3B4P2ludE1lbnVJRD0zMDUmaW50UGFnZUlEPTMwOGRkAgUPDxYCHwEFHX4vRm9vdGVyL1VNQ0JvYXJkTWVtYmVycy5hc3B4ZGQCBw8PFgIfAQVEfi9Db21tb24vRWR1Y2F0aW9uLUFuZC1FdmVudHMtSW5kZXguYXNweD9pbnRNZW51SUQ9MTE1JmludFBhZ2VJRD03MzhkZAIJDw8WAh8BBUZ+L05ld3MtYW5kLU1lZGlhL05ld3MtYW5kLU1lZGlhLUluZGV4LmFzcHg/aW50TWVudUlEPTExNSZpbnRQYWdlSUQ9MTQ5ZGQCCw8PFgIfAQUWfi9Gb3VuZGF0aW9uL0hvbWUuYXNweGRkAg0PDxYCHwEFT34vVm9sdW50ZWVyLVNlcnZpY2VzL1ZvbHVudGVlcmluZy1hdC1VTUMtSW5kZXguYXNweD9pbk1lbnVJRD01OTAwJmludHBhZ2VJRD0yODlkZAIPDw8WAh8BBUR+L0Zvb3Rlci9Eb2luZy1CdXNpbmVzcy1XaXRoLVVNQ1NOLmFzcHg/aW50TWVudUlEPTY1MDAmaW50UGFnZUlEPTMwNGRkAhEPDxYCHwEFSH4vRm9vdGVyL0VzcGVjaWFsbHktZm9yLUVtcGxveWVlcy1JbmRleC5hc3B4P2ludE1lbnVJRD0xMTUmaW50UGFnZUlEPTMyM2RkAhMPDxYCHwEFRn4vRm9vdGVyL1VNQ1NOLVByaXZhY3ktUG9saWN5LWFuZC1Zb3UuYXNweD9pbk1lbnVJRD02NzAwJmludHBhZ2VJRD0zMTNkZGTE1iMfTXmP5eDKZMnh/DfhMg7jQA==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="4EA08AB0" />
+    <div>
+      
+
+<div class="menuprint">
+<script type="text/javascript" src="/js/stmenu.js"></script>
+<script type="text/javascript" src="/js/MainMenu.js"></script>
+</div>
+
+
+
+
+
+
+      
+
+<div id="full-width-content-top-image-wrapper-page">
+              
+<script type="text/javascript">
+function MM_CheckFlashVersion(reqVerStr,msg){
+  with(navigator){
+    var isIE  = (appVersion.indexOf("MSIE") != -1 && userAgent.indexOf("Opera") == -1);
+    var isWin = (appVersion.toLowerCase().indexOf("win") != -1);
+    if (!isIE || !isWin){  
+      var flashVer = -1;
+      if (plugins && plugins.length > 0){
+        var desc = plugins["Shockwave Flash"] ? plugins["Shockwave Flash"].description : "";
+        desc = plugins["Shockwave Flash 2.0"] ? plugins["Shockwave Flash 2.0"].description : desc;
+        if (desc == "") flashVer = -1;
+        else{
+          var descArr = desc.split(" ");
+          var tempArrMajor = descArr[2].split(".");
+          var verMajor = tempArrMajor[0];
+          var tempArrMinor = (descArr[3] != "") ? descArr[3].split("r") : descArr[4].split("r");
+          var verMinor = (tempArrMinor[1] > 0) ? tempArrMinor[1] : 0;
+          flashVer =  parseFloat(verMajor + "." + verMinor);
+        }
+      }
+      // WebTV has Flash Player 4 or lower -- too low for video
+      else if (userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 4.0;
+
+      var verArr = reqVerStr.split(",");
+      var reqVer = parseFloat(verArr[0] + "." + verArr[2]);
+  
+      if (flashVer < reqVer){
+        if (confirm(msg))
+          window.location = "http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash";
+      }
+    }
+  } 
+}
+</script>
+
+<script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+function GP_AdvOpenWindow(theURL,winName,features,popWidth,popHeight,winAlign,ignorelink,alwaysOnTop,autoCloseTime,borderless) { //v2.0
+  var leftPos=0,topPos=0,autoCloseTimeoutHandle, ontopIntervalHandle, w = 480, h = 500;  
+  if (popWidth > 0) features += (features.length > 0 ? ',' : '') + 'width=' + popWidth;
+  if (popHeight > 0) features += (features.length > 0 ? ',' : '') + 'height=' + popHeight;
+  if (winAlign && winAlign != "" && popWidth > 0 && popHeight > 0) {
+    if (document.all || document.layers || document.getElementById) {w = screen.availWidth; h = screen.availHeight;}
+		if (winAlign.indexOf("center") != -1) {topPos = (h-popHeight)/2;leftPos = (w-popWidth)/2;}
+		if (winAlign.indexOf("bottom") != -1) topPos = h-popHeight; if (winAlign.indexOf("right") != -1) leftPos = w-popWidth; 
+		if (winAlign.indexOf("left") != -1) leftPos = 0; if (winAlign.indexOf("top") != -1) topPos = 0; 						
+    features += (features.length > 0 ? ',' : '') + 'top=' + topPos+',left='+leftPos;}
+  if (document.all && borderless && borderless != "" && features.indexOf("fullscreen") != -1) features+=",fullscreen=1";
+  if (window["popupWindow"] == null) window["popupWindow"] = new Array();
+  var wp = popupWindow.length;
+  popupWindow[wp] = window.open(theURL,winName,features);
+  if (popupWindow[wp].opener == null) popupWindow[wp].opener = self;  
+  if (document.all || document.layers || document.getElementById) {
+    if (borderless && borderless != "") {popupWindow[wp].resizeTo(popWidth,popHeight); popupWindow[wp].moveTo(leftPos, topPos);}
+    if (alwaysOnTop && alwaysOnTop != "") {
+    	ontopIntervalHandle = popupWindow[wp].setInterval("window.focus();", 50);
+    	popupWindow[wp].document.body.onload = function() {window.setInterval("window.focus();", 50);}; }
+    if (autoCloseTime && autoCloseTime > 0) {
+    	popupWindow[wp].document.body.onbeforeunload = function() {
+  			if (autoCloseTimeoutHandle) window.clearInterval(autoCloseTimeoutHandle);
+    		window.onbeforeunload = null;	}  
+   		autoCloseTimeoutHandle = window.setTimeout("popupWindow["+wp+"].close()", autoCloseTime * 1000); }
+  	window.onbeforeunload = function() {for (var i=0;i<popupWindow.length;i++) popupWindow[i].close();}; }   
+  document.MM_returnValue = (ignorelink && ignorelink != "") ? false : true;
+}
+//-->
+</script>
+
+<script type="text/javascript" src="/js/email.js"></script>
+<style type="text/css">
+<!--
+.style1 {color: #FFFFFF}
+-->
+</style>
+
+<div id="breadcrumbMenu">
+  
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+        
+  <div id="breadcrumbTextSize"><a href="http://www.twitter.com/UMCSN"><img align="absmiddle" src="/Images/Misc/FollowUsnav.jpg" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.facebook.com/UMCSN"><img align="absmiddle" src="/Images/Misc/LikeUSnav.jpg" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.youtube.com/umcsouthernnevada"><img align="absmiddle" src="/Images/Misc/WatchUsnav.jpg" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:mailpage()"><img align="absmiddle" src="/Images/Misc/Emailnav.jpg" border="0" style="margin-left:10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:window.print()"><img align="absmiddle" src="/Images/Misc/Printnav.jpg" border="0" /></a></div>
+  </div>
+          <div id="sectionHeader">
+            <span id="ctl00_cph1_CtrlLContentRMenu1_SectionHeader">Contact Us</span>
+          </div>
+
+              <div id="lcontentrmenu-wrapper-content">
+              <span id="ctl00_cph1_CtrlLContentRMenu1_Content"><div><table width="100%" border="0" cellspacing="0" cellpadding="10"><tr><td rowspan="2" align="center" valign="top"><img src="/Images/contact.jpg" width="269" height="380" align="left"></td><td colspan="3" align="left" valign="middle"><div><p><img src="/Common/Images/Contact-Us-at-UMC.jpg"alt="Phone, Email or Visit Us!" width="125" height="100" align="right"/><h2>Have a Question?</h2></p>If you didn't find your answers using our menu or using our Search ( in the upper right corner of each page), you   can <em>contact us</em> directly via phone, in person, or by e-mail.<strong></strong></div></td></tr><tr><td width="25%" align="left" valign="top"><h2>Physical Address:</h2><p>University Medical Center<br/>1800 West Charleston Blvd.<br/>Las Vegas, NV 89102</p></td><td width="25%" align="left" valign="top"><h2>E-mail:*</h2><table width="100%"border="0" align="left"bordercolor="#999999"><tr><td><a href="mailto:danita.cohen@umcsn.com" target="_blank">Public Relations</a></td></tr><tr><td><a href="mailto:VolunteerServices@umcsn.com?Subject=Volunteering" target="_blank">Volunteer Opportunities</a></td></tr><tr><td><a href="mailto:UMCPatientAccounting@umcsn.com?Subject=Patient Billing" target="_blank">Patient Billing/Inquiry</a></td></tr><tr><td><a href="mailto:feedback@umcsn.com" target="_blank">Patient Relations</a></td></tr><tr><td><a href="mailto:webmaster@umcsn.com" target="_blank">Webmaster</a></td></tr></table><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p> <p>&nbsp;</p><p>*Patient information is not available over the internet.</p></td><td width="25%" align="left" valign="top"><p>For general feedback / comments, please click <a href="mailto:feedback@umcsn.com" target="_blank">here</a>.</p><p><a href="mailto:feedback@umcsn.com" target="_blank"><img src="/Common/Images/Comments-Email.jpg"alt="Share your comments" width="125" height="100" border="0"/></a></p></td></tr></table><p>&nbsp;</p><table width="95%" border="0" align="center" cellpadding="5" cellspacing="0"><tr id="text"valign="top"bgcolor="#E0E3FC"><td width="35%" align="right" valign="middle"bgcolor="#E0E3FC">Main Number</td><td width="15%" align="center" valign="middle">702.383.2000</td><td width="35%" align="right" valign="middle">Medical Staff Directory</td><td width="15%" align="center" valign="middle">702.383.2603</td></tr><tr id="text"valign="top"><td width="35%" align="right" valign="middle">Patient Information</td><td width="15%" align="center" valign="middle">702.383.2000</td><td width="35%" align="right" valign="middle">Nurse Recruiter</td><td width="15%" align="center" valign="middle">702.383.2541</td></tr><tr id="text"valign="top"bgcolor="#E0E3FC"><td width="35%" align="right" valign="middle">Administration</td><td width="15%" align="center" valign="middle">702.383.2000</td><td width="35%" align="right" valign="middle">Nursing Administration</td><td width="15%" align="center" valign="middle">702.383.2246</td></tr><tr id="text"valign="top"><td width="35%" align="right" valign="middle">Admitting</td><td width="15%" align="center" valign="middle">702.383.2321</td><td width="35%" align="right" valign="middle">Pediatric Emergency Department</td><td width="15%" align="center" valign="middle">702.383.3734</td></tr><tr id="text"valign="top"bgcolor="#E0E3FC"><td width="35%" align="right" valign="middle">Billing Office</td><td width="15%" align="center" valign="middle">702.383.2347</td><td width="35%" align="right" valign="middle">Personnel</td><td width="15%" align="center" valign="middle">702.383.3784</td></tr><tr id="text"valign="top"><td width="35%" align="right" valign="middle">Burn Care Center</td><td width="15%" align="center" valign="middle">702.383.2268</td><td width="35%" align="right" valign="middle">Personnel-TDD</td><td width="15%" align="center" valign="middle">702.383.5919</td></tr><tr id="text"valign="top"bgcolor="#E0E3FC"><td width="35%" align="right" valign="middle">Chaplain</td><td width="15%" align="center" valign="middle">702.383.2434</td><td width="35%" align="right" valign="middle">Physical Medicine-Rehabilitation</td><td width="15%" align="center" valign="middle">702.383.2239</td></tr><tr id="text"valign="top"><td width="35%" align="right" valign="middle">Chest Pain</td><td width="15%" align="center" valign="middle">702.383.3953</td><td width="35%" align="right" valign="middle">Physician Referral Service</td><td width="15%" align="center" valign="middle">702.383.2060</td></tr><tr id="text"valign="top"bgcolor="#E0E3FC"><td width="35%" align="right" valign="middle">Childbirth Classes</td><td width="15%" align="center" valign="middle">702.383.2229</td><td width="35%" align="right" valign="middle">Primary Care  Appointment Line</td><td width="15%" align="center" valign="middle">702.383.2273</td></tr><tr id="text"valign="top"><td width="35%" align="right" valign="middle">Day Surgery</td><td width="15%" align="center" valign="middle">702.383.2711</td><td width="35%" align="right" valign="middle">Public Relations</td><td width="15%" align="center" valign="middle">702.383.3987</td></tr><tr id="text"valign="top"bgcolor="#E0E3FC"><td width="35%" align="right" valign="middle">Eligibility/Financial Counseling</td><td width="15%" align="center" valign="middle">702.383.2320</td><td width="35%" align="right" valign="middle">Radiology-X-Ray Services</td><td width="15%" align="center" valign="middle">702.383.2241</td></tr><tr id="text"valign="top"><td width="35%" align="right" valign="middle">Emergency Department</td><td width="15%" align="center" valign="middle">702.383.2211</td><td width="35%" align="right" valign="middle">Senior Program- Senior Celebrations</td><td width="15%" align="center" valign="middle">702.383.2229</td></tr><tr valign="top"bgcolor="#E0E3FC"><td align="right" valign="middle">Emergency Room-Hearing Impaired Only</td><td align="center" valign="middle">702.383.2486</td><td align="right" valign="middle">Social Services</td><td align="center" valign="middle">702.383.2671</td></tr><tr id="text"valign="top"bgcolor="#E0E3FC"><td width="35%" align="right" valign="middle" bgcolor="#FFFFFF">Family Resource Center</td><td width="15%" align="center" valign="middle" bgcolor="#FFFFFF">702.383.2229</td><td width="35%" align="right" valign="middle" bgcolor="#FFFFFF">Transplant Services</td><td width="15%" align="center" valign="middle" bgcolor="#FFFFFF">702.383.2224</td></tr><tr id="text"valign="top"><td width="35%" align="right" valign="middle" bgcolor="#E0E3FC">Job Information</td><td width="15%" align="center" valign="middle" bgcolor="#E0E3FC">702.383.2230</td><td width="35%" align="right" valign="middle" bgcolor="#E0E3FC">Wellness Center</td><td width="15%" align="center" valign="middle" bgcolor="#E0E3FC">702.383.2691</td></tr><tr id="text"valign="top"bgcolor="#E0E3FC"><td width="35%" align="right" valign="middle" bgcolor="#FFFFFF">Laboratory</td><td width="15%" align="center" valign="middle" bgcolor="#FFFFFF">702.383.2561</td><td width="35%" align="right" valign="middle" bgcolor="#FFFFFF">&nbsp;</td><td width="15%" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td></tr><tr id="text"valign="top"><td width="35%" align="right" valign="middle" bgcolor="#E0E3FC">Media/Marketing</td><td width="15%" align="center" valign="middle" bgcolor="#E0E3FC">702.383.3987</td><td width="35%" align="right" valign="middle" bgcolor="#E0E3FC">&nbsp;</td><td width="15%" align="center" valign="middle" bgcolor="#E0E3FC">&nbsp;</td></tr><tr id="text"valign="top"bgcolor="#E0E3FC"><td width="35%" align="right" valign="middle" bgcolor="#FFFFFF">Medical Records</td><td width="15%" align="center" valign="middle" bgcolor="#FFFFFF">702.383.2255</td><td width="35%" align="right" valign="middle" bgcolor="#FFFFFF">&nbsp;</td><td width="15%" align="center" valign="middle" bgcolor="#FFFFFF">&nbsp;</td></tr></table><div></div></div></span>
+            </div>
+ 
+   </div>
+    </div>
+  </form>
+
+<!-- 				this is a test
+               <div class="clear">
+                </div>-->
+                
+                <div style="font-size:12px; text-align:center; font-style:italic; margin-top:60px;">This translation is provided by Google Translate.  University Medical Center of Southern Nevada makes no representations or warranties of any kind, <br /> whether express or implied, regarding the accuracy of the translation provided above.</div>
+                
+            </div>
+    </div>
+	<div>
+
+<div class="footer">
+    <div class="footer-linkstext">
+        <a id="ctl00_CtrlFooter1_hlFooter1" href="../Footer/About-UMC-of-Southern-Nevada-Index.aspx?intMenuID=6600&amp;intPageID=305">About Us</a> | 
+        <a id="ctl00_CtrlFooter1_hlFooter11" href="../Footer/Clark-County-Board-Members.aspx?intMenuID=305&amp;intPageID=308">Board of Trustees</a> |
+       <a id="ctl00_CtrlFooter1_hlFooter3" href="../Footer/UMCBoardMembers.aspx">Governing Board</a> |
+        <a id="ctl00_CtrlFooter1_hlFooter2" href="Education-And-Events-Index.aspx?intMenuID=115&amp;intPageID=738">Education &amp; Events</a> |  
+        <a id="ctl00_CtrlFooter1_hlFooter9" href="../News-and-Media/News-and-Media-Index.aspx?intMenuID=115&amp;intPageID=149">News &amp; Media</a> |
+        <a id="ctl00_CtrlFooter1_hlFooter4" href="../Foundation/Home.aspx">Foundation</a> | 
+        <a id="ctl00_CtrlFooter1_hlFooter5" href="../Volunteer-Services/Volunteering-at-UMC-Index.aspx?inMenuID=5900&amp;intpageID=289">Volunteers</a> | 
+        <a id="ctl00_CtrlFooter1_hlFooter6" href="../Footer/Doing-Business-With-UMCSN.aspx?intMenuID=6500&amp;intPageID=304">Vendors</a> | 
+        <a id="ctl00_CtrlFooter1_hlFooter8" href="../Footer/Especially-for-Employees-Index.aspx?intMenuID=115&amp;intPageID=323">Employee Access</a> |        
+        <a id="ctl00_CtrlFooter1_hlFooter7" href="../Footer/UMCSN-Privacy-Policy-and-You.aspx?inMenuID=6700&amp;intpageID=313">Privacy Policy</a>
+        <div id="copyright">
+            &copy; University Medical Center of Southern Nevada 2014 &nbsp; | &nbsp; All rights reserved.
+        </div>
+    </div>
+</div>
+
+
+
+</div>
+</div>
+</body>
+</html>

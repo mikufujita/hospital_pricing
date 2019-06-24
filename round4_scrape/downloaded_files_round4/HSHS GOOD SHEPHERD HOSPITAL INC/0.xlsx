@@ -1,0 +1,560 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="head"><title>
+	Emergency Services at HSHS Good Shepherd Hospital, Shelbyville, IL
+</title><meta name="description" content="The emergency services department physicians provide treatment for patients 24 hours a day, 7 days per week." /> 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+<meta http-equiv="pragma" content="no-cache" /> 
+<meta http-equiv="content-style-type" content="text/css" /> 
+<meta http-equiv="content-script-type" content="text/javascript" /> 
+<!--This will keep devices with higher resolutions displays such as iOS from resizing the content ~ if you're using a responsive design that scales ~ the viewport is the forced display width--> 
+<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="google-site-verification" content="eFDu7kPkexlvmYdc9uDbi2r8sSF5OwCNkgzVZQs6wi4" />
+<meta name="msvalidate.01" content="EA66B98857AC831B9E0EC157ED36F499" /> 
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="icon" />
+<!-- CSS ============================================================================================== -->
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=FontAwesome" type="text/css" rel="stylesheet" />
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=GSS_Styles" type="text/css" rel="stylesheet" />
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=bootstrap" type="text/css" rel="stylesheet" />
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=Base_Styles" type="text/css" rel="stylesheet" />
+<!-- END CSS ============================================================================================== -->
+
+<!-- Scripts ============================================================================================== -->
+
+  <!-- This will bring full browser support for media queries. Write your media queries like you would for browsers with native support. 
+       The script will parse your CSS and apply the styles for positive media query tests real time. Note: Doesn't work on @imported 
+       stylesheets or for the media attribute of the link and style elements. Respond.js will make the min-max width work. -->
+  <!--[if lt IE 9]>
+      <script src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/html5shiv_3_7_0.js" type="text/javascript"></script>
+      <script src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/respond_1_4_2.min.js" type="text/javascript"></script>
+  <![endif]-->
+  
+  <script async="async" src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/jquery.1.11.1.min.js" type="text/javascript"></script>
+  <!-- A fix for the iOS orientationchange zoom bug. http://filamentgroup.com/lab/a_fix_for_the_ios_orientationchange_zoom_bug/ -->
+  <script defer="defer" src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/ios-orientationchange-fix.js" type="text/javascript"></script>
+  <script defer="defer" src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/SkinScripts.js" type="text/javascript"></script>
+
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TD82FL6');</script>
+
+<!-- END Scripts ============================================================================================== -->
+<link rel="shortcut icon" href="/FavIconImages/favicon.ico?v=1" />
+<link rel="icon" href="/FavIconImages/favicon.ico?v=1" /><link href="/CMSPages/GetResource.ashx?_webparts=677" type="text/css" rel="stylesheet" />
+</head>
+<body class="LTR ENUS MobileDevice ContentBody">
+    
+    <form method="post" action="/Medical-Services/Emergency-Care.aspx" id="form">
+<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="pjhoAL1/JdG62VOdAdTgkeKA2UJrcfseeb/GriAaHbbJDPyhA9brxMfNdZ54rsxLW2t3sfi66ymUZOhcBtZH5vOYtZzIOK3WYJO7dXGhzUA=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+<input type="hidden" name="lng" id="lng" value="en-US" />
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=x6wALODbMJK5e0eRC_p1Lflgeo6YBdBxdn23PJgQeRz47nTzaQ41mfnKk9QdHEo4dDi2CKwGf1owWliH11qTKp4f95ZRbK8KaRNeZ623ZrV8yIPMBiSYgnVetxe1km2H0&amp;t=7c776dc1" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "isRTL": "false",
+  "isDebuggingEnabled": false,
+  "applicationUrl": "/",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDialog": false
+};
+
+//]]>
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+    
+    <div id="ctxM">
+
+</div>
+    
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TD82FL6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div>
+
+<div class="top_bar"></div>
+        <div class="page_wrapper">
+<div id="google_translate_element" style="float:right !important"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,de,en,es,fr,hi,hmn,it,ko,lo,nl,pl,ru,tl,ur,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script async="async" type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+          <nav class="mobile_menu">
+                        <div class="menu-untrigger"></div>
+	<ul id="menuElem" class="mobileCMSListMenuUL">
+		<li class="mobileCMSListMenuLI">
+			<a title="Patients and Guests" class="mobileCMSListMenuLink" href="/Patients-and-Guests">Patients&nbsp;and&nbsp;Guests</a>
+			<img alt="Patients and Guests" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuLI">
+					<a title="Patient Financial Services" class="mobile2CMSListMenuLink" href="/Patients-and-Guests/Patient-Financial-Services">Patient&nbsp;Financial&nbsp;Services</a>
+					<img alt="Patient Financial Services" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Financial Assistance" class="mobile3CMSListMenuLink" href="/Patients-and-Guests/Patient-Financial-Services/Financial-Assistance">Financial&nbsp;Assistance</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Insurance Billing and Payment Options" class="mobile3CMSListMenuLink" href="/Patients-and-Guests/Patient-Financial-Services/Insurance-Billing-and-Payment-Options">Insurance&nbsp;Billing&nbsp;and&nbsp;Payment&nbsp;Options</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Patient Charges" class="mobile3CMSListMenuLink" href="/Patients-and-Guests/Patient-Financial-Services/Patient-Charges">Patient&nbsp;Charges</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Advance Directives" class="mobile2CMSListMenuLink" href="/Patients-and-Guests/Advance-Directives">Advance&nbsp;Directives</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Cafeteria" class="mobile2CMSListMenuLink" href="/Patients-and-Guests/Cafeteria">Cafeteria</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Medical Records | Patient Portal" class="mobile2CMSListMenuLink" href="/Patients-and-Guests/Medical-Records">Medical&nbsp;Records&nbsp;|&nbsp;Patient&nbsp;Portal</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Visiting Specialist Clinic Schedule" class="mobile2CMSListMenuLink" href="/Patients-and-Guests/Visiting-Specialist-Clinic-Schedule">Visiting&nbsp;Specialist&nbsp;Clinic&nbsp;Schedule</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuHighlightedLI">
+			<a title="Medical Services" class="mobileCMSListMenuLinkHighlighted" href="/Medical-Services">Medical&nbsp;Services</a>
+			<img alt="Medical Services" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuLI">
+					<a title="Cardiopulmonary" class="mobile2CMSListMenuLink" href="/Medical-Services/Cardiopulmonary">Cardiopulmonary</a>
+				</li>
+				<li class="mobile2CMSListMenuHighlightedLI">
+					<a title="Emergency Care" class="mobile2CMSListMenuLinkHighlighted" href="/Medical-Services/Emergency-Care">Emergency&nbsp;Care</a>
+					<img alt="Emergency Care" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Conditions" class="mobile3CMSListMenuLink" href="/Medical-Services/Emergency-Care/Conditions">Conditions</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Patient Stories" class="mobile3CMSListMenuLink" href="/Medical-Services/Emergency-Care/Patient-Stories">Patient&nbsp;Stories</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Quick Tips" class="mobile3CMSListMenuLink" href="/Medical-Services/Emergency-Care/Quick-Tips">Quick&nbsp;Tips</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Stat Heart" class="mobile3CMSListMenuLink" href="/Medical-Services/Emergency-Care/Stat-Heart">Stat&nbsp;Heart</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Home Equipment" class="mobile2CMSListMenuLink" href="/Medical-Services/Home-Equipment">Home&nbsp;Equipment</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Home Health" class="mobile2CMSListMenuLink" href="/Medical-Services/Home-Health">Home&nbsp;Health</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Inpatient" class="mobile2CMSListMenuLink" href="/Medical-Services/Inpatient-Care">Inpatient</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Laboratory" class="mobile2CMSListMenuLink" href="/Medical-Services/Laboratory">Laboratory</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Orthopedics" class="mobile2CMSListMenuLink" href="/Medical-Services/Orthopedics">Orthopedics</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Imaging" class="mobile2CMSListMenuLink" href="/Medical-Services/Imaging">Imaging</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Rehabilitation Services" class="mobile2CMSListMenuLink" href="/Medical-Services/Rehabilitation-Services">Rehabilitation&nbsp;Services</a>
+					<img alt="Rehabilitation Services" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Cardiopulmonary Rehabilitation" class="mobile3CMSListMenuLink" href="/Medical-Services/Rehabilitation-Services/Cardiac-rehabilitation">Cardiopulmonary&nbsp;Rehabilitation</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Occupational therapy" class="mobile3CMSListMenuLink" href="/Medical-Services/Rehabilitation-Services/Occupational-therapy">Occupational&nbsp;therapy</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Physical therapy" class="mobile3CMSListMenuLink" href="/Medical-Services/Rehabilitation-Services/Physical-therapy">Physical&nbsp;therapy</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Speech therapy" class="mobile3CMSListMenuLink" href="/Medical-Services/Rehabilitation-Services/Speech-therapy">Speech&nbsp;therapy</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Sleep Studies" class="mobile2CMSListMenuLink" href="/Medical-Services/Sleep-Studies">Sleep&nbsp;Studies</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Substance Abuse Treatment" class="mobile2CMSListMenuLink" href="/Medical-Services/Substance-Abuse-Treatment">Substance&nbsp;Abuse&nbsp;Treatment</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Surgery Center" class="mobile2CMSListMenuLink" href="/Medical-Services/Surgery_Center">Surgery&nbsp;Center</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Find A Doctor" class="mobileCMSListMenuLink" href="/Find-A-Doctor">Find&nbsp;A&nbsp;Doctor</a>
+			<img alt="Find A Doctor" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuLI">
+					<a title="Online Provider Verification" class="mobile2CMSListMenuLink" onclick="window.open(&#39;https://reportal.medkinetics.com/index.cfm?SID=FA9C5ADC-1258-4A98-9096-3571DC635BAF&amp;CFID=2242687&amp;CFTOKEN=15207604&amp;jsessionid=8430a012c968b39ece686be59122e611d215&#39;);return false;" href="/Find-A-Doctor/Online-Provider-Verification">Online&nbsp;Provider&nbsp;Verification</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Volunteer" class="mobileCMSListMenuLink" href="/Volunteer">Volunteer</a>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="News" class="mobileCMSListMenuLink" href="/News">News</a>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Giving" class="mobileCMSListMenuLink" href="/Giving">Giving</a>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Search" class="mobileCMSListMenuLink" href="/Search-Results">Search</a>
+		</li>
+
+	</ul>
+
+
+
+                    </nav>
+          <header>
+                <!-- Logo -->
+                <a href="/" class="logo" title="Home">
+                    <img src="/www-gss/media/GSS-Images/logo.png" alt="Logo" style="border-width: 0px;" />
+                </a>
+                <!-- Utility Nav -->
+                <div class="utilities_wrapper">
+                    <nav class="utility_menu">
+                        
+	<ul id="menuElem" class="utilitiesCMSListMenuUL">
+		<li class="utilitiesCMSListMenuLI">
+			<a title="About" class="utilitiesCMSListMenuLink" href="/Hospital-Information/About">About</a>
+			<ul class="level1CMSListMenuUL">
+				<li class="level1CMSListMenuLI">
+					<a title="Annual Report" class="level1CMSListMenuLink" href="/Hospital-Information/About/Annual-Report">Annual&nbsp;Report</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Community Health Needs Assessment" class="level1CMSListMenuLink" href="/Hospital-Information/About/Community-Health-Needs-Assessment">Community&nbsp;Health&nbsp;Needs&nbsp;Assessment</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Community Outreach" class="level1CMSListMenuLink" href="/Hospital-Information/About/Community-Outreach">Community&nbsp;Outreach</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="HSHS Nurses" class="level1CMSListMenuLink" href="/Hospital-Information/About/HSHS-Nurses">HSHS&nbsp;Nurses</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Leadership" class="level1CMSListMenuLink" href="/Hospital-Information/About/Leadership">Leadership</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Mission and Values" class="level1CMSListMenuLink" href="/Hospital-Information/About/Mission-and-Values">Mission&nbsp;and&nbsp;Values</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Performance Data" class="level1CMSListMenuLink" href="/Hospital-Information/About/Performance-Data">Performance&nbsp;Data</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Hospital Sisters Health System" class="level1CMSListMenuLink" href="http://www.hshs.org">Hospital&nbsp;Sisters&nbsp;Health&nbsp;System</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Hospital Sisters of St. Francis" class="level1CMSListMenuLink" href="http://www.hospitalsisters.org/">Hospital&nbsp;Sisters&nbsp;of&nbsp;St.&nbsp;Francis</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Careers" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Careers">Careers</a>
+			<ul class="level1CMSListMenuUL">
+				<li class="level1CMSListMenuLI">
+					<a title="Job Application" class="level1CMSListMenuLink" href="/Hospital-Information/Careers/Job-Application">Job&nbsp;Application</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Job Openings" class="level1CMSListMenuLink" href="/Hospital-Information/Careers/Job-Openings">Job&nbsp;Openings</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Contact Us" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Contact-Us">Contact&nbsp;Us</a>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Directions" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Directions">Directions</a>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Medical Staff &amp; Colleagues" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Medical-Staff-Colleagues">Medical&nbsp;Staff&nbsp;&amp;&nbsp;Colleagues</a>
+			<ul class="level1CMSListMenuUL">
+				<li class="level1CMSListMenuLI">
+					<a title="Request Access to HSHS EpicCare Link" class="level1CMSListMenuLink" href="/Hospital-Information/Medical-Staff-Colleagues/Request-Access-to-HSHS-EpicCare-Link">Request&nbsp;Access&nbsp;to&nbsp;HSHS&nbsp;EpicCare&nbsp;Link</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Healthy You" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Healthy-You">Healthy&nbsp;You</a>
+		</li>
+
+	</ul>
+
+
+
+                    </nav>
+                    <!-- Search Box -->
+                    <div class="clearfix"></div>
+                    <div class="search_wrapper">
+                        <div class="PhoneNum">Phone: (217) 774-3961</div><div style="float: left;"><div id="p_lt_ctl03_SmartSearchBox_pnlSearch" class="searchBox">
+	
+    <label for="p_lt_ctl03_SmartSearchBox_txtWord" id="p_lt_ctl03_SmartSearchBox_lblSearch" style="display:none;">Search for:</label>
+    <input name="p$lt$ctl03$SmartSearchBox$txtWord" type="text" maxlength="1000" id="p_lt_ctl03_SmartSearchBox_txtWord" class="txt_search form-control" />
+    
+    <input type="image" name="p$lt$ctl03$SmartSearchBox$btnImageButton" id="p_lt_ctl03_SmartSearchBox_btnImageButton" class="btn_search" src="/St.NicholasHospital/media/TemplateImages/spacer.gif" alt="Search" />
+    <div id="p_lt_ctl03_SmartSearchBox_pnlPredictiveResultsHolder" class="predictiveSearchHolder">
+
+	</div>
+
+</div>
+</div><div class="menu-trigger" style="float: right;" id="showLeftPush"></div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </header>
+             <!-- Main Menu -->
+            <nav class="main_menu">
+                
+                    
+<ul id="menu"><li><a href="/Patients-and-Guests">Patients and Guests</a><ul><li><a href="/Patients-and-Guests/Patient-Financial-Services">Patient Financial Services</a></li><li><a href="/Patients-and-Guests/Advance-Directives">Advance Directives</a></li><li><a href="/Patients-and-Guests/Cafeteria">Cafeteria</a></li><li><a href="/Patients-and-Guests/Medical-Records">Medical Records | Patient Portal</a></li><li><a href="/Patients-and-Guests/Visiting-Specialist-Clinic-Schedule">Visiting Specialist Clinic Schedule</a></li></ul></li><li><a href="/Medical-Services">Medical Services</a><ul><li><a href="/Medical-Services/Cardiopulmonary">Cardiopulmonary</a></li><li><a href="/Medical-Services/Emergency-Care">Emergency Care</a></li><li><a href="/Medical-Services/Home-Equipment">Home Equipment</a></li><li><a href="/Medical-Services/Home-Health">Home Health</a></li><li><a href="/Medical-Services/Inpatient-Care">Inpatient</a></li><li><a href="/Medical-Services/Laboratory">Laboratory</a></li><li><a href="/Medical-Services/Orthopedics">Orthopedics</a></li><li><a href="/Medical-Services/Imaging">Imaging</a></li><li><a href="/Medical-Services/Rehabilitation-Services">Rehabilitation Services</a></li><li><a href="/Medical-Services/Sleep-Studies">Sleep Studies</a></li><li><a href="/Medical-Services/Substance-Abuse-Treatment">Substance Abuse Treatment</a></li><li><a href="/Medical-Services/Surgery_Center">Surgery Center</a></li></ul></li><li><a href="/Find-A-Doctor">Find A Doctor</a><ul><li><a href="/Find-A-Doctor/Online-Provider-Verification" onclick="window.open('https://reportal.medkinetics.com/index.cfm?SID=FA9C5ADC-1258-4A98-9096-3571DC635BAF&CFID=2242687&CFTOKEN=15207604&jsessionid=8430a012c968b39ece686be59122e611d215');return false;">Online Provider Verification</a></li></ul></li><li><a href="/Volunteer">Volunteer</a></li><li><a href="/News">News</a></li><li><a href="/Giving">Giving</a></li></ul>
+
+                
+                <div class="clearfix"></div>
+            </nav>
+            <!-- Page Layout  -->
+            <div class="page_content">
+                
+
+<div class="generalContentBannerLO">
+    <div class="top_zone">
+        <div class="breadcrumb">
+  <a href="/">HOME</a> > <a href="/Medical-Services" title="Medical Services" class="CMSBreadCrumbsLink">Medical Services</a> &gt; <span class="CMSBreadCrumbsCurrentItem">Emergency Care</span>
+
+</div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="banner_zone">
+        <div class="landing-bkg page-curl">
+            <div class="inner_content">
+                <img id="p_lt_ctl05_pageplaceholder_p_lt_bannerZone_BannerImage_ucEditableImage_imgImage" title="Emergency Care" class="landing-banner-image" src="/www-gss/media/GSS-Images/Medical%20Services/Emergency/Brenda-707-340.jpg" alt="Emergency Care" />
+
+<div class="landing-banner-text lightgrey-pattern">
+  <h1><em-blue></em-blue></h1>
+
+<h1 style="color: rgb(51, 51, 51); line-height: 36px;"><em-blue>Emergency</em-blue><br />
+Services</h1>
+
+
+
+
+
+</div>
+                <div class="clearfix"></div>
+            </div>
+            <div class="bottom_left"></div>
+            <div class="bottom_right"></div>
+        </div>
+    </div>
+    <div class="general_content_wrapper">
+        <div class="seconday_nav_zone">
+            
+
+
+
+
+	<ul id="sidebar-menu">
+		<li class="first">
+			<a href="/Medical-Services/Emergency-Care/Conditions">Conditions</a>
+		</li>
+		<li>
+			<a href="/Medical-Services/Emergency-Care/Patient-Stories">Patient Stories</a>
+		</li>
+		<li>
+			<a href="/Medical-Services/Emergency-Care/Quick-Tips">Quick Tips</a>
+		</li>
+		<li class="last">
+			<a href="/Medical-Services/Emergency-Care/Stat-Heart">Stat Heart</a>
+		</li>
+
+	</ul>
+
+
+
+            <div class="clearfix"></div>
+        </div>
+        <div class="right_zone">
+            Emergencies can happen at any moment. When they do, you want the best care as quickly as possible. That&#39;s why HSHS Good Shepherd Hospital is ready 24/7 right here in Shelbyville.&nbsp;<br />
+<br />
+From serious conditions
+<link conditions="" page="" to="" /> like a <a href="/Medical-Services/Emergency-Care/Conditions">heart attack</a> to accidents like a broken bone, our physicians and nurses are highly trained and ready to take care of your loved ones of all ages. The nursing team is certified in cardiac life support, pediatric life support and trauma. We also work closely with the Prairie Heart Institute to provide the <a href="/Medical-Services/Emergency-Care/Stat-Heart">Stat Heart program</a>.<br />
+<br />
+Our <a href="https://www.youtube.com/watch?v=Ay46OWG1MZ0" target="_blank">newly remodeled emergency department </a>offers all private rooms, a private waiting area and an updated radiology department. New technology can connect you to specialists within minutes.&nbsp;<br />
+<br />
+Learn more about our emergency services from Brenda and Brandy, who were recently treated at Good Shepherd Hospital.<br />
+&nbsp;
+<div class="embed-responsive embed-responsive-16by9" style="text-align: center;"><br />
+<iframe 560="" allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/peAc1MlCyXA"></iframe></div>
+&nbsp;
+
+<div class="embed-responsive embed-responsive-16by9" style="text-align: center;"><br />
+<iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/L3RSJ6a85FM" width="560"></iframe></div>
+
+
+
+
+
+        </div>
+        <div class="left_zone">
+            <h3>Connect</h3>
+
+<ul class="social-links">
+	<li class="facebook"><a href="https://www.facebook.com/HSHS-Good-Shepherd-Hospital-142698955827290/" target="_blank">Facebook</a></li>
+<li class="instagram"><a href="https://www.instagram.com/hshsgoodshepherd/" target="_blank">Instagram</a></li>
+</ul>
+
+        </div>
+        <div class="clearfix"></div>
+        <div class="bottom_zone">
+            
+
+
+
+
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+
+                <div class="clearfix"></div>
+            </div>
+
+            <!-- Footer -->
+             <footer class="darkgrey-pattern row do-not-search">
+      <div class="top-shadow">
+        <div class="wrap row">
+          <div class="span5-1">
+  <div class="content-padding">
+  <h4>HSHS Good Shepherd Hospital</h4>
+<a href="/Hospital-Information/Requests-for-Support.aspx" style="line-height: 1.4285;">Requests for support</a><br />
+<a href="http://portal.office.com" style="line-height: 1.4285;" target="_blank">Email Login</a><br />
+<a href="https://citrix.mysmh.org/RDWeb/Pages/en-US/login.aspx?ReturnUrl=/RDWeb/Pages/en-US/Default.aspx" style="line-height: 1.4285;" target="_blank">Citrix Login</a><br />
+<a href="https://hshs.service-now.com/$pwd_reset.do?sysparm_url=password_reset" target="_blank">Colleague Password Reset</a>
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4>Central Illinois Division</h4>
+
+<p><a href="http://www.hshsmedicalgroup.org/" target="_blank">HSHS Medical Group</a><br />
+<a href="http://stfrancis-litchfield.org" target="_blank">HSHS St. Francis Hospital</a><br />
+<a href="https://www.stmarysdecatur.com/default.aspx" style="line-height: 1.4285;" target="_blank">HSHS St. Mary&#39;s Hospital</a><br />
+<a href="https://www.st-johns.org/" style="line-height: 1.4285;" target="_blank">HSHS St. John&#39;s Hospital</a><br />
+<a href="http://www.stjohnscollegespringfield.edu/college/Home.aspx" style="line-height: 1.4285;" target="_blank">St. John&#39;s College</a></p>
+
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4>Connect with Us</h4>
+
+<ul class="inline-social-links">
+	<li class="facebook"><a href="https://www.facebook.com/HSHS-Good-Shepherd-Hospital-142698955827290/" target="_blank">Like Us on Facebook</a></li>
+	<li class="instagram"><a href="https://www.instagram.com/hshsgoodshepherd/" target="_blank">Follow Our Instagram</a></li>
+	<li class="donate"><a href="/Giving" target="_blank">Make a Donation</a></li>
+</ul>
+
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4><a href="/Hospital-Information/Contact-Us.aspx">Contact Us</a></h4>
+
+<p>Dial 911 for medical emergencies</p>
+
+<p>Switchboard<br />
+(217) 774-3961</p>
+
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4>&copy; HSHS&nbsp;Good Shepherd&nbsp;Hospital</h4>
+
+<p><a href="/Hospital-Information/Patient-Privacy.aspx">Patient Privacy</a><br />
+<a href="/Hospital-Information/Patient-Rights.aspx" style="line-height: 1.4285;">Patient Rights &amp; Responsibilities</a><br />
+<a href="/Hospital-Information/Legal.aspx" style="line-height: 1.4285;">Legal</a><br />
+<a href="/SiteMap.aspx" style="line-height: 1.4285;">Site Map</a></p>
+
+
+
+
+
+ </div>
+</div>
+        </div>
+      </div>
+      <div class="footer-branding"></div>
+</footer>
+          <!-- Disclosure Layout  -->
+            <div class="disclosure_content">
+                <font face="Calibri"><span style="font-weight: 700;">Notice of Nondiscrimination:</span>&nbsp;</font><a href="/Hospital-Information/Language-Assistance-Services" style="outline: 0px; color: rgb(35, 82, 124); text-decoration: underline;"><u><font color="#0066cc" face="Calibri">English</font></u></a><br />
+<font face="Calibri"><span style="font-weight: 700;">Language Assistance:</span>&nbsp;</font><a href="/Hospital-Information/Language-Assistance-Services"><u><font color="#0066cc" face="Calibri">Español</font></u><font face="Calibri">&nbsp;|&nbsp;</font><u><font color="#0066cc" face="Calibri">Hmoob</font></u><font face="Calibri">&nbsp;|&nbsp;</font><u><font color="#0066cc" face="Calibri">Deutsch&nbsp;</font></u><font face="Calibri">|&nbsp;</font><u><font color="#0066cc" face="Calibri">Français</font></u><font face="Calibri">&nbsp;|</font><font color="#0066cc" face="Calibri"><u>&nbsp;</u></font><span style="font-family: &quot;MS Gothic&quot;;"><u><font color="#0066cc">繁體中文</font></u></span><font color="#000000" face="Calibri">&nbsp;|&nbsp;<u><font color="#0066cc">Deitsch</font></u>&nbsp;|&nbsp;<u><font color="#0066cc">Polski</font></u>&nbsp;|&nbsp;</font><span style="color: rgb(0, 75, 141);"><span style="font-family: Arial, sans-serif;"><u>العربية</u></span></span><font color="#000000" face="Calibri">&nbsp;|&nbsp;<u><font color="#0066cc">Русский</font></u>&nbsp;|&nbsp;<u><font color="#0066cc">Italiano</font></u>&nbsp;|&nbsp;<u><font color="#0066cc">Tagalog</font></u>&nbsp;|&nbsp;</font><span style="color: rgb(0, 75, 141);"><span style="font-family: Mangal, serif;"><u>हिंदी</u></span></span><font face="Calibri"><span style="color: rgb(0, 75, 141);"><u>&nbsp;</u></span></font><font color="#000000" face="Calibri">&nbsp;|&nbsp;</font><span style="color: rgb(0, 75, 141);"><span style="font-family: DokChampa, sans-serif;"><u>ພາສາລາວ</u></span></span><font color="#000000" face="Calibri">&nbsp;|&nbsp;</font><span style="color: rgb(0, 75, 141);"><span style="font-family: Gulim, sans-serif;"><u>한국어</u></span></span><font color="#000000" face="Calibri">&nbsp;|&nbsp;<u><font color="#0066cc">Tiếng Việt</font></u>&nbsp;|</font><font face="Calibri"><span style="color: rgb(0, 75, 141);"><u>&nbsp;</u></span></font><u><span style="color: rgb(0, 75, 141);"><span style="font-family: Arial, sans-serif;">اُردُو</span></span><font color="#000000" face="Calibri">&nbsp;</font></u></a>
+
+
+
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
+  <div class="bottom_bar"></div>
+</div>
+    
+    
+
+<script type="text/javascript">
+	//<![CDATA[
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+if ( (parent == null) || (!parent.IsCMSDesk) ) {
+try { 
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-90779102-1']);
+_gaq.push(['_trackPageview']);
+} catch(err) {}
+}
+//]]>
+</script></form>
+</body>
+</html>

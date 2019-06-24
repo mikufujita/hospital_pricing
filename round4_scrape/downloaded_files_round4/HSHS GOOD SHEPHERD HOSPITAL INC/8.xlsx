@@ -1,0 +1,680 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="head"><title>
+	Requests for Support | HSHS Good Shepherd Hospital
+</title><meta name="description" content="In order for us to better evaluate such requests, we ask those making a request to complete this form." /> 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+<meta http-equiv="pragma" content="no-cache" /> 
+<meta http-equiv="content-style-type" content="text/css" /> 
+<meta http-equiv="content-script-type" content="text/javascript" /> 
+<meta name="keywords" content="requests for support, sponsorship requests" /> 
+<!--This will keep devices with higher resolutions displays such as iOS from resizing the content ~ if you're using a responsive design that scales ~ the viewport is the forced display width--> 
+<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="google-site-verification" content="eFDu7kPkexlvmYdc9uDbi2r8sSF5OwCNkgzVZQs6wi4" />
+<meta name="msvalidate.01" content="EA66B98857AC831B9E0EC157ED36F499" /> 
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="icon" />
+<!-- CSS ============================================================================================== -->
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=FontAwesome" type="text/css" rel="stylesheet" />
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=GSS_Styles" type="text/css" rel="stylesheet" />
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=bootstrap" type="text/css" rel="stylesheet" />
+  <link href="/CMSPages/GetResource.ashx?stylesheetname=Base_Styles" type="text/css" rel="stylesheet" />
+<!-- END CSS ============================================================================================== -->
+
+<!-- Scripts ============================================================================================== -->
+
+  <!-- This will bring full browser support for media queries. Write your media queries like you would for browsers with native support. 
+       The script will parse your CSS and apply the styles for positive media query tests real time. Note: Doesn't work on @imported 
+       stylesheets or for the media attribute of the link and style elements. Respond.js will make the min-max width work. -->
+  <!--[if lt IE 9]>
+      <script src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/html5shiv_3_7_0.js" type="text/javascript"></script>
+      <script src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/respond_1_4_2.min.js" type="text/javascript"></script>
+  <![endif]-->
+  
+  <script async="async" src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/jquery.1.11.1.min.js" type="text/javascript"></script>
+  <!-- A fix for the iOS orientationchange zoom bug. http://filamentgroup.com/lab/a_fix_for_the_ios_orientationchange_zoom_bug/ -->
+  <script defer="defer" src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/ios-orientationchange-fix.js" type="text/javascript"></script>
+  <script defer="defer" src="/CMSPages/GetResource.ashx?scriptfile=/CMSScripts/Custom/SkinScripts.js" type="text/javascript"></script>
+
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TD82FL6');</script>
+
+<!-- END Scripts ============================================================================================== -->
+<link rel="shortcut icon" href="/FavIconImages/favicon.ico?v=1" />
+<link rel="icon" href="/FavIconImages/favicon.ico?v=1" /><link href="/CMSPages/GetResource.ashx?_webparts=677" type="text/css" rel="stylesheet" />
+</head>
+<body class="LTR ENUS MobileDevice ContentBody">
+    
+    <form method="post" action="/Hospital-Information/Requests-for-Support.aspx" id="form" enctype="multipart/form-data">
+<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="zJl6tBAWCyanZLa2xbezrW0JUHK/qctskcSccBWbhBo1/RprUQMNgy6+2YntPJ8QhcbSFmp3jLSHmxFrzDVlcXa1b0c6zUhLAe8p+meyzXw=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="EgKLyyRsswKe+d+RdN07ImrG+bAwXBYWaMEYGCFxcoP0UM9QT3dpyTP1Az95QX5ieFhLBgEpjFs87tr7IhvzXaHCOTOLqSSxdgT65Fne/A3jk8XKfSCsXkTErrTJJXa05KVh3Ii4ewWhToTA7xv3hjet3uVlVQrvl09j3zssJzfL7Fbm2hTmjbdHt+5eMqjIT6rqWebCB5PnBcUwx5utlB9Ks+K+X1iajQ1fwkBhCYhvo87X0XPcEThObtKnew/SqNjEx7UU2gbl8rSPEneyHqKWnQimLL6lQqbf+4rWnAdOt0Q/5SVfZ8qRS3Sx1oQvWxpvOUO06cC1MA+PNNfKqPiEjDMdUkyO97tX8yxIIzm7WOVEN9Qli5qBWktJRuXcEifaEdWUtpNehbZ7YcmmP/hOVwI9D9QuCBLgwaKgTQT0Q6K2PXI++W/znzZTDtG34thSgrlGNkdi4TT8BAvjyd5YpYDGvmssRWSeYiiTMgCsKcl7ISGjSYIBiTHbH9JtA+oqbTm7EmXjv/gfxyWieQ6MlK6MqmtR5+0LRry3slB5df6I+xn8GCAaV+LfGjs3Hw7e/8noA/zTZ5sKxfKLO4+c/tg5gjUiBt2s218czTOYSPAaMwLlSXHxwlzrd4A7YxAa0MwXJKS5guin63pKSaMVqVNPlX/ntkO4S1HSOK/JiSl/Xm9ekj6VkzjspPh1eBs3fx590wUUuKdX0a03fjOJqRPmr0zmaOrv68bsSnzSnrg3qdhOjvQktRXBFXHep2YhuFn8rq+MzQLlZuYp8U02GZQYekER/BwGZ9th1vfk0iWGhTtuspaZWSNykrUeU+N0yfAUPnGMevHzNko/RzYO3x65eT1iKApIJO/oHEFyu42AVmh7ucY8NgVEY7GV1vbNQztYMg0yPWb5FIYqmcQjDFz40T4Iox35TXmjm/iQjuv8xmAzS+9Imp5sbmUvC9gt4ZNT/bxN3gYIaNy2NYLtgpCmRICZcQ0EZi1jMLtGmwaREuUhuoE6zd6WmiP+jT0Zwxdpdrlg9Ue2a04uUdT5pxrSNx4VANBvY0AsGvgT2wb8t84jRLdaIqp+VW30+YEccWHRSq1ecfCTWpjuISJlM7xx95crGBjJJ77gIXM7/hfAGdKUIk6iTMsJIiu/VxE7znuGifRkr6IVxJC54HaVHptKi6R95W1Nnymwhfdl92gHZ4K4r+ehK0Mbq7PqxwhuMXo6xSTg+wnbW133HB13WyTOyK4UTJ17j6eoQkwVt0dKajImjka5yGJhHNqWZSoSn5FOAPVkREZae4z9gTbi8d422RMrEsNCMrBpwQ4sbx2qhDHyID3sBM1Tib9e66gHFoo+c2K0xMA4U++JRzcSM4hBzDk+QV7Hmf72g59fRE8aE6n6IhGL/vQ2HXEDPr0IrhOqK+jhelpOq9M+oBcJpJeO3IfijCc2FgBmudNmfAZLE7iu4pGtA8Cly+LQ/LyvevqOe2WySYGQv4EStBXHJUtuhaxd7BV/fn0BGiRfxivazjS3WEaQi7Pxvu+5vh3/NFycNb5x3IMEcosYF6VrnBoDLVxJwOcru2Jv2vxS2J+LVp6HVs2NB4aje1x4ljwwY7wHF56STRLiLZhcmomSiPUVn8QxEf+Lfj0sf3E//p+FzhEeaAnIc3Hzac/VWK5BOAfi46e3romd1V7MU+Ow4V87hUlxbmiQbd1YPPHBbaJ3CmCGk3ywkGvjg+FTwbXYOFUSSU7xnbI1c6Xy3Ht1U+Bm2R4NUu5jZiwaaD+v5leJHWpsg/b/IPMXkGPtcRB3jhYbDkjWqnPHV2A+rZNH1mbPZkejFQNaqxl1pgxtkmqVp7pC7YVuuixT/DBVjTuyf9pWnXpIYxc/VZcoAKs8fd+sfjqADwpAN3I1/ulRqr1jJoeMqkc3XwsmvsrmeapF7mX+vItyh/jcU8Gi3sc1nlXxHu+Ql7Jqr8vLxT6DCUtpxAjE6NXHm7a146r7EjEAOY+5WcdgFkR/VgQHIVVARgGT/mcB9h7iPr7mh2s3ScIVNqwOYm5onwxvG+1wYQCg6RIO0BBA5Y1BB3fnt0vsmfHG36ApQeTkexBMY7XIiVjJVlKB0uDqg6wn4iD9LppITkmhDUETgUbckNinveep6TRw1tsGDd99QqU4a/tsD6/j3q7BvFfvlM9rJRLfxRWNaXPiHdiStdrRXwaI0owKqXfFuJsu/vQrmgm52/tix2tM7rTus1ubWh6w6PGaon5lUOMhIMK7b4tRvd9/AODya5TGGy03L+E2pYkJI/r13Qz+KTCkYX+LcE1O1qr5TK54QO5nA4DQ1YjUWK3LdFWU1T0K+SkklNF37IQBzhMn09nODbu5WcIFMOoiROz9C1dcGO5n88d/JTE6CjzIM6//tT2SL5cC5j5UXdIY2lYtKlvMitIlRTU7DgLqq2hVUJcSeZheveBTzHpB8l9LJJH3ax6WRzVz0A4DbXROzyBPAzY+NXQzl/ObXjk/4QEmc3mDCETSl8OOXMUy+BWQ/M8TPoAf34Wk5NSbUZTpPN+5KJH+OllaA6vw4An86tdQO2Wu6qJK+QCSxSlws6cahpgrA6DvaZ2hq5VCgHqAuptylpFcq2k3JOgnLMNMIq8Ia9nHHRSO5X7o4xCPLlbBYR/j+v6OL6LvDqVHMhJcb01wsT75sRdOJ02qzijhbqn7nPJGcb65FO9De5h76HzT8wTMl5+Y7hmBPyk80H5Zyi7u79xBj+ic+AlWGksHCz5CPZuj1iTeRsNZg2l3p1CDObr+FVzUnwRhI9diMe7u7wnRLti+wPEP6d7+4ZGotSlF8Az9U+ZhhHF8F/F3puLK07pIxtnliuGyGyCBQYtjxgItA5ko0Kk0TN+edAlApSScLtxXAJOOTnRExl0O9d25MlfCT8f+QknQLvkS3F2WRC534tks882565elymlP1+ks00+8h0az7mW0z+bAZaCykiQ18MjmNZ1HYHGsfQkJqSU7kMlrYE/XyGc/EQNVKBZaBYwaXt2M32rX0yDq0DjrFyS/OKS28CE3CyK1xHqM3bR/GPTGFMeUdMzkFzi1e/3+SVxRIguCa6fj9iFRSN9m+kG4rlzG8WI4NNizqEbF6EQWRvUAPfXma9iSB9PuwA1dTeHCxHjdnVciOSZspvNZ7gt3zAo+Hrx9h7Dt4y3jW6ITlFIwJfiZ7M/y74Q/NLDjWTs3ZsrB1GkKE+RXhlbQrwXD5t82Fuc+B+mYp00CEgJtFo1FOciYGGZkY//aB8OkWMg4l296smDc+gWXil5HulljPtpEK/Dum9Ko1HevY9r35b7V9Yj9gAwt4/jRieSUrV8r3dKQQzsvtKkzafLHrLS/eDW/XxZgooRRZ0paM/PZRyHczsdPKYGy3rzEHLUfW0oTCzywuISgWRV7TDRHSDJdC1bvQvNP+gIYT5nPAolATiM57b8pSLliwe1td+MzuNDM7Sk+Gja5C2HkN7TjVuwbLyKyMPlbs9Rot2o5o4SP898M9wpjiheH4mbiz1KdlY6tAIQwoilL/uhp+6LdPV2e0eiO+2mUY9ufAgH5RQMrKobilmgdQhdypI4/Pd/1rlk8cvVoLeH317RS+yDz/O2tzk8NlT56s52NhyyqCBbLzubIb4kEnwIFHogKDaXmPKIzPVF3OLiXJjMqA2ycXVUGClkPLXe/JQM2XQ+AQE/hdPqMnmFvYRdRvphppFx2qa+61Tcje4WJcpXvwZeqp9oRdNYh+wwBff/DcpVUtX5BwpKb/TZ9gpuHDnsybUfV6yOmhNVImN/UPgXX3A4THoA7VOXmh1eL0ERdvRdeYR1CQKRIygAa6fhXOUoJoKJKYgm4Y0fsvasNgzmiW90n+kpcGE3gjCkH5tyr8MJ3e2tyOjMcB4uuNz01e3ynUoPlwSkZkGuNbkNXFAaeulhhBf336B9VLRQDPFBJPoD2DN4XEhUe29lVVjaHF1wx8Hf3g8zmUgNl6Q7uRduSUX8ddeAnC2sf7Z/c+igTFTrs2c/nE8Vs56c0zoPYZ7IYsSXndmVdZuzdW2lIo6lqOcSgkB81aBbkUm1Z7hIqfWr6cadKN5m6Kma5QugdIxjN7ENN2rroIXhLE0uE6KAcTesU5PVhLO7mnMi02M09duuVNJDP6zixZi4sQelJSrWwJhFijc2WikuURW8XlmKy2dbSVpGdfxY9OISSk5/ppISwM4jzlurJ/AkKiHH/fmisWsD/htBdwJWJ2dvq49f+4+BrXrckh2GJ2mADvTS8uuNqTMvLgcJrOeYOQ4xm9bcP+0a7nWIO0W1fJqjtlk+HtGgD+x4DdVi8BYeT1KgbpRxm2h8jfZveDeDcxRn/fj+/4rQ+8QONmjGj4qr380cevAReW60WtdCBGWLnUXLZ51TIJygkRwoNxmwmepXD2mJobl46oEX+09DdIZBPb/fLcdxCcLbEDNc2BKWow9XAK5aev+TO+ukydXmkEyw6znq5wQ+I/2v/o0Drx8d4gqxy8mGfF1p7UnZ6kNUcy7+Kz307roXuT5Z54iPQD7/yfyKce6o+/Rbm0i8BOI62zF5a30y26XPbDPr5w1cvZUOu8msa+cx+sasuDJBTo3pDJdp6Q05jc4Wg/Of9HF4Hx86zmipNHj0qWj3WeP7990A186qUWPWE2L+6c/4Xip4JD926mr8aCr5dVzz+fliMKap6L7VXvaLfSnkP2kfSBCUAds5j9+/yCzWlKyN+SiUOwBpfhitYJJUZjQ1vca7xY8PWifdjyR6F0ug84gLQS63P80Q28Lj9t0zN2HtHRX7VgChT/Tk0REA+nUWjzz5cOLICnJIG+Y2omo1W/BDGfMC73wKOQzXRhsorQ2f8ObuOtSIlHYWPH7NjJQgSnQLa5iDbQcKoBDiEs6fLNOBmOJigC5c/mGzJmNizfNWWZKBTRS0jcv3m3hP1V8LNLAx6UjGYojIPbY9yc9ZFmelUHnJedU/kpJzFsqP8qOzVA0mMwVeXPqP+v7DKScIhDDw7jjiI6MJzv+Ih1JXE6G/tV+UlIb4MMO3sBGSxR8c6OLRJLeU6hJTQeW6vX9Zqy4XD36C+snHyYynnuL8++KWYhs5smEfWOP7UmjwlC3I6LXhhM9y7hE1zstSc9hpMLU4SvW6pKuhZdCql8u1Gq9CPgVt3OiXV3+22TtpEt8Io+cd8SIZYqP8KgXC+rVA+tR/lgLHyY2dTQ8tukFOMbHmaBismFMZEWDJb1ffoeqUjp+MMuugBR9yJ4xu6OrveECh4XQqY2XNmRuRoSZcYy7+U3jiKTUxrqOcBbHiHQoBdA+OXZx7LEJvPoQ/3IchviAt4wMxVehhQnx3r0fPy6HlshViLZ5c7BR2/MZOMQGbwNj8pFLJNHkGOX+SWq0JT+JCIdTYFr0X5hyLYLtbnH0Wrr0WfMSzprnWloxvZ7E4151M7AYcQGUqrfSNeB955ZxCw3zBbKK18/Z5k1LMuMWF41km6Zawz1BEBYeYvvI2d3jMFw1xcPe7FCie8iVQbxnps39grzmrQG610ZxeL05rVwktJ5/m1zVXu48afLKfT/z2MY7bu77IBOrDziG7A4zb3pOEZoi8m3Drnso+k/tAdXhH60luEvAlKDUQu3Hpe8NSy5wVgo2/JrOkocdp6kOkOJRgTUJu8v+AW+1XLbGoh5dUg+r8Qm/McfTW2IRhf49fSEmV5DICk3mqm0gxLE2j4vf4eWrIYBisuOpqsXHmq/dlN12OHHcn/sKj2QQVPcI8mdmxveyX6FQVjdy9SMM1NXLIGxzMOO3Q4DTUMbw0rOCY33rDBPRVIY4Atg1jf+I/MT/zoji3J1G6SZrT6n2ZpnLTVrGPEO4YPpc0J5J22/AKstISvMRrmVXS+1i4H7qKT/6Cf9hV3IT+AOJx2OD4IrjsY540mStgkv6HAXN4+XpbTFFMbHaZgJDcjlGFH/LTF3knJJedBVNacduqePGa5gyMNoAV+59J1LiZj3Xfpt4ABcApKUe0EMXrXQeAZXJbWS3H1pI7HbjZUHf471EQGcmELarB8VFZWdAb+TsOkySi0MKJBJ1Z8p7LL8WX+Z72jDlW0hMVZZUiSaC0j2SY5aTzBOyH8V0X9g5NL6VFVrZuR0AkR7jOt1r3EkpdNeMWvoQHR2l9QT74XF5UanUcRkMiL7lwGe2HiDzm6NN6VgOPJP1u199AoaddaoLjmKciJiLrcJo7Lj1ojSR+5pvQ08WypSd/muexSv5M5TqmN/+M+R8yxnqh3DsfJ5CNiQIVus4lSHTSbBuORsnTTuRcmo/Z1XeF/g/2qyp7OriL35ohNQdF6817wlZc449guMQoBGXtaTV6jEzK0ySLqND6MyB9RwUkj5XrhGguuvXii4VdVA3SyjgcoX7dVNvuOMlkE08tOLmvfPTwNVDQA7KxWoIoip/hHSnCRl6I7NkoMJp+sIbchWIjPEVZVwDkzGFC3vlar48N44IYuQn73ghfVXdtC+sTOdwr/cWeg6bp5girjQ8NRRXH5V/cmrVo3oKrkII4o3+X0XtLRW+nk9KUZ7tdk1X2wMdQseh2gEYT7ziEeYr6bzzbYs6urvTr9o+odlNJQOxucRODSKcrHCFuz/u+CwteLyzM20gIHk2PMa0+NZ7j1bUPY1pQH9sXBUDoOa4EjzzW7U3UPqiGh9VaD2AtL4ZM75o7lGgB0nq6R/aCSRi4PbukOQaejzNNE1SB4pr/QE4NjESE4k83CU3w6PCo56UtVCcc/KKwO2YWYqNsIvH4fuAupOXOvSqjMFdGkSdHJKLpMMUnz3WYT5UErU9X4F9MToJ6dOCg6+dQji2z3Qhmtk+n+aHBxiiSyFmEp5dyJ1Nbub/bxSSPV3/Xwu/YVEMPgt9mvChYh3ygvU01Zxfrc0q3+UUJnL0ZPxGnLmcau4pmSblN/hTewsE96xBXvnw61fnkBwkUjICOCywj7lt+SZsaBrpW999PJIbDuGbv34g/F5G8P8Z5vpvEOEUU34Sgc3/kv6H3Typ8UIEDZdIOdl6yOnmHLOAQ1ce2egqykfTNh2z65fdF/3CBcaR5y4JTvQZ0CMuvo+LauSCoeyG73EmHLt0hRqUAXERFiAH6D9m0l+7FKzCW5U9yvGNqT7IINw7KM3OzIMn1NNub6FR/097pNxo8tRv3BqUse4cJ1TRW/clyLj5A2+Gfw4k/x5dr2ipnIDK6z41DtBO4Hg7z0FnyqE4guvi35wZe5fP3poj/cImmLjxCf4GbSvmUYnrk3EHBg5C+fMDvE9b3CpBfo2eL+mYp8Qg/qVa0cSeQPSoy6a1FzAyzOaw9BD4hBr2w+sQ==" />
+
+
+<script type="text/javascript">
+	//<![CDATA[
+
+function DeleteUploaderFile(uploaderId) { 
+    document.getElementById(uploaderId + '_deleteFile').value = '1'; 
+    var pnl = document.getElementById(uploaderId + '_cPnl');
+    if(pnl != null) {
+        pnl.style.display = 'none';
+    }
+    var uploaderElem = document.getElementById(uploaderId + '_inputFile'); 
+    
+    // Mark as changed
+    if (window.Changed != null) {
+        window.Changed();
+    }
+
+    if (uploaderElem.onchange) { 
+        uploaderElem.onchange();
+    }
+}
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+function UpdatePage(){ __doPostBack('p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$UploadControl$UploadControl',''); } 
+
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+function DeleteConfirm() { return confirm('Are you sure you want to remove the file?'); } 
+//]]>
+</script><input type="hidden" name="lng" id="lng" value="en-US" />
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=x6wALODbMJK5e0eRC_p1LY6Jn30MRCQ11mpZyskxRt0NymjkSZlBl6V4pBt7KmcaK5mejsO2-W-4upHySap5MTAqKbbzdhyfHEHuONvnbqwEEWzgba9bd3UDWcNRME-i0&amp;t=7c776dc1" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "isRTL": "false",
+  "isDebuggingEnabled": false,
+  "applicationUrl": "/",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDialog": false
+};
+
+//]]>
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+    
+    <div id="ctxM">
+
+</div>
+    
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TD82FL6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div>
+
+<div class="top_bar"></div>
+        <div class="page_wrapper">
+<div id="google_translate_element" style="float:right !important"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,de,en,es,fr,hi,hmn,it,ko,lo,nl,pl,ru,tl,ur,vi,zh-CN,zh-TW', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script async="async" type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+          <nav class="mobile_menu">
+                        <div class="menu-untrigger"></div>
+	<ul id="menuElem" class="mobileCMSListMenuUL">
+		<li class="mobileCMSListMenuLI">
+			<a title="Patients and Guests" class="mobileCMSListMenuLink" href="/Patients-and-Guests">Patients&nbsp;and&nbsp;Guests</a>
+			<img alt="Patients and Guests" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuLI">
+					<a title="Patient Financial Services" class="mobile2CMSListMenuLink" href="/Patients-and-Guests/Patient-Financial-Services">Patient&nbsp;Financial&nbsp;Services</a>
+					<img alt="Patient Financial Services" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Financial Assistance" class="mobile3CMSListMenuLink" href="/Patients-and-Guests/Patient-Financial-Services/Financial-Assistance">Financial&nbsp;Assistance</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Insurance Billing and Payment Options" class="mobile3CMSListMenuLink" href="/Patients-and-Guests/Patient-Financial-Services/Insurance-Billing-and-Payment-Options">Insurance&nbsp;Billing&nbsp;and&nbsp;Payment&nbsp;Options</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Patient Charges" class="mobile3CMSListMenuLink" href="/Patients-and-Guests/Patient-Financial-Services/Patient-Charges">Patient&nbsp;Charges</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Advance Directives" class="mobile2CMSListMenuLink" href="/Patients-and-Guests/Advance-Directives">Advance&nbsp;Directives</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Cafeteria" class="mobile2CMSListMenuLink" href="/Patients-and-Guests/Cafeteria">Cafeteria</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Medical Records | Patient Portal" class="mobile2CMSListMenuLink" href="/Patients-and-Guests/Medical-Records">Medical&nbsp;Records&nbsp;|&nbsp;Patient&nbsp;Portal</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Visiting Specialist Clinic Schedule" class="mobile2CMSListMenuLink" href="/Patients-and-Guests/Visiting-Specialist-Clinic-Schedule">Visiting&nbsp;Specialist&nbsp;Clinic&nbsp;Schedule</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Medical Services" class="mobileCMSListMenuLink" href="/Medical-Services">Medical&nbsp;Services</a>
+			<img alt="Medical Services" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuLI">
+					<a title="Cardiopulmonary" class="mobile2CMSListMenuLink" href="/Medical-Services/Cardiopulmonary">Cardiopulmonary</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Emergency Care" class="mobile2CMSListMenuLink" href="/Medical-Services/Emergency-Care">Emergency&nbsp;Care</a>
+					<img alt="Emergency Care" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Conditions" class="mobile3CMSListMenuLink" href="/Medical-Services/Emergency-Care/Conditions">Conditions</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Patient Stories" class="mobile3CMSListMenuLink" href="/Medical-Services/Emergency-Care/Patient-Stories">Patient&nbsp;Stories</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Quick Tips" class="mobile3CMSListMenuLink" href="/Medical-Services/Emergency-Care/Quick-Tips">Quick&nbsp;Tips</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Stat Heart" class="mobile3CMSListMenuLink" href="/Medical-Services/Emergency-Care/Stat-Heart">Stat&nbsp;Heart</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Home Equipment" class="mobile2CMSListMenuLink" href="/Medical-Services/Home-Equipment">Home&nbsp;Equipment</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Home Health" class="mobile2CMSListMenuLink" href="/Medical-Services/Home-Health">Home&nbsp;Health</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Inpatient" class="mobile2CMSListMenuLink" href="/Medical-Services/Inpatient-Care">Inpatient</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Laboratory" class="mobile2CMSListMenuLink" href="/Medical-Services/Laboratory">Laboratory</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Orthopedics" class="mobile2CMSListMenuLink" href="/Medical-Services/Orthopedics">Orthopedics</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Imaging" class="mobile2CMSListMenuLink" href="/Medical-Services/Imaging">Imaging</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Rehabilitation Services" class="mobile2CMSListMenuLink" href="/Medical-Services/Rehabilitation-Services">Rehabilitation&nbsp;Services</a>
+					<img alt="Rehabilitation Services" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile3CMSListMenuUL">
+						<li class="mobile3CMSListMenuLI">
+							<a title="Cardiopulmonary Rehabilitation" class="mobile3CMSListMenuLink" href="/Medical-Services/Rehabilitation-Services/Cardiac-rehabilitation">Cardiopulmonary&nbsp;Rehabilitation</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Occupational therapy" class="mobile3CMSListMenuLink" href="/Medical-Services/Rehabilitation-Services/Occupational-therapy">Occupational&nbsp;therapy</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Physical therapy" class="mobile3CMSListMenuLink" href="/Medical-Services/Rehabilitation-Services/Physical-therapy">Physical&nbsp;therapy</a>
+						</li>
+						<li class="mobile3CMSListMenuLI">
+							<a title="Speech therapy" class="mobile3CMSListMenuLink" href="/Medical-Services/Rehabilitation-Services/Speech-therapy">Speech&nbsp;therapy</a>
+						</li>
+
+					</ul>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Sleep Studies" class="mobile2CMSListMenuLink" href="/Medical-Services/Sleep-Studies">Sleep&nbsp;Studies</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Substance Abuse Treatment" class="mobile2CMSListMenuLink" href="/Medical-Services/Substance-Abuse-Treatment">Substance&nbsp;Abuse&nbsp;Treatment</a>
+				</li>
+				<li class="mobile2CMSListMenuLI">
+					<a title="Surgery Center" class="mobile2CMSListMenuLink" href="/Medical-Services/Surgery_Center">Surgery&nbsp;Center</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Find A Doctor" class="mobileCMSListMenuLink" href="/Find-A-Doctor">Find&nbsp;A&nbsp;Doctor</a>
+			<img alt="Find A Doctor" border="0" src="/St.NicholasHospital/media/St.Nick-Images/spacer.gif" /><ul class="mobile2CMSListMenuUL">
+				<li class="mobile2CMSListMenuLI">
+					<a title="Online Provider Verification" class="mobile2CMSListMenuLink" onclick="window.open(&#39;https://reportal.medkinetics.com/index.cfm?SID=FA9C5ADC-1258-4A98-9096-3571DC635BAF&amp;CFID=2242687&amp;CFTOKEN=15207604&amp;jsessionid=8430a012c968b39ece686be59122e611d215&#39;);return false;" href="/Find-A-Doctor/Online-Provider-Verification">Online&nbsp;Provider&nbsp;Verification</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Volunteer" class="mobileCMSListMenuLink" href="/Volunteer">Volunteer</a>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="News" class="mobileCMSListMenuLink" href="/News">News</a>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Giving" class="mobileCMSListMenuLink" href="/Giving">Giving</a>
+		</li>
+		<li class="mobileCMSListMenuLI">
+			<a title="Search" class="mobileCMSListMenuLink" href="/Search-Results">Search</a>
+		</li>
+
+	</ul>
+
+
+
+                    </nav>
+          <header>
+                <!-- Logo -->
+                <a href="/" class="logo" title="Home">
+                    <img src="/www-gss/media/GSS-Images/logo.png" alt="Logo" style="border-width: 0px;" />
+                </a>
+                <!-- Utility Nav -->
+                <div class="utilities_wrapper">
+                    <nav class="utility_menu">
+                        
+	<ul id="menuElem" class="utilitiesCMSListMenuUL">
+		<li class="utilitiesCMSListMenuLI">
+			<a title="About" class="utilitiesCMSListMenuLink" href="/Hospital-Information/About">About</a>
+			<ul class="level1CMSListMenuUL">
+				<li class="level1CMSListMenuLI">
+					<a title="Annual Report" class="level1CMSListMenuLink" href="/Hospital-Information/About/Annual-Report">Annual&nbsp;Report</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Community Health Needs Assessment" class="level1CMSListMenuLink" href="/Hospital-Information/About/Community-Health-Needs-Assessment">Community&nbsp;Health&nbsp;Needs&nbsp;Assessment</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Community Outreach" class="level1CMSListMenuLink" href="/Hospital-Information/About/Community-Outreach">Community&nbsp;Outreach</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="HSHS Nurses" class="level1CMSListMenuLink" href="/Hospital-Information/About/HSHS-Nurses">HSHS&nbsp;Nurses</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Leadership" class="level1CMSListMenuLink" href="/Hospital-Information/About/Leadership">Leadership</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Mission and Values" class="level1CMSListMenuLink" href="/Hospital-Information/About/Mission-and-Values">Mission&nbsp;and&nbsp;Values</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Performance Data" class="level1CMSListMenuLink" href="/Hospital-Information/About/Performance-Data">Performance&nbsp;Data</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Hospital Sisters Health System" class="level1CMSListMenuLink" href="http://www.hshs.org">Hospital&nbsp;Sisters&nbsp;Health&nbsp;System</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Hospital Sisters of St. Francis" class="level1CMSListMenuLink" href="http://www.hospitalsisters.org/">Hospital&nbsp;Sisters&nbsp;of&nbsp;St.&nbsp;Francis</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Careers" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Careers">Careers</a>
+			<ul class="level1CMSListMenuUL">
+				<li class="level1CMSListMenuLI">
+					<a title="Job Application" class="level1CMSListMenuLink" href="/Hospital-Information/Careers/Job-Application">Job&nbsp;Application</a>
+				</li>
+				<li class="level1CMSListMenuLI">
+					<a title="Job Openings" class="level1CMSListMenuLink" href="/Hospital-Information/Careers/Job-Openings">Job&nbsp;Openings</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Contact Us" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Contact-Us">Contact&nbsp;Us</a>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Directions" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Directions">Directions</a>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Medical Staff &amp; Colleagues" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Medical-Staff-Colleagues">Medical&nbsp;Staff&nbsp;&amp;&nbsp;Colleagues</a>
+			<ul class="level1CMSListMenuUL">
+				<li class="level1CMSListMenuLI">
+					<a title="Request Access to HSHS EpicCare Link" class="level1CMSListMenuLink" href="/Hospital-Information/Medical-Staff-Colleagues/Request-Access-to-HSHS-EpicCare-Link">Request&nbsp;Access&nbsp;to&nbsp;HSHS&nbsp;EpicCare&nbsp;Link</a>
+				</li>
+
+			</ul>
+		</li>
+		<li class="utilitiesCMSListMenuLI">
+			<a title="Healthy You" class="utilitiesCMSListMenuLink" href="/Hospital-Information/Healthy-You">Healthy&nbsp;You</a>
+		</li>
+
+	</ul>
+
+
+
+                    </nav>
+                    <!-- Search Box -->
+                    <div class="clearfix"></div>
+                    <div class="search_wrapper">
+                        <div class="PhoneNum">Phone: (217) 774-3961</div><div style="float: left;"><div id="p_lt_ctl03_SmartSearchBox_pnlSearch" class="searchBox">
+	
+    <label for="p_lt_ctl03_SmartSearchBox_txtWord" id="p_lt_ctl03_SmartSearchBox_lblSearch" style="display:none;">Search for:</label>
+    <input name="p$lt$ctl03$SmartSearchBox$txtWord" type="text" maxlength="1000" id="p_lt_ctl03_SmartSearchBox_txtWord" class="txt_search form-control" />
+    
+    <input type="image" name="p$lt$ctl03$SmartSearchBox$btnImageButton" id="p_lt_ctl03_SmartSearchBox_btnImageButton" class="btn_search" src="/St.NicholasHospital/media/TemplateImages/spacer.gif" alt="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;p$lt$ctl03$SmartSearchBox$btnImageButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" />
+    <div id="p_lt_ctl03_SmartSearchBox_pnlPredictiveResultsHolder" class="predictiveSearchHolder">
+
+	</div>
+
+</div>
+</div><div class="menu-trigger" style="float: right;" id="showLeftPush"></div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+            </header>
+             <!-- Main Menu -->
+            <nav class="main_menu">
+                
+                    
+<ul id="menu"><li><a href="/Patients-and-Guests">Patients and Guests</a><ul><li><a href="/Patients-and-Guests/Patient-Financial-Services">Patient Financial Services</a></li><li><a href="/Patients-and-Guests/Advance-Directives">Advance Directives</a></li><li><a href="/Patients-and-Guests/Cafeteria">Cafeteria</a></li><li><a href="/Patients-and-Guests/Medical-Records">Medical Records | Patient Portal</a></li><li><a href="/Patients-and-Guests/Visiting-Specialist-Clinic-Schedule">Visiting Specialist Clinic Schedule</a></li></ul></li><li><a href="/Medical-Services">Medical Services</a><ul><li><a href="/Medical-Services/Cardiopulmonary">Cardiopulmonary</a></li><li><a href="/Medical-Services/Emergency-Care">Emergency Care</a></li><li><a href="/Medical-Services/Home-Equipment">Home Equipment</a></li><li><a href="/Medical-Services/Home-Health">Home Health</a></li><li><a href="/Medical-Services/Inpatient-Care">Inpatient</a></li><li><a href="/Medical-Services/Laboratory">Laboratory</a></li><li><a href="/Medical-Services/Orthopedics">Orthopedics</a></li><li><a href="/Medical-Services/Imaging">Imaging</a></li><li><a href="/Medical-Services/Rehabilitation-Services">Rehabilitation Services</a></li><li><a href="/Medical-Services/Sleep-Studies">Sleep Studies</a></li><li><a href="/Medical-Services/Substance-Abuse-Treatment">Substance Abuse Treatment</a></li><li><a href="/Medical-Services/Surgery_Center">Surgery Center</a></li></ul></li><li><a href="/Find-A-Doctor">Find A Doctor</a><ul><li><a href="/Find-A-Doctor/Online-Provider-Verification" onclick="window.open('https://reportal.medkinetics.com/index.cfm?SID=FA9C5ADC-1258-4A98-9096-3571DC635BAF&CFID=2242687&CFTOKEN=15207604&jsessionid=8430a012c968b39ece686be59122e611d215');return false;">Online Provider Verification</a></li></ul></li><li><a href="/Volunteer">Volunteer</a></li><li><a href="/News">News</a></li><li><a href="/Giving">Giving</a></li></ul>
+
+                
+                <div class="clearfix"></div>
+            </nav>
+            <!-- Page Layout  -->
+            <div class="page_content">
+                
+
+<div>
+  
+</div>
+<div class="narrowLeftColLO">
+    <div class="top_zone">
+        <div class="top_zone_content">
+  
+
+
+
+
+</div><div class="breadcrumb">
+  <a href="/">HOME</a> > 
+
+</div><div class="Top_Zone">
+  
+
+
+
+
+</div>
+    </div>
+ <div class="right_zone">
+        <h1><em-blue>Requests</em-blue> for support</h1>
+<br />
+Each year HSHS Good Shepherd Hospital receives requests for sponsorships, donations and staff participation for many worthwhile causes and events in our community. In order for us to better evaluate such requests, we ask those making a request to complete the form below. We ask that the form be submitted at least one month in advance. All fields are required.<br />
+<em><span style="color: rgb(175, 30, 45);">Only completed request forms will be considered.</span></em><br />
+<br />
+<div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz">
+	<div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_pM_pMP">
+
+	</div><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_pnlForm" class="FormPanel">
+		<table class="EditingFormTable"><tr id="TextBoxControl"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_txtText">Date:<span class="required-mark">*</span></label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextboxcontrol" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<input name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextBoxControl$txtText" type="text" maxlength="500" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_txtText" class="form-control" />
+
+		</div></td></tr><tr id="TextBoxControl_1"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_1_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_1_txtText">Name of organization:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextboxcontrol_1" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<input name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextBoxControl_1$txtText" type="text" maxlength="500" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_1_txtText" class="form-control" />
+
+		</div></td></tr><tr id="TextBoxControl_2"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_2_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_2_txtText">Contact person:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextboxcontrol_2" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<input name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextBoxControl_2$txtText" type="text" maxlength="500" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_2_txtText" class="form-control" />
+
+		</div></td></tr><tr id="usphone"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_usphone_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_usphone_txt1st">Contact number:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncpusphone" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			
+<span class="form-control-text">(</span>
+<input name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$usphone$txt1st" type="text" maxlength="3" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_usphone_txt1st" class="input-width-15 form-control" />
+<span class="form-control-text">)</span>
+<input name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$usphone$txt2nd" type="text" maxlength="3" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_usphone_txt2nd" class="input-width-15 form-control" />
+<span class="form-control-text">-</span>
+<input name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$usphone$txt3rd" type="text" maxlength="4" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_usphone_txt3rd" class="input-width-20 form-control" />
+<label for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_usphone_txt2nd" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_usphone_lbl2nd" class="sr-only">Second three digits</label>
+<label for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_usphone_txt3rd" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_usphone_lbl3rd" class="sr-only">Last four digits</label>
+		</div></td></tr><tr id="emailinput"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_emailinput_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_emailinput_txtEmailInput">Email:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncpemailinput" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<input name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$emailinput$txtEmailInput" type="text" maxlength="254" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_emailinput_txtEmailInput" class="form-control" />
+
+		</div></td></tr><tr id="TextAreaControl"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_txtText">Organization mailing address:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextareacontrol" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<textarea name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextAreaControl$txtText" rows="2" cols="20" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_txtText" class="form-control">
+</textarea>
+
+		</div></td></tr><tr id="TextBoxControl_3"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_3_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_3_txtText">City:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextboxcontrol_3" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<input name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextBoxControl_3$txtText" type="text" maxlength="500" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_3_txtText" class="form-control" />
+
+		</div></td></tr><tr id="TextBoxControl_4"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_4_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_4_txtText">State:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextboxcontrol_4" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<input name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextBoxControl_4$txtText" type="text" maxlength="500" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_4_txtText" class="form-control" />
+
+		</div></td></tr><tr id="uszipcode"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_uszipcode_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_uszipcode_txtZIPCode">ZIP code:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncpuszipcode" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<input name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$uszipcode$txtZIPCode" type="text" maxlength="5" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_uszipcode_txtZIPCode" class="input-width-20 form-control" />
+
+		</div></td></tr><tr id="RadioButtonsControl_4"><td class="FieldLabel"><span id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_4_lb" class="EditingFormLabel">Did an HSHS colleague refer you to this form?:</span></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncpradiobuttonscontrol_4" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<span id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_4_list" class="radio radio-list-vertical"><input id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_4_list_0" type="radio" name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$RadioButtonsControl_4$list" value="Yes" /><label for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_4_list_0">Yes</label><br /><input id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_4_list_1" type="radio" name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$RadioButtonsControl_4$list" value="No" /><label for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_4_list_1">No</label></span>
+
+		</div></td></tr><tr id="TextBoxControl_8"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_8_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_8_txtText">If yes, what is the colleague's name?:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextboxcontrol_8" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<input name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextBoxControl_8$txtText" type="text" maxlength="500" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_8_txtText" class="form-control" />
+
+		</div></td></tr><tr id="TextAreaControl_1"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_1_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_1_txtText">What is the primary mission of your organization?:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextareacontrol_1" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<textarea name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextAreaControl_1$txtText" rows="2" cols="20" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_1_txtText" class="form-control">
+</textarea>
+
+		</div></td></tr><tr id="TextAreaControl_2"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_2_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_2_txtText">What cities or counties are served by your organization?:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextareacontrol_2" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<textarea name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextAreaControl_2$txtText" rows="2" cols="20" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_2_txtText" class="form-control">
+</textarea>
+
+		</div></td></tr><tr id="RadioButtonsControl"><td class="FieldLabel"><span id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_lb" class="EditingFormLabel">Is the organization a 501C3 non-profit agency?:</span></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncpradiobuttonscontrol" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<span id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_list" class="radio radio-list-vertical"><input id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_list_0" type="radio" name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$RadioButtonsControl$list" value="Yes" /><label for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_list_0">Yes</label><br /><input id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_list_1" type="radio" name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$RadioButtonsControl$list" value="No" /><label for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_list_1">No</label></span>
+
+		</div></td></tr><tr id="Request_Details"><td class="FieldLabel"><span id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_Request_Details_lb" class="EditingFormLabel">Request Details:</span></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncprequest_details" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<span id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_Request_Details_label" class="LabelField form-control-text"></span>
+		</div></td></tr><tr id="TextBoxControl_5"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_5_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_5_txtText">Date needed:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextboxcontrol_5" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<input name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextBoxControl_5$txtText" type="text" maxlength="500" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_5_txtText" class="form-control" />
+
+		</div></td></tr><tr id="TextBoxControl_6"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_6_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_6_txtText">Time  needed:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextboxcontrol_6" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<input name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextBoxControl_6$txtText" type="text" maxlength="500" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_6_txtText" class="form-control" />
+
+		</div></td></tr><tr id="DropDownListControl"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_DropDownListControl_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_DropDownListControl_dropDownList">Type of donation requested:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncpdropdownlistcontrol" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<select name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$DropDownListControl$dropDownList" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_DropDownListControl_dropDownList" class="DropDownField form-control">
+				<option selected="selected" value="Sponsorship">Sponsorship</option>
+				<option value="Health Presentation">Health Presentation</option>
+				<option value="Health Screenings">Health Screenings</option>
+				<option value="Exhibitor">Exhibitor</option>
+				<option value="Giveaways">Giveaways</option>
+
+			</select>
+<div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_DropDownListControl_autoComplete" class="autocomplete">
+    
+    
+</div>
+		</div></td></tr><tr id="RadioButtonsControl_1"><td class="FieldLabel"><span id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_1_lb" class="EditingFormLabel">Is there a fee involved?:</span></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncpradiobuttonscontrol_1" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<span id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_1_list" class="radio radio-list-vertical"><input id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_1_list_0" type="radio" name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$RadioButtonsControl_1$list" value="Yes" /><label for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_1_list_0">Yes</label><br /><input id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_1_list_1" type="radio" name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$RadioButtonsControl_1$list" value="No" /><label for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_1_list_1">No</label></span>
+
+		</div></td></tr><tr id="TextBoxControl_7"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_7_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_7_txtText">Sponsorship amount requested:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextboxcontrol_7" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<input name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextBoxControl_7$txtText" type="text" maxlength="500" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextBoxControl_7_txtText" class="form-control" />
+
+		</div></td></tr><tr id="TextAreaControl_3"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_3_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_3_txtText">Where will the event take place? (Include location and physical address):</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextareacontrol_3" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<textarea name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextAreaControl_3$txtText" rows="2" cols="20" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_3_txtText" class="form-control">
+</textarea>
+
+		</div></td></tr><tr id="TextAreaControl_4"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_4_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_4_txtText">Brief description of the request, including how many people are estimated to be served and how the donation will be used:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextareacontrol_4" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<textarea name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextAreaControl_4$txtText" rows="2" cols="20" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_4_txtText" class="form-control">
+</textarea>
+
+		</div></td></tr><tr id="RadioButtonsControl_2"><td class="FieldLabel"><span id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_2_lb" class="EditingFormLabel">Will the hospital receive any publicity or recognition for the donation?:</span></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncpradiobuttonscontrol_2" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<span id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_2_list" class="radio radio-list-vertical"><input id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_2_list_0" type="radio" name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$RadioButtonsControl_2$list" value="Yes" /><label for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_2_list_0">Yes</label><br /><input id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_2_list_1" type="radio" name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$RadioButtonsControl_2$list" value="No" /><label for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_2_list_1">No</label></span>
+
+		</div></td></tr><tr id="TextAreaControl_5"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_5_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_5_txtText">If so, in what form?:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextareacontrol_5" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<textarea name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextAreaControl_5$txtText" rows="2" cols="20" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_5_txtText" class="form-control">
+</textarea>
+
+		</div></td></tr><tr id="RadioButtonsControl_3"><td class="FieldLabel"><span id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_3_lb" class="EditingFormLabel">Has the hospital provided support in the past?:</span></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncpradiobuttonscontrol_3" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<span id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_3_list" class="radio radio-list-vertical"><input id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_3_list_0" type="radio" name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$RadioButtonsControl_3$list" value="Yes" /><label for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_3_list_0">Yes</label><br /><input id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_3_list_1" type="radio" name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$RadioButtonsControl_3$list" value="No" /><label for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_RadioButtonsControl_3_list_1">No</label></span>
+
+		</div></td></tr><tr id="TextAreaControl_6"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_6_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_6_txtText">If so, in what way?:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncptextareacontrol_6" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			<textarea name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$TextAreaControl_6$txtText" rows="2" cols="20" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_TextAreaControl_6_txtText" class="form-control">
+</textarea>
+
+		</div></td></tr><tr id="SecurityCode"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_SecurityCode_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_SecurityCode_captchaControl_txtSecurityCode">Security code:</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncpsecuritycode" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			
+<div>
+    <span id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_SecurityCode_captchaControl_lblSecurityCode">Enter security code:</span>
+</div>
+<table class="CaptchaTable">
+    <tr>
+        <td>
+            <input name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$SecurityCode$captchaControl$txtSecurityCode" type="text" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_SecurityCode_captchaControl_txtSecurityCode" class="CaptchaTextBox form-control" />
+        </td>
+        <td>
+            <img id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_SecurityCode_captchaControl_imgSecurityCode" src="/CMSPages/Dialogs/CaptchaImage.aspx?hash=29e668c4-b035-4b0e-8c47-f10ac9a3c802&amp;captcha=p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_SecurityCode_captchaControl&amp;width=80&amp;height=20" alt="Security code" />
+        </td>
+        
+    </tr>
+</table>
+
+		</div></td></tr><tr id="UploadControl"><td class="FieldLabel"><label id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_UploadControl_lb" class="EditingFormLabel" for="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_UploadControl_UploadControl_inputFile">Upload file(s):</label></td><td class="EditingFormValueCell"><div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_ncpuploadcontrol" class="EditingFormControlNestedControl editing-form-control-nested-control">
+			
+<div id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_UploadControl_UploadControl" class="uploader">
+				<div class="uploader-main">
+					<div class="uploader-upload">
+						<input type="file" name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$UploadControl$UploadControl$inputFile" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_UploadControl_UploadControl_inputFile" class="uploader-input-file" />
+					</div>
+				</div>
+			</div><input type="submit" name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$UploadControl$hdnPostback" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$UploadControl$hdnPostback&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_UploadControl_hdnPostback" class="HiddenButton" style="display:none;" />
+
+		</div></td></tr><tr><td class="EditingFormButtonLeftCell"></td><td class="EditingFormButtonCell"><input type="submit" name="p$lt$ctl05$pageplaceholder$p$lt$rightZone$editabletext2$ucEditableText$widget1$ctl00$viewBiz$btnOK" value="Submit" id="p_lt_ctl05_pageplaceholder_p_lt_rightZone_editabletext2_ucEditableText_widget1_ctl00_viewBiz_btnOK" class="FormButton btn btn-primary" /></td></tr></table>
+	</div>
+</div>
+
+
+
+
+    </div>
+    <div class="left_zone">
+        <div class="stained_glass">
+
+
+
+</div>
+    </div>
+
+   
+    <div class="clearfix"></div>
+    <div class="bottom_zone">
+        
+
+
+
+
+    </div>
+</div>
+                <div class="clearfix"></div>
+            </div>
+
+            <!-- Footer -->
+             <footer class="darkgrey-pattern row do-not-search">
+      <div class="top-shadow">
+        <div class="wrap row">
+          <div class="span5-1">
+  <div class="content-padding">
+  <h4>HSHS Good Shepherd Hospital</h4>
+<a href="/Hospital-Information/Requests-for-Support.aspx" style="line-height: 1.4285;">Requests for support</a><br />
+<a href="http://portal.office.com" style="line-height: 1.4285;" target="_blank">Email Login</a><br />
+<a href="https://citrix.mysmh.org/RDWeb/Pages/en-US/login.aspx?ReturnUrl=/RDWeb/Pages/en-US/Default.aspx" style="line-height: 1.4285;" target="_blank">Citrix Login</a><br />
+<a href="https://hshs.service-now.com/$pwd_reset.do?sysparm_url=password_reset" target="_blank">Colleague Password Reset</a>
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4>Central Illinois Division</h4>
+
+<p><a href="http://www.hshsmedicalgroup.org/" target="_blank">HSHS Medical Group</a><br />
+<a href="http://stfrancis-litchfield.org" target="_blank">HSHS St. Francis Hospital</a><br />
+<a href="https://www.stmarysdecatur.com/default.aspx" style="line-height: 1.4285;" target="_blank">HSHS St. Mary&#39;s Hospital</a><br />
+<a href="https://www.st-johns.org/" style="line-height: 1.4285;" target="_blank">HSHS St. John&#39;s Hospital</a><br />
+<a href="http://www.stjohnscollegespringfield.edu/college/Home.aspx" style="line-height: 1.4285;" target="_blank">St. John&#39;s College</a></p>
+
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4>Connect with Us</h4>
+
+<ul class="inline-social-links">
+	<li class="facebook"><a href="https://www.facebook.com/HSHS-Good-Shepherd-Hospital-142698955827290/" target="_blank">Like Us on Facebook</a></li>
+	<li class="instagram"><a href="https://www.instagram.com/hshsgoodshepherd/" target="_blank">Follow Our Instagram</a></li>
+	<li class="donate"><a href="/Giving" target="_blank">Make a Donation</a></li>
+</ul>
+
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4><a href="/Hospital-Information/Contact-Us.aspx">Contact Us</a></h4>
+
+<p>Dial 911 for medical emergencies</p>
+
+<p>Switchboard<br />
+(217) 774-3961</p>
+
+
+
+
+
+ </div>
+</div><div class="span5-1">
+  <div class="content-padding">
+  <h4>&copy; HSHS&nbsp;Good Shepherd&nbsp;Hospital</h4>
+
+<p><a href="/Hospital-Information/Patient-Privacy.aspx">Patient Privacy</a><br />
+<a href="/Hospital-Information/Patient-Rights.aspx" style="line-height: 1.4285;">Patient Rights &amp; Responsibilities</a><br />
+<a href="/Hospital-Information/Legal.aspx" style="line-height: 1.4285;">Legal</a><br />
+<a href="/SiteMap.aspx" style="line-height: 1.4285;">Site Map</a></p>
+
+
+
+
+
+ </div>
+</div>
+        </div>
+      </div>
+      <div class="footer-branding"></div>
+</footer>
+          <!-- Disclosure Layout  -->
+            <div class="disclosure_content">
+                <font face="Calibri"><span style="font-weight: 700;">Notice of Nondiscrimination:</span>&nbsp;</font><a href="/Hospital-Information/Language-Assistance-Services" style="outline: 0px; color: rgb(35, 82, 124); text-decoration: underline;"><u><font color="#0066cc" face="Calibri">English</font></u></a><br />
+<font face="Calibri"><span style="font-weight: 700;">Language Assistance:</span>&nbsp;</font><a href="/Hospital-Information/Language-Assistance-Services"><u><font color="#0066cc" face="Calibri">Español</font></u><font face="Calibri">&nbsp;|&nbsp;</font><u><font color="#0066cc" face="Calibri">Hmoob</font></u><font face="Calibri">&nbsp;|&nbsp;</font><u><font color="#0066cc" face="Calibri">Deutsch&nbsp;</font></u><font face="Calibri">|&nbsp;</font><u><font color="#0066cc" face="Calibri">Français</font></u><font face="Calibri">&nbsp;|</font><font color="#0066cc" face="Calibri"><u>&nbsp;</u></font><span style="font-family: &quot;MS Gothic&quot;;"><u><font color="#0066cc">繁體中文</font></u></span><font color="#000000" face="Calibri">&nbsp;|&nbsp;<u><font color="#0066cc">Deitsch</font></u>&nbsp;|&nbsp;<u><font color="#0066cc">Polski</font></u>&nbsp;|&nbsp;</font><span style="color: rgb(0, 75, 141);"><span style="font-family: Arial, sans-serif;"><u>العربية</u></span></span><font color="#000000" face="Calibri">&nbsp;|&nbsp;<u><font color="#0066cc">Русский</font></u>&nbsp;|&nbsp;<u><font color="#0066cc">Italiano</font></u>&nbsp;|&nbsp;<u><font color="#0066cc">Tagalog</font></u>&nbsp;|&nbsp;</font><span style="color: rgb(0, 75, 141);"><span style="font-family: Mangal, serif;"><u>हिंदी</u></span></span><font face="Calibri"><span style="color: rgb(0, 75, 141);"><u>&nbsp;</u></span></font><font color="#000000" face="Calibri">&nbsp;|&nbsp;</font><span style="color: rgb(0, 75, 141);"><span style="font-family: DokChampa, sans-serif;"><u>ພາສາລາວ</u></span></span><font color="#000000" face="Calibri">&nbsp;|&nbsp;</font><span style="color: rgb(0, 75, 141);"><span style="font-family: Gulim, sans-serif;"><u>한국어</u></span></span><font color="#000000" face="Calibri">&nbsp;|&nbsp;<u><font color="#0066cc">Tiếng Việt</font></u>&nbsp;|</font><font face="Calibri"><span style="color: rgb(0, 75, 141);"><u>&nbsp;</u></span></font><u><span style="color: rgb(0, 75, 141);"><span style="font-family: Arial, sans-serif;">اُردُو</span></span><font color="#000000" face="Calibri">&nbsp;</font></u></a>
+
+
+
+
+                <div class="clearfix"></div>
+            </div>
+        </div>
+  <div class="bottom_bar"></div>
+</div>
+    
+    
+
+<script type="text/javascript">
+	//<![CDATA[
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//]]>
+</script>
+<script type="text/javascript">
+	//<![CDATA[
+if ( (parent == null) || (!parent.IsCMSDesk) ) {
+try { 
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-90779102-1']);
+_gaq.push(['_trackPageview']);
+} catch(err) {}
+}
+//]]>
+</script></form>
+</body>
+</html>

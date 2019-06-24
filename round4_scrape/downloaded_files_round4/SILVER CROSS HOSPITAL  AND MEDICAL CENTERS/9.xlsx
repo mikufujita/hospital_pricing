@@ -1,0 +1,36 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1"><title>
+
+</title><link id="linkCSSFile" rel="stylesheet" type="text/css" href="../Styles/bca.css" /></head>
+<body>
+  <form name="formMain" method="post" action="./Error.aspx" id="formMain">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Tbsi9Itx4mOHKsQWHhmb2WkkakDlSkDI9uWsj80QR1se+7/rNwEjcHwq7Swuvty/QXZtimdX4+v7yUQX3aOCCY9GRsslUdaXzXtxgx2ZvsOLWWGKJoygO/9s4xPBK3vm03r+XOT1pq7ZxmweQDzLuPzOvRM0BLERiOukqDgUGcY6wl7B8WhHQiZOzlvVTl0VjjtGP+RgFHxFf9UxBtkFzW1bxRHpXAtWVdc9fUS5WqQJn2F7U+FwN3A+Ah4drK7lCKsTd2BBgs/YzHDQUI48HF596AY2DhuVD3Dap0jeQTNc3zHYWRQynVRnpcGT7OR+sttoLOD9YcCWc2PqxQVVcUg8g+WyoMTPdYP4+QP9HLgT/230FVoArNw3nJEoJQoVHPaY0s5A/KYeuE+VpyxlKQ==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="969FC13A" />
+		<table width="100%">
+			<tr>
+				<td align="center">
+				    <div class="bca-text-subtitle">
+				    Error
+				    </div>
+				    <br/>
+					<div id="divMessage" class="bca-text-error">An error has occurred due to possible browser compatibility issues. <br/> The transaction cannot be completed.</div>
+				</td>
+			</tr>
+			<tr>
+			    <td>
+			    </td>
+			</tr>
+			<tr>
+			    <td align="center">
+                    <span id="labelErrorFriendly" class="bca-text">Direct Link SearchResults.aspx<br/>ClientID session variable not instantiated.</span>
+			    </td>
+			</tr>
+		</table>
+  </form>
+</body>
+</html>

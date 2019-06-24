@@ -1,0 +1,2730 @@
+
+
+<!DOCTYPE html>
+    <!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+    <!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+    <!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+    <!--[if (gte IE 9)|!(IE)]><!-->
+
+<html lang="en" class="no-js">
+
+	<head>
+		<!--[if lt IE 9]>
+				<script type="text/javascript" src="/scripts/html5shiv.js"></script>
+				<script type="text/javascript" src="/scripts/respond.min.js"></script>
+		<![endif]-->
+		
+		<title>
+	Pricing - MySparrow - Sparrow Health System
+</title>
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+			<meta name="description" content="With healthcare reform, increasing copays and deductibles, insurance plans encouraging low cost options, and increased focus on healthcare costs, consumers want more information on healthcare prices.   We are committed to supporting healthcare price transparency by providing you with information you need to understand the costs of care and make informed decisions." />
+			<meta name="keywords" content="pricing, hospital costs, procedures, " />
+			<meta name="author" content="Rose Tantraphol" />
+			<meta name="copyright" content="Copyright 2019 MySparrow" />
+			<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+			
+				<link href="/skins/menu.css" rel="stylesheet" type="text/css" />
+				<link href="/skins/menu/menu.design001.css" rel="stylesheet" type="text/css" />
+				<link href="/skins/menu/menu.design004.css" rel="stylesheet" type="text/css" />
+				
+				<link href="/images/obout/style/Design004/obout_treeview2.css" rel="stylesheet" type="text/css" />
+				
+            <link href="/styles/bootstrap.min.css" rel="stylesheet" />
+            <link href= "/skins/ComboBox.sparrowTest.css" rel="stylesheet" type="text/css" />
+			<link href="/styles/design004.css" rel="stylesheet" type="text/css" />
+            <link href="/styles/design004/landing_area.css" rel="stylesheet" type="text/css" />
+            
+
+            
+				<!-- causing issue in IE 7 - appears unused -->
+				<!--<script src="/scripts/prototype.js" type="text/javascript"></script>-->
+				        
+            <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+			<link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icon-57x57.png">
+			<link rel="apple-touch-icon" sizes="72x72" href="/images/apple-icon-72x72.png">
+			<link rel="apple-touch-icon" sizes="114x114" href="/images/apple-icon-114x114.png">
+			<link rel="apple-touch-icon" sizes="144x144" href="/images/apple-icon-144x144.png">			
+
+			<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/json2/20110223/json2.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><script type="text/javascript" src="/Scripts/namespace.js"></script><script type="text/javascript" src="/Scripts/SpecialCharacterUtilities.js"></script>
+
+            <script type="text/javascript" src="/scripts/bootstrap.min.3.0.1.js"></script>
+
+            <script type="text/javascript" src="/Scripts/design001/MobileMenu.js"></script>
+            <link href="/Styles/MobileNavigation.css" rel="stylesheet" />
+            <script type="text/javascript" src="/Scripts/radiobtn_js.js"></script>
+
+            <script type="text/javascript" src="/Scripts/design004/content_swapper.js"></script>
+
+<!-- uncomment if site has media gallery-->
+<!--
+            <script src="/MediaGallery/Scripts/jquery.cw.mediagallery.js" type="text/javascript"></script>
+            <script src="/MediaGallery/Scripts/jquery.nivo.slider.js" type="text/javascript"></script>
+-->
+
+            
+
+
+<script src="/scripts/global_bookmark.js" type="text/javascript"></script>
+<script src="/scripts/global_iframe.js" type="text/javascript"></script>
+<script src="/scripts/global_print.js" type="text/javascript"></script>
+<script src="/scripts/global_swfobject.js" type="text/javascript"></script>
+<script src="/scripts/global_textsizer.js" type="text/javascript"></script>
+<script src="/Scripts/Utilities/CareTech.CMS.Utilities.TextResizer.js" type="text/javascript"></script>
+
+
+            <link href="/styles/design001/JumpMenus.css" rel="stylesheet" type="text/css" />
+            <link href= "/skins/ComboBox.sparrowTest.css" rel="stylesheet" type="text/css" />
+
+            <link href="/upload/templates/Sparrow/Sparrow.css" rel="stylesheet" type="text/css" />
+            <script src="/upload/templates/Sparrow/Sparrow.js" type="text/javascript"></script>			
+
+            <script type="text/javascript" src="/Scripts/AdjustWidthForWindowsPhone.js"></script>
+            <script type="text/javascript">
+                jQuery(document).ready(function () {
+                    adjustWidthForWindowsPhone();
+                });
+	        </script>
+
+			<script type="text/JavaScript">
+/*<![CDATA[*/
+var ids=new Array('a1','a2','a3','a4','a5');
+
+function switchid(id){     
+                hideallids();
+                showdiv(id);
+}
+
+function hideallids(){
+                for (var i=0; i<ids.length; i++){
+                                hidediv(ids[i]);
+                }                                
+}
+
+
+
+function hidediv(id) {
+                                if (document.getElementById) { 
+                                document.getElementById(id).style.display = 'none';
+                }
+                else {
+                                if (document.layers) { 
+                                                document.id.display = 'none';
+                                }
+                                else { 
+                                                document.all.id.style.display = 'none';
+                                }
+                }
+}
+
+function showdiv(id) {     
+                if (document.getElementById) { 
+                                document.getElementById(id).style.display = 'block';
+                }
+                else {
+                                if (document.layers) { 
+                                                document.id.display = 'block';
+                                }
+                                else { 
+                                                document.all.id.style.display = 'block';
+                                }
+                }
+}
+///*]]>*/
+</script>
+
+			
+
+            
+
+        <script type="text/javascript" >
+            // Copyright 2006-2007 javascript-array.com
+
+            var timeout = 500;
+            var closetimer = 0;
+            var ddmenuitem = 0;
+
+            // open hidden layer
+            function mopen(id) {
+                // cancel close timer
+                mcancelclosetime();
+
+                // close old layer
+                if (ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+                // get new layer and show it
+                ddmenuitem = document.getElementById(id);
+                ddmenuitem.style.visibility = 'visible';
+
+            }
+            // close showed layer
+            function mclose() {
+                if (ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+            }
+
+            // go close timer
+            function mclosetime() {
+                closetimer = window.setTimeout(mclose, timeout);
+            }
+
+            // cancel close timer
+            function mcancelclosetime() {
+                if (closetimer) {
+                    window.clearTimeout(closetimer);
+                    closetimer = null;
+                }
+            }
+
+            // close layer when click-out
+            document.onclick = mclose;
+
+            //config for add this
+            var addthis_config =
+            {
+                ui_offset_top: -15
+            }
+    </script>
+
+    <style type="text/css">
+
+        @media (max-width:560px)
+        {
+            .contentBanner
+            {
+                font-size: 26px;
+            }
+        }
+
+        @media (max-width:350px)
+        {
+            .contentBanner
+            {
+                font-size: 22px;
+            }
+        }
+
+        @media (max-width:759px){
+	        .contentUtilities {
+		        margin-bottom: 15px;
+	        }
+        }
+        @media (max-width:351px){
+	        .contentUtilities {
+		        display:none;
+	        }
+        }
+
+    </style>    
+
+		
+
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-18264335-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function () {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	<link href="http://aspnet-skins.telerikstatic.com/ajaxz/2013.3.1324/ComboBox.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+
+	<body id="ctl00_CWBody">
+		<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WBFJ68"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script src="/upload/templates/Sparrow/SparrowLPTagManagerCode.js" type="text/javascript"></script>
+		<!-- End Google Tag Manager -->
+		<form method="post" action="/Default.aspx?id=1683&amp;sid=5&amp;CWFriendlyUrl=true" id="aspnetForm">
+<input type="hidden" name="ctl00_ctl03_TSM" id="ctl00_ctl03_TSM" value="" />
+<input type="hidden" name="ctl00_ctl04_TSSM" id="ctl00_ctl04_TSSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE1NDE0MzU1N2QYBAUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgYFE2N0bDAwJHNwYXJyb3dTZWFyY2gFFWN0bDAwJEhlYWx0aExpYlNlYXJjaAUdY3RsMDAkUHJpbWFyeU5hdmlnYXRpb25HbG9iYWwFL2N0bDAwJERlc2lnbjAwMUhvbWVKdW1wTWVudXMkanVtcE1lbnVRdWlja0xpbmtzBS1jdGwwMCREZXNpZ24wMDFIb21lSnVtcE1lbnVzJGp1bXBNZW51U2VydmljZXMFK2N0bDAwJERlc2lnbjAwMUhvbWVKdW1wTWVudXMkanVtcE1lbnVHcm91cHMFK2N0bDAwJERlc2lnbjAwMUhvbWVKdW1wTWVudXMkanVtcE1lbnVHcm91cHMPFCsAAgUGU2VsZWN0ZWQFLWN0bDAwJERlc2lnbjAwMUhvbWVKdW1wTWVudXMkanVtcE1lbnVTZXJ2aWNlcw8UKwACBQZTZWxlY3RlZAUvY3RsMDAkRGVzaWduMDAxSG9tZUp1bXBNZW51cyRqdW1wTWVudVF1aWNrTGlua3MPFCsAAgUGU2VsZWN0ZWT/Sr2pDxPexofy4v8K/lcawuVEmw==" />
+
+
+<script src="http://ajax.aspnetcdn.com/ajax/4.5.2/1/MicrosoftAjax.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(window.Sys && Sys._Application && Sys.Observer)||document.write('<script type="text/javascript" src="/ScriptResource.axd?d=mtdNSAgmoBMzjOwzt6Btymj8Vpo2Vikc-R7S25LbPwe-Q17d-8Q8e4eY318kCzpVMwCyVrg30GOCBg-xYto7oBLO-MRmflXaT_j3VUrryG07dsHumqACDZQZKGWjMT7YJrMfckzySQzX6O7sbZPiAiHTqbM1&t=2b48f70a"><\/script>');//]]>
+</script>
+
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/Core.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/jQuery.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/jQueryPlugins.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/Scrolling/ScrollingScripts.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/Navigation/OData/OData.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/Navigation/NavigationScripts.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/Navigation/OverlayScript.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Menu/RadMenuScripts.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/Common/TouchScrollExtender.js" type="text/javascript"></script>
+<script src="http://aspnet-scripts.telerikstatic.com/ajaxz/2013.3.1324/ComboBox/RadComboBoxScripts.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAX9dSjq5xw3pkIGerVpWWjL4+3WpZQNb82rzs2KnT3rh1V6RkAfufrqJa6LpqnGFgtSYlec8NsbLec3MoBGt1N/bxlSekcFgimTbAr/zLEX4Lea6p99UlQ97sgtEAivmoxsNywv" />
+            <a id="top" name="top"></a>
+			
+
+                    <div class="container">
+                        <div class="row clearfix">
+	                        <div class="col-md-3 column">
+                    <div class="logo"><a href="/">
+                        <img src="/images/design001/logo.gif" width="151" height="49" alt="logo" /></a></div>
+	                        </div>
+
+	                        <div class="col-md-6 column">
+		                        <div class="utilities">
+			                        <ul class="utilityLinks">
+				                        <li><a href="/">Home</a></li> 
+				                        <li><a href="/?id=7&amp;sid=1">Careers</a></li>
+				                        <li><a href="/news">Newsroom</a></li>
+				                        <li><a href="/?id=9&amp;sid=1">Volunteering</a></li>
+                            <li><a href="/mededucation">Medical Education</a></li>
+			                        </ul>
+		                        </div>
+	                        </div>
+
+                <div class="col-md-3 column">
+                    <div id="ctl00_pnlSearch" class="search-collapse collapse">
+	
+			                        <ul class="search">
+                            <li class="searchField">
+                                <input name="ctl00$txtSearch" type="text" id="ctl00_txtSearch" value="Search" onblur="if (value == &#39;&#39;) {value = &#39;Search&#39;}" onfocus="if (value == &#39;Search&#39;) {value =&#39;&#39;}" /></li>
+                            <li class="searchBtn">
+                                <a id="ctl00_btnSearch" class="searchBtn" href="javascript:__doPostBack(&#39;ctl00$btnSearch&#39;,&#39;&#39;)"></a></li>
+			                        </ul>
+                        <div style="clear: right">
+                        </div>
+			                        <div class="searchOptions">
+                            <div style="float: left; padding-right: 5px;">
+                                <input value="0" name="ctl00$radio" type="radio" id="ctl00_sparrowSearch" class="styled" checked="checked" title="Sparrow" /><label for="ctl00_sparrowSearch">Sparrow</label>
+                            </div>
+                            <div style="float: right;">
+                                <input value="1" name="ctl00$radio" type="radio" id="ctl00_HealthLibSearch" class="styled" title="Health Library" /><label for="ctl00_HealthLibSearch">Health Library</label>
+                            </div>
+			                        </div>
+		                        
+</div>
+	                        </div>
+                        </div>
+
+                        <div class="row clearfix">
+                            <div class="col-md-12 column">
+                        <nav class="navbar navbar-sparrow" role="navigation">
+                            <div class="topNav">        
+                        <div id="ctl00_PrimaryNavigationGlobal" class="RadMenu RadMenu_Design001 rmSized">
+	<!-- 2013.3.1324.40 --><ul class="rmRootGroup rmHorizontal">
+		<li class="rmItem rmFirst"><a class="rmLink rmRootLink" href="/aboutsparrow"><span class="rmText">About Sparrow</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="/?id=2&amp;sid=1"><span class="rmText">About Sparrow</span></a></li><li class="rmItem "><a class="rmLink" href="/missionvision"><span class="rmText">Mission, Vision and Values</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/OurVision"><span class="rmText">Our Vision</span></a></li><li class="rmItem "><a class="rmLink" href="/ourstory"><span class="rmText">Our Story</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1540&amp;sid=1"><span class="rmText">The Sparrow Way</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/who-we-are"><span class="rmText">Hospitals, Affiliates and Partners </span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1578&amp;sid=1"><span class="rmText">Hospitals</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst"><a class="rmLink" href="/sparrowhospital"><span class="rmText">Sparrow Hospital</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=528&amp;sid=1"><span class="rmText">About the St. Lawrence Campus</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=787&amp;sid=1"><span class="rmText">Visiting Hours and Guidelines</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1098&amp;sid=1"><span class="rmText">Sparrow Patient Financial Services</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/?id=1099&amp;sid=1"><span class="rmText">Financial aid</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/?id=1100&amp;sid=1"><span class="rmText">Parking options</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1101&amp;sid=1"><span class="rmText">Free concierge services through SPA</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1102&amp;sid=1"><span class="rmText">Dining Options</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1103&amp;sid=1"><span class="rmText">Give feedback on my Sparrow experience</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1104&amp;sid=1"><span class="rmText">Guest lodging options</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1105&amp;sid=1"><span class="rmText">Discounted Lodging</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1106&amp;sid=1"><span class="rmText">Patient rights information</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/?id=1107&amp;sid=1"><span class="rmText">Release of Information FAQ</span></a></li>
+											</ul>
+										</div></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1108&amp;sid=1"><span class="rmText">Durable Power of Attorney</span></a></li>
+									</ul>
+								</div></li><li class="rmItem "><a class="rmLink" href="/?id=161&amp;sid=1"><span class="rmText">Sparrow Specialty Hospital</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.sparrow.org/sparrowclinton"><span class="rmText">Sparrow Clinton Hospital</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1903&amp;sid=1"><span class="rmText">Where&#39;s the newest hospital?</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1084&amp;sid=1"><span class="rmText">Visiting hours and guidelines</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1085&amp;sid=1"><span class="rmText">Sparrow Clinton Patient Financial Services</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/?id=1086&amp;sid=1"><span class="rmText">Community financial aid</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/?id=1087&amp;sid=1"><span class="rmText">View parking information</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1088&amp;sid=1"><span class="rmText">Patient care and safety</span></a></li>
+									</ul>
+								</div></li><li class="rmItem "><a class="rmLink" href="https://www.sparrow.org/?sid=17&amp;id=1813"><span class="rmText">Sparrow Ionia Hospital</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1089&amp;sid=1"><span class="rmText">View visiting hours and guidelines</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1090&amp;sid=1"><span class="rmText">Food and nutrition services</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1091&amp;sid=1"><span class="rmText">Patient Financial Services</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1092&amp;sid=1"><span class="rmText">Patient privacy</span></a></li>
+									</ul>
+								</div></li><li class="rmItem rmLast"><a class="rmLink" href="/sparrowcarson"><span class="rmText">Sparrow Carson Hospital</span></a></li>
+							</ul>
+						</div></li><li class="rmItem "><a class="rmLink" href="/?id=1579&amp;sid=1"><span class="rmText">Affiliates</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst"><a class="rmLink" target="_blank" href="http://www.phpmichigan.com/"><span class="rmText">Physicians Health Plan</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.sparrow.org/clinicalintegration"><span class="rmText">Sparrow Care Network</span></a></li><li class="rmItem "><a class="rmLink" target="_self" href="/?id=264&amp;sid=2"><span class="rmText">Michigan Athletic Club</span></a></li><li class="rmItem "><a class="rmLink" href="/sphn"><span class="rmText">Sparrow Physicians Health Network</span></a></li><li class="rmItem "><a class="rmLink" href="/smg"><span class="rmText">Sparrow Medical Group</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=2694&amp;sid=1"><span class="rmText">General Surgery Practices</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=2088&amp;sid=1"><span class="rmText">SMG General Surgery Carson City</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2696&amp;sid=1"><span class="rmText">SMG General Surgery Ionia</span></a></li><li class="rmItem "><a class="rmLink" href="/SMGGeneralSurgeryLansing"><span class="rmText">SMG General Surgery Lansing</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=2697&amp;sid=1"><span class="rmText">SMG General Surgery St. Johns</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/SMG/NewPatientPaperwork"><span class="rmText">New Patient Paperwork</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2127&amp;sid=1"><span class="rmText">Nephrology</span></a></li><li class="rmItem "><a class="rmLink" href="/smg/orthopedics-sports-medicine"><span class="rmText">Sparrow Medical Group Orthopedics &amp; Sports Medicine</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=2698&amp;sid=1"><span class="rmText">SMG Orthopedics &amp; Sports Medicine Ionia</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2699&amp;sid=1"><span class="rmText">SMG Orthopedics &amp; Sports Medicine St. Johns</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2700&amp;sid=1"><span class="rmText">SMG Orthopedics &amp; Sports Medicine Lansing</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=2093&amp;sid=1"><span class="rmText">SMG Orthopedics Carson City</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/smgurology"><span class="rmText">SMG Urology</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1748&amp;sid=1"><span class="rmText">Senior Health  </span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2087&amp;sid=1"><span class="rmText">Sparrow Medical Group Pediatrics Carson City</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2091&amp;sid=1"><span class="rmText">Sparrow Medical Group Pain Management Carson City</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.carsonhealth.org/services/rehabilitation-care.html"><span class="rmText">Sparrow Medical Group Physical Rehabilitation Center Carson City</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2094&amp;sid=1"><span class="rmText">Sparrow Medical Group Specialty Care Center Carson City</span></a></li><li class="rmItem "><a class="rmLink" href="/PCP"><span class="rmText">Primary Care Practices</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=457&amp;sid=1"><span class="rmText">Sparrow Medical Group DeWitt</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2109&amp;sid=1"><span class="rmText">Sparrow Medical Group Ashley</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2111&amp;sid=1"><span class="rmText">Sparrow Medical Group Carson City</span></a><div class="rmSlide">
+													<ul class="rmVertical rmGroup rmLevel6">
+														<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/CarsonWalkIn"><span class="rmText">Carson Walk-In Clinic</span></a></li>
+													</ul>
+												</div></li><li class="rmItem "><a class="rmLink" href="/?id=2113&amp;sid=1"><span class="rmText">Sparrow Medical Group Fowler</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2115&amp;sid=1"><span class="rmText">Sparrow Medical Group Greenville</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2117&amp;sid=1"><span class="rmText">Sparrow Medical Group Ithaca</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2121&amp;sid=1"><span class="rmText">Sparrow Medical Group Stanton</span></a></li><li class="rmItem "><a class="rmLink" href="/smgwilliamston"><span class="rmText">Sparrow Medical Group Williamston</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=458&amp;sid=1"><span class="rmText">Sparrow Medical Group Eastside</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1510&amp;sid=1"><span class="rmText">Sparrow Medical Group Holt</span></a></li><li class="rmItem "><a class="rmLink" href="/tony-balice-clinic"><span class="rmText">Sparrow Medical Group Ionia</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=463&amp;sid=1"><span class="rmText">Sparrow Medical Group Lansing</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1806&amp;sid=1"><span class="rmText">Sparrow Medical Group Lansing Internal Medicine</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=459&amp;sid=1"><span class="rmText">Sparrow Medical Group Mason</span></a></li><li class="rmItem "><a class="rmLink" href="/smg-muir"><span class="rmText">Sparrow Medical Group Muir</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=460&amp;sid=1"><span class="rmText">Sparrow Medical Group North</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=461&amp;sid=1"><span class="rmText">Sparrow Medical Group Okemos</span></a></li><li class="rmItem "><a class="rmLink" href="/physicianservices-portland"><span class="rmText">Sparrow Medical Group Portland</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=462&amp;sid=1"><span class="rmText">Sparrow Medical Group Potterville </span></a></li><li class="rmItem "><a class="rmLink" href="/physicianservices-sjpa"><span class="rmText">Sparrow Medical Group St. Johns</span></a></li><li class="rmItem "><a class="rmLink" href="/SMG-VOA"><span class="rmText">Sparrow Volunteers of America Community Health Center</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=464&amp;sid=1"><span class="rmText">Sparrow Medical Group West</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2751&amp;sid=1"><span class="rmText">SMG Family Medicine Residency Central</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2752&amp;sid=1"><span class="rmText">SMG Family Medicine Residency Mason</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=2753&amp;sid=1"><span class="rmText">SMG Internal Medicine Residency</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/physicianservices-peds-clinics"><span class="rmText">Pediatric Subspecialty Clinics</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="http://www.sparrow.org/urgentcare"><span class="rmText">Urgent Care</span></a></li>
+									</ul>
+								</div></li><li class="rmItem "><a class="rmLink" href="/MedicalSupply"><span class="rmText">Sparrow Medical Supply</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/medicalsupply-about"><span class="rmText">About SMS</span></a></li>
+									</ul>
+								</div></li><li class="rmItem rmLast"><a class="rmLink" href="/pharmacyservices"><span class="rmText">Sparrow Pharmacy Plus</span></a></li>
+							</ul>
+						</div></li><li class="rmItem "><a class="rmLink" href="/sparrowpartners"><span class="rmText">Partners and Memberships</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/locations"><span class="rmText">Find a Location</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/CEO"><span class="rmText">About Our New CEO</span></a></li><li class="rmItem "><a class="rmLink" href="/boards"><span class="rmText">Boards Governing Sparrow Health System</span></a></li><li class="rmItem "><a class="rmLink" href="/recognitions"><span class="rmText">Sparrow’s Accreditations and Recognitions</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/?id=2587&amp;sid=1"><span class="rmText">Sparrow Clinton Hospital distinctions</span></a></li><li class="rmItem "><a class="rmLink" href="/NurseMagnet"><span class="rmText">Top in the nation for Nursing Excellence</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/?id=2737&amp;sid=1"><span class="rmText">2019 Public Notice: Magnet Recognition Program&#174; - Site Visit</span></a></li>
+							</ul>
+						</div></li><li class="rmItem rmLast"><a class="rmLink" href="/mayo"><span class="rmText">Sparrow &amp; Mayo. Working together for you.</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/research"><span class="rmText">Research at Sparrow</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1750&amp;sid=1"><span class="rmText">Quality and Transparency Commitment</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/languageservices"><span class="rmText">Nondiscrimination and Accessibility Notice / Language Services </span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1859&amp;sid=1"><span class="rmText">Quality Care Scorecard</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="http://www.sparrow.org/Default.aspx?id=1683&amp;sid=5&amp;CWFriendlyUrl=true"><span class="rmText">Pricing</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/CommunityHealthAssessment"><span class="rmText">Community Health Needs Assessments</span></a></li><li class="rmItem "><a class="rmLink" href="http://sparrowannualreport.org"><span class="rmText">Annual Report</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/archives"><span class="rmText">Report Archives</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst"><a class="rmLink" target="_blank" href="http://sparrowannualreport.org/"><span class="rmText">2017 Report to the Community</span></a></li><li class="rmItem "><a class="rmLink" href="http://sparrowannualreport.org/2016/"><span class="rmText">2016 Report to the Community</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.sparrowannualreport.org/2015/"><span class="rmText">2015 Report to the Community</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.sparrowannualreport.org/2014/"><span class="rmText">2014 Report to the Community</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=2381&amp;sid=1"><span class="rmText">2013 Report to the Community</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/teamwork"><span class="rmText">Team/Work</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/anna-cooley"><span class="rmText">Anna Cooley, RN</span></a></li><li class="rmItem "><a class="rmLink" href="/mike-devlin"><span class="rmText">Mike Devlin</span></a></li><li class="rmItem "><a class="rmLink" href="/gregory-lawson"><span class="rmText">Gregory Lawson, M.D.</span></a></li><li class="rmItem "><a class="rmLink" href="/denise-pratt"><span class="rmText">Denise Pratt</span></a></li><li class="rmItem "><a class="rmLink" href="/joseph-meunier"><span class="rmText">Joseph Meunier, D.O.</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/karen-kent-vandorder"><span class="rmText">Karen Kent VanGorder, M.D.</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/awards"><span class="rmText">Awards and Recognitions</span></a></li><li class="rmItem "><a class="rmLink" href="/contributions"><span class="rmText">Contributions Toward Community Health</span></a></li><li class="rmItem "><a class="rmLink" href="/financial-performance"><span class="rmText">Financial Performance Summary</span></a></li><li class="rmItem "><a class="rmLink" href="/governance"><span class="rmText">Governance</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/sparrow-foundation"><span class="rmText">The Sparrow Foundation</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/sparrow-foundation/funding"><span class="rmText">2013 Funding</span></a></li><li class="rmItem "><a class="rmLink" href="/sparrow-foundation/corporate-partners"><span class="rmText">Corporate Partners</span></a></li><li class="rmItem "><a class="rmLink" href="/sparrow-foundation/individual-partners"><span class="rmText">Individual Partners</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/sparrow-foundation/ways-to-help"><span class="rmText">Ways To Help</span></a></li>
+											</ul>
+										</div></li>
+									</ul>
+								</div></li><li class="rmItem "><a class="rmLink" href="/?id=1907&amp;sid=1"><span class="rmText">2012 Report to the Community</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1911&amp;sid=1"><span class="rmText">From the President</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1912&amp;sid=1"><span class="rmText">Everyday Experiences</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1913&amp;sid=1"><span class="rmText">Innovation</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1914&amp;sid=1"><span class="rmText">Compassion</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1915&amp;sid=1"><span class="rmText">Accountability</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1916&amp;sid=1"><span class="rmText">Respect</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1917&amp;sid=1"><span class="rmText">Excellence</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/?id=1918&amp;sid=1"><span class="rmText">Awards and Recognitions</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1919&amp;sid=1"><span class="rmText">Contribution Toward Community Health</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1920&amp;sid=1"><span class="rmText">Financial Performance Summary</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1921&amp;sid=1"><span class="rmText">Governance</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1993&amp;sid=1"><span class="rmText">2013 Nursing Report</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1994&amp;sid=1"><span class="rmText">Unit Highlight</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1995&amp;sid=1"><span class="rmText">Caregiver Highlights</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1996&amp;sid=1"><span class="rmText">Transformational Leadership</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1997&amp;sid=1"><span class="rmText">Structural Empowerment</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1998&amp;sid=1"><span class="rmText">Exemplary Professional Practice</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1999&amp;sid=1"><span class="rmText">Knowledge, Innovations &amp; Improvements</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=2000&amp;sid=1"><span class="rmText">Empirical Outcomes</span></a></li>
+											</ul>
+										</div></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1922&amp;sid=1"><span class="rmText">The Sparrow Foundation</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1923&amp;sid=1"><span class="rmText">2013 Funding</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1924&amp;sid=1"><span class="rmText">Lifetime Giving</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1925&amp;sid=1"><span class="rmText">Corporate Partners</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1926&amp;sid=1"><span class="rmText">Individual Partners</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1927&amp;sid=1"><span class="rmText">Ways to Help</span></a></li>
+											</ul>
+										</div></li>
+									</ul>
+								</div></li><li class="rmItem "><a class="rmLink" href="/?id=1908&amp;sid=1"><span class="rmText">2011 Report to the Commumity</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1928&amp;sid=1"><span class="rmText">Letter from the President</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1929&amp;sid=1"><span class="rmText">Transforming Health Care</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1930&amp;sid=1"><span class="rmText">The Sparrow Way</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1931&amp;sid=1"><span class="rmText">iSparrow</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1932&amp;sid=1"><span class="rmText">National Recognition</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1933&amp;sid=1"><span class="rmText">Sparrow Specialty Hospital</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1934&amp;sid=1"><span class="rmText">Sparrow Ionia Hospital</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1935&amp;sid=1"><span class="rmText">Joint Camp</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1936&amp;sid=1"><span class="rmText">Nursing</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/?id=1937&amp;sid=1"><span class="rmText">Awards and Recogntions</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1938&amp;sid=1"><span class="rmText">Contribution Toward Community Health</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1939&amp;sid=1"><span class="rmText">Financial Performance Summary</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1940&amp;sid=1"><span class="rmText">Governance</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1941&amp;sid=1"><span class="rmText">2012 Nursing Report</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1942&amp;sid=1"><span class="rmText">Department Highlights</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1943&amp;sid=1"><span class="rmText">Transformational Leadership</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1944&amp;sid=1"><span class="rmText">Structural Empowerment</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1945&amp;sid=1"><span class="rmText">Exemplary Professional Practice</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1946&amp;sid=1"><span class="rmText">Knowledge, Innovations and Improvements</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1947&amp;sid=1"><span class="rmText">Empirical Outcomes</span></a></li>
+											</ul>
+										</div></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1948&amp;sid=1"><span class="rmText">The Sparrow Foundation</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1949&amp;sid=1"><span class="rmText">2011 Funding</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1950&amp;sid=1"><span class="rmText">Corporate Partners</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1951&amp;sid=1"><span class="rmText">Individual Donors</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1952&amp;sid=1"><span class="rmText">Ways to Help</span></a></li>
+											</ul>
+										</div></li>
+									</ul>
+								</div></li><li class="rmItem "><a class="rmLink" href="/?id=1909&amp;sid=1"><span class="rmText">2010 Report to the Community</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1953&amp;sid=1"><span class="rmText">Letter from the President</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1954&amp;sid=1"><span class="rmText">Meet Our Caregivers</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1955&amp;sid=1"><span class="rmText">Debbie Lopez, RN, Emergency Department</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1956&amp;sid=1"><span class="rmText">J.J. Jackson, Volunteer</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1957&amp;sid=1"><span class="rmText">DeAnthony Jones, Environmental Services Technician</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1958&amp;sid=1"><span class="rmText">Jennifer Koresky, Physical Therapist, Williamston Rehabilitation Center</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1959&amp;sid=1"><span class="rmText">Sarah Nussbaum, Service Desk, Michigan Athletic Club</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1960&amp;sid=1"><span class="rmText">Donald L. Porter, MD, Sparrow Clinton Hospital</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1961&amp;sid=1"><span class="rmText">Peter DeRose, RN, Intermediate Care</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1962&amp;sid=1"><span class="rmText">Tracy Trumble, Customer Services Supervisor, Physicians Health Plan</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1963&amp;sid=1"><span class="rmText">Marilena Muto, Pharmacist, Sparrow Pharmacy Plus</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1964&amp;sid=1"><span class="rmText">Christine Thwaites, RN, Home Care Case Manager</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1965&amp;sid=1"><span class="rmText">John Armstrong, MD, Pulmonary Critical Care, Chief of Medical Staff-Elect</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/?id=1966&amp;sid=1"><span class="rmText">Awards and Recognitions</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1967&amp;sid=1"><span class="rmText">Contribution Toward Community Health</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1968&amp;sid=1"><span class="rmText">Financial Performance Summary</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1969&amp;sid=1"><span class="rmText">Governance</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1970&amp;sid=1"><span class="rmText">2011 Nursing Report</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1971&amp;sid=1"><span class="rmText">Transformational Leadership</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1972&amp;sid=1"><span class="rmText">Structural Empowerment</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1973&amp;sid=1"><span class="rmText">Exemplary Professional Practice</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1974&amp;sid=1"><span class="rmText">Knowledge, Innovations, and Improvements</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1975&amp;sid=1"><span class="rmText">Empirical Outcomes</span></a></li>
+											</ul>
+										</div></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1976&amp;sid=1"><span class="rmText">The Sparrow Foundation</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1977&amp;sid=1"><span class="rmText">2010 Funding</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1978&amp;sid=1"><span class="rmText">How to Give</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1979&amp;sid=1"><span class="rmText">Corporate Funding</span></a></li>
+											</ul>
+										</div></li>
+									</ul>
+								</div></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1910&amp;sid=1"><span class="rmText">2009 Annual Report to the Region</span></a><div class="rmSlide">
+									<ul class="rmVertical rmGroup rmLevel4">
+										<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1980&amp;sid=1"><span class="rmText">The Sparrow Vision</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1981&amp;sid=1"><span class="rmText">Letter from the President</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1982&amp;sid=1"><span class="rmText">Inspired By</span></a><div class="rmSlide">
+											<ul class="rmVertical rmGroup rmLevel5">
+												<li class="rmItem rmFirst"><a class="rmLink" href="/?id=1983&amp;sid=1"><span class="rmText">Caregiver &amp; Patient</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1984&amp;sid=1"><span class="rmText">Sparrow &amp; the Region</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1985&amp;sid=1"><span class="rmText">Sparrow &amp; MSU</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1986&amp;sid=1"><span class="rmText">Heritage &amp; Vision</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1987&amp;sid=1"><span class="rmText">Quality &amp; the Patient Experience</span></a></li>
+											</ul>
+										</div></li><li class="rmItem "><a class="rmLink" href="/?id=1988&amp;sid=1"><span class="rmText">Financial Performance Summary</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1989&amp;sid=1"><span class="rmText">Governance</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=1990&amp;sid=1"><span class="rmText">2010 Nursing Report</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=1991&amp;sid=1"><span class="rmText">Foundation List of Donors</span></a></li>
+									</ul>
+								</div></li>
+							</ul>
+						</div></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="http://sparrowannualreport.org/nursing-report.html"><span class="rmText">Nursing Annual Report</span></a></li><li class="rmItem "><a class="rmLink" href="/giving"><span class="rmText">Charitable Giving </span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/sparrowfoundation"><span class="rmText">Sparrow Foundation</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/sparrowfoundation-donate"><span class="rmText">Donate</span></a></li>
+							</ul>
+						</div></li><li class="rmItem "><a class="rmLink" href="/clintonfoundation"><span class="rmText">Sparrow Clinton Hospital Foundation</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst"><a class="rmLink" href="/?id=696&amp;sid=1"><span class="rmText">Foundation Background</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=698&amp;sid=1"><span class="rmText">Types of Gifts - Gift Designations</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=699&amp;sid=1"><span class="rmText">Planned Giving</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/whymanscholarship"><span class="rmText">Whyman Health Careers Scholarship</span></a></li>
+							</ul>
+						</div></li><li class="rmItem rmLast"><a class="rmLink" href="/ioniafoundation"><span class="rmText">Sparrow Ionia Hospital Foundation</span></a></li>
+					</ul>
+				</div></li><li class="rmItem rmLast"><a class="rmLink" href="/contact"><span class="rmText">Contact Us</span></a></li>
+			</ul>
+		</div></li><li class="rmItem rmSeparator"><span class="rmText"></span></li><li class="rmItem "><a class="rmLink rmRootLink" href="/findadoc"><span class="rmText">Find a Doctor</span></a></li><li class="rmItem rmSeparator"><span class="rmText"></span></li><li class="rmItem "><a class="rmLink rmRootLink" href="/eventcalendar"><span class="rmText">Events</span></a></li><li class="rmItem rmSeparator"><span class="rmText"></span></li><li class="rmItem "><a class="rmLink rmRootLink" href="http://www.sparrow.org/healthlibrary"><span class="rmText">Healthy Living</span></a><div class="rmSlide">
+			<ul class="rmVertical rmGroup rmLevel1">
+				<li class="rmItem rmFirst"><a class="rmLink" href="http://www.sparrow.org/HealthLibrary/DiseasesConditions.aspx"><span class="rmText">Mayo Clinic Health Library</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="http://www.sparrow.org/HealthLibrary/DiseasesConditions.aspx"><span class="rmText">Diseases and Conditions</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.sparrow.org/HealthLibrary/TestsProcedures.aspx"><span class="rmText">Tests and Procedures</span></a></li><li class="rmItem "><a class="rmLink" href="http://www.sparrow.org/HealthLibrary/HealthyLiving.aspx"><span class="rmText">Health Information</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="http://www.sparrow.org/HealthLibrary/FirstAid.aspx"><span class="rmText">First Aid</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="http://www.sparrowbewell.com/"><span class="rmText">Be Well</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/bewellatwork"><span class="rmText">Be Well At Work</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst"><a class="rmLink" href="https://atwork.sparrowbewell.com/dt/v2/corporateindex.asp"><span class="rmText">Be Well at Work login</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=869&amp;sid=1"><span class="rmText">Additional programs for employers</span></a></li>
+							</ul>
+						</div></li><li class="rmItem rmLast"><a class="rmLink" href="/bewellatsparrow"><span class="rmText">For Sparrow Caregivers</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst rmLast"><a class="rmLink" href="https://atsparrow.sparrowbewell.com/dt/v2/caregiverindex.asp"><span class="rmText">Be Well at Sparrow login</span></a></li>
+							</ul>
+						</div></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="#"><span class="rmText">For Children</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/mileageclub"><span class="rmText">Feelin&#39; Good &#174; Mileage Club &#174;</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst"><a class="rmLink" href="/?id=247&amp;sid=1"><span class="rmText">How to Get Your School Involved</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=248&amp;sid=1"><span class="rmText">Testimonials</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=249&amp;sid=1"><span class="rmText">Program Expectations</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=250&amp;sid=1"><span class="rmText">Get Active!</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=252&amp;sid=1"><span class="rmText">Contact Us</span></a></li>
+							</ul>
+						</div></li><li class="rmItem "><a class="rmLink" href="/michiganmile"><span class="rmText">Sparrow Michigan Mile</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="http://www.sparrowfoundation.org/page.aspx?pid=420"><span class="rmText">Children&#39;s Miracle Network</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/smarthealth"><span class="rmText">SmartHealth</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" href="/?id=675&amp;sid=1"><span class="rmText">Sparrow services and programs</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=676&amp;sid=1"><span class="rmText">Choosing care options</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=677&amp;sid=1"><span class="rmText">End-of-life planning</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" href="/lifetime"><span class="rmText">For Seniors</span></a><div class="rmSlide">
+					<ul class="rmVertical rmGroup rmLevel2">
+						<li class="rmItem rmFirst"><a class="rmLink" target="_blank" href="http://www.sparrow.org/formbuilder/forms.aspx?formid=69612&amp;sid=1"><span class="rmText">Join Online Now</span></a></li><li class="rmItem "><a class="rmLink" href="/?id=573&amp;sid=1"><span class="rmText">Health &amp; Fitness Programs</span></a><div class="rmSlide">
+							<ul class="rmVertical rmGroup rmLevel3">
+								<li class="rmItem rmFirst rmLast"><a class="rmLink" href="/lunch-with-a-doctor"><span class="rmText">Lunch with a Doctor</span></a></li>
+							</ul>
+						</div></li><li class="rmItem rmLast"><a class="rmLink" href="/?id=578&amp;sid=1"><span class="rmText">Helpful Information and Resources</span></a></li>
+					</ul>
+				</div></li><li class="rmItem "><a class="rmLink" target="_self" href="/?id=264&amp;sid=2"><span class="rmText">Michigan Athletic Club</span></a></li><li class="rmItem rmLast"><a class="rmLink" target="_blank" href="/upload/docs/Physician_SPeaker_Series/SPEAKER_SERIES.pdf"><span class="rmText">Physician Speaker Series</span></a></li>
+			</ul>
+		</div></li><li class="rmItem rmSeparator"><span class="rmText"></span></li><li class="rmItem rmLast"><a class="rmLink rmRootLink" href="/Locations"><span class="rmText">Locations</span></a></li>
+	</ul><input id="ctl00_PrimaryNavigationGlobal_ClientState" name="ctl00_PrimaryNavigationGlobal_ClientState" type="hidden" />
+</div>
+                            </div>
+                                </nav>
+                            </div>
+                        </div>
+
+            <div class="row clearfix mobile-nav">
+                <div class="toggle-buttons">
+                    <button class="search-toggle" data-target=".search-collapse" data-toggle="collapse" type="button"><span class="sr-only">Toggle search</span><span class="glyphicon glyphicon-search search-icon-min"></span></button>
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".mobile-nav-collapse"><span class="sr-only">Toggle navigation</span><span class="menu_btn">Menu</span></button>
+                                        </div>
+                                        
+                <div class="mobile-nav-collapse collapse">
+                    <ul class="top_level"><li><a href="/mysparrowassociates" alt="For Caregivers">For Caregivers</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/dresscode" alt="Color uniform policy">Color uniform policy</a></li><li><a href="/?id=1751&sid=5" alt="Ebola Virus Disease (EVD) Preparedness at Sparrow">Ebola Virus Disease (EVD) Preparedness at Sparrow</a></li><li><a href="/associates-scheduling" alt="Event Management & Catering for Caregivers">Event Management & Catering for Caregivers</a></li><li><a href="/humanresources" alt="Human Resources">Human Resources</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="http://careers.sparrow.org" alt="Career opportunities at Sparrow">Career opportunities at Sparrow</a></li><li><a href="http://www.sparrow.org/upload/docs/MySparrow/Associates/Benefits/DIA%20Instructions.pdf" alt="Diversified investments">Diversified investments</a></li><li><a href="https://careers.sparrow.org/diversity-and-inclusion" alt="Diversity and inclusion">Diversity and inclusion</a></li><li><a href="/humanresources-forms" alt="Frequently requested Sparrow HR forms">Frequently requested Sparrow HR forms</a></li><li><a href="/carsoncity-hr" alt="Sparrow Carson Hospital HR">Sparrow Carson Hospital HR</a></li></ul></li><li><a href="/inspiredbyphysicians" alt="Inspired by Physicians">Inspired by Physicians</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1398&sid=5" alt="Past Inspired By responses">Past Inspired By responses</a></li></ul></li><li><a href="/nursing" alt="Learn about nursing at Sparrow">Learn about nursing at Sparrow</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/nursesleadingtheway" alt="Sparrow Nurses: Charting the Course">Sparrow Nurses: Charting the Course</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1679&sid=5" alt="Past Nurses' Week responses">Past Nurses' Week responses</a></li></ul></li></ul></li><li><a href="/associatelogin" alt="Login to Sparrow accounts">Login to Sparrow accounts</a></li><li><a href="/quietcontest" alt="'Quiet for you' campaign">'Quiet for you' campaign</a></li><li><a href="/spa-for-associates" alt="SPA Concierge Services and Discounts">SPA Concierge Services and Discounts</a></li><li><a href="/carsoncaregivers" alt="Sparrow Carson Caregivers">Sparrow Carson Caregivers</a></li><li><a href="/sparrowchildtime" alt="Sparrow Childtime Learning Center">Sparrow Childtime Learning Center</a></li><li><a href="/sparrowlibrary" alt="Sparrow Health Sciences Library">Sparrow Health Sciences Library</a></li><li><a href="/maincampusparking" alt="Sparrow Michigan Avenue Campus Caregiver parking ">Sparrow Michigan Avenue Campus Caregiver parking </a></li><li><a href="/mobileaccess" alt="Sparrow Mobile Access">Sparrow Mobile Access</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1432&sid=5" alt="Frequently Asked Questions">Frequently Asked Questions</a></li><li><a href="/?id=1423&sid=5" alt="Mobile OS Version Help">Mobile OS Version Help</a></li><li><a href="/newphonerequest" alt="New Phone Request">New Phone Request</a></li><li><a href="/nonsmartphonereplacement" alt="Non-Smart Phone Replacement">Non-Smart Phone Replacement</a></li></ul></li><li><a href="/associates-news" alt="Staying connected — with Sparrow!">Staying connected — with Sparrow!</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="http://sparrowtv.org/channels/sparrow-news/#.US5R4aJBSKI" alt="Sparrow News Video Edition">Sparrow News Video Edition</a></li></ul></li><li><a href="/eventcalendar" alt="View upcoming events">View upcoming events</a></li></ul></li><li><a href="/mysparrowpatients" alt="For Patients">For Patients</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/clinicaltrials" alt="Clinical Trials at Sparrow">Clinical Trials at Sparrow</a></li><li><a href="/physicians" alt="Find a doctor">Find a doctor</a></li><li><a href="/MySparrow" alt="MySparrow: Innovating technology">MySparrow: Innovating technology</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=2670&sid=5" alt="MyChart Bedside">MyChart Bedside</a></li><li><a href="/mysparrowlogin" alt="MySparrow login page">MySparrow login page</a></li></ul></li><li><a href="/pharmacyservices" alt="Prescription Refills">Prescription Refills</a></li><li><a href="http://www.carsoncityhospital.com" alt="Sparrow Carson Hospital">Sparrow Carson Hospital</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1229&sid=5" alt="Carson City Hospital privacy policy">Carson City Hospital privacy policy</a></li><li><a href="/?id=1230&sid=5" alt="Durable Power of Attorney">Durable Power of Attorney</a></li></ul></li><li><a href="/mysparrow-clinton" alt="Sparrow Clinton Hospital">Sparrow Clinton Hospital</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1222&sid=5" alt="Patient care and safety">Patient care and safety</a></li><li><a href="/?id=1219&sid=5" alt="Sparrow Clinton Patient Financial Services">Sparrow Clinton Patient Financial Services</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1220&sid=5" alt="Community financial aid">Community financial aid</a></li></ul></li><li><a href="/?id=1218&sid=5" alt="Visiting hours and guidelines">Visiting hours and guidelines</a></li></ul></li><li><a href="/mysparrow-sparrow-hospital" alt="Sparrow Hospital">Sparrow Hospital</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1213&sid=5" alt="Discounted lodging">Discounted lodging</a></li><li><a href="/?id=1216&sid=5" alt="Durable Power of Attorney">Durable Power of Attorney</a></li><li><a href="/?id=1211&sid=5" alt="Give feedback on my Sparrow experience">Give feedback on my Sparrow experience</a></li><li><a href="/?id=1212&sid=5" alt="Guest lodging options">Guest lodging options</a></li><li><a href="/patient-rights-information" alt="Patient rights information">Patient rights information</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/release-of-information-faq" alt="Release of Information FAQ">Release of Information FAQ</a></li></ul></li><li><a href="/?id=1210&sid=5" alt="Restaurants and cafes">Restaurants and cafes</a></li><li><a href="/?id=1207&sid=5" alt="Sparrow Hospital parking information">Sparrow Hospital parking information</a></li><li><a href="/?id=1208&sid=5" alt="Visiting hours and guidelines">Visiting hours and guidelines</a></li></ul></li><li><a href="/mysparrow-ionia" alt="Sparrow Ionia Hospital">Sparrow Ionia Hospital</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1225&sid=5" alt="Food and nutrition services">Food and nutrition services</a></li><li><a href="/?id=1226&sid=5" alt="Insurance, billing and payment">Insurance, billing and payment</a></li><li><a href="/?id=1227&sid=5" alt="Patient privacy">Patient privacy</a></li><li><a href="/?id=1224&sid=5" alt="View visiting hours and guidelines">View visiting hours and guidelines</a></li></ul></li><li><a href="/financialservices" alt="Sparrow Patient Financial Services ">Sparrow Patient Financial Services </a><a href="#" class="mobile-nav-next"></a><ul class="active"><li><a href="/?id=1697&sid=5" alt=" Frequently Asked Questions"> Frequently Asked Questions</a></li><li><a href="/?id=1687&sid=5" alt="Financial Assistance">Financial Assistance</a></li><li><a href="/?id=1686&sid=5" alt="Financial Estimates">Financial Estimates</a></li><li><a href="/?id=1696&sid=5" alt="Glossary">Glossary</a></li><li><a href="/?id=1692&sid=5" alt="Healthcare Coverage Options">Healthcare Coverage Options</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/exchangeanswers" alt="Healthcare Exchange FAQ">Healthcare Exchange FAQ</a></li></ul></li><li><a href="/insurance" alt="Insurance coverage at Sparrow">Insurance coverage at Sparrow</a></li><li><a href="/?id=1690&sid=5" alt="Pay My Bill">Pay My Bill</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1688&sid=5" alt="Billing FAQ">Billing FAQ</a></li></ul></li><li><a href="/preregistration" alt="Pre-registration">Pre-registration</a></li><li><a href="/mammogram" alt="Pre-service Scheduling">Pre-service Scheduling</a></li><li class="active_row"><a href="/pricing" alt="Pricing">Pricing</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/PricingFAQ" alt="Pricing FAQ">Pricing FAQ</a></li><li><a href="/?id=2701&sid=5" alt="Sparrow Standard Charge Listing">Sparrow Standard Charge Listing</a></li></ul></li></ul></li></ul></li><li><a href="/mysparrowphysicians" alt="For Physicians">For Physicians</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/187sparrow1" alt="Admissions, transfers, and dispatch">Admissions, transfers, and dispatch</a></li><li><a href="/clinicaltrials" alt="Clinical Trials at Sparrow">Clinical Trials at Sparrow</a></li><li><a href="/cme" alt="Continuing Medical Education">Continuing Medical Education</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=2635&sid=5" alt="Activity Highlights">Activity Highlights</a></li><li><a href="https://cmetracker.net/SPARROWMSU/Catalog" alt="CME Events">CME Events</a></li></ul></li><li><a href="/medicalforms" alt="Download forms for medical providers">Download forms for medical providers</a></li><li><a href="/physicianscheduling" alt="Event Management & Catering for Physicians">Event Management & Catering for Physicians</a></li><li><a href="/inspiredbyphysicians" alt="Every day, doctors inspire us">Every day, doctors inspire us</a></li><li><a href="/?id=1607&sid=5" alt="Exchange Answers">Exchange Answers</a></li><li><a href="https://remote.sparrow.org" alt="Log in to remote.sparrow.org">Log in to remote.sparrow.org</a></li><li><a href="/mededucation" alt="Medical Education">Medical Education</a></li><li><a href="/FAQs" alt="NRAD FAQs">NRAD FAQs</a></li><li><a href="/performance" alt="Read more about performance and quality">Read more about performance and quality</a></li><li><a href="http://www.sparrow.org/?id=2164&sid=20" alt="Sparrow Care Network">Sparrow Care Network</a><a href="#" class="mobile-nav-next"></a><ul><li><a href="/?id=1710&sid=5" alt="2014 Milestones">2014 Milestones</a></li><li><a href="/?id=1744&sid=5" alt="Board of Managers">Board of Managers</a></li><li><a href="/?id=1708&sid=5" alt="Formational Committees">Formational Committees</a></li><li><a href="/?id=1722&sid=5" alt="Quality Initiatives">Quality Initiatives</a></li><li><a href="/?id=1709&sid=5" alt="Video Library">Video Library</a></li></ul></li><li><a href="/sparrowlibrary" alt="Sparrow Health Sciences Library">Sparrow Health Sciences Library</a></li><li><a href="/physiciannews" alt="Sparrow Physician news">Sparrow Physician news</a></li><li><a href="/physicianorientation" alt="Take our online orientation modules">Take our online orientation modules</a></li></ul></li><li><a href="http://www.sparrow.org" alt="Home">Home</a></li></ul>
+
+                            </div>
+                        </div>
+
+                        <div class="row clearfix">
+                <div class="col-md-12 column">
+                            <div class="h_mid_area">
+                              <div class="row clearfix">                                
+                            <div class="hidden-xs hidden-sm col-md-3 column">
+                               
+                                <div id="cssmenu" class="hidden-xs" style="margin-top:180px;">
+                                    
+
+<!--   ASP TreeView component version 2.0.39     www.obout.com    (.NET dll) -->
+
+<script type="text/javascript">var ob_tree_id="tree1";verdadero=true;falso=false;wahr=true;falsch=false;vrai=true;faux=false;var ob_icons="/images/obout/Icons";var ob_style="/images/obout/style/Design004";ob_select_on_collapse=true;ob_tree_dnd_enable=false;ob_tree_editnode_enable=false;ob_tree_keynav_enable=false;ob_tree_multiselect_enable=false;ob_expand_single=false;ob_t2_showicons=false;</script><script type="text/javascript" src="/images/obout/Script/ob_tree_2039.js"></script><script type="text/javascript" src="/images/obout/Script/ob_events_2039.js"></script>
+<div id="tree1" class="ob_tree" style="width:200px;overflow:visible;"><div class="ob_di2"><div class="ob_d2b"><table class="ob_t2b" cellspacing="0" style="display:none;"><tr><td class="ob_t8" style="display:none;"><img alt="" src="/images/obout/style/Design004/minus_r.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4"><div class="ob_d4"></div></td><td id="root_tree1" onclick="ob_t22(this, event)" class="ob_t2" valign="middle"></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:block;"><tr><td><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/plusik_l.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1179" onclick="ob_t22(this, event)" class="ob_t2"><a href="/mysparrowpatients"><span class='OboutTitle'>For Patients</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1203" onclick="ob_t22(this, event)" class="ob_t2"><a href="/financialservices"><span class='OboutHeader'>Sparrow Patient Financial Services </span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1669" onclick="ob_t22(this, event)" class="ob_t2"><a href="/insurance"><span class='OboutHeader'>Insurance coverage at Sparrow</span></a></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1683" onclick="ob_t22(this, event)" class="ob_t2"><a href="/pricing"><span class='OboutHeader'>Pricing</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1684" onclick="ob_t22(this, event)" class="ob_t2"><a href="/PricingFAQ"><span class='OboutHeader'>Pricing FAQ</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a2701" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=2701&amp;sid=5"><span class='OboutHeader'>Sparrow Standard Charge Listing</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1686" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1686&amp;sid=5"><span class='OboutHeader'>Financial Estimates</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1687" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1687&amp;sid=5"><span class='OboutHeader'>Financial Assistance</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1689" onclick="ob_t22(this, event)" class="ob_t2"><a href="/mammogram"><span class='OboutHeader'>Pre-service Scheduling</span></a></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1690" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1690&amp;sid=5"><span class='OboutHeader'>Pay My Bill</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1688" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1688&amp;sid=5"><span class='OboutHeader'>Billing FAQ</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1691" onclick="ob_t22(this, event)" class="ob_t2"><a href="/preregistration"><span class='OboutHeader'>Pre-registration</span></a></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1692" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1692&amp;sid=5"><span class='OboutHeader'>Healthcare Coverage Options</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1604" onclick="ob_t22(this, event)" class="ob_t2"><a href="/exchangeanswers"><span class='OboutHeader'>Healthcare Exchange FAQ</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1696" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1696&amp;sid=5"><span class='OboutHeader'>Glossary</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1697" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1697&amp;sid=5"><span class='OboutHeader'> Frequently Asked Questions</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1575" onclick="ob_t22(this, event)" class="ob_t2"><a href="/MySparrow"><span class='OboutHeader'>MySparrow: Innovating technology</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1235" onclick="ob_t22(this, event)" class="ob_t2"><a href="/mysparrowlogin"><span class='OboutHeader'>MySparrow login page</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a2670" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=2670&amp;sid=5"><span class='OboutHeader'>MyChart Bedside</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1729" onclick="ob_t22(this, event)" class="ob_t2"><a href="/clinicaltrials" target="_blank"><span class='OboutHeader'>Clinical Trials at Sparrow</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1247" onclick="ob_t22(this, event)" class="ob_t2"><a href="/pharmacyservices"><span class='OboutHeader'>Prescription Refills</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1248" onclick="ob_t22(this, event)" class="ob_t2"><a href="/physicians"><span class='OboutHeader'>Find a doctor</span></a></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1205" onclick="ob_t22(this, event)" class="ob_t2"><a href="/mysparrow-sparrow-hospital"><span class='OboutHeader'>Sparrow Hospital</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1207" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1207&amp;sid=5"><span class='OboutHeader'>Sparrow Hospital parking information</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1208" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1208&amp;sid=5"><span class='OboutHeader'>Visiting hours and guidelines</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1210" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1210&amp;sid=5"><span class='OboutHeader'>Restaurants and cafes</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1211" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1211&amp;sid=5"><span class='OboutHeader'>Give feedback on my Sparrow experience</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1212" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1212&amp;sid=5"><span class='OboutHeader'>Guest lodging options</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1213" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1213&amp;sid=5"><span class='OboutHeader'>Discounted lodging</span></a></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1214" onclick="ob_t22(this, event)" class="ob_t2"><a href="/patient-rights-information"><span class='OboutHeader'>Patient rights information</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1215" onclick="ob_t22(this, event)" class="ob_t2"><a href="/release-of-information-faq"><span class='OboutHeader'>Release of Information FAQ</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1216" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1216&amp;sid=5"><span class='OboutHeader'>Durable Power of Attorney</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1217" onclick="ob_t22(this, event)" class="ob_t2"><a href="/mysparrow-clinton"><span class='OboutHeader'>Sparrow Clinton Hospital</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1218" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1218&amp;sid=5"><span class='OboutHeader'>Visiting hours and guidelines</span></a></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1219" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1219&amp;sid=5"><span class='OboutHeader'>Sparrow Clinton Patient Financial Services</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1220" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1220&amp;sid=5"><span class='OboutHeader'>Community financial aid</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1222" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1222&amp;sid=5"><span class='OboutHeader'>Patient care and safety</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/plusik.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1223" onclick="ob_t22(this, event)" class="ob_t2"><a href="/mysparrow-ionia"><span class='OboutHeader'>Sparrow Ionia Hospital</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td class="ob_t5v"><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1224" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1224&amp;sid=5"><span class='OboutHeader'>View visiting hours and guidelines</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1225" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1225&amp;sid=5"><span class='OboutHeader'>Food and nutrition services</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1226" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1226&amp;sid=5"><span class='OboutHeader'>Insurance, billing and payment</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1227" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1227&amp;sid=5"><span class='OboutHeader'>Patient privacy</span></a></td></tr></table></div></td></tr></table></div><div class="ob_d2b"><table class="ob_t2b" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/plusik_l.gif" onclick="ob_t21(this, '')" /></td><td class="ob_t4" style="display:none;"></td><td id="a1228" onclick="ob_t22(this, event)" class="ob_t2"><a href="/mysparrow-carson-city"><span class='OboutHeader'>Sparrow Carson Hospital</span></a></td></tr></table><table class="ob_t2c" cellspacing="0" style="display:none;"><tr><td><div class="ob_d5"></div></td><td class="ob_t5"><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6v"><img alt="" src="/images/obout/style/Design004/hr.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1229" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1229&amp;sid=5"><span class='OboutHeader'>Carson City Hospital privacy policy</span></a></td></tr></table></div><div class="ob_d2c"><table class="ob_t2g" cellspacing="0"><tr><td class="ob_t6"><img alt="" src="/images/obout/style/Design004/hr_l.gif" /></td><td class="ob_t4" style="display:none;"></td><td id="a1230" onclick="ob_t22(this, event)" class="ob_t2"><a href="/?id=1230&amp;sid=5"><span class='OboutHeader'>Durable Power of Attorney</span></a></td></tr></table></div></td></tr></table></div></td></tr></table></div></td></tr></table></div></div></div><script type="text/javascript">/*<![CDATA[*/var ob_noedit='';ob_KeepLastExpanded=0;ob_KeepLastCollapsed=0;var sNoSelect='';var ob_eventFlags={"OnSomeEvent":true};function getStyle(oElm,strCssRule){var strValue="";if(document.defaultView && document.defaultView.getComputedStyle){strValue=document.defaultView.getComputedStyle(oElm,"").getPropertyValue(strCssRule);}else if(oElm.currentStyle){try{strCssRule=strCssRule.replace(/\-(\w)/g, function (strMatch,p1){return p1.toUpperCase();});strValue=oElm.currentStyle[strCssRule];}catch(ex){}}return strValue;};function ob_RootNode(){var rt=document.getElementById(ob_tree_id).firstChild.firstChild.firstChild;var ct=rt.nextSibling;if(ct==null){return;}var c=ct.firstChild.firstChild.firstChild;var it=rt.firstChild.firstChild.firstChild;var sIS="";var sRS="";try{sIS=getStyle(it,"display");}catch(ex){sIS="none";}try{sRS=getStyle(rt,"display");}catch(ex){sRS="none";} if(ct!=null&&(sRS=="none"||sIS=="none")){ if(navigator.userAgent.toLowerCase().indexOf("firefox")==-1) {c.style.display="none";}else{c.style.width="1px";c.firstChild.style.display="none";}}}ob_RootNode();function ob_initTree(i){if((typeof(ob_tree_js_version)=="undefined")||(ob_tree_js_version!="2039")){if(i<30){window.setTimeout("ob_initTree("+(i+1)+")",900);}else{}return;}else{ob_t26("a1683");}}ob_initTree(0);/*]]>*/</script>
+
+<!--   ASP TreeView component version 2.0.39     www.obout.com    (.NET dll) -->
+
+
+
+                                </div>
+                                <div class="hidden-xs jumpMenus" id="jumpMenuDiv">
+                                    
+<div class="padding10Left">
+    <h1 class="greenHeader">
+        <span>Our services:</span> quick view</h1>
+</div>
+<div class="padding10Left">
+    <h1 class="jumpHeaders">
+       Quick Links</h1>
+</div>
+<div>
+    <div id="ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks" class="RadComboBox RadComboBox_sparrowTest">
+	<table summary="combobox" style="border-width:0;border-collapse:collapse;width:100%">
+		<tr>
+			<td class="rcbInputCell rcbInputCellLeft" style="width:100%;"><input name="ctl00$Design001HomeJumpMenus$jumpMenuQuickLinks" type="text" class="rcbInput radPreventDecorate" id="ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks_Input" value="Select" /></td><td class="rcbArrowCell rcbArrowCellRight"><a id="ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks_Arrow" style="overflow: hidden;display: block;position: relative;outline: none;">select</a></td>
+		</tr>
+	</table><div class="rcbSlide" style="z-index:6000;"><div id="ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks_DropDown" class="RadComboBoxDropDown RadComboBoxDropDown_sparrowTest " style="display:none;width:200px;"><div class="rcbScroll rcbWidth" style="width:100%;"><ul class="rcbList" style="list-style:none;margin:0;padding:0;zoom:1;"><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1596">
+			Contact Us
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=2131">
+			FastCare
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1598">
+			Find a Doctor
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1599">
+			Pre-register for a Sparrow Hospital appointment
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1600">
+			Refill Sparrow Pharmacy Plus prescriptions
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1597">
+			Review and pay your Sparrow Hospital bill
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1630">
+			Sparrow facility projects. Building a healthy future.
+		</a>
+     </li></ul></div></div></div><input id="ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks_ClientState" name="ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks_ClientState" type="hidden" />
+</div>
+</div>
+
+<div class="padding10Left">
+    <h1 class="jumpHeaders">
+        Departments &amp; Services</h1>
+</div>
+<div>
+    <div id="ctl00_Design001HomeJumpMenus_jumpMenuServices" class="RadComboBox RadComboBox_sparrowTest">
+	<table summary="combobox" style="border-width:0;border-collapse:collapse;width:100%">
+		<tr>
+			<td class="rcbInputCell rcbInputCellLeft" style="width:100%;"><input name="ctl00$Design001HomeJumpMenus$jumpMenuServices" type="text" class="rcbInput radPreventDecorate" id="ctl00_Design001HomeJumpMenus_jumpMenuServices_Input" value="Select" /></td><td class="rcbArrowCell rcbArrowCellRight"><a id="ctl00_Design001HomeJumpMenus_jumpMenuServices_Arrow" style="overflow: hidden;display: block;position: relative;outline: none;">select</a></td>
+		</tr>
+	</table><div class="rcbSlide" style="z-index:6000;"><div id="ctl00_Design001HomeJumpMenus_jumpMenuServices_DropDown" class="RadComboBoxDropDown RadComboBoxDropDown_sparrowTest " style="display:none;width:200px;"><div class="rcbScroll rcbWidth" style="width:100%;"><ul class="rcbList" style="list-style:none;margin:0;padding:0;zoom:1;"><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/OurServices">
+			All Services
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=45">
+			Bariatric Services
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/birthing">
+			Birthing Services and Mother Baby Center
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/cancer">
+			Cancer Center
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/childrenscenter">
+			Children's Center
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1677">
+			Clinical Trials at Sparrow
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/emergencyservices">
+			Emergency Services
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=2132">
+			FastCare
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1279">
+			Heart and Vascular Center
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/homecare">
+			Home Care
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/Hospice">
+			Hospice Service
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/neurosciences">
+			Neurosciences
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/orthopedics">
+			Orthopedic Services
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=2151">
+			Rehabilitation
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/mobileclinic">
+			Sparrow Mobile Clinics
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1577">
+			Urgent Care
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+		<a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/women">
+			Women's Services
+		</a>
+     </li></ul></div></div></div><input id="ctl00_Design001HomeJumpMenus_jumpMenuServices_ClientState" name="ctl00_Design001HomeJumpMenus_jumpMenuServices_ClientState" type="hidden" />
+</div>
+</div>
+<div class="padding10Left">
+    <h1 class="jumpHeaders">
+        Physician Groups &amp; Practices</h1>
+</div>
+<div>
+    <div id="ctl00_Design001HomeJumpMenus_jumpMenuGroups" class="RadComboBox RadComboBox_sparrowTest">
+	<table summary="combobox" style="border-width:0;border-collapse:collapse;width:100%">
+		<tr>
+			<td class="rcbInputCell rcbInputCellLeft" style="width:100%;"><input name="ctl00$Design001HomeJumpMenus$jumpMenuGroups" type="text" class="rcbInput radPreventDecorate" id="ctl00_Design001HomeJumpMenus_jumpMenuGroups_Input" value="Select" /></td><td class="rcbArrowCell rcbArrowCellRight"><a id="ctl00_Design001HomeJumpMenus_jumpMenuGroups_Arrow" style="overflow: hidden;display: block;position: relative;outline: none;">select</a></td>
+		</tr>
+	</table><div class="rcbSlide" style="z-index:6000;"><div id="ctl00_Design001HomeJumpMenus_jumpMenuGroups_DropDown" class="RadComboBoxDropDown RadComboBoxDropDown_sparrowTest " style="display:none;width:200px;"><div class="rcbScroll rcbWidth" style="width:100%;"><ul class="rcbList" style="list-style:none;margin:0;padding:0;zoom:1;"><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/physicianservices-cts">
+			Cardiovascular and Thoracic Surgeons
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/physicianservices-familyhealthcenters">
+			Family Health Centers
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/physicianservices-iss">
+			Ionia Surgical Services
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/carsonhealthnetwork">
+			Sparrow Carson
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/physicianservices-hospitalists">
+			Sparrow Hospitalists 
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=78">
+			Sparrow Medical Group 
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/SMG/Ionia">
+			Sparrow Medical Group Ionia
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=1634">
+			Sparrow Medical Group OB/GYN
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/SMG/Portland">
+			Sparrow Medical Group Portland
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/?id=2081">
+			Sparrow Medical Group Saranac 
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/SMG/StJohns">
+			Sparrow Medical Group St. Johns
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/physicianservices-medical-oncology">
+			Sparrow Medical Oncology 
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/physicianservices-radiationoncology">
+			Sparrow Radiation Oncology
+		</a>
+     </li><li class="rcbItem  rcbTemplate">
+        <a class="serviceLink" style="color:#333; text-decoration:none;" href= "http://www.sparrow.org/physicianservices-tci">
+			Thoracic Cardiovascular Institute
+		</a>
+     </li></ul></div></div></div><input id="ctl00_Design001HomeJumpMenus_jumpMenuGroups_ClientState" name="ctl00_Design001HomeJumpMenus_jumpMenuGroups_ClientState" type="hidden" />
+</div>
+</div>
+
+                                    </div>
+                               
+                            </div>
+               
+                            <div class="col-md-9 column clearfix">
+						                
+
+                                    <div class="contentBanner">
+                                        <div id="PageTitle">
+                                                Pricing</div>
+                                                        </div>
+                                    <div class="breadcrumbs">
+                                        <ul>
+						                <li><a href="/?sid=5">Home</a></li><li><a class="breadcrumbChild" href="/mysparrowpatients">For Patients</a><li><a class="breadcrumbChild" href="/financialservices">Sparrow Patient Financial Services </a><li><a class="breadcrumbChild" href="/pricing">Pricing</a>
+									                                    
+                                        </ul>
+                                                                    </div>
+
+                                    <div class="contentUtilities">
+                                        <ul class="c_utilities">
+                                            <li class="aPlus"><a href="javascript:ts('printReady',1)"><em class="hidden">aPlus</em></a></li>
+                                            <li class="aMinus"><a href="javascript:ts('printReady',-1)"><em class="hidden">aMinus</em></a></li>
+                                            <li class="print"><a href="javascript:void(printSpecial('printReady','001'))">Print</a></li>
+                                            <li id="shareOption">
+			                                    <div><a class="addthis_button">Share</a>																									
+				                                    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js"></script>
+                                                            </div>
+                                            </li>
+                                        </ul>
+                                                        </div>
+                                        
+						                
+                            </div>
+
+									                                                                    
+                                
+                                <div class="col-md-9 column">
+                                    
+
+                                    
+                                    <div id="printReady">
+
+                                        <div id="PageContent" class="content">
+					                    
+                                            <style>
+    .displayDiv
+    {
+    display: none !important;
+    visibility: hidden !important;
+    }
+    .HideText
+    {
+    display: block !important;
+    visibility: visible !important;
+    }
+    @media (max-width: 700px)
+    {
+    .HideText
+    {
+    display: none !important;
+    visibility: hidden !important;
+    }
+    .displayDiv
+    {
+    display: block !important;
+    visibility: visible !important;
+    }
+    }
+    @media (max-width: 350px)
+    {
+    .displayDiv
+    {
+    display: block !important;
+    visibility: visible !important;
+    }
+    }
+</style>
+<p class="introcopy-1"><span style="font-family: Arial;">At Sparrow, the needs of our Patients always come first.&nbsp; Our mission is to improve the health of the people in our communities by providing quality, compassionate care to everyone, every time.</span></p>
+<p><img alt="" style="width: 220px; height: 142px; margin-right: 5px; float: left;" src="/upload/images/MY_SPARROW/Patients/calculator%2015169653.jpg" /><span class="bodycopy-1" style="font-family: Arial;">With healthcare reform, increasing copays and deductibles, insurance plans encouraging low cost options, and increased focus on healthcare costs, consumers want more information on healthcare prices.&nbsp; &nbsp;We are committed to supporting healthcare price transparency by providing you with information you need to&nbsp;understand the costs of care and make informed decisions.<br />
+<br />
+Hospital prices are established based on several factors. First, the direct cost of staff, supplies, drug(s), and/or the equipment for that particular service or item. Second, a markup is added to each price to account for the administrative expenses involved in operating a large hospital. These include expenses for technology, registration and billing, regulatory compliance, building and facility expenses, housekeeping, food and nutrition, and many others.<br />
+</span></p>
+<p><span class="bodycopy-1" style="font-family: Arial;">Below are links to pricing information for several common procedures, along with a Pricing FAQ. The information is presented in the following format:&nbsp;&nbsp;<br />
+</span></p>
+<blockquote style="margin: 0px 0px 0px 40px; padding: 0px; border: currentcolor;">
+<p><span class="bodycopy-1" style="font-family: Arial;"><strong>Sparrow Price:&nbsp;</strong>This is our standard charge for services prior to insurance contract discounts.</span></p>
+<p><span class="bodycopy-1" style="font-family: Arial;"><strong>Medicare/Medicaid Reimbursement:&nbsp;</strong>This is the approximate payment received from Medicare and Medicare HMO plans.</span></p>
+<p><span class="bodycopy-1" style="font-family: Arial;"><strong>Average Commercial Insurance Reimbursement:&nbsp;</strong>This is the average payment received from major commercial healthplans such as Blue Cross, Aetna, Cigna, PHP, etc. </span></p>
+<p><span class="bodycopy-1" style="font-family: Arial;"><strong>Average Uninsured Reimbursement:&nbsp;</strong>This is the payment requested from uninsured individuals.  Additional discounts are available to those meeting certain income requirements.  </span></p>
+</blockquote>
+<p><span class="bodycopy-1" style="font-family: Arial;">These prices are for Sparrow Hospital only and do not include physician&rsquo;s fees from a surgeon, pathologist, anesthesiologist or radiologist.</span></p>
+<p><span class="bodycopy-1" style="font-family: Arial;">Click the links below for detailed pricing information for many common procedures at Sparrow.&nbsp;</span></p>
+<div class="displayDiv">
+<a href="/upload/docs/MySparrow/Endoscopy Pricing.pdf"></a>
+<p class="contentH3"><a href="/upload/docs/MySparrow/Endoscopy Pricing.pdf">Endoscopy</a></p>
+<a href="/upload/docs/MySparrow/Laboratory Pricing.pdf"></a>
+<p class="contentH3"><a href="/upload/docs/MySparrow/Laboratory Pricing.pdf">Laboratory</a></p>
+<a href="/upload/docs/MySparrow/PT OT ST Pricing.pdf"></a>
+<p class="contentH3"><a href="/upload/docs/MySparrow/PT OT ST Pricing.pdf">Physical, Occupational and Speech Therapy</a></p>
+<a href="/upload/docs/MySparrow/Radiology Pricing.pdf"></a>
+<p class="contentH3"><a href="/upload/docs/MySparrow/Radiology Pricing.pdf">Radiology</a></p>
+</div>
+<div class="HideText">
+<script language="JavaScript">
+//here you place the ids of every element you want.
+var ids=new Array('a1','a2','a3','a4','a5');
+
+function switchid(id){	
+	hideallids();
+	showdiv(id);
+}
+
+function hideallids(){
+	//loop through the array and hide each element by id
+	for (var i=0;i&lt;ids.length;i++){
+		hidediv(ids[i]);
+	}		  
+}
+
+function hidediv(id) {
+	//safe function to hide an element with a specified id
+	if (document.getElementById) { // DOM3 = IE5, NS6
+		document.getElementById(id).style.display = 'none';
+	}
+	else {
+		if (document.layers) { // Netscape 4
+			document.id.display = 'none';
+		}
+		else { // IE 4
+			document.all.id.style.display = 'none';
+		}
+	}
+}
+
+function showdiv(id) {
+	//safe function to show an element with a specified id
+		  
+	if (document.getElementById) { // DOM3 = IE5, NS6
+		document.getElementById(id).style.display = 'block';
+	}
+	else {
+		if (document.layers) { // Netscape 4
+			document.id.display = 'block';
+		}
+		else { // IE 4
+			document.all.id.style.display = 'block';
+		}
+	}
+}
+</script>
+<p class="contentH3"><a href="javascript:switchid('a1');" shape="rect"><span style="font-family: Arial;">Emergency Department</span></a></p>
+<div id="a1" style="display: none;">
+<table class="contentTB" id="tbl" style="font-size: 10pt;" border="0" cellspacing="0" cellpadding="5">
+    <tbody>
+        <tr>
+            <td><strong>CPT Code</strong></td>
+            <td><strong>Description</strong></td>
+            <td><strong>Sparrow Price</strong></td>
+            <td><strong>Medicare reimbursement</strong></td>
+            <td><strong>Medicaid reimbursement</strong></td>
+            <td><strong>Avg. Commercial Healthplan reimbursement</strong></td>
+            <td><strong>Avg. Uninsured Reimbursement</strong></td>
+        </tr>
+        <tr>
+            <td>99281</td>
+            <td>Emergency Dept. Visit Level I</td>
+            <td>$330.00</td>
+            <td>$62.70</td>
+            <td>$33.48</td>
+            <td>$148.50</td>
+            <td>$72.11</td>
+        </tr>
+        <tr>
+            <td>99282</td>
+            <td> Emergency Dept. Visit Level II</td>
+            <td>$495.00</td>
+            <td>$116.91</td>
+            <td>$62.43</td>
+            <td>$222.75</td>
+            <td>$134.45</td>
+        </tr>
+        <tr>
+            <td>99283</td>
+            <td> Emergency Dept. Visit Level III</td>
+            <td>$856.00</td>
+            <td>$205.65</td>
+            <td>$109.82</td>
+            <td>$385.20</td>
+            <td>$236.50</td>
+        </tr>
+        <tr>
+            <td>99284</td>
+            <td> Emergency Dept. Visit Level IV</td>
+            <td>$1192.00</td>
+            <td>$346.02</td>
+            <td>$184.77</td>
+            <td>$536.40</td>
+            <td>$397.92</td>
+        </tr>
+        <tr>
+            <td>99285</td>
+            <td> Emergency Dept. Visit Level V</td>
+            <td>$1600.00</td>
+            <td>$346.02</td>
+            <td>$184.77</td>
+            <td>$720.00</td>
+            <td>$397.92</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a2');" shape="rect"><span style="font-family: Arial;">Endoscopy</span></a></p>
+<div id="a2" style="display: none;">
+<table class="contentTB" id="tbl" style="font-size: 10pt;" border="0" cellspacing="0" cellpadding="5">
+    <tbody>
+        <tr>
+            <td><strong>CPT Code</strong></td>
+            <td><strong>Description</strong></td>
+            <td><strong>Sparrow Price</strong></td>
+            <td><strong>Medicare reimbursement</strong></td>
+            <td><strong>Medicaid reimbursement</strong></td>
+            <td><strong>Avg. Commercial Healthplan reimbursement</strong></td>
+            <td><strong>Avg. Uninsured Reimbursement</strong></td>
+        </tr>
+        <tr>
+            <td>31622</td>
+            <td>Bronchoscope/Wash</td>
+            <td>$1,955</td>
+            <td>$978.28</td>
+            <td>$522.40</td>
+            <td>$879.75</td>
+            <td>$1,125.02</td>
+        </tr>
+        <tr>
+            <td>31623</td>
+            <td>Bronchoscope/Brush</td>
+            <td>$2,445</td>
+            <td>$978.28</td>
+            <td>$522.40</td>
+            <td>$1,100.25</td>
+            <td>$1,125.02</td>
+        </tr>
+        <tr>
+            <td>31624</td>
+            <td>Bronchoscope/Lavage</td>
+            <td>$2,445</td>
+            <td>$978.28</td>
+            <td>$522.40</td>
+            <td>$1,100.25</td>
+            <td>$1,125.02</td>
+        </tr>
+        <tr>
+            <td>31625</td>
+            <td>Bronchoscopy w/Biopsy(s)</td>
+            <td>$1,910</td>
+            <td>$978.28</td>
+            <td>$522.40</td>
+            <td>$859.50</td>
+            <td>$1,125.02</td>
+        </tr>
+        <tr>
+            <td>31628</td>
+            <td>Bronchoscopy/Lung BX Each</td>
+            <td>$2,428</td>
+            <td>$978.28</td>
+            <td>$522.40</td>
+            <td>$1,092.60</td>
+            <td>$1,125.02</td>
+        </tr>
+        <tr>
+            <td>31629</td>
+            <td>Bronchoscopy/Needle BX Each</td>
+            <td>$4,037</td>
+            <td>$2,056.44</td>
+            <td>$1,098.14</td>
+            <td>$1,816.65</td>
+            <td>$2,364.91</td>
+        </tr>
+        <tr>
+            <td>31635</td>
+            <td>Bronchoscopy w/Fb Removal</td>
+            <td>$2,135</td>
+            <td>$978.28</td>
+            <td>$522.40</td>
+            <td>$960.75</td>
+            <td>$1,125.02</td>
+        </tr>
+        <tr>
+            <td>31645</td>
+            <td>Bronchoscopy Clear Airways</td>
+            <td>$1,671</td>
+            <td>$978.28</td>
+            <td>$522.40</td>
+            <td>$751.95</td>
+            <td>$1,125.02</td>
+        </tr>
+        <tr>
+            <td>43235</td>
+            <td>Diagnostic Brush Wash</td>
+            <td>$1,672</td>
+            <td>$689.26</td>
+            <td>$368.06</td>
+            <td>$752.40</td>
+            <td>$792.65</td>
+        </tr>
+        <tr>
+            <td>43239</td>
+            <td>Biopsy Single/Multiple</td>
+            <td>$934</td>
+            <td>$689.26</td>
+            <td>$368.06</td>
+            <td>$420.30</td>
+            <td>$792.65</td>
+        </tr>
+        <tr>
+            <td>43242</td>
+            <td>Us Fine Needle Bx/Aspir</td>
+            <td>$3,634</td>
+            <td>$1,041.44</td>
+            <td>$556.13</td>
+            <td>$1,635.30</td>
+            <td>$1,197.66</td>
+        </tr>
+        <tr>
+            <td>43246</td>
+            <td>Place Gastrostomy Tube</td>
+            <td>$1,847</td>
+            <td>$1,041.44</td>
+            <td>$556.13</td>
+            <td>$831.15</td>
+            <td>$1,197.66</td>
+        </tr>
+        <tr>
+            <td>43247</td>
+            <td>Remove Foreign Body</td>
+            <td>$1,847</td>
+            <td>$689.26</td>
+            <td>$368.06</td>
+            <td>$831.15</td>
+            <td>$792.65</td>
+        </tr>
+        <tr>
+            <td>43248</td>
+            <td>Guide Wire Insertion</td>
+            <td>$787</td>
+            <td>$689.26</td>
+            <td>$368.06</td>
+            <td>$354.15</td>
+            <td>$792.65</td>
+        </tr>
+        <tr>
+            <td>43249</td>
+            <td>Esoph Dilation &lt;30 mm</td>
+            <td>$1554</td>
+            <td>$1,041.44</td>
+            <td>$556.13</td>
+            <td>$699.30</td>
+            <td>$1,197.66</td>
+        </tr>
+        <tr>
+            <td>43259</td>
+            <td>Us Exam Duodenum/Jejunum</td>
+            <td>$2,352</td>
+            <td>$1,041.44</td>
+            <td>$556.13</td>
+            <td>$1,058.40</td>
+            <td>$1,197.66</td>
+        </tr>
+        <tr>
+            <td>43262</td>
+            <td>Endo Cholangiopancreatograph</td>
+            <td>$2,671</td>
+            <td>$1,987.87</td>
+            <td>$1,061.52</td>
+            <td>$1,201.95</td>
+            <td>$2,286.05</td>
+        </tr>
+        <tr>
+            <td>45378</td>
+            <td>Diagnostic Colonoscopy</td>
+            <td>$1,603</td>
+            <td>$757.49</td>
+            <td>$404.50</td>
+            <td>$721.35</td>
+            <td>$871.11</td>
+        </tr>
+        <tr>
+            <td>45380</td>
+            <td>Colonoscopy and Biopsy</td>
+            <td>$1,612</td>
+            <td>$757.49</td>
+            <td>$404.50</td>
+            <td>$725.40</td>
+            <td>$871.11</td>
+        </tr>
+        <tr>
+            <td>45383</td>
+            <td>Lesion Removal Colonoscopy Ablat Tumor</td>
+            <td>$1,797</td>
+            <td>$757.49</td>
+            <td>$404.50</td>
+            <td>$808.65</td>
+            <td>$871.11</td>
+        </tr>
+        <tr>
+            <td>45384</td>
+            <td>Lesion Removal Colonoscopy Remove Tumor</td>
+            <td>$1,945</td>
+            <td>$757.49</td>
+            <td>$404.50</td>
+            <td>$875.25</td>
+            <td>$871.11</td>
+        </tr>
+        <tr>
+            <td>45385</td>
+            <td>Lesion Removal Colonoscopy Snare Tech</td>
+            <td>$1,701</td>
+            <td>$757.49</td>
+            <td>$404.50</td>
+            <td>$765.45</td>
+            <td>$871.11</td>
+        </tr>
+        <tr>
+            <td>52000</td>
+            <td>Cystoscopy</td>
+            <td>$1,730</td>
+            <td>$554.11</td>
+            <td>$295.89</td>
+            <td>$778.50</td>
+            <td>$637.23</td>
+        </tr>
+        <tr>
+            <td>52005</td>
+            <td>Cystoscopy &amp; Ureter Catheter</td>
+            <td>$4,253</td>
+            <td>$2,063.57</td>
+            <td>$1,101.95</td>
+            <td>$1,913.85</td>
+            <td>$2,373.11</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a3');" shape="rect"><span style="font-family: Arial;">Laboratory</span></a></p>
+<div id="a3" style="display: none;">
+<table class="contentTB" id="tbl" style="font-size: 10pt;" border="0" cellspacing="0" cellpadding="5">
+    <tbody>
+        <tr>
+            <td><strong>CPT Code</strong></td>
+            <td><strong>Description</strong></td>
+            <td><strong>Sparrow Price</strong></td>
+            <td><strong>Medicare reimbursement</strong></td>
+            <td><strong>Medicaid reimbursement</strong></td>
+            <td><strong>Avg. Commercial Healthplan reimbursement</strong></td>
+            <td><strong>Avg. Uninsured Reimbursement</strong></td>
+        </tr>
+        <tr>
+            <td>80048</td>
+            <td>Basic Metabolic Panel</td>
+            <td>$46.25</td>
+            <td>$11.54</td>
+            <td>$6.16</td>
+            <td>$29.60</td>
+            <td>$13.27</td>
+        </tr>
+        <tr>
+            <td>80053</td>
+            <td>Comprehensive Metabolic Panel</td>
+            <td>$62.75</td>
+            <td>$14.20</td>
+            <td>$7.58</td>
+            <td>$40.16</td>
+            <td>$16.33</td>
+        </tr>
+        <tr>
+            <td>80061</td>
+            <td>Lipid Panel</td>
+            <td>$55.00</td>
+            <td>$17.44</td>
+            <td>$9.31</td>
+            <td>$35.20</td>
+            <td>$20.06</td>
+        </tr>
+        <tr>
+            <td>81001</td>
+            <td>Urinalysis W/ Scope Analysis</td>
+            <td>$23.50</td>
+            <td>$4.32</td>
+            <td>$2.31</td>
+            <td>$15.04</td>
+            <td>$4.97</td>
+        </tr>
+        <tr>
+            <td>82306</td>
+            <td>Vitamin D 25 Hydroxy</td>
+            <td>$86.50</td>
+            <td>$40.40</td>
+            <td>$21.57</td>
+            <td>$55.36</td>
+            <td>$46.46</td>
+        </tr>
+        <tr>
+            <td>83036</td>
+            <td>Glycosylated hemoglobin Test</td>
+            <td>$38.25</td>
+            <td>$13.24</td>
+            <td>$7.07</td>
+            <td>$24.48</td>
+            <td>$15.23</td>
+        </tr>
+        <tr>
+            <td>83735</td>
+            <td>Magnesium</td>
+            <td>$25.00</td>
+            <td>$9.14</td>
+            <td>$4.88</td>
+            <td>$16.00</td>
+            <td>$10.51</td>
+        </tr>
+        <tr>
+            <td>84439</td>
+            <td>Assay of Free Thyroxine</td>
+            <td>$36.75</td>
+            <td>$12.30</td>
+            <td>$6.57</td>
+            <td>$23.52</td>
+            <td>$14.15</td>
+        </tr>
+        <tr>
+            <td>84443</td>
+            <td>Thyroid Stimulating Hormone (TSH)</td>
+            <td>$66.50</td>
+            <td>$22.93</td>
+            <td>$12.24</td>
+            <td>$42.56</td>
+            <td>$26.37</td>
+        </tr>
+        <tr>
+            <td>84484</td>
+            <td>Troponin</td>
+            <td>$45.50</td>
+            <td>$13.42</td>
+            <td>$7.17</td>
+            <td>$29.12</td>
+            <td>$15.43</td>
+        </tr>
+        <tr>
+            <td>85025</td>
+            <td>Complete Blood Count with Automated</td>
+            <td>$33.25</td>
+            <td>$10.60</td>
+            <td>$5.66</td>
+            <td>$21.28</td>
+            <td>$12.19</td>
+        </tr>
+        <tr>
+            <td>85027</td>
+            <td>Complete Blood Count without Differential</td>
+            <td>$25.00</td>
+            <td>$6.34</td>
+            <td>$3.39</td>
+            <td>$16.00</td>
+            <td>$7.29</td>
+        </tr>
+        <tr>
+            <td>85610</td>
+            <td>Prothrombin Time</td>
+            <td>$20.25</td>
+            <td>$5.37</td>
+            <td>$2.87</td>
+            <td>$12.96</td>
+            <td>$6.18</td>
+        </tr>
+        <tr>
+            <td>85730</td>
+            <td>Partial Thromboplastin Time</td>
+            <td>$30.00</td>
+            <td>$8.19</td>
+            <td>$4.37</td>
+            <td>$19.20</td>
+            <td>$9.42</td>
+        </tr>
+        <tr>
+            <td>86003</td>
+            <td>Allergen Specific IGE</td>
+            <td>$21.50</td>
+            <td>$7.12</td>
+            <td>$3.80</td>
+            <td>$13.76</td>
+            <td>$8.19</td>
+        </tr>
+        <tr>
+            <td>86140</td>
+            <td>C-Reactive Protein</td>
+            <td>$33.25</td>
+            <td>$7.06</td>
+            <td>$3.77</td>
+            <td>$21.28</td>
+            <td>$8.12</td>
+        </tr>
+        <tr>
+            <td>86900</td>
+            <td>ABO Blood Typing</td>
+            <td>$40.50</td>
+            <td>$12.46</td>
+            <td>$6.65</td>
+            <td>$25.92</td>
+            <td>$14.33</td>
+        </tr>
+        <tr>
+            <td>87077</td>
+            <td>Culture Aerobic Bacteria</td>
+            <td>$33.25</td>
+            <td>$11.03</td>
+            <td>$5.89</td>
+            <td>$21.28</td>
+            <td>$12.68</td>
+        </tr>
+        <tr>
+            <td>87086</td>
+            <td>Urine Culture</td>
+            <td>$41.50</td>
+            <td>$11.01</td>
+            <td>$5.88</td>
+            <td>$26.56</td>
+            <td>$12.66</td>
+        </tr>
+        <tr>
+            <td>88305</td>
+            <td>Tissue Exam By Pathologist</td>
+            <td>$146.25</td>
+            <td>$37.55</td>
+            <td>$20.05</td>
+            <td>$93.60</td>
+            <td>$43.18</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a4');" shape="rect"><span style="font-family: Arial;">Physical, Occupational and Speech Therapy</span></a></p>
+<div id="a4" style="display: none;">
+<table class="contentTB" id="tbl" style="font-size: 10pt;" border="0" cellspacing="0" cellpadding="5">
+    <tbody>
+        <tr>
+            <td><strong>CPT Code</strong></td>
+            <td><strong>Description</strong></td>
+            <td><strong>Sparrow Price</strong></td>
+            <td><strong>Medicare reimbursement</strong></td>
+            <td><strong>Medicaid reimbursement</strong></td>
+            <td><strong>Avg. Commercial Healthplan reimbursement</strong></td>
+            <td><strong>Avg. Uninsured Reimbursement</strong></td>
+        </tr>
+        <tr>
+            <td>92507</td>
+            <td>Speech/Hearing Therapy</td>
+            <td>$422</td>
+            <td>$78.17</td>
+            <td>$41.74</td>
+            <td>$189.90</td>
+            <td>$89.90</td>
+        </tr>
+        <tr>
+            <td>92521</td>
+            <td>Evaluation Of Speech Fluency</td>
+            <td>$208</td>
+            <td>$110.38</td>
+            <td>$58.94</td>
+            <td>$93.60</td>
+            <td>$126.94</td>
+        </tr>
+        <tr>
+            <td>92522</td>
+            <td>Evaluate Speech Production</td>
+            <td>$170</td>
+            <td>$89.83</td>
+            <td>$47.97</td>
+            <td>$76.50</td>
+            <td>$103.30</td>
+        </tr>
+        <tr>
+            <td>92523</td>
+            <td>Speech Sound Lang Comprehension</td>
+            <td>$350</td>
+            <td>$186.30</td>
+            <td>$99.48</td>
+            <td>$157.50</td>
+            <td>$214.25</td>
+        </tr>
+        <tr>
+            <td>92524</td>
+            <td>Behavioral Quality Analysis Voice</td>
+            <td>$176</td>
+            <td>$93.63</td>
+            <td>$50</td>
+            <td>$79.20</td>
+            <td>$107.67</td>
+        </tr>
+        <tr>
+            <td>92526</td>
+            <td>Oral Function Therapy</td>
+            <td>$528</td>
+            <td>$84.89</td>
+            <td>$45.33</td>
+            <td>$237.60</td>
+            <td>$97.62</td>
+        </tr>
+        <tr>
+            <td>92597</td>
+            <td>Oral Speech Device Eval</td>
+            <td>$528</td>
+            <td>$71.46</td>
+            <td>$38.16</td>
+            <td>$237.60</td>
+            <td>$82.18</td>
+        </tr>
+        <tr>
+            <td>92609</td>
+            <td>Use Of Speech Device Service</td>
+            <td>$528</td>
+            <td>$108.13</td>
+            <td>$57.74</td>
+            <td>$237.60</td>
+            <td>$124.35</td>
+        </tr>
+        <tr>
+            <td>92610</td>
+            <td>Evaluate Swallowing Function</td>
+            <td>$528</td>
+            <td>$83.13</td>
+            <td>$44.39</td>
+            <td>$237.60</td>
+            <td>$95.60</td>
+        </tr>
+        <tr>
+            <td>92611</td>
+            <td>Motion Fluoroscopy/Swallow</td>
+            <td>$553</td>
+            <td>$88.89</td>
+            <td>$47.47</td>
+            <td>$248.85</td>
+            <td>$102.22</td>
+        </tr>
+        <tr>
+            <td>97001</td>
+            <td>PT Evaluation</td>
+            <td>$265</td>
+            <td>$73.53</td>
+            <td>$39.27</td>
+            <td>$119.25</td>
+            <td>$84.56</td>
+        </tr>
+        <tr>
+            <td>97003</td>
+            <td>OT Evaluation</td>
+            <td>$265</td>
+            <td>$82.12</td>
+            <td>$43.85</td>
+            <td>$119.25</td>
+            <td>$94.44</td>
+        </tr>
+        <tr>
+            <td>97012</td>
+            <td>Mechanical Traction Therapy</td>
+            <td>$130</td>
+            <td>$15.59</td>
+            <td>$8.33</td>
+            <td>$58.50</td>
+            <td>$17.93</td>
+        </tr>
+        <tr>
+            <td>97018</td>
+            <td>Paraffin Bath Therapy</td>
+            <td>$130</td>
+            <td>$10.44</td>
+            <td>$5.57</td>
+            <td>$58.50</td>
+            <td>$12.01</td>
+        </tr>
+        <tr>
+            <td>97032</td>
+            <td>Electrical Stimulation Per 15 Min</td>
+            <td>$130</td>
+            <td>$18.57</td>
+            <td>$9.92</td>
+            <td>$58.50</td>
+            <td>$21.36</td>
+        </tr>
+        <tr>
+            <td>97033</td>
+            <td>Electric Current Therapy Per 15 Min</td>
+            <td>$156</td>
+            <td>$30.81</td>
+            <td>$16.45</td>
+            <td>$70.20</td>
+            <td>$35.43</td>
+        </tr>
+        <tr>
+            <td>97035</td>
+            <td>Ultrasound Therapy Per 15 Min</td>
+            <td>$130</td>
+            <td>$12.51</td>
+            <td>$6.68</td>
+            <td>$58.50</td>
+            <td>$14.39</td>
+        </tr>
+        <tr>
+            <td>97110</td>
+            <td>Therapeutic Exercises Per 15 Min</td>
+            <td>$130</td>
+            <td>$31.02</td>
+            <td>$16.56</td>
+            <td>$58.50</td>
+            <td>$35.67</td>
+        </tr>
+        <tr>
+            <td>97112</td>
+            <td>Neuromuscular Reeducation Per 15 Min</td>
+            <td>$130</td>
+            <td>$32.34</td>
+            <td>$17.27</td>
+            <td>$58.50</td>
+            <td>$37.19</td>
+        </tr>
+        <tr>
+            <td>97113</td>
+            <td>Aquatic Therapy/Exercises Per 15 Min</td>
+            <td>$130</td>
+            <td>$41.23</td>
+            <td>$22.02</td>
+            <td>$58.50</td>
+            <td>$47.41</td>
+        </tr>
+        <tr>
+            <td>97116</td>
+            <td>Gait Training Therapy Per 15 Min</td>
+            <td>$130</td>
+            <td>$27.57</td>
+            <td>$14.72</td>
+            <td>$58.50</td>
+            <td>$31.71</td>
+        </tr>
+        <tr>
+            <td>97140</td>
+            <td>Manual Therapy 1/&gt; Regions Per 15 Min</td>
+            <td>$130</td>
+            <td>$28.98</td>
+            <td>$15.48</td>
+            <td>$58.50</td>
+            <td>$33.33</td>
+        </tr>
+        <tr>
+            <td>97530</td>
+            <td>Therapeutic Activities Per 15 Min</td>
+            <td>$130</td>
+            <td>$33.63</td>
+            <td>$17.96</td>
+            <td>$58.50</td>
+            <td>$38.67</td>
+        </tr>
+        <tr>
+            <td>97535</td>
+            <td>Self Care Mgmt Training Per 15 Min</td>
+            <td>$130</td>
+            <td>$33.66</td>
+            <td>$17.97</td>
+            <td>$58.50</td>
+            <td>$38.71</td>
+        </tr>
+        <tr>
+            <td>97760</td>
+            <td>Orthotic Mgmt And Training Per 15 Min</td>
+            <td>$130</td>
+            <td>$37.03</td>
+            <td>$19.77</td>
+            <td>$58.50</td>
+            <td>$42.58</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+<p class="contentH3"><a href="javascript:switchid('a5');" shape="rect"><span style="font-family: Arial;">Radiology</span></a></p>
+<div id="a5" style="display: none;">
+<table class="contentTB" id="tbl" style="font-size: 10pt;" border="0" cellspacing="0" cellpadding="5">
+    <tbody>
+        <tr>
+            <td><strong>CPT Code</strong></td>
+            <td><strong>Description</strong></td>
+            <td><strong>Sparrow Price</strong></td>
+            <td><strong>Medicare reimbursement</strong></td>
+            <td><strong>Medicaid reimbursement</strong></td>
+            <td><strong>Avg. Commercial Healthplan reimbursement</strong></td>
+            <td><strong>Avg. Uninsured Reimbursement</strong></td>
+        </tr>
+        <tr>
+            <td>70140</td>
+            <td>X-Ray Facial Bones &lt;3 Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>70220</td>
+            <td>X-Ray Sinuses 3+ Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>70250</td>
+            <td>X-Ray Skull &lt;4 Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>70360</td>
+            <td>X-Ray Neck Soft Tissue</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>70450</td>
+            <td>Ct Scan, Head/Brain, w/o Contrast</td>
+            <td>$1,671.00</td>
+            <td>$130.01</td>
+            <td>$69.43</td>
+            <td>$751.95</td>
+            <td>$149.51</td>
+        </tr>
+        <tr>
+            <td>70470</td>
+            <td>Ct Scan Head Combo</td>
+            <td>$2,586.00</td>
+            <td>$288.26</td>
+            <td>$153.93</td>
+            <td>$1,163.70</td>
+            <td>$331.50</td>
+        </tr>
+        <tr>
+            <td>70480</td>
+            <td>Ct Scan, Orbit/Sella/Post Fossa/Ear, w/o Contrast </td>
+            <td>$1,671.00</td>
+            <td>$130.01</td>
+            <td>$69.43</td>
+            <td>$751.95</td>
+            <td>$149.51</td>
+        </tr>
+        <tr>
+            <td>70481</td>
+            <td>Ct Scan Skull Contrast</td>
+            <td>$2,586.00</td>
+            <td>$255.98</td>
+            <td>$136.69</td>
+            <td>$1,163.70</td>
+            <td>$294.38</td>
+        </tr>
+        <tr>
+            <td>70486</td>
+            <td>Ct Scan, Maxillofacial Area, w/o Contrast</td>
+            <td>$1,671.00</td>
+            <td>$130.01</td>
+            <td>$69.43</td>
+            <td>$751.95</td>
+            <td>$149.51</td>
+        </tr>
+        <tr>
+            <td>70487</td>
+            <td>Ct Scan Face/Jaw Contrast</td>
+            <td>$2,586.00</td>
+            <td>$255.98</td>
+            <td>$136.69</td>
+            <td>$1,163.70</td>
+            <td>$294.38</td>
+        </tr>
+        <tr>
+            <td>70490</td>
+            <td>Ct Scan, Soft Tissue Neck, w/o Contrast</td>
+            <td>$1,671.00</td>
+            <td>$130.01</td>
+            <td>$69.43</td>
+            <td>$751.95</td>
+            <td>$149.51</td>
+        </tr>
+        <tr>
+            <td>70491</td>
+            <td>Ct Neck Tissue Contrast</td>
+            <td>$2,586.00</td>
+            <td>$255.98</td>
+            <td>$136.69</td>
+            <td>$1,163.70</td>
+            <td>$294.38</td>
+        </tr>
+        <tr>
+            <td>70496</td>
+            <td>Ct Angio, Head Combo, Incl Image Process</td>
+            <td>$2,586.00</td>
+            <td>$300.14</td>
+            <td>$160.27</td>
+            <td>$1,163.70</td>
+            <td>$345.16</td>
+        </tr>
+        <tr>
+            <td>70498</td>
+            <td>Ct Angio, Neck Combo, Incl Image Process</td>
+            <td>$2,586.00</td>
+            <td>$300.14</td>
+            <td>$160.27</td>
+            <td>$1,163.70</td>
+            <td>$345.16</td>
+        </tr>
+        <tr>
+            <td>71010</td>
+            <td>Chest X-Ray 1 Vw</td>
+            <td>$150.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$67.50</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>71020</td>
+            <td>Chest X-Ray 2 Vw</td>
+            <td>$150.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$67.50</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>71035</td>
+            <td>Chest X-Ray Spec Views</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>71110</td>
+            <td>X-Ray Ribs 3 Vw Bilat</td>
+            <td>$448.00</td>
+            <td>$93.44</td>
+            <td>$49.90</td>
+            <td>$201.60</td>
+            <td>$107.46</td>
+        </tr>
+        <tr>
+            <td>71111</td>
+            <td>X-Ray Ribs, Chest 4+ Vw</td>
+            <td>$448.00</td>
+            <td>$93.44</td>
+            <td>$49.90</td>
+            <td>$201.60</td>
+            <td>$107.46</td>
+        </tr>
+        <tr>
+            <td>71250</td>
+            <td>Ct Scan, Thorax, w/o Contrast</td>
+            <td>$1,671.00</td>
+            <td>$130.01</td>
+            <td>$69.43</td>
+            <td>$751.95</td>
+            <td>$149.51</td>
+        </tr>
+        <tr>
+            <td>71260</td>
+            <td>Ct Chest Contrast</td>
+            <td>$2,586.00</td>
+            <td>$255.98</td>
+            <td>$136.69</td>
+            <td>$1,163.70</td>
+            <td>$294.38</td>
+        </tr>
+        <tr>
+            <td>71275</td>
+            <td>Ct Angio, Chest, Combo, Incl Image Proc</td>
+            <td>$2586.00</td>
+            <td>$300.14</td>
+            <td>$160.27</td>
+            <td>$1,163.70</td>
+            <td>$345.16</td>
+        </tr>
+        <tr>
+            <td>72040</td>
+            <td>X-Ray Exam Neck Spine 3/Or Less</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>72050</td>
+            <td>X-Ray Exam Neck Spine 4/5 Vws</td>
+            <td>$448.00</td>
+            <td>$93.44</td>
+            <td>$49.90</td>
+            <td>$201.60</td>
+            <td>$107.46</td>
+        </tr>
+        <tr>
+            <td>72052</td>
+            <td>X-Ray Exam Neck Spine 6/&gt; Vws</td>
+            <td>$448.00</td>
+            <td>$93.44</td>
+            <td>$49.90</td>
+            <td>$201.60</td>
+            <td>$107.46</td>
+        </tr>
+        <tr>
+            <td>72072</td>
+            <td>X-Ray Thoracic Spine + Swim 3 Vw</td>
+            <td>$448.00</td>
+            <td>$93.44</td>
+            <td>$49.90</td>
+            <td>$201.60</td>
+            <td>$107.46</td>
+        </tr>
+        <tr>
+            <td>72100</td>
+            <td>X-Ray Lumbar Spine 2/3 Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>72110</td>
+            <td>X-Ray Lumbar Spine 4 Vw</td>
+            <td>$448.00</td>
+            <td>$93.44</td>
+            <td>$49.90</td>
+            <td>$201.60</td>
+            <td>$107.46</td>
+        </tr>
+        <tr>
+            <td>72125</td>
+            <td>Ct Scan, Cervical Spine, w/o Contrast</td>
+            <td>$1,671.00</td>
+            <td>$130.01</td>
+            <td>$69.43</td>
+            <td>$751.95</td>
+            <td>$149.51</td>
+        </tr>
+        <tr>
+            <td>72128</td>
+            <td>Ct Scan, Thoracic Spine, w/o Contrast</td>
+            <td>$1,671.00</td>
+            <td>$130.01</td>
+            <td>$69.43</td>
+            <td>$751.95</td>
+            <td>$149.51</td>
+        </tr>
+        <tr>
+            <td>72131</td>
+            <td>Ct Scan, Lumbar Spine, w/o Contrast</td>
+            <td>$1,671.00</td>
+            <td>$130.01</td>
+            <td>$69.43</td>
+            <td>$751.95</td>
+            <td>$149.51</td>
+        </tr>
+        <tr>
+            <td>72132</td>
+            <td>Ct Scan Lumbar Sp Contrast</td>
+            <td>$2,586.00</td>
+            <td>$255.98</td>
+            <td>$136.69</td>
+            <td>$1,163.70</td>
+            <td>$294.38</td>
+        </tr>
+        <tr>
+            <td>72170</td>
+            <td>X-Ray Pelvis 1/2 Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>72192</td>
+            <td>Ct Scan, Pelvis, w/o Contrast</td>
+            <td>$1,671.00</td>
+            <td>$130.01</td>
+            <td>$69.43</td>
+            <td>$751.95</td>
+            <td>$149.51</td>
+        </tr>
+        <tr>
+            <td>72193</td>
+            <td>Ct Scan Of Pelvis Contrast</td>
+            <td>$2,586.00</td>
+            <td>$255.98</td>
+            <td>$136.69</td>
+            <td>$1,163.70</td>
+            <td>$294.38</td>
+        </tr>
+        <tr>
+            <td>72202</td>
+            <td>X-Ray Sacroiliac Jts 3+ Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>72220</td>
+            <td>X-Ray Sacrum/Coccyx 2+ Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73000</td>
+            <td>X-Ray Clavicle</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73010</td>
+            <td>X-Ray Scapula</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73030</td>
+            <td>X-Ray Shoulder 2+ Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73060</td>
+            <td>X-Ray Humerus</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73090</td>
+            <td>X-Ray Forearm 2 Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73100</td>
+            <td>X-Ray Wrist 2 Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73110</td>
+            <td>X-Ray Wrist 3+ Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73130</td>
+            <td>X-Ray Hand 3+ Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73140</td>
+            <td>X-Ray Exam Of Finger(s)</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73200</td>
+            <td>Ct Scan, Upper Extremity, w/o Contrast</td>
+            <td>$1,671.00</td>
+            <td>$130.01</td>
+            <td>$69.43</td>
+            <td>$751.95</td>
+            <td>$149.51</td>
+        </tr>
+        <tr>
+            <td>73510</td>
+            <td>X-Ray Hip Uni 2+ Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73520</td>
+            <td>X-Ray Hips 4 Vw + Pelvis</td>
+            <td>$448.00</td>
+            <td>$93.44</td>
+            <td>$49.90</td>
+            <td>$201.60</td>
+            <td>$107.46</td>
+        </tr>
+        <tr>
+            <td>73550</td>
+            <td>X-Ray Femur 2 Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73560</td>
+            <td>X-Ray Knee 1/2 Vws</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73562</td>
+            <td>X-Ray Knee 3 Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73564</td>
+            <td>X-Ray Knee 4+ Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73565</td>
+            <td>X-Ray Knee Bilat Standing</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73590</td>
+            <td>X-Ray Tib + Fib, 2 Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73600</td>
+            <td>X-Ray Ankle 2 Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73610</td>
+            <td>X-Ray Ankle 3+ Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73620</td>
+            <td>X-Ray Foot 2 Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73630</td>
+            <td>X-Ray Foot 3+ Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73660</td>
+            <td>X-Ray Toe(s)</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>73700</td>
+            <td>Ct Scan, Lower Extremity, w/o Contrast</td>
+            <td>$1,671.00</td>
+            <td>$130.01</td>
+            <td>$69.43</td>
+            <td>$751.95</td>
+            <td>$149.51</td>
+        </tr>
+        <tr>
+            <td>74000</td>
+            <td>X-Ray Abdomen 1 Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>74020</td>
+            <td>X-Ray Abdomen 2 Vw</td>
+            <td>$298.00</td>
+            <td>$58.96</td>
+            <td>$31.48</td>
+            <td>$134.10</td>
+            <td>$67.80</td>
+        </tr>
+        <tr>
+            <td>74022</td>
+            <td>X-Ray Abdomen, Comp Acute Series</td>
+            <td>$448.00</td>
+            <td>$93.44</td>
+            <td>$49.90</td>
+            <td>$201.60</td>
+            <td>$107.46</td>
+        </tr>
+        <tr>
+            <td>74150</td>
+            <td>Ct Scan, Abdomen, w/o Contrast</td>
+            <td>$1,671.00</td>
+            <td>$130.01</td>
+            <td>$69.43</td>
+            <td>$751.95</td>
+            <td>$149.51</td>
+        </tr>
+        <tr>
+            <td>74160</td>
+            <td>Ct Scan Of Abdomen Contrast</td>
+            <td>$2,586.00</td>
+            <td>$255.98</td>
+            <td>$136.69</td>
+            <td>$1,163.70</td>
+            <td>$294.38</td>
+        </tr>
+        <tr>
+            <td>74170</td>
+            <td>Ct Scan Of Abdomen Combo</td>
+            <td>$2,586.00</td>
+            <td>$288.26</td>
+            <td>$153.93</td>
+            <td>$1,163.70</td>
+            <td>$331.50</td>
+        </tr>
+        <tr>
+            <td>74174</td>
+            <td>Ct Angio Abd &amp; Plvis Contrast w/wo Contrast Images</td>
+            <td>$4,308.00</td>
+            <td>$401.06</td>
+            <td>$214.17</td>
+            <td>$1,938.60</td>
+            <td>$461.22</td>
+        </tr>
+        <tr>
+            <td>74175</td>
+            <td>Ct Angio, Abd, Combo, Incl Image Proc</td>
+            <td>$2,586.00</td>
+            <td>$300.14</td>
+            <td>$160.27</td>
+            <td>$1,163.70</td>
+            <td>$345.16</td>
+        </tr>
+        <tr>
+            <td>74176</td>
+            <td>Ct Scan, Abdomen And Pelvis, w/o Contrast</td>
+            <td>$3,287.00</td>
+            <td>$248.56</td>
+            <td>$132.73</td>
+            <td>$1,479.15</td>
+            <td>$285.84</td>
+        </tr>
+        <tr>
+            <td>74177</td>
+            <td>Ct Scan, Abdomen And Pelvis, Contrast</td>
+            <td>$4,308.00</td>
+            <td>$401.06</td>
+            <td>$214.17</td>
+            <td>$1,938.60</td>
+            <td>$461.22</td>
+        </tr>
+        <tr>
+            <td>74178</td>
+            <td>Ct Scan, Abdomen And Pelvis, Combo</td>
+            <td>$2,586.00</td>
+            <td>$401.06</td>
+            <td>$214.17</td>
+            <td>$1,163.70</td>
+            <td>$461.22</td>
+        </tr>
+        <tr>
+            <td>74220</td>
+            <td>Esophagram</td>
+            <td>$432.00</td>
+            <td>$104.69</td>
+            <td>$55.90</td>
+            <td>$194.40</td>
+            <td>$120.39</td>
+        </tr>
+        <tr>
+            <td>74230</td>
+            <td>Swallowing Fcn, w/Cine &amp;/or Video</td>
+            <td>$432.00</td>
+            <td>$104.69</td>
+            <td>$55.90</td>
+            <td>$194.40</td>
+            <td>$120.39</td>
+        </tr>
+        <tr>
+            <td>74241</td>
+            <td>X-Ray Upper GI Tract + Kub</td>
+            <td>$621.00</td>
+            <td>$155.47</td>
+            <td>$83.02</td>
+            <td>$279.45</td>
+            <td>$178.79</td>
+        </tr>
+        <tr>
+            <td>74245</td>
+            <td>X-Ray Upper GI Tract, w/Small Intest, F/T</td>
+            <td>$621.00</td>
+            <td>$155.47</td>
+            <td>$83.02</td>
+            <td>$279.45</td>
+            <td>$178.79</td>
+        </tr>
+        <tr>
+            <td>74247</td>
+            <td>X-Ray Upper GI Air Contrast + Kub</td>
+            <td>$621.00</td>
+            <td>$155.47</td>
+            <td>$83.02</td>
+            <td>$279.45</td>
+            <td>$178.79</td>
+        </tr>
+        <tr>
+            <td>74250</td>
+            <td>X-Ray, Small Bowel, w/Mult Serial Films</td>
+            <td>$432.00</td>
+            <td>$104.69</td>
+            <td>$55.90</td>
+            <td>$194.40</td>
+            <td>$120.39</td>
+        </tr>
+        <tr>
+            <td>74270</td>
+            <td>X-Ray Colon Contrast</td>
+            <td>$621.00</td>
+            <td>$155.47</td>
+            <td>$83.02</td>
+            <td>$279.45</td>
+            <td>$178.79</td>
+        </tr>
+        <tr>
+            <td>74425</td>
+            <td>X-Ray Antegrade Pyelogram Tube</td>
+            <td>$310.00</td>
+            <td>$264.82</td>
+            <td>$141.41</td>
+            <td>$139.50</td>
+            <td>$304.54</td>
+        </tr>
+        <tr>
+            <td>75635</td>
+            <td>Ct Angio Aortobifemoral, Combo</td>
+            <td>$2,586.00</td>
+            <td>$300.14</td>
+            <td>$160.27</td>
+            <td>$1,163.70</td>
+            <td>$345.16</td>
+        </tr>
+        <tr>
+            <td>76000</td>
+            <td>Fluoroscope Examination</td>
+            <td>$417.00</td>
+            <td>$161.06</td>
+            <td>$86.01</td>
+            <td>$187.65</td>
+            <td>$185.22</td>
+        </tr>
+        <tr>
+            <td>76080</td>
+            <td>X-Ray Fistula, Abscess, Sinus Tract</td>
+            <td>$342.00</td>
+            <td>$326.82</td>
+            <td>$174.52</td>
+            <td>$153.90</td>
+            <td>$375.84</td>
+        </tr>
+        <tr>
+            <td>76098</td>
+            <td>X-Ray Exam, Breast Specimen</td>
+            <td>$342.00</td>
+            <td>$326.82</td>
+            <td>$174.52</td>
+            <td>$153.90</td>
+            <td>$375.84</td>
+        </tr>
+        <tr>
+            <td>76380</td>
+            <td>Ct Scan, Limited/Localized F/U Study</td>
+            <td>$1,206.00</td>
+            <td>$81.79</td>
+            <td>$43.68</td>
+            <td>$542.70</td>
+            <td>$94.06</td>
+        </tr>
+        <tr>
+            <td>76536</td>
+            <td>Us, Head/Neck Tissues, Real Time</td>
+            <td>$417.00</td>
+            <td>$138.34</td>
+            <td>$73.87</td>
+            <td>$187.65</td>
+            <td>$159.09</td>
+        </tr>
+        <tr>
+            <td>76645</td>
+            <td>Us, Breast(s), Real Time</td>
+            <td>$503.00</td>
+            <td>$92.57</td>
+            <td>$49.43</td>
+            <td>$226.35</td>
+            <td>$106.46</td>
+        </tr>
+        <tr>
+            <td>76700</td>
+            <td>Us, Abdom, B-Scan &amp;/or Real Time, Complete</td>
+            <td>$776.00</td>
+            <td>$138.34</td>
+            <td>$73.87</td>
+            <td>$349.20</td>
+            <td>$159.09</td>
+        </tr>
+        <tr>
+            <td>76705</td>
+            <td>Us, Abdomen Limited</td>
+            <td>$592.00</td>
+            <td>$138.34</td>
+            <td>$73.87</td>
+            <td>$266.40</td>
+            <td>$159.09</td>
+        </tr>
+        <tr>
+            <td>76775</td>
+            <td>Us, Retroperitnl Abd, Ltd</td>
+            <td>$776.00</td>
+            <td>$138.34</td>
+            <td>$73.87</td>
+            <td>$349.20</td>
+            <td>$159.09</td>
+        </tr>
+        <tr>
+            <td>76801</td>
+            <td>Us, Ob &lt; 14 Wks, Single Fetus</td>
+            <td>$417.00</td>
+            <td>$138.34</td>
+            <td>$73.87</td>
+            <td>$187.65</td>
+            <td>$159.09</td>
+        </tr>
+        <tr>
+            <td>76817</td>
+            <td>Us, Pregnant Uterus, Transvaginal</td>
+            <td>$417.00</td>
+            <td>$138.34</td>
+            <td>$73.87</td>
+            <td>$187.65</td>
+            <td>$159.09</td>
+        </tr>
+        <tr>
+            <td>76830</td>
+            <td>Echography, Transvaginal</td>
+            <td>$417.00</td>
+            <td>$138.34</td>
+            <td>$73.87</td>
+            <td>$187.65</td>
+            <td>$159.09</td>
+        </tr>
+        <tr>
+            <td>76856</td>
+            <td>Echo, Pelvic (Nonobstetric)</td>
+            <td>$776.00</td>
+            <td>$138.34</td>
+            <td>$73.87</td>
+            <td>$349.20</td>
+            <td>$159.09</td>
+        </tr>
+        <tr>
+            <td>76870</td>
+            <td>Echo, Scrotum &amp; Contents</td>
+            <td>$776.00</td>
+            <td>$138.34</td>
+            <td>$73.87</td>
+            <td>$349.20</td>
+            <td>$159.09</td>
+        </tr>
+        <tr>
+            <td>76882</td>
+            <td>Us, Extremity, Nonvascular, Real-Time Image, Limited</td>
+            <td>$503.00</td>
+            <td>$92.57</td>
+            <td>$49.43</td>
+            <td>$226.35</td>
+            <td>$106.46</td>
+        </tr>
+        <tr>
+            <td>77080</td>
+            <td>Dexa, Bone Density, 1 + Site, Axial Skeleton</td>
+            <td>$205.00</td>
+            <td>$92.69</td>
+            <td>$49.50</td>
+            <td>$92.25</td>
+            <td>$106.59</td>
+        </tr>
+        <tr>
+            <td>78070</td>
+            <td>Parathyroid Planar Imaging</td>
+            <td>$647.00</td>
+            <td>$294.98</td>
+            <td>$157.52</td>
+            <td>$291.15</td>
+            <td>$339.23</td>
+        </tr>
+        <tr>
+            <td>78227</td>
+            <td>Hepatobil Syst Imag Inc Gb w/Pharma Intervenj</td>
+            <td>$1,196.00</td>
+            <td>$383.01</td>
+            <td>$204.53</td>
+            <td>$538.20</td>
+            <td>$440.46</td>
+        </tr>
+        <tr>
+            <td>78264</td>
+            <td>Gastric Emptying Study</td>
+            <td>$2,586.00</td>
+            <td>$332.85</td>
+            <td>$177.74</td>
+            <td>$1,163.70</td>
+            <td>$382.78</td>
+        </tr>
+        <tr>
+            <td>78306</td>
+            <td>Bone Imaging, Whole Body</td>
+            <td>$1,309.00</td>
+            <td>$333.02</td>
+            <td>$177.83</td>
+            <td>$589.05</td>
+            <td>$382.97</td>
+        </tr>
+        <tr>
+            <td>78315</td>
+            <td>Bone Imaging, 3 Phase</td>
+            <td>$1,309.00</td>
+            <td>$333.02</td>
+            <td>$177.83</td>
+            <td>$589.05</td>
+            <td>$382.97</td>
+        </tr>
+        <tr>
+            <td>78452</td>
+            <td>Myocardial Spect Multiple Studies</td>
+            <td>$1,847.00</td>
+            <td>$1,185.94</td>
+            <td>$633.29</td>
+            <td>$831.15</td>
+            <td>$1,363.83</td>
+        </tr>
+        <tr>
+            <td>78582</td>
+            <td>Pulmonary Ventilation &amp; Perfusion Imaging</td>
+            <td>$539.00</td>
+            <td>$442.94</td>
+            <td>$236.53</td>
+            <td>$242.55</td>
+            <td>$509.38</td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+<p><span class="bodycopy-1"><strong><span style="font-family: Arial; font-size: 16px;"><a href="/Default.aspx?id=1684&amp;sid=5&amp;CWFriendlyUrl=true">Pricing Frequently Asked Questions</a><br />
+<br />
+</span></strong><span style="font-family: Arial; font-size: 16px;">If you would like pricing information on procedures not listed above or an estimate of what you might pay for hospital services, please contact a Financial Assistance Specialist at 517.364.6060.<br />
+<br />
+In compliance with the Public Health Service Act, Sparrow provides a list of all <a href="http://www.sparrow.org/?id=2701&amp;sid=5"><strong>standard charges</strong></a> for hospital services in a downloadable file format.&nbsp;&nbsp;</span></span></p>
+<p><span class="bodycopy-1"><em style="line-height: 1.63em; font-size: 0.81em;">Anyone seeking care at Sparrow not covered by insurance or who cannot afford their deductible or coinsurance amounts can access our Community Financial Aid program. In 2012, Sparrow provided more than $34 million in charity care and uncollectible accounts.<br />
+</em></span></p>
+
+					                    
+                                            </div>
+                                        </div>
+                                    
+             
+                            </div>  
+
+
+                        
+
+
+				</div>
+			</div>
+                </div>
+            </div>
+
+                    <div id="relocate-jumpMenuDiv" class="jumpMenus"></div>
+
+                
+                    
+
+<div class="row clearfix">
+    <h1 class="greenHeaderFooter"><span>Site view:</span> at a glance</h1>
+<div class="row clearfix">
+<div class="col-md-2 column">
+<div class="footerLinks">
+<ul>
+    <li><a href="/Sitemap/?sid=1" class="childLink" shape="rect">Site Map</a></li>
+    <li><a href="/Contact/" class="childLink" shape="rect">Contact us</a></li>
+    <li><a href="/sparrow-privacy-policy/" class="childLink" shape="rect">Privacy Policy </a></li>
+    <li><a href="/sparrow-notice-privacy-policies/" class="childLink" shape="rect">Notice of Privacy Practices</a></li>
+    <li><a href="/sparrow-terms-of-use/" class="childLink" shape="rect">Terms of use</a></li>
+    <li><a href="http://www.sparrow.org/upload/docs/Sparrow-TermsandConditionsofPurchase.pdf" class="childLink">For Suppliers - Terms and Conditions of Purchase</a>
+    </li>
+</ul>
+<div class="socLinks"><a href="http://sparrowtv.org/" target="_blank" shape="rect"><img alt="" style="width: 30px; height: 30px;" src="/upload/images/ABOUT_SPARROW/Social%20media%20icons/sparrow%20tv%20icon%20green.png" /></a> <a href="http://twitter.com/sparrowhealth" target="_blank" shape="rect"><img alt="" src="/upload/images/ABOUT_SPARROW/Social%20media%20icons/twitter.png" /></a> <a href="http://www.facebook.com/SparrowHealthSystem" target="_blank" shape="rect"><img alt="" src="/upload/images/ABOUT_SPARROW/Social%20media%20icons/facebook.png" /></a> </div>
+</div>
+</div>
+<div class="col-md-2 column">
+<div class="footerLinks">
+<ul>
+    <li><a href="/" class="childLink" shape="rect">Home</a></li>
+    <li><a href="/careers/" class="childLink" shape="rect">Careers</a></li>
+    <li><a href="/news/?id=8&amp;sid=1" class="childLink" shape="rect">Newsroom</a></li>
+    <li><a href="/volunteer/" class="childLink" shape="rect">Volunteering</a></li>
+    <li><a href="/mysparrowpatients/" class="childLink" shape="rect">MySparrow for Patients</a></li>
+    <li><a href="/mysparrowphysicians/" class="childLink" shape="rect">MySparrow for Physicians</a></li>
+    <li><a href="/mysparrowassociates/" class="childLink" shape="rect">MySparrow for Caregivers</a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-2 column">
+<div class="footerLinks">
+<ul>
+    <li><a href="/aboutsparrow/" class="childLink" shape="rect">About Sparrow</a></li>
+    <li><a href="/who-we-are/" class="childLink" shape="rect">Hospitals and Subsidiaries</a></li>
+    <li><a href="/missionvision/" class="childLink" shape="rect">Mission, Vision, Values</a></li>
+    <li><a href="/recognitions/" class="childLink" shape="rect">Accreditations &amp; Recognitions</a></li>
+    <li><a href="http://sparrowannualreport.org" class="childLink" shape="rect">Annual Report</a></li>
+    <li><a href="/giving/" class="childLink" shape="rect">Charitable Giving</a></li>
+    <li><a href="/sparrowpartners/" class="childLink" shape="rect">Affiliates and partners</a></li>
+    <li><a href="/boards/" class="childLink" shape="rect">Governing Boards</a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-2 column">
+<div class="footerLinks">
+<ul>
+    <li><a href="/locations/" class="childLink" shape="rect">Locations</a></li>
+    <li><a href="/physicians/?id=4&amp;sid=1&amp;CWFriendlyUrlApp=true" class="childLink" shape="rect">Find a doc</a></li>
+    <li><a href="/creg/?id=5&amp;sid=1&amp;CWFriendlyUrlApp=true" class="childLink" shape="rect">Events</a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-2 column">
+<div class="footerLinks">
+<ul>
+    <li><a href="/?id=1106&amp;sid=1" class="childLink" shape="rect">Patient Rights</a></li>
+    <li><a href="/healthlibrary/?id=803&amp;sid=1" class="childLink" shape="rect">Healthy Library</a></li>
+    <li><a href="/lifetime/" class="childLink" shape="rect">LifeTime</a></li>
+    <li><a href="http://www.sparrowbewell.com/" class="childLink" shape="rect">Sparrow Be Well</a></li>
+    <li><a href="/mac/" class="childLink" shape="rect">Michigan Athletic Club</a></li>
+</ul>
+</div>
+</div>
+<div class="col-md-2 column">
+<div class="footerLinks">
+<ul>
+    <li><a href="/?id=36&amp;sid=1" class="childLink" shape="rect">Departments &amp; Services</a></li>
+    <li><a href="/otherservices/" class="childLink" shape="rect">Other Services</a></li>
+    <li><a href="/?id=77&amp;sid=1" class="childLink" shape="rect">Physician Groups &amp; Practices</a></li>
+    <br />
+    <li><span class="childLink" href="/">Sparrow</span></li>
+    <li><span class="childLink" href="/">1.800.SPARROW</span></li>
+    <li><span class="childLink" href="/">1.517.364.1000</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+                    <div class="row clearfix">
+                        <div class="copyright_info"><a class="copyright" href="/admin/" onclick="window.open('/admin/'); return false;">&copy;</a> Copyright 2019 Sparrow Health System <a href="/admin/Pages/?PageID=1683" onclick="window.open('https://www.sparrow.org/admin/Pages/?PageID=1683'); return false;">
+                            <img alt="Pencil" src="/images/pencil.gif" width="8" height="8" style="border: none;" /></a>
+                        </div>
+                    </div>
+            </div>
+		
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_skin":"Design001","clientStateFieldID":"ctl00_PrimaryNavigationGlobal_ClientState","collapseAnimation":"{\"duration\":450}","enableAutoScroll":true,"expandAnimation":"{\"duration\":450}","itemData":[{"items":[{"navigateUrl":"/?id=2\u0026sid=1"},{"items":[{"navigateUrl":"/OurVision"},{"navigateUrl":"/ourstory"},{"navigateUrl":"/?id=1540\u0026sid=1"}],"navigateUrl":"/missionvision"},{"items":[{"items":[{"items":[{"navigateUrl":"/?id=528\u0026sid=1"},{"navigateUrl":"/?id=787\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1099\u0026sid=1"}],"navigateUrl":"/?id=1098\u0026sid=1"},{"navigateUrl":"/?id=1100\u0026sid=1"},{"navigateUrl":"/?id=1101\u0026sid=1"},{"navigateUrl":"/?id=1102\u0026sid=1"},{"navigateUrl":"/?id=1103\u0026sid=1"},{"navigateUrl":"/?id=1104\u0026sid=1"},{"navigateUrl":"/?id=1105\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1107\u0026sid=1"}],"navigateUrl":"/?id=1106\u0026sid=1"},{"navigateUrl":"/?id=1108\u0026sid=1"}],"navigateUrl":"/sparrowhospital"},{"navigateUrl":"/?id=161\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1903\u0026sid=1"},{"navigateUrl":"/?id=1084\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1086\u0026sid=1"}],"navigateUrl":"/?id=1085\u0026sid=1"},{"navigateUrl":"/?id=1087\u0026sid=1"},{"navigateUrl":"/?id=1088\u0026sid=1"}],"navigateUrl":"http://www.sparrow.org/sparrowclinton"},{"items":[{"navigateUrl":"/?id=1089\u0026sid=1"},{"navigateUrl":"/?id=1090\u0026sid=1"},{"navigateUrl":"/?id=1091\u0026sid=1"},{"navigateUrl":"/?id=1092\u0026sid=1"}],"navigateUrl":"https://www.sparrow.org/?sid=17\u0026id=1813"},{"navigateUrl":"/sparrowcarson"}],"navigateUrl":"/?id=1578\u0026sid=1"},{"items":[{"navigateUrl":"http://www.phpmichigan.com/","target":"_blank"},{"navigateUrl":"http://www.sparrow.org/clinicalintegration"},{"navigateUrl":"/?id=264\u0026sid=2","target":"_self"},{"navigateUrl":"/sphn"},{"items":[{"items":[{"navigateUrl":"/?id=2088\u0026sid=1"},{"navigateUrl":"/?id=2696\u0026sid=1"},{"navigateUrl":"/SMGGeneralSurgeryLansing"},{"navigateUrl":"/?id=2697\u0026sid=1"}],"navigateUrl":"/?id=2694\u0026sid=1"},{"navigateUrl":"/SMG/NewPatientPaperwork"},{"navigateUrl":"/?id=2127\u0026sid=1"},{"items":[{"navigateUrl":"/?id=2698\u0026sid=1"},{"navigateUrl":"/?id=2699\u0026sid=1"},{"navigateUrl":"/?id=2700\u0026sid=1"},{"navigateUrl":"/?id=2093\u0026sid=1"}],"navigateUrl":"/smg/orthopedics-sports-medicine"},{"navigateUrl":"/smgurology"},{"navigateUrl":"/?id=1748\u0026sid=1"},{"navigateUrl":"/?id=2087\u0026sid=1"},{"navigateUrl":"/?id=2091\u0026sid=1"},{"navigateUrl":"http://www.carsonhealth.org/services/rehabilitation-care.html"},{"navigateUrl":"/?id=2094\u0026sid=1"},{"items":[{"navigateUrl":"/?id=457\u0026sid=1"},{"navigateUrl":"/?id=2109\u0026sid=1"},{"items":[{"navigateUrl":"/CarsonWalkIn"}],"navigateUrl":"/?id=2111\u0026sid=1"},{"navigateUrl":"/?id=2113\u0026sid=1"},{"navigateUrl":"/?id=2115\u0026sid=1"},{"navigateUrl":"/?id=2117\u0026sid=1"},{"navigateUrl":"/?id=2121\u0026sid=1"},{"navigateUrl":"/smgwilliamston"},{"navigateUrl":"/?id=458\u0026sid=1"},{"navigateUrl":"/?id=1510\u0026sid=1"},{"navigateUrl":"/tony-balice-clinic"},{"navigateUrl":"/?id=463\u0026sid=1"},{"navigateUrl":"/?id=1806\u0026sid=1"},{"navigateUrl":"/?id=459\u0026sid=1"},{"navigateUrl":"/smg-muir"},{"navigateUrl":"/?id=460\u0026sid=1"},{"navigateUrl":"/?id=461\u0026sid=1"},{"navigateUrl":"/physicianservices-portland"},{"navigateUrl":"/?id=462\u0026sid=1"},{"navigateUrl":"/physicianservices-sjpa"},{"navigateUrl":"/SMG-VOA"},{"navigateUrl":"/?id=464\u0026sid=1"},{"navigateUrl":"/?id=2751\u0026sid=1"},{"navigateUrl":"/?id=2752\u0026sid=1"},{"navigateUrl":"/?id=2753\u0026sid=1"}],"navigateUrl":"/PCP"},{"navigateUrl":"/physicianservices-peds-clinics"},{"navigateUrl":"http://www.sparrow.org/urgentcare"}],"navigateUrl":"/smg"},{"items":[{"navigateUrl":"/medicalsupply-about"}],"navigateUrl":"/MedicalSupply"},{"navigateUrl":"/pharmacyservices"}],"navigateUrl":"/?id=1579\u0026sid=1"},{"navigateUrl":"/sparrowpartners"},{"navigateUrl":"/locations"}],"navigateUrl":"/who-we-are"},{"navigateUrl":"/CEO"},{"navigateUrl":"/boards"},{"items":[{"navigateUrl":"/?id=2587\u0026sid=1"},{"items":[{"navigateUrl":"/?id=2737\u0026sid=1"}],"navigateUrl":"/NurseMagnet"},{"navigateUrl":"/mayo"}],"navigateUrl":"/recognitions"},{"navigateUrl":"/research"},{"items":[{"navigateUrl":"/languageservices"},{"navigateUrl":"/?id=1859\u0026sid=1"},{"navigateUrl":"http://www.sparrow.org/Default.aspx?id=1683\u0026sid=5\u0026CWFriendlyUrl=true"}],"navigateUrl":"/?id=1750\u0026sid=1"},{"navigateUrl":"/CommunityHealthAssessment"},{"items":[{"items":[{"navigateUrl":"http://sparrowannualreport.org/","target":"_blank"},{"navigateUrl":"http://sparrowannualreport.org/2016/"},{"navigateUrl":"http://www.sparrowannualreport.org/2015/"},{"navigateUrl":"http://www.sparrowannualreport.org/2014/"},{"items":[{"items":[{"navigateUrl":"/anna-cooley"},{"navigateUrl":"/mike-devlin"},{"navigateUrl":"/gregory-lawson"},{"navigateUrl":"/denise-pratt"},{"navigateUrl":"/joseph-meunier"},{"navigateUrl":"/karen-kent-vandorder"}],"navigateUrl":"/teamwork"},{"navigateUrl":"/awards"},{"navigateUrl":"/contributions"},{"navigateUrl":"/financial-performance"},{"navigateUrl":"/governance"},{"items":[{"navigateUrl":"/sparrow-foundation/funding"},{"navigateUrl":"/sparrow-foundation/corporate-partners"},{"navigateUrl":"/sparrow-foundation/individual-partners"},{"navigateUrl":"/sparrow-foundation/ways-to-help"}],"navigateUrl":"/sparrow-foundation"}],"navigateUrl":"/?id=2381\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1911\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1913\u0026sid=1"},{"navigateUrl":"/?id=1914\u0026sid=1"},{"navigateUrl":"/?id=1915\u0026sid=1"},{"navigateUrl":"/?id=1916\u0026sid=1"},{"navigateUrl":"/?id=1917\u0026sid=1"}],"navigateUrl":"/?id=1912\u0026sid=1"},{"navigateUrl":"/?id=1918\u0026sid=1"},{"navigateUrl":"/?id=1919\u0026sid=1"},{"navigateUrl":"/?id=1920\u0026sid=1"},{"navigateUrl":"/?id=1921\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1994\u0026sid=1"},{"navigateUrl":"/?id=1995\u0026sid=1"},{"navigateUrl":"/?id=1996\u0026sid=1"},{"navigateUrl":"/?id=1997\u0026sid=1"},{"navigateUrl":"/?id=1998\u0026sid=1"},{"navigateUrl":"/?id=1999\u0026sid=1"},{"navigateUrl":"/?id=2000\u0026sid=1"}],"navigateUrl":"/?id=1993\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1923\u0026sid=1"},{"navigateUrl":"/?id=1924\u0026sid=1"},{"navigateUrl":"/?id=1925\u0026sid=1"},{"navigateUrl":"/?id=1926\u0026sid=1"},{"navigateUrl":"/?id=1927\u0026sid=1"}],"navigateUrl":"/?id=1922\u0026sid=1"}],"navigateUrl":"/?id=1907\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1928\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1930\u0026sid=1"},{"navigateUrl":"/?id=1931\u0026sid=1"},{"navigateUrl":"/?id=1932\u0026sid=1"},{"navigateUrl":"/?id=1933\u0026sid=1"},{"navigateUrl":"/?id=1934\u0026sid=1"},{"navigateUrl":"/?id=1935\u0026sid=1"},{"navigateUrl":"/?id=1936\u0026sid=1"}],"navigateUrl":"/?id=1929\u0026sid=1"},{"navigateUrl":"/?id=1937\u0026sid=1"},{"navigateUrl":"/?id=1938\u0026sid=1"},{"navigateUrl":"/?id=1939\u0026sid=1"},{"navigateUrl":"/?id=1940\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1942\u0026sid=1"},{"navigateUrl":"/?id=1943\u0026sid=1"},{"navigateUrl":"/?id=1944\u0026sid=1"},{"navigateUrl":"/?id=1945\u0026sid=1"},{"navigateUrl":"/?id=1946\u0026sid=1"},{"navigateUrl":"/?id=1947\u0026sid=1"}],"navigateUrl":"/?id=1941\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1949\u0026sid=1"},{"navigateUrl":"/?id=1950\u0026sid=1"},{"navigateUrl":"/?id=1951\u0026sid=1"},{"navigateUrl":"/?id=1952\u0026sid=1"}],"navigateUrl":"/?id=1948\u0026sid=1"}],"navigateUrl":"/?id=1908\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1953\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1955\u0026sid=1"},{"navigateUrl":"/?id=1956\u0026sid=1"},{"navigateUrl":"/?id=1957\u0026sid=1"},{"navigateUrl":"/?id=1958\u0026sid=1"},{"navigateUrl":"/?id=1959\u0026sid=1"},{"navigateUrl":"/?id=1960\u0026sid=1"},{"navigateUrl":"/?id=1961\u0026sid=1"},{"navigateUrl":"/?id=1962\u0026sid=1"},{"navigateUrl":"/?id=1963\u0026sid=1"},{"navigateUrl":"/?id=1964\u0026sid=1"},{"navigateUrl":"/?id=1965\u0026sid=1"}],"navigateUrl":"/?id=1954\u0026sid=1"},{"navigateUrl":"/?id=1966\u0026sid=1"},{"navigateUrl":"/?id=1967\u0026sid=1"},{"navigateUrl":"/?id=1968\u0026sid=1"},{"navigateUrl":"/?id=1969\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1971\u0026sid=1"},{"navigateUrl":"/?id=1972\u0026sid=1"},{"navigateUrl":"/?id=1973\u0026sid=1"},{"navigateUrl":"/?id=1974\u0026sid=1"},{"navigateUrl":"/?id=1975\u0026sid=1"}],"navigateUrl":"/?id=1970\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1977\u0026sid=1"},{"navigateUrl":"/?id=1978\u0026sid=1"},{"navigateUrl":"/?id=1979\u0026sid=1"}],"navigateUrl":"/?id=1976\u0026sid=1"}],"navigateUrl":"/?id=1909\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1980\u0026sid=1"},{"navigateUrl":"/?id=1981\u0026sid=1"},{"items":[{"navigateUrl":"/?id=1983\u0026sid=1"},{"navigateUrl":"/?id=1984\u0026sid=1"},{"navigateUrl":"/?id=1985\u0026sid=1"},{"navigateUrl":"/?id=1986\u0026sid=1"},{"navigateUrl":"/?id=1987\u0026sid=1"}],"navigateUrl":"/?id=1982\u0026sid=1"},{"navigateUrl":"/?id=1988\u0026sid=1"},{"navigateUrl":"/?id=1989\u0026sid=1"},{"navigateUrl":"/?id=1990\u0026sid=1"},{"navigateUrl":"/?id=1991\u0026sid=1"}],"navigateUrl":"/?id=1910\u0026sid=1"}],"navigateUrl":"/archives"}],"navigateUrl":"http://sparrowannualreport.org"},{"navigateUrl":"http://sparrowannualreport.org/nursing-report.html"},{"items":[{"items":[{"navigateUrl":"/sparrowfoundation-donate"}],"navigateUrl":"/sparrowfoundation"},{"items":[{"navigateUrl":"/?id=696\u0026sid=1"},{"navigateUrl":"/?id=698\u0026sid=1"},{"navigateUrl":"/?id=699\u0026sid=1"},{"navigateUrl":"/whymanscholarship"}],"navigateUrl":"/clintonfoundation"},{"navigateUrl":"/ioniafoundation"}],"navigateUrl":"/giving"},{"navigateUrl":"/contact"}],"navigateUrl":"/aboutsparrow"},{"isSeparator":true},{"navigateUrl":"/findadoc"},{"isSeparator":true},{"navigateUrl":"/eventcalendar"},{"isSeparator":true},{"items":[{"items":[{"navigateUrl":"http://www.sparrow.org/HealthLibrary/DiseasesConditions.aspx"},{"navigateUrl":"http://www.sparrow.org/HealthLibrary/TestsProcedures.aspx"},{"navigateUrl":"http://www.sparrow.org/HealthLibrary/HealthyLiving.aspx"},{"navigateUrl":"http://www.sparrow.org/HealthLibrary/FirstAid.aspx"}],"navigateUrl":"http://www.sparrow.org/HealthLibrary/DiseasesConditions.aspx"},{"items":[{"items":[{"navigateUrl":"https://atwork.sparrowbewell.com/dt/v2/corporateindex.asp"},{"navigateUrl":"/?id=869\u0026sid=1"}],"navigateUrl":"/bewellatwork"},{"items":[{"navigateUrl":"https://atsparrow.sparrowbewell.com/dt/v2/caregiverindex.asp"}],"navigateUrl":"/bewellatsparrow"}],"navigateUrl":"http://www.sparrowbewell.com/"},{"items":[{"items":[{"navigateUrl":"/?id=247\u0026sid=1"},{"navigateUrl":"/?id=248\u0026sid=1"},{"navigateUrl":"/?id=249\u0026sid=1"},{"navigateUrl":"/?id=250\u0026sid=1"},{"navigateUrl":"/?id=252\u0026sid=1"}],"navigateUrl":"/mileageclub"},{"navigateUrl":"/michiganmile"},{"navigateUrl":"http://www.sparrowfoundation.org/page.aspx?pid=420"}]},{"items":[{"navigateUrl":"/?id=675\u0026sid=1"},{"navigateUrl":"/?id=676\u0026sid=1"},{"navigateUrl":"/?id=677\u0026sid=1"}],"navigateUrl":"/smarthealth"},{"items":[{"navigateUrl":"http://www.sparrow.org/formbuilder/forms.aspx?formid=69612\u0026sid=1","target":"_blank"},{"items":[{"navigateUrl":"/lunch-with-a-doctor"}],"navigateUrl":"/?id=573\u0026sid=1"},{"navigateUrl":"/?id=578\u0026sid=1"}],"navigateUrl":"/lifetime"},{"navigateUrl":"/?id=264\u0026sid=2","target":"_self"},{"navigateUrl":"/upload/docs/Physician_SPeaker_Series/SPEAKER_SERIES.pdf","target":"_blank"}],"navigateUrl":"http://www.sparrow.org/healthlibrary"},{"isSeparator":true},{"navigateUrl":"/Locations"}]}, null, null, $get("ctl00_PrimaryNavigationGlobal"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadComboBox, {"_dropDownWidth":200,"_height":0,"_isTemplated":true,"_skin":"sparrowTest","_text":"Select","_uniqueId":"ctl00$Design001HomeJumpMenus$jumpMenuQuickLinks","autoCompleteSeparator":",;","clientStateFieldID":"ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks_ClientState","collapseAnimation":"{\"duration\":450}","emptyMessage":"Select","expandAnimation":"{\"duration\":450}","itemData":[{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"}],"localization":"{\"AllItemsCheckedString\":\"All items checked\",\"ItemsCheckedString\":\"items checked\",\"CheckAllString\":\"Check All\"}","markFirstMatch":true}, null, null, $get("ctl00_Design001HomeJumpMenus_jumpMenuQuickLinks"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadComboBox, {"_dropDownWidth":200,"_height":0,"_isTemplated":true,"_skin":"sparrowTest","_text":"Select","_uniqueId":"ctl00$Design001HomeJumpMenus$jumpMenuServices","autoCompleteSeparator":",;","clientStateFieldID":"ctl00_Design001HomeJumpMenus_jumpMenuServices_ClientState","collapseAnimation":"{\"duration\":450}","emptyMessage":"Select","expandAnimation":"{\"duration\":450}","itemData":[{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"}],"localization":"{\"AllItemsCheckedString\":\"All items checked\",\"ItemsCheckedString\":\"items checked\",\"CheckAllString\":\"Check All\"}","markFirstMatch":true}, null, null, $get("ctl00_Design001HomeJumpMenus_jumpMenuServices"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadComboBox, {"_dropDownWidth":200,"_height":0,"_isTemplated":true,"_skin":"sparrowTest","_text":"Select","_uniqueId":"ctl00$Design001HomeJumpMenus$jumpMenuGroups","autoCompleteSeparator":",;","clientStateFieldID":"ctl00_Design001HomeJumpMenus_jumpMenuGroups_ClientState","collapseAnimation":"{\"duration\":450}","emptyMessage":"Select","expandAnimation":"{\"duration\":450}","itemData":[{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"},{"text":"Includes.Services","value":"Includes.Services"}],"localization":"{\"AllItemsCheckedString\":\"All items checked\",\"ItemsCheckedString\":\"items checked\",\"CheckAllString\":\"Check All\"}","markFirstMatch":true}, null, null, $get("ctl00_Design001HomeJumpMenus_jumpMenuGroups"));
+});
+//]]>
+</script>
+</form>
+	</body>
+</html>

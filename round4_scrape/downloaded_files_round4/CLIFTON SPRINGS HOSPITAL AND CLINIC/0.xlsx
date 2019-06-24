@@ -1,0 +1,1183 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8"/>
+    <title>404</title>
+    <link rel="icon" href="/etc/clientlibs/hfma/core/images/favicon.ico"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+    
+    <meta name="template" content="generic-content-page--no-rail"/>
+    
+
+    <script src="//assets.adobedtm.com/launch-EN3380db4a0bba4138890f7d2c498e834f.min.js"></script>
+
+
+<script type="text/javascript">
+    window.HFMA = window.HFMA || {};
+    HFMA.endpoints = {};
+    endpoints = '{"postSalesOrderEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/PostSalesOrderJSON","updateSalesOrderEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/UpdateSalesOrderJSON","getTransactionsEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/GetContactTransactionsJSON","getAdvertiserListingDetailsEndpoint":"https://api.hfma.org/brg/brg_api/api/HFMABRGService/GetAdvertiserListingDetails","updateContactProfileImageEndpoint":"https://api.hfma.org/Mnintegration/mn_ws/mnservice.asmx/UpdateContactProfileImagesJSON","validateUserEndpoint":"https://api.hfma.org/BRG/BRG_API/api/Login/ValidateUser","getCoursesEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/GetCourses","getCertificationsEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/GetContactCertificationsJSON","findOrganizationsEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/GetAccountDetailsAutoSuggestJSON","getPastEventsEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/GetContactEventsPastJSON","getContactProfileCoverImageEndpoint":"https://api.hfma.org/Mnintegration/mn_ws/mnservice.asmx/GetContactProfileCoverPhotoJSON","getCPEPointsEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/GetContactCPEJSON","getEnterpriseContactCheckEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/ContactDomainEnterpriseCheck","getAwardsEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/GetContactFoundersPointsJSON","createSalesOrderEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/CreateUpdateReturnSalesOrderJSON","updateContactEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/UpdateContactDetailsJSON","getFounderPointsEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/GetContactFoundersAwardsJSON","validateContactExistsEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/CheckForDuplicateContactUserJSON","getContactDetailEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/GetContactDetailsJSON","getComplexEventsEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/GetComplexEvents","getUpcomingEventsEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/GetContactEventsUpcomingJSON","getEventsEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/GetSimpleEvents","getContactProfileImageEndpoint":"https://api.hfma.org/Mnintegration/mn_ws/mnservice.asmx/GetContactProfilePhotoJSON","changePasswordEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/ChangeUserPasswordJSON","getSalesOrderEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/GetSalesOrderDetailsJSON","signUpEndpoint":"https://api.hfma.org/MNIntegration/MN_WS/MNService.asmx/InsertNewContactJSON"}';
+    HFMA.endpoints = endpoints ? JSON.parse(endpoints) : {};
+</script>
+
+<script>
+    // Load GPT asynchronously
+    var gads = document.createElement('script');
+    gads.async = true;
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js?id=UA-138607888-1';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+    
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-138607888-1');     
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5781097-1"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-5781097-1');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-5781097-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-5781097-5');
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '654889144920892');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=654889144920892&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+    
+
+
+<meta name="render-time" content="2019-06-24T14:35:07.054Z[Etc/UTC]"/>
+<meta name="render-path" content="/content/hfma/www/errors/404.html"/>
+<meta name="is-authorized" content="true"/>
+
+
+
+
+<link rel="sitemap" type="application/xml" title="Sitemap" href="/bin/hfma/sitemap.xml"/>
+
+<meta name="href" content="/content/hfma/www/errors/404.html"/>
+<meta name="meta-title" content="404"/>
+<meta name="meta-description"/>
+<meta name="last-modified-year" content="2019"/>
+<meta name="last-modified-date" content="2019-06-11"/>
+<meta name="content-image"/>
+<meta name="primary-topic"/>
+<meta name="content-type"/>
+<meta name="audience"/>
+<meta name="content-purpose"/>
+<meta name="program-level"/>
+<meta name="allowed-levels"/>
+<meta name="metered-content-type-id" content="none"/>
+<meta name="on-date"/>
+
+<!-- overridden by concrete pages -->
+
+<meta name="primary-sort-key" content="32767"/>
+    
+
+    
+
+
+
+    
+<link rel="stylesheet" href="/etc/clientlibs/hfma/core.css" type="text/css">
+
+
+
+
+    
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery/granite.js"></script>
+
+
+
+
+    
+<link rel="stylesheet" href="/etc/clientlibs/hfma/author/editor/content-frame.css" type="text/css">
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/typekit.js"></script>
+
+
+
+<script type="text/javascript">
+            (function() {
+                window.ContextHub = window.ContextHub || {};
+
+                /* setting paths */
+                ContextHub.Paths = ContextHub.Paths || {};
+                ContextHub.Paths.CONTEXTHUB_PATH = "/libs/settings/cloudsettings/legacy/contexthub";
+                ContextHub.Paths.RESOURCE_PATH = "\/content\/hfma\/www\/errors\/404\/_jcr_content\/contexthub";
+                ContextHub.Paths.SEGMENTATION_PATH = "\/conf\/hfma\/settings\/wcm\/policies";
+                ContextHub.Paths.CQ_CONTEXT_PATH = "";
+
+                /* setting initial constants */
+                ContextHub.Constants = ContextHub.Constants || {};
+                ContextHub.Constants.ANONYMOUS_HOME = "/home/users/o/o3t7NURhQ5trrvncjtLO";
+                ContextHub.Constants.MODE = "no-ui";
+            }());
+        </script><script src="/etc/cloudsettings.kernel.js/libs/settings/cloudsettings/legacy/contexthub" type="text/javascript"></script>
+
+
+
+
+
+    
+
+<script type="application/javascript">
+    var HFMA = window.HFMA || {};
+    HFMA.dataLayerVariableName = "digitalData";
+    window[HFMA.dataLayerVariableName] = {"page":{"category":{},"pageInfo":{"breadCrumbs":["Home","Errors","404"],"destinationURL":"https://www.hfma.org/errors/404.html","geoRegion":"US","language":"en-US","pageID":"/content/hfma/www/errors/404","pageName":"404"}},"pageInstanceID":"/content/hfma/www/errors/404:prod"};
+</script>
+    
+    
+    
+
+    
+
+    
+    
+
+    
+</head>
+<body>
+
+
+
+<div class="root nonresponsivegrid responsivegrid">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="header"><header id="headerRoot" class="header header__root" data-editable="false">
+    <div class="container header-container">
+        <div class="utility-nav collapse" id="utilityNavMenu">
+            <div class="container utility-nav-container">
+                <nav class="utility-nav-container__nav" aria-label="Utility Navigation">
+                    <ul class="utility-nav__list view-variants__settings" id="utilitynav1" aria-label="Utility Navigation" data-hfma-cond-variant-mode="all-matching">
+
+                        
+                            <li class="utility-nav__list-item utility-nav__list-item--desktop-only">
+                                <a class="utility-nav__link" href="/contact-us.html">
+                                    Contact Us
+                                </a>
+                            </li>
+                            <li class="utility-nav__list-item utility-nav__list-item--desktop-only" role="separator">
+                  <span class="utility-nav__link-separator">
+                    |
+                  </span>
+                            </li>
+                        
+                            <li class="utility-nav__list-item utility-nav__list-item--desktop-only">
+                                <a class="utility-nav__link" href="/membership/overview.html">
+                                    Membership
+                                </a>
+                            </li>
+                            <li class="utility-nav__list-item utility-nav__list-item--desktop-only" role="separator">
+                  <span class="utility-nav__link-separator">
+                    |
+                  </span>
+                            </li>
+                        
+
+                        <li class="utility-nav__list-item utility-nav__list-item--search" role="separator">
+                            <form class="utility-nav__search-form">
+                                <input class="utility-nav__search-input" data-search-result="/search.html" type="text" name="search" placeholder="" aria-label="Search"/>
+                                <i class="utility-nav__input-icon fas fa-search" title="Search" aria-hidden></i>
+                            </form>
+                        </li>
+
+                        <!-- Code for Un-authneticated user -->
+                        <li class="utility-nav__list-item utility-nav__list-item--desktop-only utility-nav__list-item--sign-in variant__settings d-none" data-hfma-cond-auth="false" role="separator">
+                  <span class="utility-nav__link-separator utility-nav__link-separator--sign-in">
+                          |
+                  </span>
+                        </li>
+
+                        <li class="utility-nav__list-item utility-nav__list-item--desktop-only utility-nav__list-item--sign-in-dropdown variant__settings d-none" data-hfma-cond-auth="false">
+                            <button id="utilitySignInDropdownLink" class="utility-nav__link utility-nav__sign-in-toggle-link" type="button" data-target="#utilitySignInDropdown" aria-expanded="false" aria-controls="utilitySignInDropdown" aria-label="View Sign-In Menu" data-sign-in-edit="false">
+                                SIGN IN
+                            </button>
+                        </li>
+                        <div id="utilitySignInDropdown" class="utility-nav__sign-in-container variant__settings d-none" data-hfma-cond-auth="false">
+                            <div class="utility-nav__sign-in clearfix" data-signin-no-referrer>
+                                <!-- Included Sign In component -->
+                                
+
+    
+    <div class="form-group-global form-sign-in">
+        <div class="form-group-global__fields form-sign-in__fields">
+            <div class="form-group-global__alerts form-sign-in__alerts">
+                <div class="alert-global alert-inline  alert-global--success alert-inline--success form-sign-in__alert-success">
+                    <div class="alert-global__container alert-inline__container">
+                        <div class="alert-global__body alert-inline__body">
+                            <div class="alert-global__text alert-inline__text">
+                                Success
+                            </div>
+                        </div>
+                        <div class="alert-global__dismiss alert-inline__dismiss">
+                            <button class="button button-quaternary button-quaternary--white  alert-global__dismiss-btn alert-inline__dismiss-btn" role="button">
+									<span class="button__icon">
+											<i class="fa fa-window-close" title="" aria-hidden></i>
+										</span>
+                                <span class="button__label">  </span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="alert-global alert-inline  alert-global--error alert-inline--error form-sign-in__alert-error">
+                    <div class="alert-global__container alert-inline__container">
+                        <div class="alert-global__body alert-inline__body">
+                            <div class="alert-global__text alert-inline__text">
+                                Error
+                            </div>
+                        </div>
+                        <div class="alert-global__dismiss alert-inline__dismiss">
+                            <button class="button button-quaternary button-quaternary--white  alert-global__dismiss-btn alert-inline__dismiss-btn" role="button">
+									<span class="button__icon">
+											<i class="fa fa-window-close" title="" aria-hidden></i>
+                                    </span>
+                                <span class="button__label">  </span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <form class="form-group-global__form form-sign-in__form" autocomplete="off" action="/bin/hfma/login" method="POST">
+                <div class="form-group-global__fields-wrapper form-sign-in__fields-wrapper">
+                    <div class="form-global form-text-input  form-global--normal form-text-input--normal form-sign-in__username">
+                        <label class="form-global__label form-text-input__label">
+                            <input class="form-global__field form-text-input__field" name="username" type="text" placeholder="username (email)"/>
+                            <div class="form-global__field-message form-text-input__field-message" role="status" aria-live="polite"></div>
+                        </label>
+                    </div>
+                    <div class="form-global form-text-input  form-global--normal form-text-input--normal form-sign-in__password">
+                        <label class="form-global__label form-text-input__label">
+                            <input class="form-global__field form-text-input__field" name="password" type="password" placeholder="password"/>
+                            <div class="form-global__field-message form-text-input__field-message" role="status" aria-live="polite"></div>
+                        </label>
+                    </div>
+                </div>
+                <ul class="form-group-global__links form-sign-in__links">
+                    <li class="form-group-global__link-item form-sign-in__link-item">
+                        <a href="/forgot-username.html" class="form-group-global__link form-sign-in__link">Forgot Username?</a>
+                    </li>
+                    <li class="form-group-global__link-item form-sign-in__link-item">
+                        <a href="/forgot-password.html" class="form-group-global__link form-sign-in__link">Forgot Password?</a>
+                    </li>
+                </ul>
+                <button class="button button-primary button-primary--lightblue  form-group-global__submit-btn form-sign-in__submit-btn" type="submit" role="button">
+                    <span class="button__label"> Sign In </span>
+                </button>
+                <ul class="form-group-global__links form-sign-in__links">
+                    <li class="form-group-global__link-item form-sign-in__link-item">
+                        <a href="/sign-up.html" class="form-group-global__link form-sign-in__link">Sign up</a>
+                    </li>
+                </ul>
+            </form>
+        </div>
+    </div>
+
+
+
+                            </div>
+                        </div>
+
+                        <!-- Code for authneticated user -->
+
+                        <li class="utility-nav__list-item utility-nav__list-item--badge variant__settings d-none" data-hfma-cond-auth="true">
+                            <div class="utility-navigation-messages utility-navigation-item">
+                                <a href="/community/en/messaging.html" class="button button-quaternary button-quaternary--white  button__with-badge utility-navigation-item-link utility-navigation-messages__btn" data-utility-target="#utility-details-target-id" data-utility-refresh-time="3600000" data-parent-target-link="/community/en/messaging.html" role="button">
+                      <span class="button__icon">
+                        <i class="far fa-envelope" title="Messages" aria-hidden=""></i>
+                      </span>
+                                    <span class="button__label"> Messages </span>
+                                    <span class="button__icon-badge">0</span>
+                                </a>
+                                <span class="utility-navigation-item-link__pointer"></span>
+                            </div>
+                        </li>
+
+                        <li class="utility-nav__list-item utility-nav__list-item--badge variant__settings d-none" data-hfma-cond-auth="true">
+                            <div class="utility-navigation-notifications utility-navigation-item">
+                                <a href="/community/en/notifications.html" class="button button-quaternary button-quaternary--white button__with-badge utility-navigation-item-link utility-navigation-notifications__btn" data-utility-target="#utility-details-target-id" data-utility-refresh-time="3600000" data-parent-target-link="/community/en/notifications.html" data-notifications-settings-target-link="/community/en/notifications/preferences.html" role="button">
+                      <span class="button__icon">
+                        <i class="far fa-bell" title="Notifications" aria-hidden=""></i>
+                      </span>
+                                    <span class="button__label"> Notifications </span>
+                                    <span class="button__icon-badge">0</span>
+                                </a>
+                                <span class="utility-navigation-item-link__pointer"></span>
+                            </div>
+                        </li>
+
+                        <li class="utility-nav__list-item utility-nav__list-item--badge variant__settings d-none" data-hfma-cond-auth="true">
+                            <div class="utility-navigation-favorites utility-navigation-item">
+                                <a href="/my-account/my-favorites.html" class="button button-quaternary button-quaternary--white  button__with-badge utility-navigation-item-link utility-navigation-favorites__btn" data-utility-target="#utility-details-target-id" data-utility-refresh-time="3600000" data-parent-target-link="/my-account/my-favorites.html" role="button">
+                      <span class="button__icon">
+                        <i class="far fa-bookmark" title="Favorites" aria-hidden=""></i>
+                      </span>
+                                    <span class="button__label"> Favorites </span>
+                                    <span class="button__icon-badge">0</span>
+                                </a>
+                                <span class="utility-navigation-item-link__pointer"></span>
+                            </div>
+                        </li>
+
+                        <li class="utility-nav__list-item utility-nav__list-item--badge utility-nav__list-item--avatar-list variant__settings d-none" data-hfma-cond-auth="true">
+                            <div class="utility-navigation-avatar utility-navigation-item">
+
+                                <a href="#avatar" class="button button-quaternary button-quaternary--   button__with-image utility-navigation-item-link utility-navigation-avatar__btn" data-utility-target='#utility-details-target-id' data-utility-refresh-time='3600000' role="button">
+                                    <img src="" class="utility-navigation-avatar__img" alt=""/>
+                                    <span class="button__label"> My Account </span>
+
+                                </a>
+                                <span class="utility-navigation-item-link__pointer"></span>
+                            </div>
+                        </li>
+
+                    </ul>
+
+                    <div class="view-variants__settings" data-hfma-cond-variant-mode="all-matching">
+                        <!-- Code for authneticated user -->
+                        <div class="utility-nav__utility-links-modal utility-navigation-favorites__details utility-navigation-item__details" id="utility-details-target-id">
+                            <div class="meta-utility-details">
+                                <div class="meta-utility-details__head">
+                                    <div class="meta-utility-details__name">
+                                        <h3 class="meta-utility-details__name--heading"></h3>
+                                    </div>
+                                    <div class="meta-utility-details__list-all">
+                                        <a href="#" class="button button-quaternary button-quaternary--teal button--small  " role="button">
+                                            <span class="button__label"> See All </span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="meta-utility-details__body">
+                                    <div class="utility-nav__utility-links-modal--favorites-wrapper">
+                                        <div class="utility-nav__utility-links-modal--favorites">
+
+                                            <!-- Blank template for Favorites card used by JS to clone from -->
+                                            <div class="utility-navigation-favorites__details--item-group-item">
+                                                <a href="#" class="utility-navigation-favorites__details--item-group-item-link utility-nav__utility-links-content">
+                                                    <div class="card-content card-content__utility-variant card-content__no-border ">
+                                                        <div class="card-content__top  card-content__utility-variant--img-wrapper ">
+                                                            <img class="card-content__img  card-content__utility-variant--img " src="#" alt="Image Description"/>
+                                                        </div>
+                                                        <div class="card-content__container  card-content__utility-variant--container  ">
+                                                            <div class="card-content__taxonomy  card-content__utility-variant--taxonomy">
+                                                                <div class="taxnonomy">
+                                                                    <span class="taxnonomy__type"></span>
+                                                                    <span class="taxnonomy__separator"> | </span>
+                                                                    <span class="taxnonomy__purpose"></span>
+                                                                    <span class="taxnonomy__separator"> | </span>
+                                                                    <span class="taxnonomy__tag"></span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="card-content__utility-variant--subject-wrapper">
+                                                                <div class="card-content__utility-variant--unread-icon">
+                                                                    <i class="fas fa-circle" title="Unread Message" aria-hidden></i>
+                                                                </div>
+                                                                <h4 class="card-content__header--utility">
+                                                                    {{cardHeader}}
+                                                                </h4>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+
+                                        </div>
+                                        <div class="utility-nav__utility-links-modal--fallback">
+                                            <div class="utility-nav__utility-links-modal--fallback-server">
+                                                Failed to retrieve data 
+                                            </div>
+                                            <div class="utility-nav__utility-links-modal--fallback-no-items">
+                                                No items added!
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="utility-nav__utility-links-modal--messages-wrapper">
+                                        <div class="utility-nav__utility-links-modal--messages">
+
+                                            <!-- Blank template for Favorites card used by JS to clone from -->
+                                            <div class="utility-navigation-messages__details--item-group-item">
+                                                <a href="#" class="utility-navigation-messages__details--item-group-item-link utility-nav__utility-links-content">
+                                                    <div class="card-content card-content__utility-variant card-content__no-border card-content__utility-variant--message">
+                                                        <div class="card-content__top  card-content__utility-variant--img-wrapper card-content__utility-variant--message-profile-img-wrapper">
+                                                            <img class="card-content__img  card-content__utility-variant--img card-content__utility-variant--message-profile-img" src="#" alt="Image Description"/>
+                                                        </div>
+                                                        <div class="card-content__container  card-content__utility-variant--container  ">
+                                                            <div class="card-content__body-container card-content__utility-variant--message-body">
+                                                                <div class="card-content__utility-variant--message-head">
+                                                                    <h4 class="card-content__utility-variant--message-sender">
+
+                                                                    </h4>
+                                                                    <div class="card-content__utility-variant--message-time">
+
+                                                                    </div>
+                                                                </div>
+                                                                <div class="card-content__utility-variant--message-details">
+                                                                    <div class="card-content__utility-variant--subject-wrapper">
+                                                                        <div class="card-content__utility-variant--unread-icon">
+                                                                            <i class="fas fa-circle" title="Unread Message" aria-hidden></i>
+                                                                        </div>
+                                                                        <div class="card-content__utility-variant--message-details-subject">
+
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="card-content__utility-variant--message-details-body">
+
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+
+                                        </div>
+                                        <div class="utility-nav__utility-links-modal--fallback">
+                                            <div class="utility-nav__utility-links-modal--fallback-server">
+                                                Failed to retrieve data 
+                                            </div>
+                                            <div class="utility-nav__utility-links-modal--fallback-no-items">
+                                                No Messages! 
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="utility-nav__utility-links-modal--notifications-wrapper">
+                                        <div class="utility-nav__utility-links-modal--notifications">
+                                            <!-- notifications body -->
+                                            <div class="utility-navigation-notifications__details--item-group-item">
+                                                <a href="#" class="utility-navigation-notifications__details--item-group-item-link utility-nav__utility-links-content">
+                                                    <div class="card-content card-content__utility-variant card-content__no-border  card-content__utility-variant--notifications">
+                                                        <div class="card-content__top  card-content__utility-variant--img-wrapper  card-content__utility-variant--notifications-profile-img-wrapper">
+                                                            <img class="card-content__img  card-content__utility-variant--img  card-content__utility-variant--notifications-profile-img" src="#" alt="Image Description"/>
+                                                        </div>
+
+                                                        <div class="card-content__container  card-content__utility-variant--container  ">
+                                                            <div class="card-content__utility-variant--subject-wrapper">
+                                                                <div class="card-content__utility-variant--unread-icon">
+                                                                    <i class="fas fa-circle" title="Unread Message" aria-hidden></i>
+                                                                </div>
+                                                                <div class="card-content__body-container card-content__utility-variant--notifications-body">
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                        <div class="utility-navigation-notifications__details--see-all-wrapper">
+                                            <a href="#" class="button button-quaternary button-quaternary--teal button--small   utility-navigation-notifications__details--see-all" role="button">
+                                                <span class="button__label"> See All </span>
+                                            </a>
+                                        </div>
+                                        <div class="utility-nav__utility-links-modal--fallback">
+                                            <div class="utility-nav__utility-links-modal--fallback-server">
+                                                Failed to retrieve data 
+                                            </div>
+                                            <div class="utility-nav__utility-links-modal--fallback-no-items">
+                                                No notifications!
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Avatar Dropdowns -->
+                                    <div class="utility-nav__utility-links-modal--avatar-wrapper">
+                                        <div class="utility-nav__utility-links-modal--avatar">
+                                            <ul class="utility-nav__avatar-additional-links--list">
+                                                <li class="utility-nav__avatar-additional-links--list-item ">
+                                                    <a href="/my-account/my-profile.html" class="">My Profile</a>
+                                                </li>
+                                            
+                                                <li class="utility-nav__avatar-additional-links--list-item ">
+                                                    <a href="/my-account/privacy---security.html" class="">Privacy &amp; Security</a>
+                                                </li>
+                                            
+                                                <li class="utility-nav__avatar-additional-links--list-item ">
+                                                    <a href="/my-account/my-membership.html" class="">My Membership</a>
+                                                </li>
+                                            
+                                                <li class="utility-nav__avatar-additional-links--list-item ">
+                                                    <a href="/my-account/my-development.html" class="">My Development</a>
+                                                </li>
+                                            
+                                                <li class="utility-nav__avatar-additional-links--list-item ">
+                                                    <a href="/my-account/my-founder-s-points.html" class="">My Founder&#39;s Points</a>
+                                                </li>
+                                            
+                                                <li class="utility-nav__avatar-additional-links--list-item utility-nav__avatar-additional-links--list-item-separator">
+                                                    <a href="/my-account/my-chapter.html" class="">My Chapter</a>
+                                                </li>
+                                            
+                                                <li class="utility-nav__avatar-additional-links--list-item utility-nav__avatar-additional-links--list-item-separator">
+                                                    <a href="/community/en/messaging.html" class="">My Messages</a>
+                                                </li>
+                                            
+                                                <li class="utility-nav__avatar-additional-links--list-item ">
+                                                    <a href="/my-account/for-you-settings.html" class="">For You Settings </a>
+                                                </li>
+                                            
+                                                <li class="utility-nav__avatar-additional-links--list-item ">
+                                                    <a href="/community/en/notifications.html" class="">My Notifications </a>
+                                                </li>
+                                            
+                                                <li class="utility-nav__avatar-additional-links--list-item ">
+                                                    <a href="/my-account/my-favorites.html" class="">My Favorites </a>
+                                                </li>
+                                            
+                                                <li class="utility-nav__avatar-additional-links--list-item utility-nav__avatar-additional-links--list-item-separator">
+                                                    <a href="/my-account/subscription-preferences.html" class="">My Communication Preferences</a>
+                                                </li>
+                                            
+                                                <li class="utility-nav__avatar-additional-links--list-item ">
+                                                    <a href="/bin/hfma/logout" class="">Sign Out</a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </nav>
+            </div>
+        </div>
+
+        <div class="utility-nav__mobile-toggle view-variants__settings">
+            <button class="utility-nav__mobile-toggle-link collapsed" type="button" data-toggle="collapse" data-target="#utilityNavMenu" aria-expanded="false" aria-controls="utilityNavMenu" aria-label="View Utility Navigation Menu">
+                <i class="utility-nav__mobile-toggle-icon fas fa-search" title="View Utility Navigation Menu" aria-hidden></i>
+                <div class="utility-nav__mobile-toggle-pic variant__settings d-none" data-hfma-cond-auth="true">
+                    <img class="utility-nav__mobile-toggle-pic-img" src="/content/dam/hfma/application/default-avatar.png" alt="Your profile picture"/>
+                </div>
+                <span class="utility-nav__mobile-toggle-signin-text variant__settings d-none" data-hfma-cond-auth="false">
+                    SIGN IN
+                </span>
+            </button>
+        </div>
+
+        <nav class="navbar navbar-expand-lg">
+            <div class="container navbar-container">
+                <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#primaryNavMenu" aria-controls="primaryNavMenu" aria-expanded="false" aria-label="View Primary Navigation Menu">
+                    <i class="navbar-toogler__icon fas fa-bars" title="View Primary Navigation Menu" aria-hidden></i>
+                </button>
+                <a class="navbar-brand navbar__logo" href="/">
+                    <!-- Logo included in CSS Statically has been removed -->
+                    <img src="/content/dam/hfma/Images/Icons/logo-white.png"/>
+                    <span class="sr-only">Link to HFMA Homepage</span>
+                </a>
+                <div class="collapse navbar-collapse" id="primaryNavMenu">
+                    <div class="container navbar-collapse-container">
+                        <ul class="navbar-nav ml-auto">
+
+                            
+                                
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/activitystreams.html"></a>
+                                </li>
+                            
+                                
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/for-you.html">For You</a>
+                                </li>
+                            
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="/topics.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Topics <i class="nav-link__icon fas fa-angle-down" aria-hidden></i>
+                                    </a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <div class="container navbar-dropdown-container">
+                                            <div class="dropdown-content">
+                                                <div class="dropdown-promo">
+                                                    
+    
+    <div><div class="experiencefragment xfpage page basicpage">
+
+    
+
+
+
+<div class="xf-content-height">
+    
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="image parbase">
+
+    <img src="/content/experience-fragments/promos/menu_promos/nav-topics/master/_jcr_content/root/image.img.jpg/1558544452037.jpg" class="cq-dd-image" data-emptytext="Image"/>
+
+
+
+</div>
+
+    
+</div>
+</div></div>
+</div>
+
+                                                </div>
+                                                <ul class="dropdown-content__links">
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/topics/landing-news.html">News</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/topics/hfm.html">HFM</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/topics/podcasts.html">Podcasts</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/topics/landing-accounting-and-financial-reporting.html">Accounting and Financial Reporting</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/topics/landing-finance-and-business-strategy.html">Finance and Business Strategy</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/topics/landing-legal-and-regulatory-compliance.html">Legal and Regulatory Compliance</a>
+                                                    </li>
+                                                </ul>
+                                                <ul class="dropdown-content__links">
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/topics/landing-operations-management.html">Operations Management</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/topics/landing-payment-reimbursement-and-managed-care.html">Payment, Reimbursement, and Managed Care</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/topics/landing-revenue-cycle.html">Revenue Cycle</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/topics/landing-technology.html">Technology</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/topics/landing-leadership.html">Leadership</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                
+                            
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="/industry-initiatives.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Industry Initiatives <i class="nav-link__icon fas fa-angle-down" aria-hidden></i>
+                                    </a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <div class="container navbar-dropdown-container">
+                                            <div class="dropdown-content">
+                                                <div class="dropdown-promo">
+                                                    
+    
+    <div><div class="experiencefragment xfpage page basicpage">
+
+    
+
+
+
+<div class="xf-content-height">
+    
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="image parbase">
+
+    <img src="/content/experience-fragments/promos/menu_promos/nav-industry-initiatives/master/_jcr_content/root/image.img.jpg/1558544426665.jpg" class="cq-dd-image" data-emptytext="Image"/>
+
+
+
+</div>
+
+    
+</div>
+</div></div>
+</div>
+
+                                                </div>
+                                                <ul class="dropdown-content__links">
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/industry-initiatives/healthcare-dollars-and-sense.html">Healthcare Dollars and Sense</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/industry-initiatives/the-value-project.html">The Value Project</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/industry-initiatives/health-care-2020.html">Health Care 2020</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/industry-initiatives/regulatory-and-accounting-resources.html">Regulatory and Accounting Resources</a>
+                                                    </li>
+                                                </ul>
+                                                <ul class="dropdown-content__links">
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/industry-initiatives/patient-friendly-billing-project.html">Patient Friendly Billing Project</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/industry-initiatives/physician-practice-resources.html">Physician Practice Resources</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/industry-initiatives/health-plan-resources.html">Health Plan Resources</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/industry-initiatives/research-trends.html">Research &amp; Trends</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                
+                            
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="/career-development.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Career Development <i class="nav-link__icon fas fa-angle-down" aria-hidden></i>
+                                    </a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <div class="container navbar-dropdown-container">
+                                            <div class="dropdown-content">
+                                                <div class="dropdown-promo">
+                                                    
+    
+    <div><div class="experiencefragment xfpage page basicpage">
+
+    
+
+
+
+<div class="xf-content-height">
+    
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="image parbase">
+
+    <img src="/content/experience-fragments/promos/menu_promos/nav-career-dev/master/_jcr_content/root/image.img.jpg/1558544420442.jpg" class="cq-dd-image" data-emptytext="Image"/>
+
+
+
+</div>
+
+    
+</div>
+</div></div>
+</div>
+
+                                                </div>
+                                                <ul class="dropdown-content__links">
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/career-development/education.html">Education</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/career-development/certifications.html">Certifications</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/career-development/learning-paths.html">Learning Paths </a>
+                                                    </li>
+                                                </ul>
+                                                <ul class="dropdown-content__links">
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/career-development/career-self-assessments.html">Career Self-Assessments</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/career-development/digital-badging.html">Digital Badging</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/career-development/job-bank.html">Job Bank</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                
+                            
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="/community/en.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Community <i class="nav-link__icon fas fa-angle-down" aria-hidden></i>
+                                    </a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <div class="container navbar-dropdown-container">
+                                            <div class="dropdown-content">
+                                                <div class="dropdown-promo">
+                                                    
+    
+    <div><div class="experiencefragment xfpage page basicpage">
+
+    
+
+
+
+<div class="xf-content-height">
+    
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="image parbase">
+
+    <img src="/content/experience-fragments/promos/menu_promos/nav-community/master/_jcr_content/root/image.img.jpg/1558544423731.jpg" class="cq-dd-image" data-emptytext="Image"/>
+
+
+
+</div>
+
+    
+</div>
+</div></div>
+</div>
+
+                                                </div>
+                                                <ul class="dropdown-content__links">
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/community/en.html">Community Home</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/community/en/groups.html">Groups</a>
+                                                    </li>
+                                                </ul>
+                                                <ul class="dropdown-content__links">
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/community/en/guidelines.html">Community Guidelines</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/community/en/members.html">Member Directory</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                
+                            
+                                
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/events.html">Events</a>
+                                </li>
+                            
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" href="/tools.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Tools <i class="nav-link__icon fas fa-angle-down" aria-hidden></i>
+                                    </a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                        <div class="container navbar-dropdown-container">
+                                            <div class="dropdown-content">
+                                                <div class="dropdown-promo">
+                                                    
+    
+    <div><div class="experiencefragment xfpage page basicpage">
+
+    
+
+
+
+<div class="xf-content-height">
+    
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="image parbase">
+<a href="/tools/buyer-s-resource-guide.html" onclick="CQ_Analytics.record({event: 'imageClick', values: { imageLink: '', imageAsset: '', imageTitle: 'Nav\u002DTools.jpg' }, collect: false, options: { obj: this }, componentPath: 'hfma\/components\/content\/image'})">
+    <img src="/content/experience-fragments/promos/menu_promos/nav-promo-tools/master/_jcr_content/root/image.img.jpg/1558544451368.jpg" class="cq-dd-image" data-emptytext="Image"/>
+</a>
+
+
+</div>
+
+    
+</div>
+</div></div>
+</div>
+
+                                                </div>
+                                                <ul class="dropdown-content__links">
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/tools/peer-review.html">Peer Review</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/tools/buyers-resource-guide.html">Buyer&#39;s Resource Guide</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/tools/map-initiative.html">MAP Initiative</a>
+                                                    </li>
+                                                </ul>
+                                                <ul class="dropdown-content__links">
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/tools/chapter-leaders-resources.html">Chapter Leaders Resources</a>
+                                                    </li>
+                                                
+                                                    <li class="dropdown-content__link">
+                                                        <a class="dropdown-item" href="/tools/find-a-chapter.html">Find a Chapter</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                
+                            
+
+                            
+                                <li class="nav-item nav-item--mobile-only">
+                                    <a class="nav-link" href="/contact-us.html">Contact Us</a>
+                                </li>
+                            
+                                <li class="nav-item nav-item--mobile-only">
+                                    <a class="nav-link" href="/membership/overview.html">Membership</a>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header></div>
+<div class="parsys">
+
+
+
+
+</div>
+<div class="layout">
+<div id="article-section-id" data-floating-menu-reference class="rail  container-outer container-outer--rail">
+    <div class="rail  container-outer container-outer--rail">
+        <div class="container">
+            <div class="row rail__row">
+                
+                
+
+                <div class="col rail__main-col">
+                    <div class="rail__main-content">
+                        
+
+<div class="bg-color- ">
+    <div>
+        
+            <div>
+                <h1>
+    Page not found
+</h1>
+
+            </div>
+        
+            <div>
+                
+<div>
+    <div class="article-content">
+        <div><div>
+    <p>Sorry, the page you requested was not found. Here are some things that may help:</p>
+<p>Our website has changed and the URL you used may have been removed or renamed. You can try going back to the page you came from, return to the homepage, or use the search field located above if you're using a desktop device and in the settings in the upper right if you're using a mobile device.</p>
+<p><b>Here are some additional options:</b></p>
+<ul>
+<li>Visit our latest <a href="/topics/landing-news.html" target="_self">news</a>.</li>
+<li>Check out our most recent issue of <a href="/topics/hfm.html" target="_self">HFM magazine</a>.</li>
+<li>Explore our <a href="/career-development/education.html" target="_self">professional education</a>.  </li>
+<li><a href="/membership/overview.html" target="_self">Become an HFMA member.</a></li>
+<li>Visit <a href="/tools/chapter-leaders-resources.html" target="_self">Chapter Leader Resources</a> if you're an HFMA chapter volunteer.</li>
+<li><a href="mailto:inquiry@hfma.org">Contact our customer service team directly.</a></li>
+</ul>
+<p> </p>
+
+</div></div>
+    </div>
+</div>
+            </div>
+        
+        
+    </div>
+</div>
+
+                    </div>
+                </div>
+
+                
+
+            </div>
+        </div>
+    </div>
+</div></div>
+<div class="footer"><footer class="footer footer__root container-outer container-outer--footer" data-editable="false">
+    
+        <div class="container">
+            <div class="footer__top">
+                <div class="footer__top-left">
+                    <a class="footer__logo" href="/">
+                        <!-- Logo included in CSS Statically has been removed-->
+                        <img src="/content/dam/hfma/Images/Icons/logo-white.png"/>
+                        <span class="sr-only">Link to HFMA Homepage</span>
+                    </a>
+                    <div class="footer__links-container">
+                        <ul class="footer__links">
+                            
+                                <li class="footer__link-item">
+                                    <a class="footer__link" href="/about-hfma.html">About HFMA</a>
+                                </li>
+                            
+                                <li class="footer__link-item">
+                                    <a class="footer__link" href="/membership/overview.html">Membership</a>
+                                </li>
+                            
+                                <li class="footer__link-item">
+                                    <a class="footer__link" href="https://api.hfma.org/renew/ezrenew-login.cfm">Renew</a>
+                                </li>
+                            
+                        </ul>
+                        <ul class="footer__links">
+                            
+                                <li class="footer__link-item">
+                                    <a class="footer__link" href="https://marketingopportunities.hfma.org/">Business Partner &amp; Marketing Opportunities</a>
+                                </li>
+                            
+                                <li class="footer__link-item">
+                                    <a class="footer__link" href="/tools/find-a-chapter.html">Find a Chapter</a>
+                                </li>
+                            
+                                <li class="footer__link-item">
+                                    <a class="footer__link" href="https://api.hfma.org/app/EnterprisePortal/Home/Index">Enterprise Portal</a>
+                                </li>
+                            
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer__social-icons">
+                    
+                        <a class="footer__social-icon-link" href="https://www.facebook.com/hfmaorg" aria-label="Facebook">
+                            <i class="fa fa-facebook-square" title="Facebook" aria-hidden></i>
+                        </a>
+                    
+                        <a class="footer__social-icon-link" href="https://twitter.com/hfmaorg" aria-label="Twitter">
+                            <i class="fa fa-twitter-square" title="Twitter" aria-hidden></i>
+                        </a>
+                    
+                        <a class="footer__social-icon-link" href="https://www.linkedin.com/company/hfma/" aria-label="LinkedIn">
+                            <i class="fa fa-linkedin-square" title="LinkedIn" aria-hidden></i>
+                        </a>
+                    
+                        <a class="footer__social-icon-link" href="https://www.youtube.com/user/hfmaweb" aria-label="YouTube">
+                            <i class="fa fa-youtube-play" title="YouTube" aria-hidden></i>
+                        </a>
+                    
+                        <a class="footer__social-icon-link" href="https://hfma.podbean.com/" aria-label="Podbean podcast">
+                            <i class="fa fa-microphone" title="Podbean podcast" aria-hidden></i>
+                        </a>
+                    
+                </div>
+            </div>
+
+            <div class="footer__bottom">
+                <div class="footer__copyright">
+                    <p>© 2019 Healthcare Financial Management Association </p>
+
+                </div>
+                <div class="footer__breadcrumbs">
+                    
+                        
+                            <a class="footer__breadcrumb" href="/contact-us.html">
+                                Contact
+                            </a>
+                            <span class="footer__breadcrumb-separator"> | </span>
+                        
+                        
+                    
+                        
+                            <a class="footer__breadcrumb" href="/about-hfma/privacy-policy.html">
+                                Privacy Policy
+                            </a>
+                            <span class="footer__breadcrumb-separator"> | </span>
+                        
+                        
+                    
+                        
+                        
+                            <a class="footer__breadcrumb" href="/about-hfma/terms-of-use.html">
+                                Terms of Use
+                            </a>
+                        
+                    
+                </div>
+            </div>
+        </div>
+    
+</footer></div>
+
+    
+</div></div>
+
+
+
+    
+    <button id="scroll-to-top" role="button" type="button"><i class="far fa-chevron-up" title="Scroll to top" aria-hidden></i></button>
+
+
+    
+<script type="text/javascript" src="/etc.clientlibs/core/wcm/components/form/text/v2/text/clientlibs/site.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/hfma/core.js"></script>
+
+
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script> <script>   var googletag = googletag || {};   googletag.cmd = googletag.cmd || []; </script>  <script>   googletag.cmd.push(function() {     googletag.defineSlot('/53127289/NewHFMA_SiteTakeOver', [[190, 150], [720, 300]], 'div-gpt-ad-1558191469393-0').addService(googletag.pubads());     googletag.pubads().enableSingleRequest();     googletag.enableServices();   }); </script>  <!-- /53127289/NewHFMA_SiteTakeOver --> <div id='div-gpt-ad-1558191469393-0' class='ad-takeover-container'> <div class="ad-takeover-container__close"></div> <script> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1558191469393-0'); }); </script> </div>
+<script type="text/javascript">_satellite.pageBottom();</script>
+
+    
+
+    
+
+
+
+
+</body>
+</html>

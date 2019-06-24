@@ -1,0 +1,11 @@
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title></title>
+	</head>
+	<body id="pageBody">
+	<script type='text/javascript'>var icAuthBasic = 'UGF0cm9uIENoYXRAaW5Db250YWN0IEluYy46UWtFMFF6RTBOREF5UmpJeE5EVkRPRUUxT0VZeE5VUXpNamhFUmpnM09FVT0=';var icAuthUri = 'https://api-c32.nice-incontact.com/InContactAuthorizationServer/Token';var icBusNo = 4597589;var icPointOfContact = '1dd09406-8462-49c2-a64e-660a21f4a070';var icPatronHomePage = 'index.html';var icPatronGoogleAccountNumber = 'UA-90548009-2';var icPatronRaygunApiKey = 'blrxap1jUVBVAdzmtxFZHw==';var icCoBrand = 'False';var icResolveSourceAddr = 'False';</script><script type='text/javascript' src='js/chatClient-v2.js'></script></body>
+</html>

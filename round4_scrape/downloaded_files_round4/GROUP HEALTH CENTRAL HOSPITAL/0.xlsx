@@ -1,0 +1,1253 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head><title>
+	WSHA Hospital Pricing
+</title><link href="Style.css?version=2" rel="stylesheet" type="text/css" /><link href="menuStyle.css" type="text/css" rel="stylesheet" /><meta http-equiv="Page-Enter" content="blendTrans(Duration=0.2)" /><meta http-equiv="Page-Exit" content="blendTrans(Duration=0.2)" /><style type="text/css">
+	.ctl00_ContentPlaceHolder1_menuINP2_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
+	.ctl00_ContentPlaceHolder1_menuINP2_1 { text-decoration:none; }
+	.ctl00_ContentPlaceHolder1_menuINP2_2 {  }
+	.ctl00_ContentPlaceHolder1_menuINP2_3 { color:White;font-family:Arial;font-size:11px; }
+	.ctl00_ContentPlaceHolder1_menuINP2_4 { background-color:#00519B;height:30px;width:190px;padding:0px 4px 0px 4px; }
+	.ctl00_ContentPlaceHolder1_menuINP2_5 { background-color:#00519B;border-color:Black;border-width:1px;border-style:Solid;width:190px; }
+	.ctl00_ContentPlaceHolder1_menuINP2_6 { color:White;font-family:Arial;font-size:11px; }
+	.ctl00_ContentPlaceHolder1_menuINP2_7 { background-color:#00519B;height:30px;width:190px;padding:0px 4px 0px 4px; }
+	.ctl00_ContentPlaceHolder1_menuINP2_8 {  }
+	.ctl00_ContentPlaceHolder1_menuINP2_9 {  }
+	.ctl00_ContentPlaceHolder1_menuINP2_10 { background-color:#0066FF; }
+	.ctl00_ContentPlaceHolder1_menuINP2_11 {  }
+	.ctl00_ContentPlaceHolder1_menuINP2_12 { background-color:#0066FF; }
+
+</style></head>
+<body>
+    <form name="aspnetForm" method="post" action="./Basic_INP.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=EF7dgRL3NHRg-IqawtI-BPcRAmOK0f_Bbz4_9qq0OGzsYHhCcoRr5PAfRPocXr5l4DTkihLZTwXK8jgb403vehAvWCk1&amp;t=636765283264470882" type="text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=pp9f11mVBeOUTwyUH-88dsm3LsBx1mzWUrFNQQVOISVnaaWd1-YODECkrUbaPRFb-NVP9u3TgpOkyoDdlTjhdO9fGAs1&amp;t=636765283264470882" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="80F70287" />
+</div>
+    <div id="headerFull"><img src="Images/wahospitalpricing_header02.png" width="850px" height="110px" /></div>
+    <div id="wrapper">
+    <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <td>
+ 
+              
+            </td>
+        </tr>
+    </table>
+    <div id="divMenuContain">
+        <div id="divMenuInner">
+            <div class="menuItemNew1"><a href="Default.aspx" class="menuItemLink">Home</a></div>
+            <div class="menuItemNew2"><a href="Consumer.aspx" class="menuItemLink">Consumer Information</a></div>
+            <div class="menuItemNew3"><a href="Contact.aspx" class="menuItemLink">Contact</a></div>
+            <div class="menuItemNew4"><a href="http://www.wsha.org/page.cfm?ID=transparency" target="_blank" class="menuItemLink">Hospital Transparency Home</a></div>
+        </div>
+    </div>
+ 
+  
+
+
+    <table width="850" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <td width="3" bgcolor="#FFFFFF"><img src="~/Images/spacer.gif" height="1" width="3" /></td>
+            <td>
+                <table width="100%" align="center">
+                    <tr>
+                        <td>
+   
+                            <div>
+                                
+	<script type="text/jscript" language="javascript">
+		function popUp(URL) 
+		{
+			day = new Date();
+			id = day.getTime();
+			eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=250');");	
+		}
+	</script>
+	
+  
+    
+    <div id="ctl00_ContentPlaceHolder1_pnlStepOne">
+	
+    <br />
+        <p class="pageTitle">WSHA Hospital Pricing Page</p>
+        <b>Remember:</b>
+        <br />
+        The information being displayed is based on the average hospital charge for a specific service.  <i>This website does not provide information about what you will pay for your health care.
+        You need to contact your insurance company to determine the specific amount you will be expected to pay based upon your insurance policy.</i>
+        Click <a href="Basic_INP.aspx">here</a> for a list of insurance companies and contact numbers.
+        <p class="pageSubTitle">Start Using the Washington Hospital Price System</p>
+    <!--
+		<p class="pageTitle">Welcome to WSHA Hospital Pricing</p>
+        
+		This Web site allows health care consumers to receive basic, facility-specific information about services and charges at Washington hospitals. <br /><br />
+
+        The information being displayed is based on charges only. You will need to contact your insurer to determine the specific amount the insurer will pay and you will be expected to pay under your policy for the selected service.<br /><br />
+    
+        There are three simple steps to using the Washington Hospital PricePoint system to view and compare information on inpatient services.<br /><br />
+   -->         
+        <b>STEP ONE: Select a Hospital</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <br />
+        <!--
+        Select a hospital by choosing a county or city from the drop-down menu. Your selection will reveal another drop-down menu that lists all hospitals in that county or city.  On the results page you will be given the opportunity to select up to three hospitals for comparison. 
+        -->
+        <br />
+        
+        <table style="border: solid 1px #005A8C;" cellpadding="8" width="98%" bgcolor="#DAD9D9">
+            <tr>
+                <td>Select County:&nbsp;
+                    <select name="ctl00$ContentPlaceHolder1$ddlCounties" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ContentPlaceHolder1$ddlCounties\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_ContentPlaceHolder1_ddlCounties">
+		<option selected="selected" value="0">-- SELECT COUNTY --</option>
+		<option value="SHOWALL">*SHOW ALL FACILITIES</option>
+		<option value="Adams">Adams</option>
+		<option value="Asotin">Asotin</option>
+		<option value="Benton">Benton</option>
+		<option value="Chelan">Chelan</option>
+		<option value="Clallam">Clallam</option>
+		<option value="Clark">Clark</option>
+		<option value="Columbia">Columbia</option>
+		<option value="Cowlitz">Cowlitz</option>
+		<option value="Ferry">Ferry</option>
+		<option value="Franklin">Franklin</option>
+		<option value="Garfield">Garfield</option>
+		<option value="Grant">Grant</option>
+		<option value="Grays Harbor">Grays Harbor</option>
+		<option value="Island">Island</option>
+		<option value="Jefferson">Jefferson</option>
+		<option value="King">King</option>
+		<option value="Kitsap">Kitsap</option>
+		<option value="Kittitas">Kittitas</option>
+		<option value="Klickitat">Klickitat</option>
+		<option value="Lewis">Lewis</option>
+		<option value="Lincoln">Lincoln</option>
+		<option value="Mason">Mason</option>
+		<option value="Okanogan">Okanogan</option>
+		<option value="Pacific">Pacific</option>
+		<option value="Pend Oreille">Pend Oreille</option>
+		<option value="Pierce">Pierce</option>
+		<option value="San Juan">San Juan</option>
+		<option value="Skagit">Skagit</option>
+		<option value="Snohomish">Snohomish</option>
+		<option value="Spokane">Spokane</option>
+		<option value="Stevens">Stevens</option>
+		<option value="Thurston">Thurston</option>
+		<option value="Walla Walla">Walla Walla</option>
+		<option value="Whatcom">Whatcom</option>
+		<option value="Whitman">Whitman</option>
+		<option value="Yakima">Yakima</option>
+
+	</select>&nbsp;&nbsp;
+                    <b><i>or&nbsp;</i></b>&nbsp;Select City:&nbsp;
+                    <select name="ctl00$ContentPlaceHolder1$ddlCity" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ContentPlaceHolder1$ddlCity\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_ContentPlaceHolder1_ddlCity">
+		<option selected="selected" value="0">-- SELECT CITY --</option>
+		<option value="SHOWALL">*SHOW ALL FACILITIES</option>
+		<option value="Aberdeen">Aberdeen</option>
+		<option value="Anacortes">Anacortes</option>
+		<option value="Arlington">Arlington</option>
+		<option value="Auburn">Auburn</option>
+		<option value="Bellevue">Bellevue</option>
+		<option value="Bellingham">Bellingham</option>
+		<option value="Bremerton">Bremerton</option>
+		<option value="Brewster">Brewster</option>
+		<option value="Centralia">Centralia</option>
+		<option value="Chelan">Chelan</option>
+		<option value="Chewelah">Chewelah</option>
+		<option value="Clarkston">Clarkston</option>
+		<option value="Colfax">Colfax</option>
+		<option value="Colville">Colville</option>
+		<option value="Coupeville">Coupeville</option>
+		<option value="Davenport">Davenport</option>
+		<option value="Dayton">Dayton</option>
+		<option value="Edmonds">Edmonds</option>
+		<option value="Ellensburg">Ellensburg</option>
+		<option value="Elma">Elma</option>
+		<option value="Enumclaw">Enumclaw</option>
+		<option value="Ephrata">Ephrata</option>
+		<option value="Everett">Everett</option>
+		<option value="Federal Way">Federal Way</option>
+		<option value="Forks">Forks</option>
+		<option value="Friday Harbor">Friday Harbor</option>
+		<option value="Gig Harbor">Gig Harbor</option>
+		<option value="Goldendale">Goldendale</option>
+		<option value="Grand Coulee">Grand Coulee</option>
+		<option value="Ilwaco">Ilwaco</option>
+		<option value="Issaquah">Issaquah</option>
+		<option value="Kennewick">Kennewick</option>
+		<option value="Kirkland">Kirkland</option>
+		<option value="Lakewood">Lakewood</option>
+		<option value="Leavenworth">Leavenworth</option>
+		<option value="Longview">Longview</option>
+		<option value="Marysville">Marysville</option>
+		<option value="Monroe">Monroe</option>
+		<option value="Morton">Morton</option>
+		<option value="Moses Lake">Moses Lake</option>
+		<option value="Mount Vernon">Mount Vernon</option>
+		<option value="Newport">Newport</option>
+		<option value="Odessa">Odessa</option>
+		<option value="Olympia">Olympia</option>
+		<option value="Omak">Omak</option>
+		<option value="Othello">Othello</option>
+		<option value="Pasco">Pasco</option>
+		<option value="Pomeroy">Pomeroy</option>
+		<option value="Port Angeles">Port Angeles</option>
+		<option value="Port Townsend">Port Townsend</option>
+		<option value="Prosser">Prosser</option>
+		<option value="Pullman">Pullman</option>
+		<option value="Puyallup">Puyallup</option>
+		<option value="Quincy">Quincy</option>
+		<option value="Renton">Renton</option>
+		<option value="Republic">Republic</option>
+		<option value="Richland">Richland</option>
+		<option value="Ritzville">Ritzville</option>
+		<option value="Seattle">Seattle</option>
+		<option value="Sedro Woolley">Sedro Woolley</option>
+		<option value="Shelton">Shelton</option>
+		<option value="Snoqualmie">Snoqualmie</option>
+		<option value="South Bend">South Bend</option>
+		<option value="Spokane">Spokane</option>
+		<option value="Sunnyside">Sunnyside</option>
+		<option value="Tacoma">Tacoma</option>
+		<option value="Tonasket">Tonasket</option>
+		<option value="Toppenish">Toppenish</option>
+		<option value="Vancouver">Vancouver</option>
+		<option value="Walla Walla">Walla Walla</option>
+		<option value="Wenatchee">Wenatchee</option>
+		<option value="White Salmon">White Salmon</option>
+		<option value="Yakima">Yakima</option>
+
+	</select>
+                    <br /><br />
+                    
+                </td>
+            </tr>
+        </table>
+         
+        <br /> <br />  
+
+         <!--
+        <input type="submit" name="ctl00$ContentPlaceHolder1$btnNextStep" value="Next Step" id="ctl00_ContentPlaceHolder1_btnNextStep" />
+         -->
+
+    
+</div>
+
+    <div id="ctl00_ContentPlaceHolder1_pnlStepTwo">
+	
+        <b>STEP TWO: Select Service</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <br />
+        <!--
+        Using the menu below, select the type of service that you would like to view for the hospital you selected.<br />
+        -->
+        
+		<br />
+   
+		    <a id="ctl00_ContentPlaceHolder1_btnAdvanced" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$btnAdvanced&#39;,&#39;&#39;)">Show Comprehensive Service Selection</a>&nbsp;<a href="javascript:popUp('Help_advanced.html')"><img align="middle" src="images/help.gif" border="0" /></a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span id="ctl00_ContentPlaceHolder1_lblAPRDRGDescription"></span>
+
+        <br /><br />
+            
+             
+      
+        <div id="ctl00_ContentPlaceHolder1_pnlBasic">
+		
+            <table cellpadding="0" border=0 width="98%">
+                <tr>
+                    <td>
+                        <a href="#ctl00_ContentPlaceHolder1_menuINP2_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=FupavONMdmiLOLJqvWU12Qi6_9_gqxMVnfYYwjWX6prYPE6Huh9fzzA4Q0xwaNVuYt3aQt-tOtuM9yWe_a34S_0OOLk1&amp;t=636765283264470882" width="0" height="0" style="border-width:0px;" /></a><table id="ctl00_ContentPlaceHolder1_menuINP2" class="ctl00_ContentPlaceHolder1_menuINP2_5 ctl00_ContentPlaceHolder1_menuINP2_2" cellpadding="0" cellspacing="0" border="0">
+			<tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n0">
+				<td><table class="ctl00_ContentPlaceHolder1_menuINP2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_3" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;10 Most Common Types of Hospitalizations in WA&#39;)">10 Most Common Types of Hospitalizations in WA</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand 10 Most Common Types of Hospitalizations in WA" style="border-style:none;vertical-align:middle;" /></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n1">
+				<td><table class="ctl00_ContentPlaceHolder1_menuINP2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_3" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Alcohol and Drug Abuse&#39;)">Alcohol and Drug Abuse</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Alcohol and Drug Abuse" style="border-style:none;vertical-align:middle;" /></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n2">
+				<td><table class="ctl00_ContentPlaceHolder1_menuINP2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_3" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles&#39;)">Bones, Joints, Muscles</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Bones, Joints, Muscles" style="border-style:none;vertical-align:middle;" /></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n3">
+				<td><table class="ctl00_ContentPlaceHolder1_menuINP2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_3" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns&#39;)">Childbirth and Newborns</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Childbirth and Newborns" style="border-style:none;vertical-align:middle;" /></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n4">
+				<td><table class="ctl00_ContentPlaceHolder1_menuINP2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_3" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular&#39;)">Heart/Cardiovascular</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Heart/Cardiovascular" style="border-style:none;vertical-align:middle;" /></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n5">
+				<td><table class="ctl00_ContentPlaceHolder1_menuINP2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_3" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Psychiatric&#39;)">Psychiatric</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Psychiatric" style="border-style:none;vertical-align:middle;" /></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n6">
+				<td><table class="ctl00_ContentPlaceHolder1_menuINP2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_3" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;946&#39;)">Rehabilitation</a></td>
+					</tr>
+				</table></td>
+			</tr><tr onmouseover="Menu_HoverStatic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n7">
+				<td><table class="ctl00_ContentPlaceHolder1_menuINP2_4" cellpadding="0" cellspacing="0" border="0" width="100%">
+					<tr>
+						<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_3" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Stomach/Digestive&#39;)">Stomach/Digestive</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Stomach/Digestive" style="border-style:none;vertical-align:middle;" /></td>
+					</tr>
+				</table></td>
+			</tr>
+		</table><div id="ctl00_ContentPlaceHolder1_menuINP2n0Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n8">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;10 Most Common Types of Hospitalizations in WA\\795&#39;)">Normal Newborn</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n9">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;10 Most Common Types of Hospitalizations in WA\\775&#39;)">Vaginal Delivery wo Complicating Dxs</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n10">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;10 Most Common Types of Hospitalizations in WA\\470&#39;)">Maj Joint Replacement or Reattach of Low Extrem wo MCC</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n11">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;10 Most Common Types of Hospitalizations in WA\\766&#39;)">Cesarean Section wo CC/MCC</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n12">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;10 Most Common Types of Hospitalizations in WA\\794&#39;)">Neonate w Oth Sig Problems</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n13">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;10 Most Common Types of Hospitalizations in WA\\885&#39;)">Psychoses</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n14">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;10 Most Common Types of Hospitalizations in WA\\392&#39;)">Esoph Gastroent and Misc Digest Disord wo MCC</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n15">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;10 Most Common Types of Hospitalizations in WA\\871&#39;)">Septicemia or Severe Sepsis wo Mv 96+ Hours w MCC</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n16">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;10 Most Common Types of Hospitalizations in WA\\743&#39;)">Uter and Adnexa Proc for Non-Malig wo CC/MCC</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n17">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;10 Most Common Types of Hospitalizations in WA\\765&#39;)">Cesarean Section w CC/MCC</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n0ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n0ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n1Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n18">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Alcohol and Drug Abuse\\897&#39;)">Without Rehabilitation Therapy</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n19">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Alcohol and Drug Abuse\\894&#39;)">Left Hospital Against Medical Advice</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n20">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Alcohol and Drug Abuse\\895&#39;)">With Rehabilitation Therapy</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n1ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n1ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n2Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n21">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Hip/Knee/Ankle/Foot/Upper Arm&#39;)">Hip/Knee/Ankle/Foot/Upper Arm</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Hip/Knee/Ankle/Foot/Upper Arm" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n22">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\544&#39;)">Cancer of Bones or Connective Tissues; Disease-Related Fractures</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n23">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Back and Neck Problems&#39;)">Back and Neck Problems</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Back and Neck Problems" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n2ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n2ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n21Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n24">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Hip/Knee/Ankle/Foot/Upper Arm\\470&#39;)">Joint Replacement or Reattachment</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n25">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Hip/Knee/Ankle/Foot/Upper Arm\\Lower Leg and Upper Arm Procedures, Including Fracture Treatment&#39;)">Lower Leg and Upper Arm Procedures, Including Fracture Treatment</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Lower Leg and Upper Arm Procedures, Including Fracture Treatment" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n26">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Hip/Knee/Ankle/Foot/Upper Arm\\Other Hip and Thigh Bone Procedures&#39;)">Other Hip and Thigh Bone Procedures</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Other Hip and Thigh Bone Procedures" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n27">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Hip/Knee/Ankle/Foot/Upper Arm\\484&#39;)">Replacement or Reattachment of Shoulder/Upper Arm/Elbow/Forearm/Wrist/Hand</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n21ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n21ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n25Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n28">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Hip/Knee/Ankle/Foot/Upper Arm\\Lower Leg and Upper Arm Procedures, Including Fracture Treatment\\492&#39;)">Adult With Complications</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n29">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Hip/Knee/Ankle/Foot/Upper Arm\\Lower Leg and Upper Arm Procedures, Including Fracture Treatment\\493&#39;)">Adult Without Complications</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n30">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Hip/Knee/Ankle/Foot/Upper Arm\\Lower Leg and Upper Arm Procedures, Including Fracture Treatment\\494&#39;)">Child</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n25ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n25ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n26Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n31">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Hip/Knee/Ankle/Foot/Upper Arm\\Other Hip and Thigh Bone Procedures\\480&#39;)">Adult With Complications</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n32">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Hip/Knee/Ankle/Foot/Upper Arm\\Other Hip and Thigh Bone Procedures\\481&#39;)">Adult Without Complications</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n33">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Hip/Knee/Ankle/Foot/Upper Arm\\Other Hip and Thigh Bone Procedures\\482&#39;)">Child</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n26ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n26ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n23Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n34">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Back and Neck Problems\\Surgical&#39;)">Surgical</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Surgical" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n35">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Back and Neck Problems\\552&#39;)">Non-Surgical Hospitalizations for Back Problems</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n23ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n23ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n34Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n36">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Back and Neck Problems\\Surgical\\473&#39;)">Upper Spinal Fusion without Complications</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n37">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Back and Neck Problems\\Surgical\\471&#39;)">Upper Spinal Fusion with Complications</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n38">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Back and Neck Problems\\Surgical\\460&#39;)">Other Spinal Fusion without Complications</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n39">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Back and Neck Problems\\Surgical\\459&#39;)">Other Spinal Fusion with Complications</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n40">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Bones, Joints, Muscles\\Back and Neck Problems\\Surgical\\491&#39;)">Other Back and Neck Procedures without Complications</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n34ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n34ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n3Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n41">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Mother\&#39;s Hospital Stay&#39;)">Mother's Hospital Stay</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Mother&#39;s Hospital Stay" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n42">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Baby\&#39;s Hospital Stay&#39;)">Baby's Hospital Stay</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Baby&#39;s Hospital Stay" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n3ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n3ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n41Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n43">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Mother\&#39;s Hospital Stay\\Vaginal Delivery&#39;)">Vaginal Delivery</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Vaginal Delivery" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n44">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Mother\&#39;s Hospital Stay\\Cesarean Section&#39;)">Cesarean Section</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Cesarean Section" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n41ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n41ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n43Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n45">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Mother\&#39;s Hospital Stay\\Vaginal Delivery\\774&#39;)">With Complications</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n46">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Mother\&#39;s Hospital Stay\\Vaginal Delivery\\775&#39;)">Without Complications</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n47">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Mother\&#39;s Hospital Stay\\Vaginal Delivery\\767&#39;)">With Surgical Procedure with Sterilization</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n48">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Mother\&#39;s Hospital Stay\\Vaginal Delivery\\768&#39;)">With Other Surgical Procedure</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n43ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n43ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n44Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n49">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Mother\&#39;s Hospital Stay\\Cesarean Section\\765&#39;)">With Complications</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n50">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Mother\&#39;s Hospital Stay\\Cesarean Section\\766&#39;)">Without Complications</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n44ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n44ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n42Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n51">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Baby\&#39;s Hospital Stay\\Full-Term Infant&#39;)">Full-Term Infant</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Full-Term Infant" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n52">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Baby\&#39;s Hospital Stay\\Premature Birth&#39;)">Premature Birth</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Premature Birth" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n53">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Baby\&#39;s Hospital Stay\\789&#39;)">Baby Died or Transferred to Another Hospital</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n42ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n42ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n51Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n54">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Baby\&#39;s Hospital Stay\\Full-Term Infant\\795&#39;)">Normal Newborn</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n55">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Baby\&#39;s Hospital Stay\\Full-Term Infant\\793&#39;)">With Major Problems</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n51ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n51ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n52Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n56">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Baby\&#39;s Hospital Stay\\Premature Birth\\790&#39;)">Extreme Prematurity</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n57">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Baby\&#39;s Hospital Stay\\Premature Birth\\792&#39;)">Without Major Problems</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n58">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Childbirth and Newborns\\Baby\&#39;s Hospital Stay\\Premature Birth\\791&#39;)">With Major Problems</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n52ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n52ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n4Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n59">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\002&#39;)">Heart Transplant</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n60">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Heart Valve Procedures&#39;)">Heart Valve Procedures</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Heart Valve Procedures" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n61">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\293&#39;)">Heart Failure and Shock</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n62">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\313&#39;)">Chest Pain</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n63">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Implant of Stent (Tube Used to Keep Blood Vessels Open)&#39;)">Implant of Stent (Tube Used to Keep Blood Vessels Open)</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Implant of Stent (Tube Used to Keep Blood Vessels Open)" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n64">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Insertion of a Cardiac Catheter&#39;)">Insertion of a Cardiac Catheter</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Insertion of a Cardiac Catheter" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n65">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Bypass Surgeries&#39;)">Bypass Surgeries</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Bypass Surgeries" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n4ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n4ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n60Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n66">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Heart Valve Procedures\\221&#39;)">Without Insertion of Cardiac Catheter</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n67">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Heart Valve Procedures\\218&#39;)">With Insertion of Cardiac Catheter</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n60ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n60ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n63Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n68">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Implant of Stent (Tube Used to Keep Blood Vessels Open)\\Implant of Standard Stent&#39;)">Implant of Standard Stent</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Implant of Standard Stent" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n69">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Implant of Stent (Tube Used to Keep Blood Vessels Open)\\Implant of Drug-Coated Stent&#39;)">Implant of Drug-Coated Stent</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Implant of Drug-Coated Stent" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n63ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n63ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n68Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n70">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Implant of Stent (Tube Used to Keep Blood Vessels Open)\\Implant of Standard Stent\\248&#39;)">With Heart Attack</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n71">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Implant of Stent (Tube Used to Keep Blood Vessels Open)\\Implant of Standard Stent\\249&#39;)">Without Heart Attack</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n68ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n68ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n69Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n72">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Implant of Stent (Tube Used to Keep Blood Vessels Open)\\Implant of Drug-Coated Stent\\246&#39;)">With Heart Attack</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n73">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Implant of Stent (Tube Used to Keep Blood Vessels Open)\\Implant of Drug-Coated Stent\\247&#39;)">Without Heart Attack</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n69ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n69ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n64Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n74">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Insertion of a Cardiac Catheter\\234&#39;)">With Bypass Surgery</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n75">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Insertion of a Cardiac Catheter\\218&#39;)">With Heart Valve Procedure</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n76">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Insertion of a Cardiac Catheter\\286&#39;)">With Complications</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n77">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Insertion of a Cardiac Catheter\\287&#39;)">Without Complications</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n64ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n64ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n65Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n78">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Bypass Surgeries\\234&#39;)">With Insertion of Cardiac Catheter</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n79">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Bypass Surgeries\\Without Insertion of Cardiac Catheter&#39;)">Without Insertion of Cardiac Catheter</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Without Insertion of Cardiac Catheter" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n65ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n65ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n79Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n80">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Bypass Surgeries\\Without Insertion of Cardiac Catheter\\232&#39;)">With Angioplasty (Surgical Repair of Blood Vessel)</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n81">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Heart/Cardiovascular\\Bypass Surgeries\\Without Insertion of Cardiac Catheter\\236&#39;)">Without Angioplasty (Surgical Repair of Blood Vessel)</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n79ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n79ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n5Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n82">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Psychiatric\\881&#39;)">Depression</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n83">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Psychiatric\\876&#39;)">Surgeries Related to Diagnosis of Mental Illness</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n84">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Psychiatric\\880&#39;)">Severe Adjustment or Social Problems</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n85">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Psychiatric\\883&#39;)">Personality Disorders</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n86">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Psychiatric\\882&#39;)">Nervous Diseases Other Than Depression</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n87">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Psychiatric\\885&#39;)">Severe Psychological Disorders, Including Schizophrenia</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n88">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Psychiatric\\884&#39;)">Mental Retardation</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n89">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Psychiatric\\886&#39;)">Childhood Mental Disorders</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n90">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Psychiatric\\887&#39;)">Other Mental Disorders</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n5ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n5ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n7Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n91">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Stomach/Digestive\\Small and Large Bowel Procedures&#39;)">Small and Large Bowel Procedures</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Small and Large Bowel Procedures" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n92">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Stomach/Digestive\\Miscellaneous Digestive Disorders, Adult&#39;)">Miscellaneous Digestive Disorders, Adult</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Miscellaneous Digestive Disorders, Adult" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n7ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n7ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n91Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n93">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Stomach/Digestive\\Small and Large Bowel Procedures\\Minor Small and Large Bowel Procedures&#39;)">Minor Small and Large Bowel Procedures</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Minor Small and Large Bowel Procedures" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n94">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Stomach/Digestive\\Small and Large Bowel Procedures\\Major Small and Large Bowel Procedures&#39;)">Major Small and Large Bowel Procedures</a></td><td style="width:0;"><img src="/WebResource.axd?d=Q64lw2slvzl9-Wek2kdU-W8iNw_bV5I7sgXv4qDtayXk8x_NS-ZZeW0eEHM2fm769GrkV3EI-7suVeaOuoZlruNsxc01&amp;t=636765283264470882" alt="Expand Major Small and Large Bowel Procedures" style="border-style:none;vertical-align:middle;" /></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n91ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n91ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n93Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n95">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Stomach/Digestive\\Small and Large Bowel Procedures\\Minor Small and Large Bowel Procedures\\344&#39;)">With Complications</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n96">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Stomach/Digestive\\Small and Large Bowel Procedures\\Minor Small and Large Bowel Procedures\\346&#39;)">Without Complications</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n93ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n93ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n94Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n97">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Stomach/Digestive\\Small and Large Bowel Procedures\\Major Small and Large Bowel Procedures\\329&#39;)">With Complications</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n98">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Stomach/Digestive\\Small and Large Bowel Procedures\\Major Small and Large Bowel Procedures\\330&#39;)">Without Complications</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n94ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n94ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><div id="ctl00_ContentPlaceHolder1_menuINP2n92Items" class="ctl00_ContentPlaceHolder1_menuINP2_0 adjustedZIndex ctl00_ContentPlaceHolder1_menuINP2_8">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n99">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Stomach/Digestive\\Miscellaneous Digestive Disorders, Adult\\391&#39;)">With Complications</a></td>
+						</tr>
+					</table></td>
+				</tr><tr onmouseover="Menu_HoverDynamic(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(this)" id="ctl00_ContentPlaceHolder1_menuINP2n100">
+					<td><table class="ctl00_ContentPlaceHolder1_menuINP2_7" cellpadding="0" cellspacing="0" border="0" width="100%">
+						<tr>
+							<td style="width:100%;"><a class="ctl00_ContentPlaceHolder1_menuINP2_1 ctl00_ContentPlaceHolder1_menuINP2_6" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$menuINP2&#39;,&#39;Stomach/Digestive\\Miscellaneous Digestive Disorders, Adult\\392&#39;)">Without Complications</a></td>
+						</tr>
+					</table></td>
+				</tr>
+			</table><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n92ItemsUp" onmouseover="PopOut_Up(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=0qLI-JmZ4zDJdbeCKZ0cv4VoAfgLu0iLX1BKOWNByad6itB-1JoVGfXUdyTjV9SHshUZej7TefIz7Lcha-Jvjk60uOg1&amp;t=636765283264470882" alt="Scroll up" />
+			</div><div class="ctl00_ContentPlaceHolder1_menuINP2_7 ctl00_ContentPlaceHolder1_menuINP2_0" id="ctl00_ContentPlaceHolder1_menuINP2n92ItemsDn" onmouseover="PopOut_Down(this)" onmouseout="PopOut_Stop(this)" style="text-align:center;">
+				<img src="/WebResource.axd?d=ToZCmq4QKIyxg0G3mI2IUmUXaBnt_60qcqoGy4ZAYbeGnHQ8-D-n8dC0nhiOyYIQ_e6iXCc4dmHpVu9fnmwsdOapQmA1&amp;t=636765283264470882" alt="Scroll down" />
+			</div>
+		</div><a id="ctl00_ContentPlaceHolder1_menuINP2_SkipLink"></a>
+                    </td>
+                </tr>
+            </table>
+        
+	</div>
+
+        
+        
+    
+</div>
+    
+    <div id="ctl00_ContentPlaceHolder1_pnlStepThree" style="width:762px;">
+	
+    <br /><br />
+    <b>STEP THREE: Generate Report</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <br /><br />
+    Choose to create a report for your selected facility, or compare pricing for that facility with up to three additional facilities.<br /><br />
+    <center>
+    <span class="radioButtons"><input id="ctl00_ContentPlaceHolder1_rbReportTypeSingle" type="radio" name="ctl00$ContentPlaceHolder1$rbgReportType" value="rbReportTypeSingle" checked="checked" /><label for="ctl00_ContentPlaceHolder1_rbReportTypeSingle">Single Hospital</label></span>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <span class="radioButtons"><input id="ctl00_ContentPlaceHolder1_rbReportTypeCompare" type="radio" name="ctl00$ContentPlaceHolder1$rbgReportType" value="rbReportTypeCompare" /><label for="ctl00_ContentPlaceHolder1_rbReportTypeCompare">Compare Hospitals</label></span>
+    </center><br />
+   <!--	
+		<b>STEP THREE: Receive the Results</b><br /><br />
+	 
+		After you select a specific type of hospitalization, the following information will be displayed:
+		
+		<ul>
+			<li>
+				The name, address and telephone number of the hospital you selected.
+				<br />
+				<br />
+			</li>
+			<li>
+				The number of discharges, the average length of stay, and information about the average and median charges for (1) the selected hospital; (2) all hospitals 
+                in the selected county; (3) all hospitals with similar patient volume as the selected hospital; and (4) all Washington hospitals. <b>Please note that the charges 
+                listed are for hospital services only. They do not include physician charges such as those for a surgeon or anesthesiologist.</b>
+			
+				
+				<br /><br />
+				
+			</li>
+			<li>
+				Overall information about charges and payments to the selected hospital from different types of insurers. 
+				<br />
+				<br />
+				The bar graph shows the distribution of hospital charges for all patients by payer type (private insurance, Medicare, and Medicaid/other government programs). 
+				<br />
+				<br />
+				The next set of pie graphs illustrate the percentage of charges paid on behalf of patients with private insurance, Medicare, or Medicaid/other government 
+                coverage. <B>Please note that this information is not specific to the selected service. It refers to all services delivered by that hospital. </B>
+
+				<br />
+				<br />
+			</li>
+			<li>
+			A table detailing the health care charges for which the hospital did not receive payment because the patient qualified for free or reduced-charge care or because the patient failed to pay what was owed. </li>
+		</ul>
+		
+		<table align="center" cellpadding="5" cellspacing="0" class="bluetable">
+			<tr>
+				<td>
+					<b>Note:</b> More information about the results is available by clicking on the <img src="Images/help.gif" alt="Help" /> help icons.  
+					Also, if you use the "Back" button on your Internet browser to return to a previous comparison, be sure to click on the "Update" or 
+					"Refresh" button to ensure the correct comparison information is displayed.
+
+				</td>
+			</tr>
+		</table>
+		
+		<br /><br />
+	-->
+		<div style="width: 100%; text-align: center;"><input type="submit" name="ctl00$ContentPlaceHolder1$btnShowReport" value="View Results" id="ctl00_ContentPlaceHolder1_btnShowReport" style="width: 150px; height: 40px; font-size: 12pt; font-weight: bold; color: White; background-color: #00519B; border-style: none;" /></div>
+		
+    
+</div>
+    
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+    
+
+                            </div>
+    
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td width="3" bgcolor="#FFFFFF"><img src="~/Images/spacer.gif" height="1" width="3" /></td>
+        </tr>
+        <tr height="20">
+            <td colspan="3" align="center" bgcolor="#ffffff">
+                <small><font color="#00159B">Copyright &copy 2010-2019, Washington State Hospital Association, All rights reserved.</font></small>
+            </td>
+        </tr>
+    </table>
+    
+    <br /><br />
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_ContentPlaceHolder1_menuINP2_Data = new Object();
+ctl00_ContentPlaceHolder1_menuINP2_Data.disappearAfter = 500;
+ctl00_ContentPlaceHolder1_menuINP2_Data.horizontalOffset = 0;
+ctl00_ContentPlaceHolder1_menuINP2_Data.verticalOffset = 0;
+ctl00_ContentPlaceHolder1_menuINP2_Data.hoverClass = 'ctl00_ContentPlaceHolder1_menuINP2_12';
+ctl00_ContentPlaceHolder1_menuINP2_Data.hoverHyperLinkClass = 'ctl00_ContentPlaceHolder1_menuINP2_11';
+ctl00_ContentPlaceHolder1_menuINP2_Data.staticHoverClass = 'ctl00_ContentPlaceHolder1_menuINP2_10';
+ctl00_ContentPlaceHolder1_menuINP2_Data.staticHoverHyperLinkClass = 'ctl00_ContentPlaceHolder1_menuINP2_9';
+//]]>
+</script>
+</form>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-30879006-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+</body>
+</html>

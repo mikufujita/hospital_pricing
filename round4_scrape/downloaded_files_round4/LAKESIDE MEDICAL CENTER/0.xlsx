@@ -1,0 +1,637 @@
+
+<!DOCTYPE html>
+    <html lang="en">
+    <head id="ctl00_ctl00_Head1"><title>
+	Health Care District of Palm Beach County - hcdpbc.org
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta http-equiv='content-language' content='en' />
+
+  <link rel="canonical" href="https://www.hcdpbc.org" />
+
+  <meta name="generator" content="elcomCMS - http://elcomCMS.com" /><script src="/include/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="/include/js/responsiveimage.js" type="text/javascript"></script>
+<script type="text/javascript">var responsive_threshold= { small:0, medium:401, source:601 };
+</script>
+<script src="/include/js/validation.js" type="text/javascript"></script>
+<script src="/include/js/quicksearchcontroller.js" type="text/javascript"></script>
+<script src="/include/js/json.min.js" type="text/javascript"></script>
+<script src="/include/js/jquery.cycle.all.min.js" type="text/javascript"></script>
+<script type="text/javascript">$(function(){
+    $boris.init.carouselInit('#slide');
+});</script>
+<link type="text/css" rel="stylesheet" media="all" href="/include/css/bootstrap.min.css" /><link type="text/css" rel="stylesheet" media="all" href="/include/css/jqmodal.css" /><link type="text/css" href="/include/css/font-awesome.min.css" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" /><link href="/ecThemes/3/CSS/cms-modules.min.css" rel="stylesheet" type="text/css" media="screen,print,pdf" /><link href="/ecThemes/3/CSS/theme.min.css" rel="stylesheet" type="text/css" media="screen,print,pdf" /><link href="/ecThemes/3/CSS/print.min.css" rel="stylesheet" type="text/css" media="print,pdf" /><link href="/ecThemes/3/CSS/pdfStyles.min.css" rel="stylesheet" type="text/css" media="pdf" />
+        <script type="text/javascript" src="/ecThemes/3/JS/jquery.bxslider.min.js"></script>
+        <script type="text/javascript" src="/ecThemes/3/JS/jquery.fitvids.min.js"></script>
+        <script type="text/javascript" src="/include/js/jqmodal.js"></script>
+        <script type="text/javascript" src="/include/js/bootstrap.min.js"></script>
+        
+<script>
+$(function(){
+    $boris.init.home();
+});
+</script>
+<link href="/ecThemes/3/CSS/hcdpbc-styles.css" rel="stylesheet" type="text/css" media="screen,print,pdf" />
+        <!--[if lt IE 9]>
+            <link href="/ecThemes/3/CSS/ie8.min.css" rel="stylesheet" type="text/css" media="screen,print,pdf" />
+            <script type="text/javascript" src="/ecThemes/3/JS/ie8.min.js"></script>
+            <script type="text/javascript" src="/include/js/html5shiv.js"></script>
+            <script type="text/javascript" src="/ecThemes/3/JS/respond.min.js"></script>
+        <![endif]-->
+
+<!-- back to top -->
+<script>
+$(document).ready(function(){
+
+	// hide #back-top first
+	$("#back-top").hide();
+	
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 100) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+
+		// scroll body to 0px on click
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
+
+});
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-38623561-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-38623561-1');
+</script>
+
+
+    <link href="/Telerik.Web.UI.WebResource.axd?compress=1&amp;_TSM_CombinedScripts_=%3b%3bCMDotNet%3aen-US%3a1a9a48eb-cbcd-4126-ace6-9954bf2094e8%3a13c9d24e%3bCMDotNet.Skins%3aen-US%3a49a4231d-67b8-4215-9469-253e1ec86564%3ab5dc755c%3a301aceb2" type="text/css" rel="stylesheet" /></head>
+    <body id="ctl00_ctl00_BodyTag" class="cm-article13">
+        <form name="aspnetForm" method="post" action="./" id="aspnetForm">
+<div>
+<input type="hidden" name="returnurlforpage" id="returnurlforpage" value="/" />
+<input type="hidden" name="ctl00_ctl00_ctl14_TSSM" id="ctl00_ctl00_ctl14_TSSM" value="" />
+<input type="hidden" name="ctl00_ctl00_rsm_TSM" id="ctl00_ctl00_rsm_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYCAgMPFgIeBWNsYXNzBQxjbS1hcnRpY2xlMTMWAgIBD2QWAgISD2QWAgIDD2QWAmYPZBYCZg9kFgRmD2QWAgIDDxYCHglpbm5lcmh0bWwFkxA8aDIgY2xhc3M9InNyLW9ubHkiPlNsaWRlc2hvdzwvaDI+CjxkaXYgaWQ9InNsaWRlIiBjbGFzcz0iZnVsbC13aWR0aCI+DQo8ZGl2IGNsYXNzPSJzbGlkZS1oZWlnaHQtaG9tZSI+CjxpbWcgc3JjPSIvaW1hZ2VzL2Nhcm91c2VsLzk3M2UxNDE4LWJmYTUtNDFhYy04OTEyLTFlNWJmMGNkMjMwM19ocC1zbGlkZS10cmF1bWEtaGF3ay5qcGciIGFsdD0iVHJhdW1hIEhhd2sgZmxpZ2h0IGNyZXcgc3RhbmRpbmcgdG8gdGhlIGxlZnQgYW5kIHJpZ2h0IG9mIHRoZSBoZWxpY29wdGVyIiAvPgo8ZGl2IGNsYXNzPSJjb250ZW50Ij4KICAgICAgICA8cD48YSBocmVmPSJodHRwOi8vd3d3LmhjZHBiYy5vcmcvcHJvZ3JhbXMtc2VydmljZXMvdHJhdW1hLXN5c3RlbS90cmF1bWEtaGF3ayI+VHJhdW1hIFN5c3RlbTwvYT48L3A+CiA8L2Rpdj4KPC9kaXY+Cg0KPGRpdiBjbGFzcz0ic2xpZGUtaGVpZ2h0LWhvbWUiPgo8aW1nIHNyYz0iL2ltYWdlcy9jYXJvdXNlbC8wMTIyOGI5Mi02OTBhLTQ0NGItYmYzNy1lYzdhZGExZDk2N2JfaHAtc2xpZGUtc2Nob29sLWhlYWx0aC5qcGciIGFsdD0iQSBzY2hvb2wgbnVyc2UgbGlzdGVucyB0byB0aGUgaGVhcnQgYmVhdCBvZiBhIGxpdHRsZSBnaXJsIiAvPgo8ZGl2IGNsYXNzPSJjb250ZW50Ij4KICAgICAgICA8cD48YSBocmVmPSJodHRwOi8vd3d3LmhjZHBiYy5vcmcvcHJvZ3JhbXMtc2VydmljZXMvc2Nob29sLWhlYWx0aC1wcm9ncmFtIj5TY2hvb2wgSGVhbHRoPC9hPjwvcD4KIDwvZGl2Pgo8L2Rpdj4KDQo8ZGl2IGNsYXNzPSJzbGlkZS1oZWlnaHQtaG9tZSI+CjxpbWcgc3JjPSIvaW1hZ2VzL2Nhcm91c2VsL2Y1YmI4NTRiLTkzNDQtNDE2ZS1iYjBhLTE0ZTA2M2I5YWFhMV9CcnVtYmFjay1DbGluaWNzLUFkdWx0LUV4YV9OQ0NSVExvZ28uanBnIiBhbHQ9IkEgQnJ1bWJhY2sgQ2xpbmljIGRvY3RvciBmZWVscyB0aGUgbmVjayBvZiBhIHBhdGllbnQiIC8+CjxkaXYgY2xhc3M9ImNvbnRlbnQiPgogICAgICAgIDxwPjxhIGhyZWY9Imh0dHA6Ly9jbGJydW1iYWNrcHJpbWFyeWNhcmVjbGluaWNzLm9yZy8iPkJydW1iYWNrIENsaW5pY3M8L2E+PC9wPgogPC9kaXY+CjwvZGl2PgoNCjxkaXYgY2xhc3M9InNsaWRlLWhlaWdodC1ob21lIj4KPGltZyBzcmM9Ii9pbWFnZXMvY2Fyb3VzZWwvNjhhYzE2YjAtNjU0MC00MjAzLTk4NTgtMGE2M2Y1YThiZTIyX2hlYWx0aC1jb3ZlcmFnZS5qcGciIGFsdD0iQSBwaGFybWFjaXN0IGdyYWJzIG1lZGljYXRpb24gZnJvbSBhIHNoZWxmIiAvPgo8ZGl2IGNsYXNzPSJjb250ZW50Ij4KICAgICAgICA8cD48YSBocmVmPSJodHRwOi8vd3d3LmhjZHBiYy5vcmcvcHJvZ3JhbXMtc2VydmljZXMvaGVhbHRoLWNvdmVyYWdlIj5IZWFsdGggQ292ZXJhZ2U8L2E+PC9wPgogPC9kaXY+CjwvZGl2PgoNCjxkaXYgY2xhc3M9InNsaWRlLWhlaWdodC1ob21lIj4KPGltZyBzcmM9Ii9pbWFnZXMvY2Fyb3VzZWwvYjViMTNmNDktYTQxMC00NTU4LWI5ZTgtNTMyYmFlMTAwMzRjX2hwLXNsaWRlLWhvc3BpdGFsLmpwZyIgYWx0PSJUaGUgZnJvbnQgb2YgdGhlIExha2VzaWRlIE1lZGljYWwgQ2VudGVyIGJ1aWxkaW5nIGF0IG5pZ2h0IiAvPgo8ZGl2IGNsYXNzPSJjb250ZW50Ij4KICAgICAgICA8cD48YSBocmVmPSJodHRwOi8vd3d3LmhjZHBiYy5vcmcvaW5kZXguYXNweD9wYWdlPTM0MCI+TGFrZXNpZGUgTWVkaWNhbCBDZW50ZXI8L2E+PC9wPgogPC9kaXY+CjwvZGl2PgoNCjxkaXYgY2xhc3M9InNsaWRlLWhlaWdodC1ob21lIj4KPGltZyBzcmM9Ii9pbWFnZXMvY2Fyb3VzZWwvMzE2ZTEwMTItNDgxZS00YjUyLTg2YmQtZDI4ZDVlNjYwOTg4X2hwLXNsaWRlLWhlYWxleS1jZW50ZXIuanBnIiBhbHQ9IlRoZSBmcm9udCBlbnRyYW5jZSBvZiB0aGUgRWR3YXJkIEogSGVhbGV5IGJ1aWxkaW5nIiAvPgo8ZGl2IGNsYXNzPSJjb250ZW50Ij4KICAgICAgICA8cD48YSBocmVmPSJodHRwOi8vd3d3LmhjZHBiYy5vcmcvcHJvZ3JhbXMtLS1zZXJ2aWNlcy9oZWFsZXktY2VudGVyLXNraWxsZWQtbnVyc2luZy1jYXJlIj5IZWFsZXkgQ2VudGVyPC9hPjwvcD4KIDwvZGl2Pgo8L2Rpdj4KDQo8L2Rpdj4KDQpkAgEPZBYCAgMPEGRkFgBkGBMFKmN0bDAwJGN0bDAwJG5lc3RlZEFyZWFUd28kY3RsMDkkTXVsdGlWaWV3MQ8PZGZkBRxjdGwwMCRjdGwwMCRjdGwyMSRNdWx0aVZpZXcxDw9kZmQFKmN0bDAwJGN0bDAwJG5lc3RlZEFyZWFUd28kY3RsMDckTXVsdGlWaWV3MQ8PZGZkBRxjdGwwMCRjdGwwMCRjdGwyNyRNdWx0aVZpZXcxDw9kZmQFHGN0bDAwJGN0bDAwJGN0bDE3JE11bHRpVmlldzEPD2RmZAU7Y3RsMDAkY3RsMDAkbmVzdGVkQXJlYVR3byRmdWxsV2lkdGhGZWF0dXJlJGN0bDAwJE11bHRpVmlldzEPD2RmZAU1Y3RsMDAkY3RsMDAkX1NlYXJjaF8xMyRmb2xkZXJNYXN0ZXJwYWdlJGNib01hc3RlclBhZ2UPFCsAAgUrVXNlIFNlYXJjaCBwcmVzZXQgOiBtb2R1bGUgLSBzZWFyY2ggcmVzdWx0cwUEOTEwNGQFPmN0bDAwJGN0bDAwJG5lc3RlZEFyZWFUd28kbGFyZ2VGZWF0dXJlQ29udGVudCRjdGwwMSRNdWx0aVZpZXcxDw9kZmQFHGN0bDAwJGN0bDAwJGN0bDM0JE11bHRpVmlldzEPD2RmZAUqY3RsMDAkY3RsMDAkbmVzdGVkQXJlYVR3byRjdGwwMSRNdWx0aVZpZXcxDw9kZmQFHGN0bDAwJGN0bDAwJGN0bDMyJE11bHRpVmlldzEPD2RmZAUgY3RsMDAkY3RsMDAkX1NlYXJjaF8xMyRndkZpbHRlcnMPZ2QFHGN0bDAwJGN0bDAwJGN0bDE5JE11bHRpVmlldzEPD2RmZAUjY3RsMDAkY3RsMDAkX1NlYXJjaF8xMyRWaWV3RWRpdFZpZXcPD2RmZAUcY3RsMDAkY3RsMDAkY3RsMzAkTXVsdGlWaWV3MQ8PZGZkBSpjdGwwMCRjdGwwMCRuZXN0ZWRBcmVhVHdvJGN0bDA1JE11bHRpVmlldzEPD2RmZAUcY3RsMDAkY3RsMDAkY3RsMjUkTXVsdGlWaWV3MQ8PZGZkBSpjdGwwMCRjdGwwMCRuZXN0ZWRBcmVhVHdvJGN0bDAzJE11bHRpVmlldzEPD2RmZAU+Y3RsMDAkY3RsMDAkbmVzdGVkQXJlYVR3byRsYXJnZUZlYXR1cmVDb250ZW50JGN0bDAwJE11bHRpVmlldzEPD2RmZEO5p/7t6bunocUFob87ZttUdN3H" />
+</div>
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_ctl00_rsm_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.7.123%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a44981e4a-f654-4c69-b806-cb922fc13d56%3aea597d4b" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="541A68AF" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAZfy5Ejf7eeHDb1GNB8E1dVPhvEp5p47rg8F5cq0LEPoooSK9vEovPiVA2vuiMf8x74UbcpGcBjG1OUrFFHaiZh/AKRCqTa1TCPntZRgoZYdfkDr5mSyQtXU5loKWNl92CqJPZQzWuFRbvjYEw0cDWQAsB12g==" />
+</div><span></span>
+            
+
+
+            
+<div class="header">
+<div class="container">
+			<div class="preheader">
+				<div class="row">
+					<div class="col-sm-8">
+						<div class="lang-section dropdown">
+<div style="display: inline-block; float: left; margin-top: 7px;"><span class="fa fa-language" style="color:#11375E; font-size: 1.3em;"></span></div>
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+							
+						</div>
+						<div>
+							<span class="fa fa-phone" style="color:#67BF6B;"></span>&nbsp; 
+
+        561-659-1270&nbsp;|&nbsp;<a href="/Contact-Us/contact-us">Contact Us</a>&nbsp;&nbsp;
+<div class="btn-group" style="min-width: 340px;" aria-label="Change Current Site" tabindex="-1">
+<button class="btn btn-secondary btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="background: #ffffff; border: 1px solid #cccccc;" tabindex="-1">
+<img alt="Change current site logo" src="/Images/UserUploadedImages/417/ILoad847___Source.png" datasrc="/Images/UserUploadedImages/417/ILoad847___Source.png" class="responsive-image" style="width: 30px; padding-right: 5px;" />Change Current Site&nbsp;&nbsp;&nbsp;<img alt="down arrow" src="/images/UserUploadedImages/176/menuLeft_has_black.png" style="width: 8px; vertical-align: middle;" />
+</button>
+<div class="dropdown-menu" style="z-index: 99999; padding: 20px 10px 25px;" tabindex="-1">
+<a class="dropdown-item btn-responsive" href="/for-patients/primary-care-clinics">
+<img alt="C. L. Brumback Primary Care Clinics logo" src="/Images/UserUploadedImages/417/ILoad847___Source.png" datasrc="/Images/UserUploadedImages/417/ILoad847___Source.png" class="responsive-image" style="width: 30px; padding-right: 5px;" />C. L. Brumback Primary Care Clinics</a>
+<hr />
+<a class="dropdown-item btn-responsive" href="/for-patients/skilled-nursing-rehab"><img alt="Healey Center logo" src="/Images/UserUploadedImages/417/ILoad847___Source.png" datasrc="/Images/UserUploadedImages/417/ILoad847___Source.png" class="responsive-image" style="width: 30px; padding-right: 5px;" />Edward J. Healey Nursing &amp; Rehabilitation Center</a>
+<hr />
+<a class="dropdown-item btn-responsive" href="/for-patients/hospital"><img alt="Lakeside Medical Center logo" src="/Images/UserUploadedImages/19/ILoad968___Source.jpg" datasrc="/Images/UserUploadedImages/19/ILoad968___Source.jpg" class="responsive-image" style="width: 30px; padding-right: 5px;" />Lakeside Medical Center</a>
+</div>
+</div>
+        
+    
+
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="social-section">
+							
+
+        <a href="https://www.facebook.com/healthcaredistrict" class="fa fa-facebook" aria-label="Facebook"></a>
+<a href="https://twitter.com/healthcaredist" class="fa fa-twitter" aria-label="Twitter"></a>
+<a href="https://www.linkedin.com/company/health-care-district-of-palm-beach-county/" class="fa fa-linkedin" aria-label="LinkedIn"></a>
+<!--<a href="#" class="fa fa-google-plus" aria-label="Google Plus"></a>-->
+<a href="https://www.youtube.com/user/hcdpbc" class="fa fa-youtube" aria-label="YouTube"></a>
+<a href="https://www.instagram.com/healthcaredistrict/" class="fa fa-instagram" aria-label="Instragram"></a>
+        
+    
+
+						</div>
+					</div>
+				</div>	
+			</div>
+		</div>
+</div>
+<header>
+		<div class="container">
+			<nav  aria-label="Top Menu" class="navbar">
+		
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<div class="navbar-logo"> 
+
+        <a href="/"><img src="/Images/UserUploadedImages/188/hcdpbc-logo.png" alt="Health Care District of Palm Beach county logo" style="border: 0px solid;" aria-label="Health Care District of Palm Beach County home page" /></a>
+        
+    
+</div>
+				</div>
+				
+		
+                                   <div class="header-search pull-right">
+                                                        <a href="#" class="search-toggle" aria-label="Search"><span class="fa fa-search"></span></a>
+                                                              
+
+        <div id="_Search_13_SearchPanel" class="searchPanel ">
+	
+            
+            
+            
+            <label for="_Search_13_strSearchKeyword">Search all District sites</label>
+            <input name="ctl00$ctl00$_Search_13$strSearchKeyword" type="text" maxlength="50" id="_Search_13_strSearchKeyword" class="clsnormal555555 searchInput form-control" />
+            
+            <input name="ctl00$ctl00$_Search_13$textNewWindowWidth" type="hidden" id="_Search_13_textNewWindowWidth" />
+            <input name="ctl00$ctl00$_Search_13$textNewWindowHeight" type="hidden" id="_Search_13_textNewWindowHeight" />
+            <input name="ctl00$ctl00$_Search_13$textNewWindiwResize" type="hidden" id="_Search_13_textNewWindiwResize" />
+            
+            <a id="_Search_13_SearchLinkButton" class="btn btn-primary" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$_Search_13$SearchLinkButton&quot;, &quot;&quot;, true, &quot;SearchGroup_Module13__Search_13&quot;, &quot;&quot;, false, true))">Search</a>
+            
+            
+            <div id="_Search_13_QuickSearchPanel" class="quickSearchPanel">
+		
+                <div id="_Search_13_dynamicResults" class="dynamic-results" style="display: none;">
+                    <div id="_Search_13_dynamicResultsMask" class="dynamic-results-mask">
+                        Loading results...
+                    </div>
+                    <div id="_Search_13_dynamicResultsInner" class="dynamic-results-inner">
+                    </div>
+                    <div id="_Search_13_dynamicResultsLinks" class="dynamic-results-links">
+                        <a id="_Search_13_moreResults" class="more-results" onclick="javascript:document.getElementById(&#39;_Search_13_SearchLinkButton&#39;).click();">More Results</a>
+                        <a id="close-results">Close</a>
+                    </div>
+                </div>
+                <script type="text/javascript">
+                                  
+                    // Init in document.ready
+                    $(document).ready(function () {
+                        var myController_13 = new quickSearchController();
+                        var parentControl = $("#_Search_13_SearchPanel");   
+                        myController_13.init(parentControl, 13, 4, 500, 15);
+                    });
+
+                </script>
+            
+	</div>
+        
+</div>
+    
+    
+                                   </div>
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				  <div class="nav navbar-nav navbar-right">
+					 <a id="main-menu" href="#" role="button" class="accessible-heading">Main Navigation</a>
+<ul class="hmenu menu7"><li class="iFOL184 first"><a href="https://www.hcdpbc.org/about-us"><span>About Us</span></a><ul><li class="iFOL228 first"><a href="https://www.hcdpbc.org/About-Us/awards-recognition"><span>Awards &amp; Recognition</span></a></li><li class="iFOL222"><a href="https://www.hcdpbc.org/About-Us/board-of-commissioners"><span>Board of Commissioners</span></a></li><li class="iFOL475"><a href="https://www.hcdpbc.org/About-Us/charter"><span>Charter</span></a></li><li class="iFOL238"><a href="https://www.hcdpbc.org/About-Us/in-the-community"><span>In the Community</span></a></li><li class="iFOL285"><a href="https://www.hcdpbc.org/About-Us/newsroom"><span>Newsroom</span></a></li><li class="iFOL226 last"><a href="https://www.hcdpbc.org/About-Us/timeline"><span>Timeline</span></a></li></ul></li><li class="iFOL411"><a href="https://www.hcdpbc.org/for-patients"><span>For Patients</span></a><ul><li class="iFOL233 first"><a href="https://www.hcdpbc.org/For-Patients/health-coverage"><span>Health Coverage</span></a><ul><li class="iFOL287 first"><a href="https://www.hcdpbc.org/For-Patients/Health-Coverage/district-cares-program"><span>District Cares Program</span></a></li><li class="iFOL288"><a href="https://www.hcdpbc.org/For-Patients/Health-Coverage/maternity-care-program"><span>Maternity Care Program</span></a></li><li class="iFOL289"><a href="https://www.hcdpbc.org/For-Patients/Health-Coverage/vita-health"><span>Vita Health</span></a></li><li class="iFOL290"><a href="https://www.hcdpbc.org/For-Patients/Health-Coverage/resource-links"><span>Resource Links</span></a></li><li class="iFOL291 last"><a href="https://www.hcdpbc.org/For-Patients/Health-Coverage/faqs-health-care-district-coverage-aca"><span>FAQs Health Care District Coverage &amp; ACA</span></a></li></ul></li><li class="iFOL236"><a href="https://www.hcdpbc.org/For-Patients/hospital"><span>Hospital</span></a><ul><li class="iFOL413 first"><a href="https://www.hcdpbc.org/for-patients/hospital/your-health-information"><span>Your Health Information</span></a></li><li class="iFOL414"><a href="https://www.hcdpbc.org/For-Patients/Hospital/billing-financial-assistance"><span>Billing &amp; Financial Assistance</span></a></li><li class="iFOL415"><a href="https://www.hcdpbc.org/for-patients/hospital/find-a-doctor"><span>Find A Doctor</span></a></li><li class="iFOL416"><a href="https://www.hcdpbc.org/for-patients/hospital/find-a-job"><span>Find A Job</span></a></li><li class="iFOL422"><a href="https://www.hcdpbc.org/for-patients/hospital/patient-services"><span>Patient Services</span></a></li><li class="iFOL425"><a href="https://www.hcdpbc.org/for-patients/hospital/visitors"><span>Visitors</span></a></li><li class="iFOL471"><a href="https://www.hcdpbc.org/for-patients/hospital/about-us"><span>About Us</span></a></li><li class="iFOL485"><a href="https://www.hcdpbc.org/for-patients/hospital/contact-us"><span>Contact Us</span></a></li><li class="iFOL486"><a href="https://www.hcdpbc.org/for-patients/hospital/provider-login"><span>Provider Login</span></a></li><li class="iFOL490 last"><a href="https://www.hcdpbc.org/for-patients/hospital/family-medicine-residency"><span>Family Medicine Residency</span></a></li></ul></li><li class="iFOL235"><a href="https://www.hcdpbc.org/For-Patients/primary-care-clinics"><span>Primary Care Clinics</span></a><ul><li class="iFOL521 first"><a href="https://www.hcdpbc.org/for-patients/primary-care-clinics/hours-locations"><span>Hours &amp; Locations</span></a></li><li class="iFOL531"><a href="https://www.hcdpbc.org/for-patients/primary-care-clinics/patient-services"><span>Patient Services</span></a></li><li class="iFOL540"><a href="https://www.hcdpbc.org/for-patients/primary-care-clinics/your-health-information"><span>Your Health Information</span></a></li><li class="iFOL544"><a href="https://www.hcdpbc.org/for-patients/primary-care-clinics/contact-us"><span>Contact Us</span></a></li><li class="iFOL549"><a href="https://www.hcdpbc.org/for-patients/primary-care-clinics/about-us"><span>About Us</span></a></li><li class="iFOL554 last"><a href="https://www.hcdpbc.org/for-patients/primary-care-clinics/find-a-job"><span>Find A Job</span></a></li></ul></li><li class="iFOL234"><a href="https://www.hcdpbc.org/For-Patients/school-health-program"><span>School Health Program</span></a><ul><li class="iFOL308 first"><a href="https://www.hcdpbc.org/For-Patients/School-Health-Program/role-of-the-school-nurse"><span>Role of the School Nurse</span></a></li><li class="iFOL309"><a href="https://www.hcdpbc.org/For-Patients/School-Health-Program/health-screenings"><span>Health Screenings</span></a></li><li class="iFOL310"><a href="https://www.hcdpbc.org/For-Patients/School-Health-Program/physical-exams-immunizations"><span>Physical Exams &amp; Immunizations</span></a></li><li class="iFOL404 last"><a href="https://www.hcdpbc.org/For-Patients/School-Health-Program/nurse-notes"><span>Nurse Notes</span></a></li></ul></li><li class="iFOL237"><a href="https://www.hcdpbc.org/for-patients/skilled-nursing-rehab"><span>Skilled Nursing &amp; Rehab</span></a></li><li class="iFOL232 last"><a href="https://www.hcdpbc.org/For-Patients/trauma-system"><span>Trauma System</span></a><ul><li class="iFOL277 first"><a href="https://www.hcdpbc.org/For-Patients/Trauma-System/coordinated-trauma-system"><span>Coordinated Trauma System</span></a></li><li class="iFOL278"><a href="https://www.hcdpbc.org/for-patients/trauma-system/trauma-hawk"><span>Trauma Hawk</span></a></li><li class="iFOL279"><a href="https://www.hcdpbc.org/For-Patients/Trauma-System/trauma-centers"><span>Trauma Centers</span></a></li><li class="iFOL280"><a href="https://www.hcdpbc.org/For-Patients/Trauma-System/trauma-agency"><span>Trauma Agency</span></a></li><li class="iFOL283"><a href="https://www.hcdpbc.org/For-Patients/Trauma-System/milestones-in-our-mission"><span>Milestones in our Mission</span></a></li><li class="iFOL284"><a href="https://www.hcdpbc.org/For-Patients/Trauma-System/education-and-prevention"><span>Education and Prevention</span></a></li><li class="iFOL336 last"><a href="https://www.hcdpbc.org/For-Patients/Trauma-System/profiles-of-success"><span>Profiles of Success</span></a></li></ul></li></ul></li><li class="iFOL412"><a href="https://www.hcdpbc.org/for-providers"><span>For Providers</span></a><ul><li class="iFOL580 first"><a href="https://www.hcdpbc.org/For-Providers/provider-portal-planlink-registration"><span>Provider Portal – PlanLink – Registration</span></a></li><li class="iFOL403"><a href="https://www.hcdpbc.org/For-Providers/bulletins-notices-newsletters"><span>Bulletins, Notices &amp; Newsletters</span></a></li><li class="iFOL304"><a href="https://www.hcdpbc.org/For-Providers/file-a-claim"><span>File a Claim</span></a><ul><li class="iFOL305 first last"><a href="https://www.hcdpbc.org/For-Providers/File-a-Claim/electronic-claim-transaction"><span>Electronic Claim Transaction</span></a></li></ul></li><li class="iFOL307"><a href="https://www.hcdpbc.org/For-Providers/handbook-directory-forms"><span>Handbook, Directory &amp; Forms</span></a></li><li class="iFOL303"><a href="https://www.hcdpbc.org/For-Providers/member-information-for-providers"><span>Member Information for Providers</span></a></li><li class="iFOL306"><a href="https://www.hcdpbc.org/For-Providers/pharmacy"><span>Pharmacy</span></a></li><li class="iFOL402"><a href="https://www.hcdpbc.org/For-Providers/prescription-legibility-state-law"><span>Prescription Legibility State Law</span></a></li><li class="iFOL401"><a href="https://www.hcdpbc.org/For-Providers/provider-representative-assistance-request-form"><span>Provider Representative Assistance Request Form</span></a></li><li class="iFOL331 last"><a href="https://www.hcdpbc.org/For-Providers/trauma-hawk-transport"><span>Trauma Hawk Transport</span></a></li></ul></li><li class="iFOL183"><a href="https://www.hcdpbc.org/resources"><span>Resources</span></a><ul><li class="iFOL227 first"><a href="https://www.hcdpbc.org/Resources/community-benefits-report"><span>Community Benefits Report</span></a></li><li class="iFOL224"><a href="https://www.hcdpbc.org/Resources/compliance"><span>Compliance</span></a></li><li class="iFOL273"><a href="https://www.hcdpbc.org/resources/financials"><span>Financials</span></a></li><li class="iFOL275"><a href="https://www.hcdpbc.org/Resources/public-meetings"><span>Public Meetings</span></a></li><li class="iFOL274"><a href="https://www.hcdpbc.org/resources/purchasing"><span>Purchasing</span></a></li><li class="iFOL332 last"><a href="https://www.hcdpbc.org/Resources/request-public-records"><span>Request Public Records</span></a></li></ul></li><li class="iFOL229 last"><a href="https://www.hcdpbc.org/about-us/careers"><span>Careers</span></a></li></ul></div>
+
+				</div>
+                <div class="skip-link">
+                                 
+
+
+                            </div><!-- /.navbar-collapse --><!-- /.container-fluid -->
+			</nav>
+		</div>
+	</header>
+
+
+
+                
+  <div id="content-area" class="container">
+                        <div class="row">
+                            <div id="breadcrumb-panel" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                <div id="breadcrumbs">
+                                                                   </div>
+                                <div id="utilities">
+                                    
+
+        <ul>
+    <li><a class="fontChange" id="small" href="#"><img alt="Decrease font size" src="/images/useruploadedimages/small-text-icon.gif" aria-label="Decrease font size button" /></a> </li>
+    <li><a class="fontChange" id="large" href="#"><img alt="Increase font size" src="/images/useruploadedimages/large-text-icon.gif" aria-label="Increase font size button" /></a> </li>
+    <li aria-label="Print page button"><a href="javascript:window.print()" rel="nofollow" title="Print Page" ><img alt="Print Page" src="https://www.hcdpbc.org/images/UserUploadedImages/print-icon.gif" style="vertical-align:middle;" /></a> </li>
+    <li aria-label="Print to P D F button"><a title="Print to PDF" href="/PrintToPDF.aspx?url=https%3a%2f%2fwww.hcdpbc.org%2f%3fPrintToPDF%3dTrue&amp;pagename=Health+Care+District+of+Palm+Beach+County" target="_New" rel="nofollow"><img alt="Print to PDF" src="https://www.hcdpbc.org/images/UserUploadedImages/pdf-icon.gif" style="vertical-align:middle;" /></a></li>
+    <li aria-label="Remind Me button" id="remind-me"> </li>
+    <li aria-label="Add Favorites button"> </li>
+</ul>
+        
+    
+
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+<section id="slider" class="slider">
+<div class="container">
+<div class="col-md-12">
+     <div class="fullWidthFeatureWrap">
+     
+        
+        <div id="ctl00_ctl00_nestedAreaTwo_fullWidthFeature_ctl00_divCarouselContents" class="carousel-contents"><h2 class="sr-only">Slideshow</h2>
+<div id="slide" class="full-width">
+<div class="slide-height-home">
+<img src="/images/carousel/973e1418-bfa5-41ac-8912-1e5bf0cd2303_hp-slide-trauma-hawk.jpg" alt="Trauma Hawk flight crew standing to the left and right of the helicopter" />
+<div class="content">
+        <p><a href="http://www.hcdpbc.org/programs-services/trauma-system/trauma-hawk">Trauma System</a></p>
+ </div>
+</div>
+
+<div class="slide-height-home">
+<img src="/images/carousel/01228b92-690a-444b-bf37-ec7ada1d967b_hp-slide-school-health.jpg" alt="A school nurse listens to the heart beat of a little girl" />
+<div class="content">
+        <p><a href="http://www.hcdpbc.org/programs-services/school-health-program">School Health</a></p>
+ </div>
+</div>
+
+<div class="slide-height-home">
+<img src="/images/carousel/f5bb854b-9344-416e-bb0a-14e063b9aaa1_Brumback-Clinics-Adult-Exa_NCCRTLogo.jpg" alt="A Brumback Clinic doctor feels the neck of a patient" />
+<div class="content">
+        <p><a href="http://clbrumbackprimarycareclinics.org/">Brumback Clinics</a></p>
+ </div>
+</div>
+
+<div class="slide-height-home">
+<img src="/images/carousel/68ac16b0-6540-4203-9858-0a63f5a8be22_health-coverage.jpg" alt="A pharmacist grabs medication from a shelf" />
+<div class="content">
+        <p><a href="http://www.hcdpbc.org/programs-services/health-coverage">Health Coverage</a></p>
+ </div>
+</div>
+
+<div class="slide-height-home">
+<img src="/images/carousel/b5b13f49-a410-4558-b9e8-532bae10034c_hp-slide-hospital.jpg" alt="The front of the Lakeside Medical Center building at night" />
+<div class="content">
+        <p><a href="http://www.hcdpbc.org/index.aspx?page=340">Lakeside Medical Center</a></p>
+ </div>
+</div>
+
+<div class="slide-height-home">
+<img src="/images/carousel/316e1012-481e-4b52-86bd-d28d5e660988_hp-slide-healey-center.jpg" alt="The front entrance of the Edward J Healey building" />
+<div class="content">
+        <p><a href="http://www.hcdpbc.org/programs---services/healey-center-skilled-nursing-care">Healey Center</a></p>
+ </div>
+</div>
+
+</div>
+
+</div>
+    
+
+    </div>
+</div></div>
+</section>
+
+<section id="banner" class="action-banner">
+<div class="container">
+
+
+        <div class="row">
+<div class="col-sm-12">
+<h2>Serving the health needs of the community for more than 30 years</h2>
+</div>
+</div>
+        
+    
+
+</div>
+</section>
+
+
+<section id="news" class="section-area">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+
+
+        <h2>Spotlight On...</h2>
+        
+    
+
+<div class="widget" id="Widget962">		<div class="widget-row flexBox">
+
+<div class="col-sm-4 no-gutter-l">
+						<div class="post">
+							<div class="post-thumbmail">
+								<a href="https://www.hcdpbc.org/about-us/newsroom/2019/june/health-care-district-s-trauma-nurse-outreach-coordinator-honored-with-palm-beach-county-ems-and-traffic-safety-awards"><img src="https://www.hcdpbc.org/Images/UserUploadedImages/573/DavidAward6-19-1.jpg" style="float:left" alt="David Summers receives Lifetime Achievement Award" /></a>
+
+							</div>
+							<div class="post-date">
+								<span></span>
+							</div>
+							<div class="post-text">
+								<h3><a href="https://www.hcdpbc.org/about-us/newsroom/2019/june/health-care-district-s-trauma-nurse-outreach-coordinator-honored-with-palm-beach-county-ems-and-traffic-safety-awards" title="">Health Care District&#8217;s Trauma Nurse Outreach Coordinator Honored  with Palm Beach County EMS and Traffic Safety Awards</a></h3>
+								<p>David Summers recognized for lifetime achievement </p>
+								<a href="https://www.hcdpbc.org/about-us/newsroom/2019/june/health-care-district-s-trauma-nurse-outreach-coordinator-honored-with-palm-beach-county-ems-and-traffic-safety-awards" title="" class="read-more">Read more</a>
+							</div>
+							
+						</div>
+					</div>
+<div class="col-sm-4 no-gutter-l">
+						<div class="post">
+							<div class="post-thumbmail">
+								<a href="https://www.hcdpbc.org/about-us/newsroom/2019/may/the-health-care-district-welcomes-the-county-s-new-fire-chief-to-the-trauma-hawk-aeromedical-hangar"><img src="https://www.hcdpbc.org/Images/UserUploadedImages/572/NewFireChiefThumb.jpg" style="float:left" alt="HCD staff welcomes new Fire Chief" /></a>
+
+							</div>
+							<div class="post-date">
+								<span></span>
+							</div>
+							<div class="post-text">
+								<h3><a href="https://www.hcdpbc.org/about-us/newsroom/2019/may/the-health-care-district-welcomes-the-county-s-new-fire-chief-to-the-trauma-hawk-aeromedical-hangar" title="">The Health Care District Welcomes the County&#8217;s New Fire Chief to the Trauma Hawk Aeromedical Hangar</a></h3>
+								<p>Fire Chief Reginald Duren gets a close-up look at the lifesaving aircraft </p>
+								<a href="https://www.hcdpbc.org/about-us/newsroom/2019/may/the-health-care-district-welcomes-the-county-s-new-fire-chief-to-the-trauma-hawk-aeromedical-hangar" title="" class="read-more">Read more</a>
+							</div>
+							
+						</div>
+					</div>
+
+<div class="col-sm-4 no-gutter-l">
+						<div class="post">
+							<div class="post-thumbmail">
+								<a href="https://www.hcdpbc.org/about-us/newsroom/2019/may/health-care-district-of-palm-beach-county-provides-stop-the-bleed-training-to-save-lives"><img src="https://www.hcdpbc.org/Images/UserUploadedImages/573/STB619-2.jpg" style="float:left" alt="David Summers provides tourniquet training" /></a>
+
+							</div>
+							<div class="post-date">
+								<span></span>
+							</div>
+							<div class="post-text">
+								<h3><a href="https://www.hcdpbc.org/about-us/newsroom/2019/may/health-care-district-of-palm-beach-county-provides-stop-the-bleed-training-to-save-lives" title="">Health Care District of Palm Beach County Provides &#8220;Stop the Bleed&#8221; Training to Save Lives</a></h3>
+								<p>In an emergency, would you know what to do to control life-threatening bleeding?</p>
+								<a href="https://www.hcdpbc.org/about-us/newsroom/2019/may/health-care-district-of-palm-beach-county-provides-stop-the-bleed-training-to-save-lives" title="" class="read-more">Read more</a>
+							</div>
+							
+						</div>
+					</div>
+
+	</div>
+</div>
+
+
+
+        <h3><a href="/about-us/newsroom/newsroom">View all news</a></h3>
+        
+    
+
+</div>
+</div>
+</div>
+</section>
+
+<section  id="video" class="action-banner">
+<div class="container">
+
+
+        <div class="row">
+<div class="col-sm-12">
+<h2>Who We Are</h2>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/wUMk22SraiE?rel=0" frameborder="0"></iframe>
+</div>
+</div>
+        
+    
+
+</div>
+</section>
+
+<section id="content" class="section-area">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+
+
+        <h2>Community Health Assessments</h2>
+        
+    
+
+
+        <p><span style="font-size: 16px;">In 2018, the Health Care District of Palm Beach County Board of Commissioners approved the&nbsp;</span><a class="document pdf" href="http://www.hcdpbc.org/ArticleDocuments/479/Lakeside%20Medical%20Center%202015-2018%20Implementation%20Strategy.pdf.aspx" target="_blank" cm:externalurltype="0" cm:displayas="link" cm:newwindow="true" cm:articlefileid="591" style="background-color: #ffffff; font-size: 16px;">Lakeside Medical Center 2015-2018 Implementation Strategy<span class="file-info">&nbsp;(<span class="file-type">PDF</span>)</span></a><span style="font-size: 16px;">.&nbsp;</span></p>
+<p>The 2017 <a class="document pdf" href="/ArticleDocuments/12/Community%20Health%20Improvement%20Plan%202017.pdf.aspx" target="_blank">Community Health Improvement Plan (CHIP)<span class="file-info">&nbsp;(<span class="file-type">PDF</span>)</span></a> is a collaborative effort by a diverse group of community leaders, stakeholders, Florida Department of Health in Palm Beach County and the Health Care District of Palm Beach County that serves as a directional roadmap committed to improving the health and quality of life of Palm Beach County residents.</p>
+<p>In 2016, the Health Council of Southeast Florida (HCSEF) was enlisted by the Health Care District and the Florida Department of Health in Palm Beach County to facilitate the <a class="document pdf" href="/ArticleDocuments/355/Community%20Health%20Needs%20Assessment%202016.pdf.aspx" target="_blank">Community Health Needs Assessment<span class="file-info">&nbsp;(<span class="file-type">PDF</span>)</span></a> to identify unmet health needs of community residents and to inform and guide future health planning initiatives to meet those needs.</p>
+<p>The 2016 <a class="document pdf" href="/ArticleDocuments/471/Glades%20Region%20Health%20Assessment.pdf.aspx" target="_blank" style="background-color: #ffffff;">Glades Region Health Assessment<span class="file-info">&nbsp;(<span class="file-type">PDF</span>)</span></a> is a subset of the overall Palm Beach County Community Health Needs Assessment.</p>
+<p>&nbsp;</p>
+<div class="row">
+<div class="col-xs-12 col-md-4" style="text-align: center;"><img class="responsive-image" src="/images/ajax-loader.gif" datasrc="/Images/UserUploadedImages/479/ILoad11280___Source.jpg" alt="Lakeside Medical Center 2015 through 2018 Implementation Strategy thumbnail cover." style="border: 0px solid; height: 300px; width: 232px;" /><br />
+<br />
+<div class="btn btn-primary btn-md" style="width: 100%;"><a class="document pdf" href="/ArticleDocuments/479/Lakeside%20Medical%20Center%202015-2018%20Implementation%20Strategy.pdf.aspx" target="_blank">2015-2018 Lakeside Medical Center<br />
+Implementation Strategy</a></div>
+<p>&nbsp;</p>
+</div>
+<div class="col-xs-12 col-md-4" style="text-align: center;"><img class="responsive-image" src="/images/ajax-loader.gif" datasrc="/Images/UserUploadedImages/12/ILoad11227___Source.jpg" alt="Community Health Improvement Plan 2017 thumbnail cover" style="border: 0px solid; width: 232px; height: 300px;" /><br />
+<br />
+<div class="btn btn-primary btn-md" style="width: 100%;"><a href="/ArticleDocuments/12/Community%20Health%20Improvement%20Plan%202017.pdf.aspx" target="_blank">2017 Community Health<br />
+Improvement Plan</a></div>
+<p>&nbsp;</p>
+</div>
+<div class="col-xs-12 col-md-4" style="text-align: center;"><img class="responsive-image" src="/images/ajax-loader.gif" datasrc="/Images/UserUploadedImages/12/ILoad11228___Source.jpg" alt="Community Health Needs Assessment 2016 thumbnail cover" style="border: 0px solid; height: 300px; width: 232px;" /><br />
+<br />
+<div class="btn btn-primary btn-md" style="width: 100%;"><a href="/ArticleDocuments/355/Community%20Health%20Needs%20Assessment%202016.pdf.aspx" target="_blank">2016 Community Health<br />
+Needs Assessment</a></div>
+<p>&nbsp;</p>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-4" style="text-align: center;"><img class="responsive-image" src="/images/ajax-loader.gif" datasrc="/Images/UserUploadedImages/12/ILoad11229___Source.jpg" alt="Community Health Needs Assessment 2016 Glades thumbnail cover" style="border: 0px solid; height: 300px; width: 232px;" /><br />
+<br />
+<div class="btn btn-primary btn-md" style="width: 100%;"><a href="/ArticleDocuments/471/Glades%20Region%20Health%20Assessment.pdf.aspx" target="_blank">2016 Glades Region<br />
+Health Assessment</a></div>
+<p>&nbsp;</p>
+</div>
+<div class="col-xs-12 col-md-4" style="text-align: center;"><img class="responsive-image" src="/images/ajax-loader.gif" datasrc="/Images/UserUploadedImages/12/ILoad11230___Source.jpg" alt="Palm Beach County Health Needs Assessment 2012 cover" style="border: 1px solid #cccccc; width: 232px; height: 300px;" /><br />
+<br />
+<div class="btn btn-primary btn-md" style="width: 100%;"><a class="document pdf" href="/ArticleDocuments/12/Palm%20Beach%20County%20Health%20Needs%20Assessment%202012.pdf.aspx" target="_blank">2012 Palm Beach County<br />
+Health Needs Assessment</a></div>
+<p>&nbsp;</p>
+</div>
+</div>
+        
+    
+
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+
+		<p id="back-top">
+		<a href="#top"><span></span>Top</a>
+	</p>
+
+<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 footer-left-section">
+					      
+
+        <h2>Support</h2>
+<ul>
+    <li><a href="/Contact-Us/contact-us">Contact Us</a></li>
+    <li><a class="document pdf" href="/ArticleDocuments/224/Notice%20of%20Privacy%20Practices.pdf.aspx" target="_blank">Notice of Privacy Practices<span class="file-info">&nbsp;(<span class="file-type">PDF</span>)</span></a></li>
+    <li><a href="/resources/compliance#privacy-policy-and-disclaimer">Privacy Policy &amp; Disclaimer</a></li>
+    <li><a class="document pdf" href="/ArticleDocuments/189/FEMA%20DR-4337-FL%20Public%20Notice.pdf.aspx" target="_blank" cm:articlefileid="480" cm:newwindow="true" cm:displayas="link" cm:externalurltype="0">FEMA DR-4337-FL Public Notice<span class="file-info">&nbsp;(<span class="file-type">PDF</span>)</span></a></li>
+    <li><a href="/resources/compliance#non-discrimination-notice">Non-discrimination Notice</a></li>
+    <li><a href="/resources/compliance#ada-notice">ADA Notice</a></li>
+    <li><a href="/resources/compliance#faa">Department of Transportation Notice</a></li>
+    <li><a href="https://eac.hcdpbc.org/EAC51/Login.aspx">Employee Access Center</a></li>
+</ul>
+        
+    
+
+				</div>
+				<div class="col-sm-4 footer-center-section">
+					                          
+
+        <h2>Public Meetings</h2>
+<h3><a href="/resources/public-meetings">see all meetings</a></h3>
+        
+    
+
+<div class="widget" id="Widget1104">	<div class="widget-row flexBox">
+<div class="col-md-12 no-gutters">
+        <h4><a href="https://www.hcdpbc.org/EventViewTrainingDetails.aspx?Bck=Y&amp;EventID=273&amp;m=0|0&amp;DisplayType=C" title="">C. L. Brumback Primary Care Clinics Finance Committee</a></h4>
+	<p><strong>Date: </strong><span class="mainItemDate">June 26, 2019</span></p>
+<p><strong>Location:</strong><br/><span class="mainItemEventLocationVenueName">Health Care District of Palm Beach County</span><br/><span class="mainItemEventLocationVenueAddr"><a href="https://www.google.com/maps?f=l&hl=en&q=1515+N.+Flagler+Drive%2c+Suite+101%2c+West+Palm+Beach%2c+Florida+33401" target="_blank">1515 N. Flagler Drive, Suite 101<br/>West Palm Beach, FL 33401</a></span></p>
+</div>
+</div>
+</div>
+
+
+				</div>
+				<div class="col-sm-4 footer-right-section">
+					              
+
+        <h2>Social Media</h2>
+<div class="row">
+<div class="col-xs-2  col-md-2">
+<a href="https://www.facebook.com/healthcaredistrict" aria-label="Visit us on Facebook" style="color: #ffffff;"><em aria-hidden="true" class="fa fa-facebook fa-2x"></em></a>
+</div>
+<div class="col-xs-2 col-md-2">
+<a href="https://www.twitter.com/healthcaredist" aria-label="Visit us on Twitter" style="color: #ffffff;"><em aria-hidden="true" class="fa fa-twitter fa-2x"></em></a>
+</div>
+<div class="col-xs-2 col-md-2">
+<a href="https://www.linkedin.com/company/health-care-district-of-palm-beach-county" aria-label="Visit us on LinkedIn" style="color: #ffffff;"><em aria-hidden="true" class="fa fa-linkedin fa-2x"></em></a>
+</div>
+<div class="col-xs-2 col-md-2">
+<a href="https://www.youtube.com/user/hcdpbc" aria-label="Visit us on YouTube" style="color: #ffffff;"><em aria-hidden="true" class="fa fa-youtube fa-2x"></em></a>
+</div>
+<div class="col-xs-2 col-md-2">
+<a href="https://www.instagram.com/healthcaredistrict/" aria-label="Visit us on Instagram" style="color: #ffffff;"><em aria-hidden="true" class="fa fa-instagram fa-2x"></em></a>
+</div>
+<div class="col-xs-2 col-md-2">
+</div>
+</div>
+        
+    
+
+				</div>
+			</div>
+<div class="row">
+				<div class="col-sm-12 footer-center-logo">
+					      
+
+        <a href="/"><img src="/Images/UserUploadedImages/189/logo-white.png" alt="White version of the Health Care District of Palm Beach County logo" style="border: 0px solid;" /></a>
+        
+    
+
+				</div>
+			</div>
+		</div>
+	</footer>
+            <div class="footer-bottom">
+	
+
+        <a href="/site-map/site-map">Sitemap</a>&nbsp;| &copy;
+<script language="JavaScript" type="text/javascript">
+    now = new Date
+    theYear=now.getYear()
+    if (theYear &lt; 1900)
+    theYear=theYear+1900
+    document.write(theYear)
+</script>
+Health Care District of Palm Beach County  
+        
+    
+
+    
+	</div>
+
+	<script src="/ecThemes/3/JS/jquery.sticky-kit.min.js"></script>	
+      <script type="text/javascript" src="/ecThemes/3/JS/scripts.min.js"></script>
+
+            
+
+
+        <div> <!-- Required elements which were missing (Added by CM to ensure masterpage integrity) -->
+	
+	
+	
+	
+	
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+;(function() {
+                        function loadHandler() {
+                            var hf = $get('ctl00_ctl00_ctl14_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';CMDotNet:en-US:1a9a48eb-cbcd-4126-ace6-9954bf2094e8:13c9d24e;CMDotNet.Skins:en-US:49a4231d-67b8-4215-9469-253e1ec86564:b5dc755c:301aceb2';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();//]]>
+</script>
+</form>
+ <script type="text/javascript">
+        var _monsido = _monsido || [];
+            _monsido.push(['_setDomainToken', 'imMRItuXUpfbKO9HzcX3sA']);
+            _monsido.push(['_withStatistics', 'false']);
+
+    </script>
+    <script async src="//cdn.monsido.com/tool/javascripts/monsido.js"></script>
+    </body>
+</html>

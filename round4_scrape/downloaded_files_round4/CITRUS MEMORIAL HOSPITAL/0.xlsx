@@ -1,0 +1,220 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="_ctl0_head"><title>
+	Healthcare Payment System - Browser Check
+</title><link href="Stylesheets/Styles.css" rel="stylesheet" type="text/css" /><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><script language='Javascript' src='Scripts/ClientScriptLibrary.js'></script></head>
+<body id="_ctl0_body">
+    <table id="_ctl0_documentHost" cellpadding="0" cellspacing="0" border="0" width="773">
+	<tr>
+		<td id="_ctl0_contentCell" valign="top" width="773">
+                <div id="_ctl0_documentBodyHost">
+                    <form name="aspnetForm" method="post" action="./Requirements.aspx?redirect=http%253a%252f%252fhps.medcity.net%252fCustomerLogin.aspx%253fserviceLocationId%253dMjY2NzA%253d&amp;cookieTest=636969716904877213&amp;" id="aspnetForm">
+		<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="LDqvik0WuDCI9HUON7GUJu4sGnOLiIWF/lo0Ptk5m1dtd6iJQgvmaoML0gm9T4kEetvpiDAg3dD8k78ZIDr5XRwBsCyRGyjIuG+L0wgByfE4+1kxt6ytAjgWr/9eguRHjxgSELNX1IOH3ZfeFoffuTcyXW9MLgVRvbUp/OP77ev58HQNa1DrIzRuj7+KVycRrj40PO7wwqkRR7TkCPyAHw/DL4WfNucZr4dc3+3hFcpUKdWaPqgoNegbK9iKgIKFBDG3BwzLPi1BJh52ncDT0Kuaq9RqERBRoj4HzIOmdivZODQjavUZiU7eAYfef2HlVVkzCz2xZyaArq9V8lyxXwf9eGx0zj58n/WAoU4sbUb8r71asQThzjw/wQju3zho7BveddrKfeuAw4J5gT/Z5l2NYP4gtVCVvr8VksYwRrMJRFPTk7Grag1xAP4tj0ebkhuiXsI8y0TcPGvVUFuJ7R5G5JNlEtf/AXH6JwoQhD2ZPBVVG8T1eyLZltJWZnS5eGudDznJnAUTw4HAHNNpkt6mW9mBStuQOAmiVhwOxkL0CydseMqyDJBPTBFbuQKdaKH2SCx7P6nBRohTWIGDx7fOxBG4+pCip+oZSG8w3YEpLrzHvdC7FHkjrRVmrCPDyWSxZniy8DpUo5DInkrbyVktL9FEJayII1TsYgIEtk6zthtMcG9zX1Kmvj5WRWpcYJiW9QVJwkU5I+LG4kQVEQPVlt8p3u+/76tfFraUp+mnmzdGFKTut4WLLprEq83y" />
+
+		<script language='Javascript'>var ELEMENT_ID_BUSY_BROWSER_IMAGE = '_ctl0_browserBusyImage';</script><script language='Javascript'>var ELEMENT_ID_BODY_HOST = '_ctl0_documentBodyHost';var ELEMENT_ID_BUSY_BROWSER_HOST = '_ctl0_busyBrowserHost';var IS_DIALOG = 0;</script><script language='Javascript'>function HandleWindowOnLoad(){if(window.document.readyState && window.document.readyState != 'complete'){return;}body_OnLoad();;}</script>
+		<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="78C1BF72" />
+		<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+		<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="w1HADGzKau4MbTRKGk/NndWnsMotSKij9dcttOwQyBTgVw1oIxGxREynxaUv9SdRAkhW/WG+7vvX2CTzCoi+RGuMkQqtoq7QxggAifg3M6UaCse5exr7SSiIKrET6zkVJP8Lxd4MQAja/Xn4ph2ZkiQzQxavXCH+cdmTV8L9Q1WtBYK2iH/2EnnYJOJ6cVu+58uIizalD0bI1TBxREkpK7ZraDbLKXqk84mqZ1DCzpY=" />
+						<table id="_ctl0_documentBodyContentTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td id="_ctl0_documentBodyContentCell" style="padding-left: 3px; padding-right: 3px;" width="100%">
+									
+									<div id="_ctl0_errorMessagePnl" class="formError" style="display:none;padding-top:10px;">
+
+				</div>
+									
+	<script type="text/javascript" language="javascript">
+		var requirementsMet = false;
+		
+		function body_OnLoad ()
+		{
+			if(requirementsMet) 
+			{
+			    setTimeout(function() { document.getElementById('_ctl0_documentBody_hiddenButton').click(); }, 500);
+			}
+		}
+	</script>
+	<table cellspacing="0" cellpadding="0" class="mainTable">
+		<tr>
+			<td class="content">
+				<img src="Images/HpsLogo.gif" /><br />
+				<span id="_ctl0_documentBody_cookieDetect"></span>
+				<span id="_ctl0_documentBody_timeZoneHandler"><input name="_ctl0:documentBody:timeZoneHandler:timeZoneOffsetHdn" type="hidden" id="_ctl0_documentBody_timeZoneHandler_timeZoneOffsetHdn" />
+				<script language='javascript'>
+					var d = new Date();
+					var gmtHours = (d.getTimezoneOffset()/60)*-1;
+					if(document.getElementById('_ctl0_documentBody_timeZoneHandler_timeZoneOffsetHdn')) { document.getElementById('_ctl0_documentBody_timeZoneHandler_timeZoneOffsetHdn').value = gmtHours;}
+				</script></span>
+				
+				<div id="_ctl0_documentBody_javascriptPanel">
+					
+					<div id="_ctl0_documentBody_javascriptDiv">
+						<div class="formHeader">
+							Your browser does not appear to have javascript enabled. The Healthcare Payment System requires javascript in order to function
+							correctly. For assistance enabling javascript follow the steps below for your specific web browser. The If your browser
+							is not listed, please consult the help documentation for your browser.
+						</div>
+						<br />
+						<div class="formContentPlain, detail">
+							<p>
+								Internet Explorer (6.0)
+							</p>
+							<ol>
+								<li>Select <b>Tools</b> from the browser menu.</li>
+								<li>Choose <b>Internet Options</b>.</li>
+								<li>Click on the <b>Security</b> tab.</li>
+								<li>Click the <b>Custom Level </b>button.</li>
+								<li>Scroll down to the <b>Scripting</b> section.</li>
+								<li>Under <b>Active Scripting</b>, choose <b>Enable</b> and click <b>OK</b>.</li>
+							</ol>
+							<p>
+								Internet Explorer (7.0)</p>
+							<ol>
+								<li>Select <b>Tools</b> & <b>Internet Options</b>. </li>
+								<li>Click on the <b>Security</b> tab. </li>
+								<li>Click the <b>Custom Level </b>button. </li>
+								<li>Scroll down to the <b>Scripting</b> section.</li>
+								<li>Select <b>Enable</b> for <b>Active scripting</b>. </li>
+								<li>Click <b>OK</b>. </li>
+								<li>Choose <b>YES</b> if a box appears to confirm. </li>
+								<li>Click <b>OK</b>.</li>
+							</ol>
+							<p>
+								Mozilla Firefox (1.x)
+							</p>
+							<ol>
+								<li>Select <b>Tools</b> from the browser menu.</li>
+								<li>Choose <b>Options</b>.</li>
+								<li>Choose <b>Web Features</b> from the left navigation bar.</li>
+								<li>Check <b>Enable JavaScript</b> and click <b>OK</b>.</li>
+							</ol>
+							<p>
+								Mozilla Firefox (2.x)</p>
+							<ol>
+								<li>Select <b>Tools</b> from the browser menu.</li>
+								<li>Choose <b>Options</b>.</li>
+								<li>Click <b>Content</b> in the <b>Options</b> list. </li>
+								<li>Check <b>Enable JavaScript</b>. </li>
+								<li>Click the <b>Advanced</b> button to open <b>Advanced JavaScript Options</b>. </li>
+								<li>Check the boxes under <b>Allow scripts to</b>. </li>
+								<li>Click <b>OK</b>. </li>
+								<li>Click <b>OK</b>.</li>
+							</ol>
+							<p>
+								Apple Safari (1.0)
+							</p>
+							<ol>
+								<li>Select <b>Safari</b> from the browser menu.</li>
+								<li>Choose <b>Preferences</b>.</li>
+								<li>Choose <b>Security</b>.</li>
+								<li>Check <b>Enable JavaScript</b>.</li>
+							</ol>
+						</div>
+					</div>
+
+					<div id="_ctl0_documentBody_documentBodyDiv" style="display: none;">
+						Loading application, please wait...
+					</div>
+					
+					<input type="submit" name="_ctl0:documentBody:hiddenButton" value="" id="_ctl0_documentBody_hiddenButton" style="display: none;" />
+					
+					<script type='text/javascript'>
+						document.getElementById('_ctl0_documentBody_javascriptDiv').style.display = 'none';
+						document.getElementById('_ctl0_documentBody_documentBodyDiv').style.display = '';
+						requirementsMet = true;
+					</script>
+
+				
+				</div>
+			</td>
+		</tr>
+	</table>
+
+								</td>
+			</tr>
+		</table>
+		
+                    
+		<script language='Javascript'>window.onload = HandleWindowOnLoad;</script></form>
+                </div>
+				
+				<div id="_ctl0_busyBrowserHost" class="busyBrowserDiv" style="text-align: left; display: none;">
+			
+                    <span id="_ctl0_busyBrowserHandler"><table id="_ctl0_browserBusyMessageHost" align="Center" border="0" height="100%">
+				<tr valign="middle">
+					<td align="center"><img id="_ctl0_browserBusyImage" title="processing..." src="Images/BusyBrowser.gif" border="0" /></td>
+				</tr><tr>
+					<td align="center"><span id="_ctl0_browserBusyMessage" class="busyBrowserMessage">Loading Healthcare Payment System, please wait...</span></td>
+				</tr><tr>
+					<td>&nbsp;</td>
+				</tr>
+			</table></span>
+				
+		</div>
+            </td>
+	</tr>
+</table>
+
+	
+	
+	<script type="text/ecmascript">
+		pathToSiteRoot = '/';
+		omniturePageName = 'Requirements.aspx';
+	</script>
+	
+	<!-- SiteCatalyst code version: H.15.1. 
+	Copyright 1997-2008 Omniture, Inc. More info available at 
+	http://www.omniture.com --> 
+	<script language="JavaScript" type="text/javascript" src="Scripts/omniture_code.js"></script> 
+
+	<script language="JavaScript" type="text/javascript">
+	<!--
+		/* You may give each page an identifying name, server, and channel on 
+		the next lines. */
+
+		// set s.charset to match your page character encoding. 
+		s.charSet = "ISO-8859-1"
+
+		// Defaults
+		s.pageName = omniturePageName
+		s.pathExcludeList = "default.aspx"
+		s.server = "hps.medcity.net"
+		s.channel = ""
+		s.pageType = ""
+		s.prop1 = ""
+		s.prop2 = ""
+		s.prop3 = ""
+		s.prop4 = ""
+		s.prop5 = ""
+		s.prop6 = ""
+		s.prop7 = ""
+		s.prop8 = ""
+
+		s.eVar8 = ""
+		s.prop9 = ""
+		s.events = ""
+		s.products = ""
+
+		/* Conversion Variables */
+		s.campaign = ""
+		s.state = ""
+		s.zip = ""
+		s.purchaseID = ""
+		s.eVar1 = ""
+		s.eVar2 = ""
+		s.eVar3 = ""
+		s.eVar4 = ""
+		s.eVar5 = ""
+		s.eVar6 = ""
+		s.eVar7 = ""
+
+		/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+		var s_code = s.t(); if (s_code) document.write(s_code)
+		//-->
+	</script> 
+	<!--/DO NOT REMOVE/--> 
+	<!-- End SiteCatalyst code version: H.15.1. --> 
+	
+</body>
+</html>

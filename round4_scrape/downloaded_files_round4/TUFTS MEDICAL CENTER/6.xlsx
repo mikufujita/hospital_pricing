@@ -1,0 +1,1239 @@
+<!doctype html>
+
+<html>
+<head id="ctl00_pageHeader"><meta charset="utf-8" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><title>
+	E-CheckUp at Tufts Medical Center
+</title><meta name="viewport" content="width=1024, initial-scale=1, user-scalable=yes" /><link id="ctl00_canonical" rel="canonical" href="https://www.tuftsmedicalcenter.org/News-Events-Media/Publications/E-CheckUp" />
+        <link rel="stylesheet" href="/ui/css/jquery-ui.min.css">
+    
+        <link rel="stylesheet" type="text/css" href="/ui/css/bootstrap-3.3.7.min.css?v=1.0.3.14895"/>
+        <link rel="stylesheet" type="text/css" href="/ui/css/slick.min.css?v=1.0.3.14895" />
+        <link rel="stylesheet" type="text/css" href="/ui/css/slick-theme.min.css?v=1.0.3.14895" />
+        <link rel="stylesheet" type="text/css" href="/ui/css/styles.min.css?v=1.0.3.14895" />
+        <link rel="stylesheet" type="text/css" href="/ui/css/print.css?v=1.0.3.14895" />
+    
+
+  <!-- TypeKit Fonts -->
+  <script type="text/javascript">
+      (function() {
+          var config = {
+              kitId: 'scn0wuo',
+              scriptTimeout: 3000
+          };
+          var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
+      })();
+  </script>
+
+    
+
+      <!-- JSON-LD -->
+  <script>
+      var jsonData = 
+      {
+"@context": "http://schema.org",
+"@type": "LocalBusiness",
+"address": {
+"@type": "PostalAddress",
+"addressLocality": "",
+"addressRegion": "",
+"postalCode":"",
+"streetAddress": ""
+},
+"description": "Learn about E-CheckUp, the community e-newsletter for Tufts Medical Center in downtown Boston, MA.",
+"name": "E-CheckUp at Tufts Medical Center",
+"url" : "/News-Events-Media/Publications/E-CheckUp",
+"logo": "",
+"telephone": jQuery('.phone').text(),
+"openingHours": "",
+"geo": {
+"@type": "GeoCoordinates",
+"latitude": "",
+"longitude": ""
+},
+"sameAs" : []
+}
+
+      
+      var script = document.createElement('script');
+      script.type = "application/ld+json";
+      script.innerHTML = JSON.stringify(jsonData);
+      document.head.appendChild(script);
+  </script>
+  
+    <link rel="shortcut icon" type="image/x-icon" href="//www.tuftsmedicalcenter.org/favicon.ico?v=2" />
+  
+<meta name="VIcurrentDateTime" content="636969885810135782" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+<link href="/sitecore%20modules/shell/Web%20Forms%20for%20Marketers/themes/Default.css?v=17072012" rel="stylesheet" type="text/css" /><link href="/sitecore%20modules/shell/Web%20Forms%20for%20Marketers/themes/colors//jquery-ui.custom.Default.css" rel="stylesheet" type="text/css" /><link href="/sitecore%20modules/shell/Web%20Forms%20for%20Marketers/themes/colors/Default.css" rel="stylesheet" type="text/css" /><link href="/sitecore%20modules/shell/Web%20Forms%20for%20Marketers/themes/Custom.css" rel="stylesheet" type="text/css" /><meta property="og:image" content="http://www.tuftsmedicalcenter.org/ui/images/logo-tufts-medical-center-fb-share.png" /><meta property="og:image:secure_url" content="https://www.tuftsmedicalcenter.org/ui/images/logo-tufts-medical-center-fb-share.png" /><meta property="og:image:type" content="image/png" /><meta property="og:image:width" content="200" /><meta property="og:image:height" content="200" /><meta property="og:title" content="E-CheckUp at Tufts Medical Center" /><meta property="og:description" content="Learn about E-CheckUp, the community e-newsletter for Tufts Medical Center in downtown Boston, MA." /><meta itemprop="name" content="E-CheckUp at Tufts Medical Center" /><meta name="keywords" /><meta name="description" content="Learn about E-CheckUp, the community e-newsletter for Tufts Medical Center in downtown Boston, MA." /><meta itemprop="description" content="Learn about E-CheckUp, the community e-newsletter for Tufts Medical Center in downtown Boston, MA." /></head>
+
+<body class="tuftsMedicalCenter">
+    <script>
+        dataLayer = [];
+    </script>
+
+<!-- This snippet ensures that users only see your variant content, minimizing page flicker.-->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-TTLN4K':true});</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TTLN4K"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>    (function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-TTLN4K');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+<script src="https://iqapp.inquicker.com/assets/hold_my_place.js"></script>
+
+
+
+    <a class="skipNav" href="#skipToContent" id="top" role="link">Skip Navigation</a>
+    <header class="headerContainer">
+    <!-- header starts ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+        <div class="globalNavContainer" >
+        <!-- globalNavContainer -->
+            <aside id="ctl00_asideAlert" class="alertContainer" style="display:none;">
+			    <!-- alertContainer starts -->
+				    <div class="alertNotification">
+					    <span class="icon">Alert</span>
+				    </div>
+				    <div class="alertMessage">
+                        
+				    </div>
+				    <a href="#" class="alertClose">&times;</a>
+			    <!-- alertContainer ends -->
+			</aside>
+            <section class="content container">
+                <div class="row">
+                <!-- content starts -->
+                    
+<nav class="globalNav" role="navigation">
+<!-- globalNav starts -->
+    <ul id="ctl00_ctl06_ucGenericLinkList_htmlListControl">
+ 
+    <li>
+        <a id="ctl00_ctl06_ucGenericLinkList_rptItems_lnkResourceLink_0" href="/Contact-Us">Contact Us</a>
+    </li>
+    
+    <li>
+        <a id="ctl00_ctl06_ucGenericLinkList_rptItems_lnkResourceLink_1" href="/News-Events-Media">News + Media</a>
+    </li>
+    
+    <li>
+        <a id="ctl00_ctl06_ucGenericLinkList_rptItems_lnkResourceLink_2" href="http://jobs.tuftsmedicalcenter.org/">Careers</a>
+    </li>
+    
+    <li>
+        <a id="ctl00_ctl06_ucGenericLinkList_rptItems_lnkResourceLink_3" href="/Giving-Support">Giving + Support</a>
+    </li>
+    
+    <li>
+        <a id="ctl00_ctl06_ucGenericLinkList_rptItems_lnkResourceLink_4" href="/Referring-Physicians">Referring MDs</a>
+    </li>
+    
+    <li>
+        <a id="ctl00_ctl06_ucGenericLinkList_rptItems_lnkResourceLink_5" href="http://www.floatinghospital.org">Our Pediatric Hospital</a>
+    </li>
+    
+</ul>
+<!-- globalNav ends -->
+</nav>
+                    <div class="globalSearch">
+                    <!-- globalSearch starts -->
+                        <label>
+                            
+<span class="visuallyhidden" id="siteSearchLabel">Site Search</span>
+<input type="search" class="input-xlarge" id="sitesearchkeyword" name="sitesearchkeyword" placeholder="What can we help you find today?" data-clear-btn="false" aria-describedby="siteSearchLabel">
+                        </label>
+                    <!-- globalSearch ends -->
+                    </div>
+                <!-- content ends -->
+                </div>
+            </section>
+        <!-- globalNavContainer ends -->
+        </div>
+        <div class="globalSiteDetails">
+        <!-- globalSiteDetails starts -->
+            <section class="content container">
+                <!-- content starts -->
+                <div class="row d-flex df-fend">
+                    
+    <div class="col-xs-9 logo-container">
+        <div class="row logo">
+            <a href="/" class="main"><img
+                    src="/ui/images/logo-tufts-medical-center.png"
+                    alt="Tufts Medical Center"></a>
+
+            <a href="http://www.wellforce.org/" class="sub right">
+                <img src="/ui/images/ProudlyWF_logo_RGB_2018.png" alt="Proudly Wellforce"></a>
+
+            <a href="/" class="print"><img
+                    src="/ui/images/logo-tufts-medical-center-print.png"
+                    alt="Tufts Medical Center"></a>
+        </div>
+
+    </div>
+
+
+
+
+    <div class="col-xs-3 globalPageOptions text-right">
+        <div class="row">
+            <ul>
+                <li class="myMedicalCenter">
+                    <a class="btn" href="/myTuftsMedicalCenter">Patient Portals</a>
+                </li>
+                <li class="findADoctor">
+                    <a class="btn" href="/PhysicianDirectory/Search">Find a Doctor</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+
+
+
+                </div>
+                <!-- content ends -->
+            </section>
+        <!-- globalSiteDetails ends -->
+        </div>
+    <!-- header ends   ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+    </header>
+
+
+
+ 
+<form method="post" action="/News-Events-Media/Publications/E-CheckUp.aspx" id="mainform">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+
+<script src="/sitecore modules/web/web forms for marketers/scripts/jquery.js" type="text/javascript"></script>
+<script src="/sitecore modules/web/web forms for marketers/scripts/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/sitecore modules/web/web forms for marketers/scripts/jquery-ui-i18n.js" type="text/javascript"></script>
+<script src="/sitecore modules/web/web forms for marketers/scripts/json2.min.js" type="text/javascript"></script>
+<script src="/sitecore modules/web/web forms for marketers/scripts/head.load.min.js" type="text/javascript"></script>
+<script src="/sitecore modules/web/web forms for marketers/scripts/sc.webform.js?v=17072012" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+$scw(document).ready(function() {$scw('#form_E9C0858B0BE44C889703F136C5A4A628').webform({formId:"{E9C0858B-0BE4-4C88-9703-F136C5A4A628}"})});//]]>
+</script>
+
+<script src="/sitecore/shell/Controls/Lib/jQuery/jquery-1.10.2.min.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="42E3EE4A" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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" />
+</div>  
+<!-- site interactive navigation -->
+
+<nav class="t1NavContainer" role="navigation">
+<!-- nav starts ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+    <section class="content">
+        
+            <ul class="t1Nav">
+            <!-- t1Nav starts -->
+            
+            <li id="ctl02_rptNavigationItemsOuter_liMenuItem_0" class="t1NavLink" data-target="#targetMenu-1f7917a7-34be-43f8-bb5c-cea32208ef05">
+                <a id="ctl02_rptNavigationItemsOuter_lnkNavLink_0" aria-controls="targetMenu-1f7917a7-34be-43f8-bb5c-cea32208ef05" aria-expanded="false" href="/Patient-Care-Services">Patient Care <br>+ Services</a>
+                <span class="icon close"></span>
+            </li>
+            
+            <li id="ctl02_rptNavigationItemsOuter_liMenuItem_1" class="t1NavLink" data-target="#targetMenu-f2ce9241-4002-44bf-83da-2b35654cee47">
+                <a id="ctl02_rptNavigationItemsOuter_lnkNavLink_1" aria-controls="targetMenu-f2ce9241-4002-44bf-83da-2b35654cee47" aria-expanded="false" href="/Research-Clinical-Trials">Research <br>+ Clinical Trials</a>
+                <span class="icon close"></span>
+            </li>
+            
+            <li id="ctl02_rptNavigationItemsOuter_liMenuItem_2" class="t1NavLink" data-target="#targetMenu-ddac7ede-e16c-43bb-960b-13f965d52171">
+                <a id="ctl02_rptNavigationItemsOuter_lnkNavLink_2" aria-controls="targetMenu-ddac7ede-e16c-43bb-960b-13f965d52171" aria-expanded="false" href="/Training-Education">Training <br>+ Education</a>
+                <span class="icon close"></span>
+            </li>
+            
+            <li id="ctl02_rptNavigationItemsOuter_liMenuItem_3" class="t1NavLink" data-target="#targetMenu-30d635e4-cc34-47bc-a638-91ee4d3fc546">
+                <a id="ctl02_rptNavigationItemsOuter_lnkNavLink_3" aria-controls="targetMenu-30d635e4-cc34-47bc-a638-91ee4d3fc546" aria-expanded="false" href="/About-Us">About Tufts <br>Medical Center</a>
+                <span class="icon close"></span>
+            </li>
+            
+            <li id="ctl02_rptNavigationItemsOuter_liMenuItem_4" class="t1NavLink" data-target="#targetMenu-5f6a37a0-4543-454d-9fe3-5cff159a96b2">
+                <a id="ctl02_rptNavigationItemsOuter_lnkNavLink_4" aria-controls="targetMenu-5f6a37a0-4543-454d-9fe3-5cff159a96b2" aria-expanded="false" href="http://www.floatinghospital.org/">Visit Floating<br>Hospital for Children</a>
+                <span class="icon close"></span>
+            </li>
+            
+            <!-- t1Nav ends -->
+            </ul>
+        
+        <div class="quickSelectMenu">
+        <!-- quickSelectMenu starts -->
+            
+                <label>I Am A:
+                <select name="ctl02$ddlPersonaGlobalNav" id="ctl02_ddlPersonaGlobalNav" class="selectBox input-large" onchange="redirectToPageDDL(this)">
+	<option value="">Choose One</option>
+	<option value="/i-am-a/Patient">Patient</option>
+	<option value="/i-am-a/Family-or-Friend-of-Patient">Family or Friend of Patient</option>
+	<option value="/i-am-a/International-Patient">International Patient</option>
+	<option value="/Referring-Physicians">Referring Physician</option>
+	<option value="/i-am-a/Job-Seeker">Job Seeker</option>
+	<option value="/i-am-a/Researcher">Researcher</option>
+	<option value="/i-am-a/Medical-Student">Medical Student</option>
+	<option value="/i-am-a/Donor">Donor</option>
+
+</select>
+                </label>
+            
+        <!-- quickSelectMenu ends -->
+        </div>
+    </section>
+<!-- nav ends   ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+</nav>
+
+<div class="dhtmlMenuContainer container">
+<!-- dhtmlMenuContainer    ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+    <div class="content row">
+        
+        <nav class="dhtmlMenu" id="targetMenu-1f7917a7-34be-43f8-bb5c-cea32208ef05">
+        <!-- dhtmlMenu starts -->
+
+            <div class="leftRail">
+            <!-- leftRail -->
+
+                <article class="module sectionLinkList callout">
+                <!-- module sectionLinkList starts -->
+                    <article class="column">
+                    <!-- column starts -->
+                        
+                        
+<ul id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationDHTMLTabs_0_htmlListControl_0" class="dhtmlTabs" data-target="#targetMenuTabs-1f7917a7-34be-43f8-bb5c-cea32208ef05">
+ 
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationDHTMLTabs_0_rptItems_0_lnkResourceLink_0" href="/handlers/GetMenuItems.aspx?id=a0891dbe-b0bd-4c5d-93dd-6a47090634f1">Departments + Services</a>
+    </li>
+    
+</ul><ul id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationLinks_0_htmlListControl_0">
+ 
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationLinks_0_rptItems_0_lnkResourceLink_0" href="/patient-care-services">View All Patient Care + Services</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationLinks_0_rptItems_0_lnkResourceLink_1" href="/patient-care-services/Departments-and-Services">View All Departments</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationLinks_0_rptItems_0_lnkResourceLink_2" href="/patient-care-services/Conditions-We-Treat">Conditions We Treat</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationLinks_0_rptItems_0_lnkResourceLink_3" href="/patient-care-services/Your-Hospital-Stay">Your Hospital Stay</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationLinks_0_rptItems_0_lnkResourceLink_4" href="/patient-care-services/Visitor-Info">Visitor Information</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationLinks_0_rptItems_0_lnkResourceLink_5" href="/International-Patient-Services">International Patient Services</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationLinks_0_rptItems_0_lnkResourceLink_6" href="/patient-care-services/Patient-and-Family-Services">Support Services</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationLinks_0_rptItems_0_lnkResourceLink_7" href="/patient-care-services/Billing-and-Insurance">Paying Your Bill</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationLinks_0_rptItems_0_lnkResourceLink_8" href="/myTuftsMedicalCenter">myTuftsMedicalCenter Patient Portals</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationLinks_0_rptItems_0_lnkResourceLink_9" href="/patient-care-services/Financial-Assistance">Financial Assistance</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationLinks_0_rptItems_0_lnkResourceLink_10" href="/About-Us/Stories-from-Our-Patients">Share Your Story</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationLinks_0_rptItems_0_lnkResourceLink_11" href="/patient-care-services/Patient-Rights">Patient Rights</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_0_ucNavigationLinks_0_rptItems_0_lnkResourceLink_12" href="/patient-care-services/Meet-Your-Care-Team/Nursing">Nursing</a>
+    </li>
+    
+</ul>
+
+
+                              
+                    <!-- column ends -->
+                    </article>
+                <!-- module sectionLinkList ends -->
+                </article>
+
+                
+
+                
+            <!-- leftRail -->
+            </div>
+
+            <div class="rightContent">
+            <!-- rightContent -->
+
+                <div class="dhtmlTabContent" id="targetMenuTabs-1f7917a7-34be-43f8-bb5c-cea32208ef05"><!-- ajax data --></div>
+
+                <fieldset class="txtCenter">
+                    <a href="#" class="btn close">Close <i><img src="/ui/images/icon-close-up.png" alt="close"></i></a>
+                </fieldset>
+
+            <!-- rightContent -->
+            </div>
+
+        <!-- dhtmlMenu ends    ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+        </nav>
+        
+        <nav class="dhtmlMenu" id="targetMenu-f2ce9241-4002-44bf-83da-2b35654cee47">
+        <!-- dhtmlMenu starts -->
+
+            <div class="leftRail">
+            <!-- leftRail -->
+
+                <article class="module sectionLinkList callout">
+                <!-- module sectionLinkList starts -->
+                    <article class="column">
+                    <!-- column starts -->
+                        
+                        
+<ul id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_1_ucNavigationDHTMLTabs_1_htmlListControl_1" class="dhtmlTabs" data-target="#targetMenuTabs-f2ce9241-4002-44bf-83da-2b35654cee47">
+ 
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_1_ucNavigationDHTMLTabs_1_rptItems_1_lnkResourceLink_0" href="/handlers/GetMenuItems.aspx?id=51db5ee0-d4f9-463a-8294-0d075127260f">Research Institutes + Departmental Research</a>
+    </li>
+    
+</ul><ul id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_1_ucNavigationLinks_1_htmlListControl_1">
+ 
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_1_ucNavigationLinks_1_rptItems_1_lnkResourceLink_0" href="/Research-Clinical-Trials">View All Research + Clinical Trials</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_1_ucNavigationLinks_1_rptItems_1_lnkResourceLink_1" href="/ClinicalTrials/Search">Search Clinical Trials</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_1_ucNavigationLinks_1_rptItems_1_lnkResourceLink_2" href="/Research-Clinical-Trials/About-Research">About Research at Tufts Medical Center</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_1_ucNavigationLinks_1_rptItems_1_lnkResourceLink_3" href="/ClinicalTrials/Our-Researchers">Our Researchers</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_1_ucNavigationLinks_1_rptItems_1_lnkResourceLink_4" href="/Research-Clinical-Trials/Careers-and-Opportunities">Careers + Opportunities</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_1_ucNavigationLinks_1_rptItems_1_lnkResourceLink_5" href="/Research-Clinical-Trials/Partnerships-and-Collaborations">Partnerships + Collaborations</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_1_ucNavigationLinks_1_rptItems_1_lnkResourceLink_6" href="/Research-Clinical-Trials/Research-Offices-and-Contacts">Research Offices + Contacts</a>
+    </li>
+    
+</ul>
+
+
+                              
+                    <!-- column ends -->
+                    </article>
+                <!-- module sectionLinkList ends -->
+                </article>
+
+                
+
+                
+            <!-- leftRail -->
+            </div>
+
+            <div class="rightContent">
+            <!-- rightContent -->
+
+                <div class="dhtmlTabContent" id="targetMenuTabs-f2ce9241-4002-44bf-83da-2b35654cee47"><!-- ajax data --></div>
+
+                <fieldset class="txtCenter">
+                    <a href="#" class="btn close">Close <i><img src="/ui/images/icon-close-up.png" alt="close"></i></a>
+                </fieldset>
+
+            <!-- rightContent -->
+            </div>
+
+        <!-- dhtmlMenu ends    ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+        </nav>
+        
+        <nav class="dhtmlMenu" id="targetMenu-ddac7ede-e16c-43bb-960b-13f965d52171">
+        <!-- dhtmlMenu starts -->
+
+            <div class="leftRail">
+            <!-- leftRail -->
+
+                <article class="module sectionLinkList callout">
+                <!-- module sectionLinkList starts -->
+                    <article class="column">
+                    <!-- column starts -->
+                        
+                        
+<ul id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_2_ucNavigationDHTMLTabs_2_htmlListControl_2" class="dhtmlTabs" data-target="#targetMenuTabs-ddac7ede-e16c-43bb-960b-13f965d52171">
+ 
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_2_ucNavigationDHTMLTabs_2_rptItems_2_lnkResourceLink_0" href="/handlers/GetMenuItems.aspx?id=642dc9b5-7557-4568-af84-877af830a2de">Residencies + Fellowships</a>
+    </li>
+    
+</ul><ul id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_2_ucNavigationLinks_2_htmlListControl_2">
+ 
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_2_ucNavigationLinks_2_rptItems_2_lnkResourceLink_0" href="/Training-Education">View All Training + Education</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_2_ucNavigationLinks_2_rptItems_2_lnkResourceLink_1" href="/Training-Education/Meet-Our-Residents-and-Fellows">Meet Our Residents and Fellows</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_2_ucNavigationLinks_2_rptItems_2_lnkResourceLink_2" href="/Training-Education/Training-at-Tufts-Medical-Center">Training + Education at Tufts MC</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_2_ucNavigationLinks_2_rptItems_2_lnkResourceLink_3" href="/Training-Education/Continuing-Medical-Education">Continuing Medical Education</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_2_ucNavigationLinks_2_rptItems_2_lnkResourceLink_4" href="/Training-Education/Medical-Libraries-and-Resources">Medical Libraries and Resources</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_2_ucNavigationLinks_2_rptItems_2_lnkResourceLink_5" href="/Training-Education/GME-Office">Graduate Medical Education Office</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_2_ucNavigationLinks_2_rptItems_2_lnkResourceLink_6" href="/About-Us/Medical-Staff-Office">Medical Staff Office</a>
+    </li>
+    
+</ul>
+
+
+                              
+                    <!-- column ends -->
+                    </article>
+                <!-- module sectionLinkList ends -->
+                </article>
+
+                
+
+                
+            <!-- leftRail -->
+            </div>
+
+            <div class="rightContent">
+            <!-- rightContent -->
+
+                <div class="dhtmlTabContent" id="targetMenuTabs-ddac7ede-e16c-43bb-960b-13f965d52171"><!-- ajax data --></div>
+
+                <fieldset class="txtCenter">
+                    <a href="#" class="btn close">Close <i><img src="/ui/images/icon-close-up.png" alt="close"></i></a>
+                </fieldset>
+
+            <!-- rightContent -->
+            </div>
+
+        <!-- dhtmlMenu ends    ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+        </nav>
+        
+        <nav class="dhtmlMenu" id="targetMenu-30d635e4-cc34-47bc-a638-91ee4d3fc546">
+        <!-- dhtmlMenu starts -->
+
+            <div class="leftRail">
+            <!-- leftRail -->
+
+                <article class="module sectionLinkList callout">
+                <!-- module sectionLinkList starts -->
+                    <article class="column">
+                    <!-- column starts -->
+                        
+                        
+<ul id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_3_ucNavigationDHTMLTabs_3_htmlListControl_3" class="dhtmlTabs" data-target="#targetMenuTabs-30d635e4-cc34-47bc-a638-91ee4d3fc546">
+ 
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_3_ucNavigationDHTMLTabs_3_rptItems_3_lnkResourceLink_0" href="/handlers/GetMenuItems.aspx?id=db4fe0a1-e84f-4f57-8472-f207e1461ac6">About Tufts Medical Center</a>
+    </li>
+    
+</ul><ul id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_3_ucNavigationLinks_3_htmlListControl_3">
+ 
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_3_ucNavigationLinks_3_rptItems_3_lnkResourceLink_0" href="/About-Us">Learn All About Tufts Medical Center</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_3_ucNavigationLinks_3_rptItems_3_lnkResourceLink_1" href="/About-Us/Overview">Who We Are</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_3_ucNavigationLinks_3_rptItems_3_lnkResourceLink_2" href="/About-Us/Helpful-Phone-Numbers">Helpful Phone Numbers</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_3_ucNavigationLinks_3_rptItems_3_lnkResourceLink_3" href="/About-Us/History">History of Tufts Medical Center</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_3_ucNavigationLinks_3_rptItems_3_lnkResourceLink_4" href="/About-Us/Locations-and-Directions">Locations + Directions</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_3_ucNavigationLinks_3_rptItems_3_lnkResourceLink_5" href="/About-Us/Stories-from-Our-Patients">Share Your Story</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_3_ucNavigationLinks_3_rptItems_3_lnkResourceLink_6" href="/About-Us/Policies-and-Public-Documents">Policies + Public Documents</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_3_ucNavigationLinks_3_rptItems_3_lnkResourceLink_7" href="/About-Us/Quality-and-Safety">Quality + Safety</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_3_ucNavigationLinks_3_rptItems_3_lnkResourceLink_8" href="/About-Us/Recent-Awards-and-Recognitions">Recent Awards + Recognitions</a>
+    </li>
+    
+    <li>
+        <a id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_3_ucNavigationLinks_3_rptItems_3_lnkResourceLink_9" href="/patient-care-services/Patient-and-Family-Services/Volunteer-Services">Volunteer Services</a>
+    </li>
+    
+</ul>
+
+
+                              
+                    <!-- column ends -->
+                    </article>
+                <!-- module sectionLinkList ends -->
+                </article>
+
+                
+
+                
+            <!-- leftRail -->
+            </div>
+
+            <div class="rightContent">
+            <!-- rightContent -->
+
+                <div class="dhtmlTabContent" id="targetMenuTabs-30d635e4-cc34-47bc-a638-91ee4d3fc546"><!-- ajax data --></div>
+
+                <fieldset class="txtCenter">
+                    <a href="#" class="btn close">Close <i><img src="/ui/images/icon-close-up.png" alt="close"></i></a>
+                </fieldset>
+
+            <!-- rightContent -->
+            </div>
+
+        <!-- dhtmlMenu ends    ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+        </nav>
+        
+        <nav class="dhtmlMenu" id="targetMenu-5f6a37a0-4543-454d-9fe3-5cff159a96b2">
+        <!-- dhtmlMenu starts -->
+
+            <div class="leftRail">
+            <!-- leftRail -->
+
+                <article class="module sectionLinkList callout">
+                <!-- module sectionLinkList starts -->
+                    <article class="column">
+                    <!-- column starts -->
+                        
+                        
+<ul id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_4_ucNavigationDHTMLTabs_4_htmlListControl_4" class="dhtmlTabs">
+ 
+</ul><ul id="ctl02_rptNavigationItemsInner_ucSiteInteractiveNavigationLinks_4_ucNavigationLinks_4_htmlListControl_4">
+ 
+</ul>
+
+
+                              
+                    <!-- column ends -->
+                    </article>
+                <!-- module sectionLinkList ends -->
+                </article>
+
+                
+
+                
+            <!-- leftRail -->
+            </div>
+
+            <div class="rightContent">
+            <!-- rightContent -->
+
+                <div class="dhtmlTabContent" id="targetMenuTabs-5f6a37a0-4543-454d-9fe3-5cff159a96b2"><!-- ajax data --></div>
+
+                <fieldset class="txtCenter">
+                    <a href="#" class="btn close">Close <i><img src="/ui/images/icon-close-up.png" alt="close"></i></a>
+                </fieldset>
+
+            <!-- rightContent -->
+            </div>
+
+        <!-- dhtmlMenu ends    ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+        </nav>
+        
+    </div>
+<!-- dhtmlMenuContainer -->
+</div>
+
+
+
+
+
+    <div class="tierContentContainer" id="main" role="main">
+
+
+<!-- tierContentContainer starts ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+
+    
+    <div class="toolsMenuContainer">
+    <!-- toolsMenuContainer starts -->
+        <section class="content container" aria-label="warning- this area is for social-sharing and these links are not very accessible. proceed with caution.">
+            <a href="#" class="toolsButton" aria-controls="globalToolsMenu" aria-expanded="false">Tools</a>
+            <div class="toolsMenu" id="globalToolsMenu">
+                
+                    
+                    
+                    
+                
+                
+				
+				
+
+                <ul>
+                    <li><a href="javascript: window.print()" class="print">Print</a></li>
+                    <li><a href="#" class="textSizer">Text</a></li>
+                </ul>
+            </div>
+        </section>
+    <!-- toolsMenuContainer ends -->
+    </div>
+
+
+
+    <section class="content container" id="skipToContent">
+    <!-- content starts ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+
+        <!-- page header -->
+        
+<div class="mastHead">
+<!-- mastHead starts ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+    <h1>E-CheckUp</h1>
+    
+<!-- mastHead ends   ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+</div>
+
+        <!-- tabbed navigation -->
+        
+
+        <!-- back button -->
+        <div></div>
+
+        <div class="leftContent">
+        
+        
+
+        <!-- leftContent starts -->
+            
+            
+
+    <article class="module heroImage">
+    <!-- module heroImage starts -->
+        <figure><img id="content_0_imgHero" src="/-/media/Images/Slideshows/TuftsMC/640x357/CheckUp-EMasthead-MC-SignUp-Form-header.ashx" /></figure>
+    <!-- module heroImage ends -->
+    </article>
+
+
+    <article class="module structuredContent">
+        <p>Do you want to stay up-to-date on the latest health information and news from Tufts Medical Center? Sign-up for E-CheckUP, an e-newsletter for patients, physicians, staff and others who are interested in healthcare and the innovation happening at Tufts MC.</p>
+    </article>
+<div class='scfForm' id="form_E9C0858B0BE44C889703F136C5A4A628"><input type="hidden" name="form_E9C0858B0BE44C889703F136C5A4A628$formreference" id="form_E9C0858B0BE44C889703F136C5A4A628_formreference" value="form_E9C0858B0BE44C889703F136C5A4A628" /><h1 id="form_E9C0858B0BE44C889703F136C5A4A628_title" class="scfTitleBorder">
+	E-newsletter Sign-up
+</h1>
+<div id="form_E9C0858B0BE44C889703F136C5A4A628_intro" class="scfIntroBorder">
+	<p>Fill out the fields below to start receiving E-CheckUp!</p>
+</div>
+
+<div id="form_E9C0858B0BE44C889703F136C5A4A628_form_E9C0858B0BE44C889703F136C5A4A628_submitSummary" class="scfSubmitSummary" style="color:Red;">
+
+</div>
+<div id="form_E9C0858B0BE44C889703F136C5A4A628_fieldContainer">
+	<div class="scfSectionBorder">
+		<fieldset class="scfSectionBorderAsFieldSet">
+			<div class="scfSectionContent">
+				<div id="form_E9C0858B0BE44C889703F136C5A4A628_field_EB3013455CB744B8BEF870E83EEF07A6_scope" class="scfSingleLineTextBorder fieldid.%7bEB301345-5CB7-44B8-BEF8-70E83EEF07A6%7d name.Name">
+					<label for="form_E9C0858B0BE44C889703F136C5A4A628_field_EB3013455CB744B8BEF870E83EEF07A6" id="form_E9C0858B0BE44C889703F136C5A4A628_field_EB3013455CB744B8BEF870E83EEF07A6_text" class="scfSingleLineTextLabel">Name</label><div class="scfSingleLineGeneralPanel">
+						<input name="form_E9C0858B0BE44C889703F136C5A4A628$field_EB3013455CB744B8BEF870E83EEF07A6" type="text" maxlength="256" id="form_E9C0858B0BE44C889703F136C5A4A628_field_EB3013455CB744B8BEF870E83EEF07A6" class="scfSingleLineTextBox" /><span class="scfSingleLineTextUsefulInfo" style="display:none;"></span>
+					</div><span class="scfRequired">*</span>
+				</div><div id="form_E9C0858B0BE44C889703F136C5A4A628_field_633A4940DD8647BEBB644D52A23BA0FD_scope" class="scfEmailBorder fieldid.%7b633A4940-DD86-47BE-BB64-4D52A23BA0FD%7d name.E-mail">
+					<label for="form_E9C0858B0BE44C889703F136C5A4A628_field_633A4940DD8647BEBB644D52A23BA0FD" id="form_E9C0858B0BE44C889703F136C5A4A628_field_633A4940DD8647BEBB644D52A23BA0FD_text" class="scfEmailLabel">E-mail</label><div class="scfEmailGeneralPanel">
+						<input name="form_E9C0858B0BE44C889703F136C5A4A628$field_633A4940DD8647BEBB644D52A23BA0FD" type="text" id="form_E9C0858B0BE44C889703F136C5A4A628_field_633A4940DD8647BEBB644D52A23BA0FD" class="scfEmailTextBox" /><span class="scfEmailUsefulInfo" style="display:none;"></span>
+					</div><span class="scfRequired">*</span>
+				</div><div id="form_E9C0858B0BE44C889703F136C5A4A628_field_0A3292BAE64D47B88E2AC29FD92D380Escope" class="scfDropListBorder fieldid.%7b0A3292BA-E64D-47B8-8E2A-C29FD92D380E%7d name.Select+Interested+Specialties">
+					<label for="form_E9C0858B0BE44C889703F136C5A4A628_field_0A3292BAE64D47B88E2AC29FD92D380E" id="form_E9C0858B0BE44C889703F136C5A4A628_field_0A3292BAE64D47B88E2AC29FD92D380Etext" class="scfDropListLabel">Select Interested Specialties</label><div class="scfDropListGeneralPanel">
+						<select name="form_E9C0858B0BE44C889703F136C5A4A628$field_0A3292BAE64D47B88E2AC29FD92D380E" id="form_E9C0858B0BE44C889703F136C5A4A628_field_0A3292BAE64D47B88E2AC29FD92D380E" class="scfDropList">
+							<option value=""></option>
+							<option value="Allergy">Allergy</option>
+							<option value="Audiology">Audiology</option>
+							<option value="Bone Density">Bone Density</option>
+							<option value="CAT CT">CAT CT</option>
+							<option value="Cancer Center">Cancer Center</option>
+							<option value="Cardiac Surgery">Cardiac Surgery</option>
+							<option value="Cardiology">Cardiology</option>
+							<option value="CardioVascular Center">CardioVascular Center</option>
+							<option value="Child and Adolescent Psychiatry">Child and Adolescent Psychiatry</option>
+							<option value="Clinical Decision Making">Clinical Decision Making</option>
+							<option value="Colon and Rectal Surgery">Colon and Rectal Surgery</option>
+							<option value="Dentistry">Dentistry</option>
+							<option value="Dermatology">Dermatology</option>
+							<option value="Developmental Behavioral Pediatrics">Developmental Behavioral Pediatrics</option>
+							<option value="Emergency Services">Emergency Services</option>
+							<option value="Endocrinology">Endocrinology</option>
+							<option value="Gastroenterology">Gastroenterology</option>
+							<option value="General Pediatrics and Adolescent Medicine">General Pediatrics and Adolescent Medicine</option>
+							<option value="General Surgery">General Surgery</option>
+							<option value="Genetics and Metabolism">Genetics and Metabolism</option>
+							<option value="Geriatrics">Geriatrics</option>
+							<option value="Hematology Oncology">Hematology Oncology</option>
+							<option value="Hypertrophic Cardiomyopathy Center">Hypertrophic Cardiomyopathy Center</option>
+							<option value="Infectious Disease">Infectious Disease</option>
+							<option value="Institute for Clinical Research and Health Policy Studies">Institute for Clinical Research and Health Policy Studies</option>
+							<option value="LGBTQ Health">LGBTQ Health</option>
+							<option value="Mammography">Mammography</option>
+							<option value="Medicine Department of">Medicine Department of</option>
+							<option value="MRI">MRI</option>
+							<option value="Nephrology">Nephrology</option>
+							<option value="Neurology">Neurology</option>
+							<option value="Neurosurgery">Neurosurgery</option>
+							<option value="Newborn Medicine">Newborn Medicine</option>
+							<option value="Norfolk Specialty Center">Norfolk Specialty Center</option>
+							<option value="Nutrition">Nutrition</option>
+							<option value="OBGYN">OBGYN</option>
+							<option value="Occupational Therapy">Occupational Therapy</option>
+							<option value="Ophthalmology">Ophthalmology</option>
+							<option value="Orthopaedics">Orthopaedics</option>
+							<option value="Orthotics">Orthotics</option>
+							<option value="Ear Nose Throat Otolaryngology">Ear Nose Throat Otolaryngology</option>
+							<option value="Palliative Care">Palliative Care</option>
+							<option value="Anesthesiology">Anesthesiology</option>
+							<option value="Pathology and Lab Medicine">Pathology and Lab Medicine</option>
+							<option value="Pediatric Adolescent Gynecology">Pediatric Adolescent Gynecology</option>
+							<option value="Pediatric Cardiology">Pediatric Cardiology</option>
+							<option value="Pediatric Critical Care">Pediatric Critical Care</option>
+							<option value="Pediatric Dentistry">Pediatric Dentistry</option>
+							<option value="Pediatric Dermatology">Pediatric Dermatology</option>
+							<option value="Pediatric Emergency Medicine">Pediatric Emergency Medicine</option>
+							<option value="Pediatric Endocrinology">Pediatric Endocrinology</option>
+							<option value="Pediatric Gastroenterology and Nutrition">Pediatric Gastroenterology and Nutrition</option>
+							<option value="Pediatric Genetics and Metabolism">Pediatric Genetics and Metabolism</option>
+							<option value="Pediatric Hematology Oncology">Pediatric Hematology Oncology</option>
+							<option value="Pediatric Infectious Diseases">Pediatric Infectious Diseases</option>
+							<option value="Pediatric Nephrology">Pediatric Nephrology</option>
+							<option value="Pediatric Neurology">Pediatric Neurology</option>
+							<option value="Pediatric Neurosurgery">Pediatric Neurosurgery</option>
+							<option value="Pediatric Ophthalmology">Pediatric Ophthalmology</option>
+							<option value="Pediatric Orthopaedics">Pediatric Orthopaedics</option>
+							<option value="Pediatric Otolaryngology ENT">Pediatric Otolaryngology ENT</option>
+							<option value="Pediatric Physical Medicine and Rehabilitation">Pediatric Physical Medicine and Rehabilitation</option>
+							<option value="Pediatric Pulmonology and Allergy">Pediatric Pulmonology and Allergy</option>
+							<option value="Pediatric Radiology">Pediatric Radiology</option>
+							<option value="Pediatric Rheumatology">Pediatric Rheumatology</option>
+							<option value="Pediatric Surgery">Pediatric Surgery</option>
+							<option value="Pediatric Trauma">Pediatric Trauma</option>
+							<option value="Pediatric Urology">Pediatric Urology</option>
+							<option value="Physical Medicine and Rehabilitation">Physical Medicine and Rehabilitation</option>
+							<option value="Physical Therapy">Physical Therapy</option>
+							<option value="Plastic Surgery">Plastic Surgery</option>
+							<option value="Pratt Diagnostic Center">Pratt Diagnostic Center</option>
+							<option value="Primary Care">Primary Care</option>
+							<option value="Primary Care Framingham">Primary Care Framingham</option>
+							<option value="Primary Care Quincy">Primary Care Quincy</option>
+							<option value="Primary Care Wellesley">Primary Care Wellesley</option>
+							<option value="Primary Care Woburn">Primary Care Woburn</option>
+							<option value="Psychiatry">Psychiatry</option>
+							<option value="Pulmonology">Pulmonology</option>
+							<option value="Quincy Specialty Center">Quincy Specialty Center</option>
+							<option value="Radiation Oncology">Radiation Oncology</option>
+							<option value="Radiology">Radiology</option>
+							<option value="Rheumatology">Rheumatology</option>
+							<option value="Sleep Center">Sleep Center</option>
+							<option value="Specialty Center Framingham">Specialty Center Framingham</option>
+							<option value="Speech Language Pathology">Speech Language Pathology</option>
+							<option value="Spine Center">Spine Center</option>
+							<option value="Sports Medicine and Shoulder Program">Sports Medicine and Shoulder Program</option>
+							<option value="Stoneham Cancer Center">Stoneham Cancer Center</option>
+							<option value="Surgery Department of">Surgery Department of</option>
+							<option value="Surgical Critical Care">Surgical Critical Care</option>
+							<option value="Surgical Oncology">Surgical Oncology</option>
+							<option value="Thoracic Surgery">Thoracic Surgery</option>
+							<option value="Transplant Surgery">Transplant Surgery</option>
+							<option value="Trauma Surgery">Trauma Surgery</option>
+							<option value="Ultrasound">Ultrasound</option>
+							<option value="Urogynecology">Urogynecology</option>
+							<option value="Urology">Urology</option>
+							<option value="Vascular Surgery">Vascular Surgery</option>
+							<option value="Weight and Wellness Center">Weight and Wellness Center</option>
+							<option value="Wellesley Specialty Center">Wellesley Specialty Center</option>
+							<option value="X-Ray">X-Ray</option>
+
+						</select><span class="scfDropListUsefulInfo" style="display:none;"></span>
+					</div>
+				</div>
+			</div>
+		</fieldset>
+	</div>
+</div>
+<div id="form_E9C0858B0BE44C889703F136C5A4A628_footer" class="scfFooterBorder">
+
+</div>
+<div class="scfSubmitButtonBorder">
+	<input type="submit" name="form_E9C0858B0BE44C889703F136C5A4A628$form_E9C0858B0BE44C889703F136C5A4A628_submit" value="Submit" onclick="$scw.webform.lastSubmit = this.id;WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;form_E9C0858B0BE44C889703F136C5A4A628$form_E9C0858B0BE44C889703F136C5A4A628_submit&quot;, &quot;&quot;, true, &quot;form_E9C0858B0BE44C889703F136C5A4A628_submit&quot;, &quot;&quot;, false, false));$scw.webform.validators.setFocusToFirstNotValid(&#39;form_E9C0858B0BE44C889703F136C5A4A628_submit&#39;)" id="form_E9C0858B0BE44C889703F136C5A4A628_form_E9C0858B0BE44C889703F136C5A4A628_submit" class="scfSubmitButton" />
+</div>
+ 
+<input type="hidden" name="form_E9C0858B0BE44C889703F136C5A4A628$form_E9C0858B0BE44C889703F136C5A4A628_eventcount" id="form_E9C0858B0BE44C889703F136C5A4A628_form_E9C0858B0BE44C889703F136C5A4A628_eventcount" /><input type="hidden" name="form_E9C0858B0BE44C889703F136C5A4A628$form_E9C0858B0BE44C889703F136C5A4A628_anticsrf" id="form_E9C0858B0BE44C889703F136C5A4A628_form_E9C0858B0BE44C889703F136C5A4A628_anticsrf" value="hNyUSSHZI7nCJ4bDkUt1HYcmwARucQbbXGAVeHFh6qOmsqsKXY9Do8UitWHourfdyNHAKhjkBay7p4dp26WqgeDeX3UK8dHgghnqJfKfuzY1" /></div>
+        <!-- leftContent ends -->
+        </div>
+
+        
+            <section class="rightRail">
+                <!-- rightRail starts -->
+                
+    <nav class="t2NavContainer">
+        
+        <ul class="t2Nav">
+        
+                <li id="ucRightRailNav_rptNavItems_liCurrentElm_1">
+                    <a id="ucRightRailNav_rptNavItems_lnkMenuItem_1" href="/News-Events-Media/Media-Coverage">Media Coverage</a>
+                </li>
+                
+            
+                <li id="ucRightRailNav_rptNavItems_liCurrentElm_2">
+                    <a id="ucRightRailNav_rptNavItems_lnkMenuItem_2" href="/News-Events-Media/Media-Relations">Media Relations</a>
+                </li>
+                
+            
+                <li id="ucRightRailNav_rptNavItems_liCurrentElm_3">
+                    <a id="ucRightRailNav_rptNavItems_lnkMenuItem_3" href="/News-Events-Media/News-Archive">News Archive</a>
+                </li>
+                
+            
+                <li id="ucRightRailNav_rptNavItems_liCurrentElm_4" class="active">
+                    <a id="ucRightRailNav_rptNavItems_lnkMenuItem_4" href="/News-Events-Media/Publications">Publications</a>
+                </li>
+                
+<li class="t3Nav">
+    <ul>
+        
+                <li id="ucRightRailNav_rptNavItems_ucRightRailNavigation_4_rptNavItems_4_liCurrentElm_1">
+                    <a id="ucRightRailNav_rptNavItems_ucRightRailNavigation_4_rptNavItems_4_lnkMenuItem_1" href="/News-Events-Media/Publications/E-CheckUp">E-CheckUp</a>
+                </li>
+            
+    </ul>
+</li>
+
+            
+                <li id="ucRightRailNav_rptNavItems_liCurrentElm_5">
+                    <a id="ucRightRailNav_rptNavItems_lnkMenuItem_5" href="/News-Events-Media/Our-Experts">Our Experts</a>
+                </li>
+                
+            
+                <li id="ucRightRailNav_rptNavItems_liCurrentElm_6">
+                    <a id="ucRightRailNav_rptNavItems_lnkMenuItem_6" href="/News-Events-Media/Free-Use-Policy">Newsroom Free Use Policy</a>
+                </li>
+                
+            
+                <li id="ucRightRailNav_rptNavItems_liCurrentElm_7">
+                    <a id="ucRightRailNav_rptNavItems_lnkMenuItem_7" href="/News-Events-Media/Social-Media-Policy">Social Media Policy</a>
+                </li>
+                
+            
+        </ul>
+    </nav>
+
+
+    <article class="module promo">
+        <figure>
+            <a id="right_rail_0_lnkCalloutImageLink" href="/patient-care-services/Departments-and-Services"><img src="/-/media/Images/Callouts/Patient_280x174.ashx?h=174&amp;la=en&amp;w=280&amp;hash=030A161A42FB6339D2D2A1D0C2D7480E887C9C52" alt="Jeffrey Kuvin, MD with a patient at Tufts Medical Center." width="280" height="174" /></a>
+        </figure>
+        <div class="content">
+            <h2 id="calloutTitle-9ffe32a4-7dee-4eca-a558-c68a7f016219">Top Ranked Departments + Services</h2>
+            <p>
+                Boston Magazine ranks Tufts Medical Center doctors among the top 1% in the nation across more than a dozen specialties.
+            </p>
+            <a id="right_rail_0_lnkMoreInfo" class="mediaLink more" aria-describedby="calloutTitle-9ffe32a4-7dee-4eca-a558-c68a7f016219" href="/patient-care-services/Departments-and-Services">View all departments + services</a>
+        </div>
+    </article>
+
+                <!-- rightRail ends -->
+            </section>
+        
+
+    <!-- content ends   ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+    </section>
+
+<!-- tierContentContainer ends   ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+</div>
+ 
+</form> 
+
+
+<footer class="footerContainer">
+<!-- footer starts ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+    <section class="content container">
+
+        <hr>
+
+        <div class="row">
+            <div class="col-xs-6">
+                
+<article class="module footerNewsUpdates">
+    <div class="content container">
+        <h2>
+<p style="line-height: 125%;"><strong>Sign Up for Our Health E-Newsletter</strong></p>
+</h2>
+<p>Enjoy health&nbsp;updates for you and your family and learn more about Tufts Medical Center’s services.</p>
+		<div id="signupform">
+			<a href="/News-Events-Media/Publications/E-CheckUp" class="btn">Sign Up</a>
+		</div>
+    </div>
+</article>
+
+            </div>
+            <div class="col-xs-5 col-xs-offset-1">
+                
+
+    <article class="module footerSocialTabs">
+    <!-- module footerSocialTabs starts -->
+    <div class="content" id="socialfeedcontent">
+    <!-- content starts -->
+    <h2>Stay Connected</h2>
+        <ul>
+            <!-- tabNav starts -->
+                <li><a href="https://www.facebook.com/tuftsmedicalcenter" id="ctl01_ctl02_lnkFacebook" target="_blank" class="icon-facebook" aria-label="facebook"></a></li>
+                <li><a href="https://twitter.com/tuftsmedicalctr" id="ctl01_ctl02_lnkTwitter" target="_blank" class="icon-twitter" aria-label="twitter"></a></li>
+                <li><a href="https://www.youtube.com/user/tuftsmedicalcenter" id="ctl01_ctl02_lnkYoutube" target="_blank" class="icon-youtube" aria-label="youtube"></a></li>
+                <li><a href="https://www.linkedin.com/company/tufts-medical-center" id="ctl01_ctl02_lnkLinkedIn" target="_blank" class="icon-linkedin" aria-label="LinkedIn"></a></li>
+                <li><a href="https://www.instagram.com/tuftsmedicalcenter/" id="ctl01_ctl02_lnkInstagram" target="_blank" class="icon-instagram" aria-label="instagram"></a></li>
+            <!-- tabNav ends -->
+        </ul>
+        
+    <!-- content ends -->
+    </div>
+   
+    <!-- module footerSocialTabs ends -->
+    </article>
+
+
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row">
+            
+<section class="module footerAwardsInfo">
+    <div class="col-xs-4">
+                    <div class="row d-flex df-row">
+                        <div class="col-xs-6 text-right"><img src="/ui/images/2018_Vizient_Logo_Birnbaum_Award_mod.png" alt="" /></div>
+                        <div class="col-xs-6 df-as-fend">
+                            We are honored to receive
+                            Vizient’s 2018 Bernard A. Birnbaum, MD, Quality Leadership Award, 10th in the nation. Read more at
+                            <a href="https://tuftsmedicalcenter.org/top10">tuftsmedicalcenter.org/top10</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xs-4 text-center">
+                    <div class="logo">
+                        <img src="/ui/images/logo-footer-tufts-medical-center.png" alt="Tufts Medical Center" />
+                    </div>
+                    <address>800 Washington Street. <br />Boston MA 02111<br />617-636-5000</address>
+
+                </div>
+                <div class="col-xs-3 d-flex df-row">
+                    <div class="col-xs-12 df-as-fend">
+                        <a href="http://wellforce.org/" class="pull-right" style="margin-top: -28px;margin-right: -35px;">
+                            <img src="/ui/images/affiliation-wellforce.png" alt="wellforce" /></a>
+                        Tufts Medical Center is a proud member of&nbsp;the Wellforce family.
+                        Wellforce is a health system in Massachusetts
+                        focused on supporting clinicians and helping them focus on what they do best: <br />care for
+                        people.
+                    </div>
+                </div>
+</section>
+
+        </div>
+
+        <hr>
+        <div class="row footerAffiliatedOrganizations">
+            
+<article class="module footerAffiliatedOrganizations">
+    <div class="content">
+                    <div class="col-xs-4 text-center">
+                <dl>
+                    <dt>
+                        <a href="http://medicine.tufts.edu"><img src="/ui/images/affiliation-tufts-school-of-medicine.png" alt="Tufts School of Medicine" /></a>
+                    </dt>
+                    <dd>Tufts Medical Center is the principal teaching hospital of Tufts University School of
+                        Medicine.
+                    </dd>
+                </dl>
+            </div>
+            <div class="col-xs-4 text-center">
+                <dl>
+                    <dt><a href="http://www.floatinghospital.org/"><img src="/ui/images/affiliation-floating-hospital-for-children.png" alt="Floating hospital for Children" /></a></dt>
+                    <dd>Floating Hospital for Children is the full-service children's hospital of Tufts Medical
+                        Center. <a href="http://www.floatinghospital.org/">Visit floatinghospital.org</a></dd>
+                </dl>
+            </div>
+            <div class="col-xs-4 text-center">
+
+                <dl>
+                    <dt><a href="http://www.neqca.org/"><img src="/ui/images/affiliation-neqca.png" alt="NEQCA" /></a>
+                    </dt>
+                    <dd>New England Quality Care Alliance is the award winning, not for profit, physician
+                        network of Tufts Medical Center.
+                    </dd>
+                </dl>
+
+            </div>
+    </div>
+</article>
+        </div>
+
+    </section>
+
+    
+<section class="globalFooterNav">
+    <div class="content">
+        <div class="copyright">&copy; 2019 Tufts Medical Center</div>
+        <ul id="ctl01_ctl07_ucGenericLinkList_htmlListControl">
+ 
+    <li>
+        <a id="ctl01_ctl07_ucGenericLinkList_rptItems_lnkResourceLink_0" href="/Employee-Tools">Employee Tools</a>
+    </li>
+    
+    <li>
+        <a id="ctl01_ctl07_ucGenericLinkList_rptItems_lnkResourceLink_1" href="https://tuftsmedicalcenter.vendormate.com/vm/login.do">For Vendors</a>
+    </li>
+    
+    <li>
+        <a id="ctl01_ctl07_ucGenericLinkList_rptItems_lnkResourceLink_2" href="/Sitemap">Sitemap</a>
+    </li>
+    
+    <li>
+        <a id="ctl01_ctl07_ucGenericLinkList_rptItems_lnkResourceLink_3" href="/patient-care-services/Patient-Rights/Notice-of-NonDiscrimination">Notice of Non-Discrimination</a>
+    </li>
+    
+    <li>
+        <a id="ctl01_ctl07_ucGenericLinkList_rptItems_lnkResourceLink_4" href="/patient-care-services/Patient-Rights/HIPAA">Privacy Policy</a>
+    </li>
+    
+    <li>
+        <a id="ctl01_ctl07_ucGenericLinkList_rptItems_lnkResourceLink_5" href="/About-Us/Policies-and-Public-Documents/Terms-and-Conditions">Terms + Conditions</a>
+    </li>
+    
+</ul>
+    </div>
+</section>
+
+<!-- footer ends   ||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+</footer>
+
+
+<script type="text/javascript">
+    var require = {
+        baseUrl: "/ui/scripts/",
+        waitSeconds: 200,
+        urlArgs : "bust=1.0.3.14895",
+        deps : ['main.min']
+    };
+</script>
+<script src="/ui/scripts/libs/require.js"></script>
+
+
+
+
+
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//us1.siteimprove.com/js/siteanalyze_4.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+
+<!-- start number replacer -->
+<script type="text/javascript"><!--
+    vs_account_id = "CtjSZ1MHqigciQDh";
+//--></script>
+<script type="text/javascript" src="https://www.voicestar.com/euinc/number-changer.js">
+</script>
+<!-- end ad widget -->
+
+<script>
+    (function (d) {
+        var script = d.createElement('script');
+        script.type = 'text/javascript';
+        script.async = true;
+        script.src = 'https://offsiteSchedule.zocdoc.com/plugin/embed';
+        var s = d.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(script, s);
+    })(document);
+</script>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1022740521;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1022740521/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+    <!-- 
+      Site Version is 1.0.3.14895
+    -->
+
+
+</body>
+</html>

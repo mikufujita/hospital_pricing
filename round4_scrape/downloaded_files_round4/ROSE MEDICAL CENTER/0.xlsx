@@ -1,0 +1,3108 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us">
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<!-- To kick IE out of quirks mode so Respond.js works -->
+		<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+		<meta charset="utf-8"/>
+		<!-- <meta name="HandheldFriendly" content="true"/> --><!-- BlackBerry? -->
+		<!-- <meta name="MobileOptimized" content="width" /> --><!-- IE Mobile? -->
+
+				  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+<script>
+	var hcaGlobalTimeZones = [
+		{
+			currentUtcOffset: -14400000,
+			dstAbbr: "EDT",
+			abbr: "EST",
+			localeString: "America/New_York"
+		},
+		{
+			currentUtcOffset: -18000000,
+			abbr: "CST",
+			dstAbbr: "CDT",
+			localeString: "America/Chicago"
+		},
+		{
+			currentUtcOffset: -21600000,
+			dstAbbr: "MDT",
+			abbr: "MST",
+			localeString: "America/Denver"
+		},
+		{
+			currentUtcOffset: -25200000,
+			dstAbbr: "PDT",
+			abbr: "PST",
+			localeString: "America/Los_Angeles"
+		},
+		{
+			currentUtcOffset: -28800000,
+			dstAbbr: "ADT",
+			abbr: "AST",
+			localeString: "America/Anchorage"
+		},
+		{
+			currentUtcOffset: -36000000,
+			dstAbbr: "HDT",
+			abbr: "HST",
+			localeString: "Pacific/Honolulu"
+		}
+	];
+</script>
+
+      
+      
+  
+  
+				  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+
+
+			
+
+
+
+
+
+
+
+			
+								
+		
+		
+		
+		
+		
+							
+		
+								
+								
+		
+			
+		
+		
+		
+		
+					
+		 
+
+  
+  
+      
+              
+        
+          
+      
+      
+  
+  
+	<title>Page Not Found - 404 | Rose Medical Center</title>
+				<link rel="canonical" href="https://rosemed.com/design/error-pages/404.dot"/>
+
+
+
+
+
+
+
+
+
+
+	
+  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+      
+      
+  
+  
+<meta property="og:title" content="Page Not Found - 404"/>
+<meta property="og:type" content="Website"/>
+<meta property="og:url" content="https://rosemed.com/design/error-pages/404.dot"/>
+<meta property="og:image" content="https://rosemed.com/contentAsset/raw-data/e5bc4189-affe-4eb6-80e9-8329ad4aaadf/fullColorLogo"/>
+<meta property="og:site_name" content="Rose Medical Center"/>
+<meta property="og:description" content=""/>
+
+      
+      
+  
+  
+				  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+								
+		
+																		
+
+
+		
+
+
+
+
+
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org"
+	, "@type": "Hospital"
+	, "address": {
+		"@type": "PostalAddress"
+					, "addressLocality": "Denver"
+			, "addressRegion": "CO"
+			, "postalCode": "80220"
+			, "streetAddress": "4567 E. 9th Ave. "
+		
+	}
+			, "image": "https://rosemed.com"
+	, "description": ""
+	, "name": "Rose Medical Center"
+		
+			, "telephone": "(303) 320-2121"
+		, "faxNumber": ""
+	
+	, "logo": "https://rosemed.com/contentAsset/raw-data/e5bc4189-affe-4eb6-80e9-8329ad4aaadf/fullColorLogo"
+	, "url": "https://rosemed.com"
+		}
+</script>
+
+
+	<script type="application/ld+json">
+	{
+		"@context": "https://schema.org"
+		, "@type": "WebSite"
+		, "url": "https://rosemed.com"
+		, "potentialAction": {
+			"@type": "SearchAction"
+			, "target": "https://rosemed.com/search/results.dot?q={query}"
+			, "query-input": "required name=query"
+		}
+	}
+	</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+  
+  
+				  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+
+
+	  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+	  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+
+							
+		
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+
+<script>
+	window.dataLayer = window.dataLayer || [];
+	dataLayer.push({
+		'Analytics ID' : 'UA-60997798-14'
+		,'Division' : 'Continental'
+		,'Group' : 'American'
+		,'Market' : 'Denver'
+		,'City' : 'Denver'
+		,'State' : 'CO'
+		,'Line of Business' : 'NA'
+		,'Facility COID' : 'NA'
+		,'Facility Name' : 'NA'
+		,'Site Type' : 'Market Site'
+		,'Domain' : 'rosemed.com'
+		,'Site Section' : ''
+		,'Marketing Specialty' : 'n/a'
+					,'Service Line Content' : 'NA'
+																			});
+</script>
+
+      
+      
+  
+  
+		  
+  
+      
+              
+        
+                
+      
+  
+  
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MF8D329');</script>
+<!-- End Google Tag Manager -->
+
+
+      
+      
+  
+  
+      
+      
+  
+  
+		
+		
+									
+				
+				
+							<!-- FAVICON -->
+			<link rel="shortcut icon" href="/local/images/favicon.ico" type="image/ico" />
+		
+		
+									<link rel="stylesheet" href="//core.secure.ehc.com/design/lib/framework/bs3/bootstrap.min.css" />
+							
+				<link rel="stylesheet" href="//core.secure.ehc.com/design/lib/chosen/latest/chosen.min.css" media="screen" />
+
+		
+		
+			<link rel="stylesheet" href="//core.secure.ehc.com/design/font/fontawesomer/css/fontawesomer.css" />
+		
+		
+					  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+  
+  		
+		
+				
+		
+				
+		
+												<link rel="stylesheet" href="//core.secure.ehc.com/themes/hut/shared/main.min.css?v=06202019114257" />
+			
+						<link rel="stylesheet" href="//core.secure.ehc.com/themes/hut/2016/v1/main.min.css?v=06202019114257" />
+		
+											<link rel="stylesheet" href="//core.secure.ehc.com/templates/header/includes/er-navigator/er-navigator.min.css">
+					
+		
+					<link rel="stylesheet" href="//core.secure.ehc.com/templates/header/includes/emergency-alerts/emergency-alerts.min.css">
+		
+				
+				
+		  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+  <link href="//core.secure.ehc.com/design/css/entity-branding/hut/branding.dot?id=27300&theme=2016&host=68de5a1d-d795-4fa7-bb2d-4798036f2492" rel="stylesheet" type="text/css">
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans" rel="stylesheet" type="text/css">
+
+      
+      
+  
+  
+				  
+  
+      
+              
+        
+          
+
+<meta name="google-site-verification" content="6whsZqDZEtvu6AMg41RV5YdX1RFiT-V_GJmBXin-V2U" />
+<meta name="msvalidate.01" content="A7225519BD0287E24E6ACFF8A85BC17F" />
+<meta name="google-site-verification" content="7RV1ftY3lsJx_QZYYIGjQ1R14hXrUa8keApUaFU1GcM" /> 
+
+<meta name="google-site-verification" content="f62tSunoHyXQxfKV0RJEICK97NBCuby5lsbmoAwgScw" />
+      
+      
+  
+  
+							<!-- BEGIN LOCAL CSS -->
+			<style>
+				  
+  
+      
+              
+        
+          /*******************************************
+local css
+*******************************************
+#adaptive-content-rotator .carousel-caption {
+/*width: 500px;*/
+max-width: 100%;
+}
+#adaptive-content-rotator .carousel-caption p.item-title {
+font-size: 30px;
+}
+#adaptive-content-rotator .carousel-caption p.caption-p {
+font-size: 16px;
+}
+#notification-center #er-wait-notification .wait-time .mins {
+font-size: 13px;
+}
+#notification-center #er-wait-notification .btn {
+display: none;
+}
+*/
+      
+      
+  
+  			</style>
+			<!-- END LOCAL CSS -->
+		
+				<!-- BEGIN UTIL CUSTOM VTL -->
+		  
+  
+      
+              
+        
+          
+
+
+
+
+<link rel="stylesheet" type="text/css" href="https://web-q-hospital.secure.ehc.com/global/hut/widgets/css/webq-widgets.css">
+
+
+      
+      
+  
+  		<!-- END UTIL CUSTOM VTL -->
+
+		
+				
+		
+		  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+      
+      
+  
+  		
+		<script>
+			var isMarketBrand = false;
+			var hostLocations = [{"marketUrl":"","city":"Denver","additionalText":"","link":"http://rosemed.com/service/stapleton-ER","primaryColor":"#135a5e","entityBrandingId":"27300","orgLevel":"Facility","title":"Cherry Creek Eye Surgery Center","taleoFacilityId":"","type":"[ER]","division":"Continental","hcaLineOfBusiness":"NA","mhoEnabled":"false","default":"[]","financialServiceNumber":"","primaryGradient":"#4b8996","id":"1bec87ed-8194-4832-a0f5-2c78044e7859","state":"CO","fax":"","starRating":"","lat":"39.786427","group":"","zip":"80238","ctaButton":"","image":"","hours":"","lng":"-104.888922","address2":"","urlTitle":"","contactEmail":"","address1":"4930 Wabash Street","coid":"27300","rsid":"","erFeed":"","accessPoint":"cherry-creek-eye-surgery-center","market":"","phone":"(303) 577-1500","sortOrder":"0","billPayValue":"","secondaryGradient":"#c27960","secondaryColor":"#9d5231"},{"marketUrl":"","city":"Englewood","additionalText":"","link":"","primaryColor":"#12377f","entityBrandingId":"27100|Swedish-Medical-Center","orgLevel":"Facility","title":"LabCorp Diagnostics","taleoFacilityId":"","type":"[Diagnostic_Center]","division":"Continental","hcaLineOfBusiness":"NA","mhoEnabled":"false","default":"[]","financialServiceNumber":"","primaryGradient":"#4985c1","id":"ab7b6f3c-8a64-4183-a536-10a3d5cb4aed","state":"CO","fax":"","starRating":"","lat":"39.6534734","group":"","zip":"80113","ctaButton":"","image":"","hours":"","lng":"-104.9802145","address2":"Suite 355","urlTitle":"","contactEmail":"","address1":"601 East Hampden Ave","coid":"27100","rsid":"","erFeed":"","accessPoint":"labcorp-diagnostics","market":"","phone":"(303) 761-4181","sortOrder":"0","billPayValue":"","secondaryGradient":"#C6222F","secondaryColor":"#dc3640"},{"marketUrl":"","city":"Denver","additionalText":"","link":"","primaryColor":"#135a5e","entityBrandingId":"27300","orgLevel":"Facility","title":"Quest Diagnostics at Rose Medical Center","taleoFacilityId":"","type":"[Diagnostic_Center]","division":"Continental","hcaLineOfBusiness":"NA","mhoEnabled":"false","default":"[]","financialServiceNumber":"","primaryGradient":"#4b8996","id":"8c1277bb-91a4-4def-9cc9-ebaca2d87c46","state":"CO","fax":"","starRating":"","lat":"39.7307665","group":"","zip":"80220","ctaButton":"","image":"","hours":"","lng":"-104.9345429","address2":"Ste. 430","urlTitle":"","contactEmail":"","address1":"4500 E. 9th Ave.","coid":"27300","rsid":"","erFeed":"","accessPoint":"quest-diagnostics-at-rose-medical-center","market":"","phone":"(303) 321-0768","sortOrder":"0","billPayValue":"","secondaryGradient":"#c27960","secondaryColor":"#9d5231"},{"marketUrl":"","city":"Denver","additionalText":"","link":"","primaryColor":"#135a5e","entityBrandingId":"27300","orgLevel":"Facility","title":"Rose Advanced Wound Care","taleoFacilityId":"","type":"[Medical_Office_Building]","division":"Continental","hcaLineOfBusiness":"NA","mhoEnabled":"false","default":"[]","financialServiceNumber":"","primaryGradient":"#4b8996","id":"854fa486-80aa-4e19-a947-8f27f99c3a5b","state":"CO","fax":"","starRating":"","lat":"39.731349","group":"American","zip":"80220","ctaButton":"","image":"","hours":"","lng":"-104.934665","address2":"Suite 220","urlTitle":"","contactEmail":"","address1":"4545 E 9th Ave","coid":"27300","rsid":"","erFeed":"","accessPoint":"rose-advanced-wound-care","market":"Denver Market","phone":"","sortOrder":"0","billPayValue":"","secondaryGradient":"#c27960","secondaryColor":"#9d5231"},{"marketUrl":"","city":"Denver","additionalText":"","link":"https://rosemed.com/campaigns/breast-care","primaryColor":"#135a5e","entityBrandingId":"27300","orgLevel":"Facility","title":"Rose Founders Building","taleoFacilityId":"","type":"[Cancer_Center]","division":"Continental","hcaLineOfBusiness":"NA","mhoEnabled":"false","default":"[]","financialServiceNumber":"","primaryGradient":"#4b8996","id":"4629f5ed-71ea-4d02-9071-08f5374fe42f","state":"CO","fax":"","starRating":"","lat":"39.7324579","group":"","zip":"80220","ctaButton":"","image":"","hours":"","lng":"-104.9320627","address2":"Ste. 450","urlTitle":"","contactEmail":"","address1":"4700 E. Hale Pkwy.","coid":"27300","rsid":"","erFeed":"","accessPoint":"rose-founders-building","market":"","phone":"(303) 320-7127","sortOrder":"0","billPayValue":"","secondaryGradient":"#c27960","secondaryColor":"#9d5231"},{"marketUrl":"","city":"Denver","additionalText":"","link":"","primaryColor":"#135a5e","entityBrandingId":"27300","orgLevel":"Facility","title":"Rose Inpatient Imaging Center","taleoFacilityId":"","type":"[Medical_Office_Building]","division":"Continental","hcaLineOfBusiness":"NA","mhoEnabled":"false","default":"[]","financialServiceNumber":"","primaryGradient":"#4b8996","id":"36518ba2-4833-49a7-95ef-1e875ba8e85d","state":"CO","fax":"","starRating":"","lat":"39.7324579","group":"","zip":"80220","ctaButton":"","image":"","hours":"","lng":"-104.9320627","address2":"","urlTitle":"","contactEmail":"","address1":"4700 E. Hale Pkwy.","coid":"27300","rsid":"","erFeed":"","accessPoint":"rose-impatient-imaging-center","market":"","phone":"","sortOrder":"0","billPayValue":"","secondaryGradient":"#c27960","secondaryColor":"#9d5231"},{"marketUrl":"","city":"Denver","additionalText":"","link":"","primaryColor":"#135a5e","entityBrandingId":"27300","orgLevel":"Facility","title":"Rose Medical Center","taleoFacilityId":"03216","type":"[ER, Hospital]","division":"Continental","hcaLineOfBusiness":"Hospital Operations","mhoEnabled":"true","default":"[Yes]","financialServiceNumber":"","primaryGradient":"#4b8996","id":"ccad06bb-3333-4707-a0c6-3d6d8cbcccbd","state":"CO","fax":"","starRating":"","lat":"39.732308","group":"American","zip":"80220","ctaButton":"","image":"","hours":"","lng":"-104.93396100000001","address2":"","urlTitle":"","contactEmail":"","address1":"4567 E. 9th Ave.","coid":"27300","rsid":"","erFeed":"Rose Med Center","accessPoint":"rose","market":"","phone":"(303) 320-2121","sortOrder":"0","billPayValue":"","secondaryGradient":"#c27960","secondaryColor":"#9d5231"},{"marketUrl":"","city":"Denver","additionalText":"","link":"https://rosemed.com/service/diagnostics","primaryColor":"#135a5e","entityBrandingId":"27300","orgLevel":"Facility","title":"Rose Outpatient Imaging Center","taleoFacilityId":"","type":"[Imaging_Center]","division":"Continental","hcaLineOfBusiness":"NA","mhoEnabled":"false","default":"[]","financialServiceNumber":"","primaryGradient":"#4b8996","id":"0a39ac97-1214-4972-a5bc-62466652da59","state":"CO","fax":"","starRating":"","lat":"39.732308","group":"","zip":"80220","ctaButton":"","image":"","hours":"","lng":"-104.933961","address2":"","urlTitle":"","contactEmail":"","address1":"4567 E. 9th Ave.","coid":"27300","rsid":"","erFeed":"","accessPoint":"rose-outpatient-imaging-center","market":"","phone":"(303) 320-2568","sortOrder":"0","billPayValue":"","secondaryGradient":"#c27960","secondaryColor":"#9d5231"},{"marketUrl":"","city":"Denver","additionalText":"","link":"https://rosemed.com/service/diagnostics","primaryColor":"#135a5e","entityBrandingId":"27300","orgLevel":"Facility","title":"Rose Physician Office Building 1","taleoFacilityId":"","type":"[Imaging_Center]","division":"Continental","hcaLineOfBusiness":"NA","mhoEnabled":"false","default":"[]","financialServiceNumber":"","primaryGradient":"#4b8996","id":"313c8d4e-2952-48a9-bb79-bfe554cddffc","state":"CO","fax":"","starRating":"","lat":"39.7324579","group":"","zip":"80220","ctaButton":"","image":"","hours":"","lng":"-104.9320627","address2":"Ste. 100","urlTitle":"","contactEmail":"","address1":"4700 E. Hale Pkwy.","coid":"27300","rsid":"","erFeed":"","accessPoint":"rose-physician-office-building-one","market":"","phone":"(303) 320-2568","sortOrder":"0","billPayValue":"","secondaryGradient":"#c27960","secondaryColor":"#9d5231"},{"marketUrl":"","city":"Denver","additionalText":"","link":"","primaryColor":"#135a5e","entityBrandingId":"27300","orgLevel":"Facility","title":"Rose Physician Office Building 2","taleoFacilityId":"","type":"[Medical_Office_Building]","division":"Continental","hcaLineOfBusiness":"NA","mhoEnabled":"false","default":"[]","financialServiceNumber":"","primaryGradient":"#4b8996","id":"e6ceca9a-5d28-448d-b254-46a999cd531e","state":"CO","fax":"","starRating":"","lat":"39.731337","group":"","zip":"80220","ctaButton":"","image":"","hours":"","lng":"-104.93477","address2":"","urlTitle":"","contactEmail":"","address1":"4545 E. 9th Ave.","coid":"27300","rsid":"","erFeed":"","accessPoint":"rose-physician-office-building-two","market":"","phone":"(303) 320-2121","sortOrder":"0","billPayValue":"","secondaryGradient":"#c27960","secondaryColor":"#9d5231"},{"marketUrl":"","city":"Denver","additionalText":"","link":"","primaryColor":"#135a5e","entityBrandingId":"27300","orgLevel":"Facility","title":"Rose Surgical Center","taleoFacilityId":"","type":"[Medical_Office_Building]","division":"Continental","hcaLineOfBusiness":"NA","mhoEnabled":"false","default":"[]","financialServiceNumber":"","primaryGradient":"#4b8996","id":"a5c8b6a3-3fcf-4c52-9926-d12e432a3bf4","state":"CO","fax":"","starRating":"","lat":"39.7307665","group":"","zip":"80220","ctaButton":"","image":"","hours":"","lng":"-104.9345429","address2":"","urlTitle":"","contactEmail":"","address1":"4500 E. 9th Ave.","coid":"27300","rsid":"","erFeed":"","accessPoint":"rose-surgical-center","market":"","phone":"(303) 320-2121","sortOrder":"0","billPayValue":"","secondaryGradient":"#c27960","secondaryColor":"#9d5231"},{"marketUrl":"","city":"Denver","additionalText":"","link":"http://rosemed.com/","primaryColor":"#135a5e","entityBrandingId":"27300","orgLevel":"Facility","title":"Stapleton ER","taleoFacilityId":"","type":"[ER, Hospital]","division":"Continental","hcaLineOfBusiness":"NA","mhoEnabled":"false","default":"[]","financialServiceNumber":"","primaryGradient":"#4b8996","id":"923ae93c-10c9-45fe-ad38-7b61e06f085f","state":"CO","fax":"","starRating":"","lat":"39.732308","group":"American","zip":"80220","ctaButton":"","image":"","hours":"","lng":"-104.933961","address2":"","urlTitle":"","contactEmail":"","address1":"4567 E. 9th Ave.","coid":"27300","rsid":"","erFeed":"Stapleton ER","accessPoint":"stapelton-er","market":"","phone":"(303) 320-2121","sortOrder":"0","billPayValue":"","secondaryGradient":"#c27960","secondaryColor":"#9d5231"},{"marketUrl":"","city":"Denver","additionalText":"","link":"","primaryColor":"#135a5e","entityBrandingId":"27300","orgLevel":"Facility","title":"Surgical Services at Rose (Inpatient & Outpatient)","taleoFacilityId":"","type":"[Surgery_Center]","division":"Continental","hcaLineOfBusiness":"NA","mhoEnabled":"false","default":"[]","financialServiceNumber":"","primaryGradient":"#4b8996","id":"14ec75a3-4ea3-47bb-ac43-34a75353f9f0","state":"CO","fax":"","starRating":"","lat":"39.7324579","group":"","zip":"80220","ctaButton":"","image":"","hours":"","lng":"-104.9320627","address2":"Ste. 200","urlTitle":"","contactEmail":"","address1":"4700 E. Hale Pkwy.","coid":"27300","rsid":"","erFeed":"","accessPoint":"surgical-services-at-rose","market":"","phone":"(303) 758-1175","sortOrder":"0","billPayValue":"","secondaryGradient":"#c27960","secondaryColor":"#9d5231"},{"marketUrl":"","city":"Denver","additionalText":"","link":"","primaryColor":"#135a5e","entityBrandingId":"27300","orgLevel":"Facility","title":"Wolf Building","taleoFacilityId":"","type":"[Surgery_Center]","division":"Continental","hcaLineOfBusiness":"NA","mhoEnabled":"false","default":"[]","financialServiceNumber":"","primaryGradient":"#4b8996","id":"32899fc7-a492-4f10-bbb3-b2b1dc03e95e","state":"CO","fax":"","starRating":"","lat":"39.7327037","group":"","zip":"80220","ctaButton":"","image":"","hours":"","lng":"-104.9344931","address2":"2nd Floor","urlTitle":"","contactEmail":"","address1":"4600 E. Hale Pkwy","coid":"27300","rsid":"","erFeed":"","accessPoint":"wolf-building","market":"","phone":"(303) 320-2121","sortOrder":"0","billPayValue":"","secondaryGradient":"#c27960","secondaryColor":"#9d5231"}];
+			var hostCurrentLocationUrl = "";
+			var hostCurrentLocationTitle = "";
+			var hostFacilityName = "Rose Medical Center";
+		</script>
+
+	</head>
+
+	
+		
+		
+		
+	
+	
+		<body class="page-no-asides no-asides-template design unified interior theme-2016">
+
+		
+		  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+<!-- Google Tag Manager (noscript) -->
+	<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MF8D329" height="0" width="0" style="display:none;visibility:hidden" sandbox="allow-scripts"></iframe>
+	</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+			
+	
+
+
+      
+      
+  
+  
+				  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+      
+      
+  
+  
+				
+				<div id="page-wrap">
+															<a href="#page" tabindex="1" id="skip-nav-accessibility-aid">Skip to main content</a>
+			
+												<!--[if lte IE 9]>
+				<div id="update-browser-warning" class="alert alert-info">
+					<strong>You are using an outdated browser</strong>
+					<p>It is limiting your browser experience. For the best web experience, upgrade to the latest version of <a href="http://www.microsoft.com/windows/downloads/ie/getitnow.mspx">Internet Explorer</a> or try one of these alternatives: <a href="http://www.getfirefox.com/">Firefox</a>, <a href="http://www.google.com/chrome">Google Chrome</a> or <a href="http://www.apple.com/safari/">Safari</a>.</p>
+					<p>Still dependent on your version of IE for legacy applications?  Please install one of the other recommended browsers.</p>
+				</div>
+			<![endif]-->
+
+      
+      
+  
+  
+<div id="header-wrap">
+		   		  
+   
+		  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+	
+      
+      
+  
+  
+
+
+
+
+
+
+						
+	
+	
+      
+      
+  
+  
+
+	<div class="sticky-header-desktop">
+				  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          	<div class="pre-navbar ">
+		<div class="container-fluid">
+						
+						<ul class="list-unstyled text-right hidden-xs prenav-link-list">
+												
+														<li>
+													<a href="https://careers.hcahealthcare.com/pages/rose-medical-center?bid=5260">Careers</a>
+											</li>
+														<li>
+													<a href="https://rosemed.com/patients-visitors/patient-information/pre-registration.dot">Pre-Register for Your Visit</a>
+											</li>
+														<li>
+													<a href="https://rosemed.com/physicians">Need a Physician? Call 303-320-ROSE (7673)</a>
+											</li>
+				
+											</ul>
+			
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          			<form class="form-inline hut-search" action="/search/results.dot" method="GET" enctype="multipart/form-data" role="search" data-submit="false">
+			<div class="form-group">
+				<label class="sr-only" for="prenav-main-search">Search</label>
+				<div class="input-group">
+										<input type="text" class="header-search-input form-control" name="q" id="prenav-main-search" placeholder="Search" maxlength="64" autocomplete="off" pattern="^[a-zA-Z0-9-`.'()? ]*$" title="Can only contain letters, numbers and limited special characters." required>
+					<a href="#" class="close-search hidden" aria-label="Close recent searches">&times;</a>
+					<div class="input-group-btn">
+						<button type="submit" class="btn btn-default submit">
+							<i class="icon-search" aria-hidden="true"></i>
+							<span class="sr-only">Submit Search</span>
+						</button>
+					</div>
+										<div class="header-search-results hidden">
+						<span class="recent-search-title"><strong>Recent Searches</strong></span>
+						<ul class="recent-searches"></ul>
+					</div>
+				</div>
+			</div>
+		</form>
+	
+      
+      
+  
+  		</div>
+	</div>
+
+
+      
+      
+  
+  
+				  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          <nav id="main-nav-sticky" class="main-nav" role="navigation">
+
+				
+	
+	
+	
+	
+		
+			<div class="mobile-cta-links">
+									
+										<div class="cta-item-count-one cta-item">
+					<a href='/locations/'><i class='icon-location' aria-hidden='true'></i><span>Directions</span></a>
+				</div>
+					</div>
+	
+	<div class="container-fluid">
+
+		
+				
+		<ul class="nav navbar-nav">
+			
+			
+			
+								
+								
+								
+				
+								
+								
+								
+								
+				
+				
+																						
+								
+				<li class="dropdown">
+					<a href="/home">Home</a>
+
+									</li><!-- /.dropdown -->
+			
+								
+								
+								
+				
+								
+								
+								
+								
+				
+								
+								
+								
+				<li class="dropdown">
+					<a href="/physicians" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Find A Doctor <span class="icon-angle-down" aria-hidden="true"></span></a>
+
+											<div class="dropdown-menu">
+							<div class="container">
+								<p><a href="/physicians">Find A Doctor</a></p>
+								
+																																																																																															<ul class="dropdown-menu-list">
+																				
+																					<li><a target='_self' href='https://rosemed.com/physicians/'>Search Provider Directory</a></li>
+										
+																			</ul>
+															</div><!-- /.container -->
+						</div><!-- /.dropdown-menu -->
+									</li><!-- /.dropdown -->
+			
+								
+								
+								
+				
+								
+								
+								
+								
+				
+								
+								
+								
+				<li class="dropdown">
+					<a href="/patients-visitors" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Patients & Visitors <span class="icon-angle-down" aria-hidden="true"></span></a>
+
+											<div class="dropdown-menu">
+							<div class="container">
+								<p><a href="/patients-visitors">Patients & Visitors</a></p>
+								
+																																																																																																																																																																																																																																																																																																																																																																																																																														<ul class="dropdown-menu-list">
+																				
+																					<li><a target='_self' href='/patients-visitors/hurricane-preparedness'>Hurricane Resources</a></li>
+																					<li><a target='_self' href='/patients-visitors/patient-information'>Patient Information</a></li>
+																					<li><a target='_self' href='/patients-visitors/emergency-er-wait-times.dot'>Emergency ER Wait Times</a></li>
+																					<li><a target='_self' href='/patients-visitors/er-wait-times.dot'>ER Wait Times</a></li>
+																					<li><a target='_self' href='/patients-visitors/visitor-information'>Visitor Information</a></li>
+																					<li><a target='_self' href='https://rosemed.com/myhealthone/index.dot'>MyHealthONE Patient Portal</a></li>
+																					<li><a target='_self' href='https://rosemed.com/classes-events/index.dot'>Classes & Events</a></li>
+																					<li><a target='_self' href='https://rosemed.com/locations/'>Maps & Directions</a></li>
+																					<li><a target='_self' href='https://rosemed.com/patients-visitors/patient-information/medical-records.dot'>Medical Records</a></li>
+																					<li><a target='_self' href='https://rosemed.com/patients-visitors/patient-information/pre-registration.dot'>Pre-Register for Your Visit</a></li>
+																					<li><a target='_self' href='/patients-visitors/campus-safety.dot'>Campus Safety</a></li>
+																					<li><a target='_self' href='/patients-visitors/separate-bill-same-hospital-stay.dot'>Separate Bills, Same Hospital Stay</a></li>
+										
+																			</ul>
+															</div><!-- /.container -->
+						</div><!-- /.dropdown-menu -->
+									</li><!-- /.dropdown -->
+			
+								
+								
+								
+				
+								
+								
+								
+								
+				
+				
+								
+								
+				<li class="dropdown">
+					<a href="/specialties">Specialties</a>
+
+									</li><!-- /.dropdown -->
+			
+								
+								
+								
+				
+								
+								
+								
+								
+				
+								
+								
+								
+				<li class="dropdown">
+					<a href="/for-professionals" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">For Professionals <span class="icon-angle-down" aria-hidden="true"></span></a>
+
+											<div class="dropdown-menu">
+							<div class="container">
+								<p><a href="/for-professionals">For Professionals</a></p>
+								
+																																																																																																																																																																																																																																																																																																										<ul class="dropdown-menu-list">
+																				
+																					<li><a target='_self' href='https://careers.hcahealthcare.com/pages/rose-medical-center?bid=5260'>Careers</a></li>
+																					<li><a target='_self' href='/for-professionals/index.dot'>Employee Information</a></li>
+																					<li><a target='_self' href='/for-professionals/employees'>Emergency Management</a></li>
+																					<li><a target='_self' href='https://rosemed.com/physicians/physician-careers.dot?city=Denver&state=CO&facility=Rose+Medical+Center&division=Continental'>Physician Careers</a></li>
+																					<li><a target='_self' href='/for-professionals/ems-providers'>EMS Providers</a></li>
+																					<li><a target='_self' href='/for-professionals/credentialing.dot'>Credentialing</a></li>
+																					<li><a target='_self' href='https://rosemed.com/about/about-rose/volunteer.dot'>Volunteer Services</a></li>
+																					<li><a target='_blank' href='https://healthonecares.com/about/starn.dot'>HealthONE StaRN Program</a></li>
+										
+																			</ul>
+															</div><!-- /.container -->
+						</div><!-- /.dropdown-menu -->
+									</li><!-- /.dropdown -->
+			
+								
+								
+								
+				
+								
+								
+								
+								
+				
+				
+								
+								
+				<li class="dropdown">
+					<a href="/health-education">Health Education</a>
+
+									</li><!-- /.dropdown -->
+			
+								
+								
+								
+				
+								
+								
+								
+								
+				
+								
+								
+								
+				<li class="dropdown">
+					<a href="/about" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Us <span class="icon-angle-down" aria-hidden="true"></span></a>
+
+											<div class="dropdown-menu">
+							<div class="container">
+								<p><a href="/about">About Us</a></p>
+								
+																																																																																																																																																																																																																																																																																																																																																																				<ul class="dropdown-menu-list">
+																				
+																					<li><a target='_self' href='/about/about-rose'>About Rose</a></li>
+																					<li><a target='_self' href='/about/legal'>Legal</a></li>
+																					<li><a target='_self' href='/about/media-center'>Media Center</a></li>
+																					<li><a target='_self' href='/about/contact-us'>Contact Us</a></li>
+																					<li><a target='_self' href='/about/gift-shop'>Gift Shop</a></li>
+																					<li><a target='_self' href='https://careers.healthonecares.com/pages/rose-medical-center?bid=5260'>Careers</a></li>
+																					<li><a target='_self' href='https://rosemed.com/locations/'>Maps & Directions</a></li>
+																					<li><a target='_self' href='/about/charity-care'>Charity Care</a></li>
+																					<li><a target='_self' href='https://rosemed.com/testimonials/index.dot'>Patient Stories</a></li>
+																					<li><a target='_self' href='https://healthonecares.com/about/annual-reports.dot'>Annual Reports</a></li>
+										
+																			</ul>
+															</div><!-- /.container -->
+						</div><!-- /.dropdown-menu -->
+									</li><!-- /.dropdown -->
+			
+			
+								</ul><!-- /.nav.navbar-nav -->
+
+													<ul class="nav navbar-nav prenav">
+																								<li>
+							<a href="https://careers.hcahealthcare.com/pages/rose-medical-center?bid=5260">Careers</a>
+						</li>
+																									<li>
+							<a href="https://rosemed.com/patients-visitors/patient-information/pre-registration.dot">Pre-Register for Your Visit</a>
+						</li>
+																									<li>
+							<a href="https://rosemed.com/physicians">Need a Physician? Call 303-320-ROSE (7673)</a>
+						</li>
+									
+								
+													<li>
+						<a href="//healthonecares.com">
+							HealthONE <span class="icon-external-link" aria-hidden="true"></span>
+						</a>
+					</li>
+				
+											</ul>
+		
+		
+	</div><!-- /.container-fluid -->
+</nav><!-- #main-nav -->
+
+      
+      
+  
+  	</div>
+
+	
+			
+	  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+
+
+
+	
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+		
+			
+
+		
+		
+		
+		
+			
+		
+			
+			
+
+
+
+
+
+	
+		
+	
+
+
+
+
+      
+      
+  
+  
+
+      
+      
+  
+  
+			
+	  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          	<div class="pre-navbar ">
+		<div class="container-fluid">
+						
+						<ul class="list-unstyled text-right hidden-xs prenav-link-list">
+												
+														<li>
+													<a href="https://careers.hcahealthcare.com/pages/rose-medical-center?bid=5260">Careers</a>
+											</li>
+														<li>
+													<a href="https://rosemed.com/patients-visitors/patient-information/pre-registration.dot">Pre-Register for Your Visit</a>
+											</li>
+														<li>
+													<a href="https://rosemed.com/physicians">Need a Physician? Call 303-320-ROSE (7673)</a>
+											</li>
+				
+											</ul>
+			
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          			<form class="form-inline hut-search" action="/search/results.dot" method="GET" enctype="multipart/form-data" role="search" data-submit="false">
+			<div class="form-group">
+				<label class="sr-only" for="prenav-main-search">Search</label>
+				<div class="input-group">
+										<input type="text" class="header-search-input form-control" name="q" id="prenav-main-search" placeholder="Search" maxlength="64" autocomplete="off" pattern="^[a-zA-Z0-9-`.'()? ]*$" title="Can only contain letters, numbers and limited special characters." required>
+					<a href="#" class="close-search hidden" aria-label="Close recent searches">&times;</a>
+					<div class="input-group-btn">
+						<button type="submit" class="btn btn-default submit">
+							<i class="icon-search" aria-hidden="true"></i>
+							<span class="sr-only">Submit Search</span>
+						</button>
+					</div>
+										<div class="header-search-results hidden">
+						<span class="recent-search-title"><strong>Recent Searches</strong></span>
+						<ul class="recent-searches"></ul>
+					</div>
+				</div>
+			</div>
+		</form>
+	
+      
+      
+  
+  		</div>
+	</div>
+
+
+      
+      
+  
+  
+			
+	<div class="sticky-header-mobile">
+		<header role="banner">
+			<div class="container-fluid">
+								  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          <div class="mobile-header">
+	<div class="mobile-menu-toggle-wrap">
+		<button type="button" class="mobile-menu-toggle navbar-toggle collapsed">
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-text">Menu</span>
+		</button>
+	</div>
+	<figure class="logo">
+		<a href="/home/">
+			<img src="/contentAsset/raw-data/e5bc4189-affe-4eb6-80e9-8329ad4aaadf/fullColorLogo" alt="Rose Medical Center">
+		</a>
+	</figure>
+	<div class="mobile-search">
+					<a href="#" class="mobile-search-btn" aria-label="Search"><i class="icon-search" aria-hidden="true"></i></a>
+			<form class="mobile-search-slide" action="/search/results.dot" method="GET" enctype="multipart/form-data" role="search">
+				<label class="sr-only" for="mobile-sticky-search">Search</label>
+				<input type="text" class="header-search-input form-control" name="q" id="mobile-sticky-search" placeholder="Search" maxlength="64" data-validate="alpha-numeric" autocomplete="off" required>
+				<i class="icon-search pre-fix-icon"></i>
+				<a href="#" class="close-search" aria-label="Close search">&times;</a>
+			</form>
+			</div>
+	<div class="header-search-results hidden">
+		<span class="recent-search-title"><strong>Recent Searches</strong></span>
+		<a href="#" class="clear-recent-searches" aria-label="Clear recent search history">Clear</a>
+		<ul class="recent-searches"></ul>
+		<a href="#" class="btn btn-primary btn-block mobile-submit">Search</a>
+	</div>
+</div><!-- /.mobile -->
+      
+      
+  
+  			</div>
+		</header>
+	</div>
+
+	<header role="banner">
+		<div class="container-fluid">
+
+						
+						  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          <div class="mobile-header">
+	<div class="mobile-menu-toggle-wrap">
+		<button type="button" class="mobile-menu-toggle navbar-toggle collapsed">
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-text">Menu</span>
+		</button>
+	</div>
+	<figure class="logo">
+		<a href="/home/">
+			<img src="/contentAsset/raw-data/e5bc4189-affe-4eb6-80e9-8329ad4aaadf/fullColorLogo" alt="Rose Medical Center">
+		</a>
+	</figure>
+	<div class="mobile-search">
+					<a href="#" class="mobile-search-btn" aria-label="Search"><i class="icon-search" aria-hidden="true"></i></a>
+			<form class="mobile-search-slide" action="/search/results.dot" method="GET" enctype="multipart/form-data" role="search">
+				<label class="sr-only" for="mobile-main-search">Search</label>
+				<input type="text" class="header-search-input form-control" name="q" id="mobile-main-search" placeholder="Search" maxlength="64" data-validate="alpha-numeric" autocomplete="off" required>
+				<i class="icon-search pre-fix-icon"></i>
+				<a href="#" class="close-search" aria-label="Close search">&times;</a>
+			</form>
+			</div>
+	<div class="header-search-results hidden">
+		<span class="recent-search-title"><strong>Recent Searches</strong></span>
+		<a href="#" class="clear-recent-searches" aria-label="Clear recent search history">Clear</a>
+		<ul class="recent-searches"></ul>
+		<a href="#" class="btn btn-primary btn-block mobile-submit">Search</a>
+	</div>
+</div><!-- /.mobile -->
+      
+      
+  
+  
+						
+			<div class="row desktop-header">
+				<div class="col-xs-6 col-sm-3">
+					<figure class="logo height95">
+						<a href="/home/">
+							<img src="/contentAsset/raw-data/e5bc4189-affe-4eb6-80e9-8329ad4aaadf/fullColorLogo" alt="Rose Medical Center">
+						</a>
+					</figure>
+				</div>
+				<div class="col-xs-3 col-sm-9 text-right vertical-align">
+										  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          			<form class="form-inline hut-search" action="/search/results.dot" method="GET" enctype="multipart/form-data" role="search" data-submit="false">
+			<div class="form-group">
+				<label class="sr-only" for="main-search">Search</label>
+				<div class="input-group">
+										<input type="text" class="header-search-input form-control" name="q" id="main-search" placeholder="Search" maxlength="64" autocomplete="off" pattern="^[a-zA-Z0-9-`.'()? ]*$" title="Can only contain letters, numbers and limited special characters." required>
+					<a href="#" class="close-search hidden" aria-label="Close recent searches">&times;</a>
+					<div class="input-group-btn">
+						<button type="submit" class="btn btn-primary submit">
+							<i class="icon-search" aria-hidden="true"></i>
+							<span class="sr-only">Submit Search</span>
+						</button>
+					</div>
+										<div class="header-search-results hidden">
+						<span class="recent-search-title"><strong>Recent Searches</strong></span>
+						<ul class="recent-searches"></ul>
+					</div>
+				</div>
+			</div>
+		</form>
+	
+      
+      
+  
+  
+														</div>
+			</div>
+		</div><!-- /.container-fluid -->
+	</header>
+
+
+		  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          <nav id="main-nav" class="main-nav" role="navigation">
+
+				
+	
+	
+	
+	
+		
+			<div class="mobile-cta-links">
+									
+										<div class="cta-item-count-one cta-item">
+					<a href='/locations/'><i class='icon-location' aria-hidden='true'></i><span>Directions</span></a>
+				</div>
+					</div>
+	
+	<div class="container-fluid">
+
+		
+				
+		<ul class="nav navbar-nav">
+			
+			
+			
+								
+								
+								
+				
+								
+								
+								
+								
+				
+				
+																						
+								
+				<li class="dropdown">
+					<a href="/home">Home</a>
+
+									</li><!-- /.dropdown -->
+			
+								
+								
+								
+				
+								
+								
+								
+								
+				
+								
+								
+								
+				<li class="dropdown">
+					<a href="/physicians" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Find A Doctor <span class="icon-angle-down" aria-hidden="true"></span></a>
+
+											<div class="dropdown-menu">
+							<div class="container">
+								<p><a href="/physicians">Find A Doctor</a></p>
+								
+																																																																																															<ul class="dropdown-menu-list">
+																				
+																					<li><a target='_self' href='https://rosemed.com/physicians/'>Search Provider Directory</a></li>
+										
+																			</ul>
+															</div><!-- /.container -->
+						</div><!-- /.dropdown-menu -->
+									</li><!-- /.dropdown -->
+			
+								
+								
+								
+				
+								
+								
+								
+								
+				
+								
+								
+								
+				<li class="dropdown">
+					<a href="/patients-visitors" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Patients & Visitors <span class="icon-angle-down" aria-hidden="true"></span></a>
+
+											<div class="dropdown-menu">
+							<div class="container">
+								<p><a href="/patients-visitors">Patients & Visitors</a></p>
+								
+																																																																																																																																																																																																																																																																																																																																																																																																																														<ul class="dropdown-menu-list">
+																				
+																					<li><a target='_self' href='/patients-visitors/hurricane-preparedness'>Hurricane Resources</a></li>
+																					<li><a target='_self' href='/patients-visitors/patient-information'>Patient Information</a></li>
+																					<li><a target='_self' href='/patients-visitors/emergency-er-wait-times.dot'>Emergency ER Wait Times</a></li>
+																					<li><a target='_self' href='/patients-visitors/er-wait-times.dot'>ER Wait Times</a></li>
+																					<li><a target='_self' href='/patients-visitors/visitor-information'>Visitor Information</a></li>
+																					<li><a target='_self' href='https://rosemed.com/myhealthone/index.dot'>MyHealthONE Patient Portal</a></li>
+																					<li><a target='_self' href='https://rosemed.com/classes-events/index.dot'>Classes & Events</a></li>
+																					<li><a target='_self' href='https://rosemed.com/locations/'>Maps & Directions</a></li>
+																					<li><a target='_self' href='https://rosemed.com/patients-visitors/patient-information/medical-records.dot'>Medical Records</a></li>
+																					<li><a target='_self' href='https://rosemed.com/patients-visitors/patient-information/pre-registration.dot'>Pre-Register for Your Visit</a></li>
+																					<li><a target='_self' href='/patients-visitors/campus-safety.dot'>Campus Safety</a></li>
+																					<li><a target='_self' href='/patients-visitors/separate-bill-same-hospital-stay.dot'>Separate Bills, Same Hospital Stay</a></li>
+										
+																			</ul>
+															</div><!-- /.container -->
+						</div><!-- /.dropdown-menu -->
+									</li><!-- /.dropdown -->
+			
+								
+								
+								
+				
+								
+								
+								
+								
+				
+				
+								
+								
+				<li class="dropdown">
+					<a href="/specialties">Specialties</a>
+
+									</li><!-- /.dropdown -->
+			
+								
+								
+								
+				
+								
+								
+								
+								
+				
+								
+								
+								
+				<li class="dropdown">
+					<a href="/for-professionals" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">For Professionals <span class="icon-angle-down" aria-hidden="true"></span></a>
+
+											<div class="dropdown-menu">
+							<div class="container">
+								<p><a href="/for-professionals">For Professionals</a></p>
+								
+																																																																																																																																																																																																																																																																																																										<ul class="dropdown-menu-list">
+																				
+																					<li><a target='_self' href='https://careers.hcahealthcare.com/pages/rose-medical-center?bid=5260'>Careers</a></li>
+																					<li><a target='_self' href='/for-professionals/index.dot'>Employee Information</a></li>
+																					<li><a target='_self' href='/for-professionals/employees'>Emergency Management</a></li>
+																					<li><a target='_self' href='https://rosemed.com/physicians/physician-careers.dot?city=Denver&state=CO&facility=Rose+Medical+Center&division=Continental'>Physician Careers</a></li>
+																					<li><a target='_self' href='/for-professionals/ems-providers'>EMS Providers</a></li>
+																					<li><a target='_self' href='/for-professionals/credentialing.dot'>Credentialing</a></li>
+																					<li><a target='_self' href='https://rosemed.com/about/about-rose/volunteer.dot'>Volunteer Services</a></li>
+																					<li><a target='_blank' href='https://healthonecares.com/about/starn.dot'>HealthONE StaRN Program</a></li>
+										
+																			</ul>
+															</div><!-- /.container -->
+						</div><!-- /.dropdown-menu -->
+									</li><!-- /.dropdown -->
+			
+								
+								
+								
+				
+								
+								
+								
+								
+				
+				
+								
+								
+				<li class="dropdown">
+					<a href="/health-education">Health Education</a>
+
+									</li><!-- /.dropdown -->
+			
+								
+								
+								
+				
+								
+								
+								
+								
+				
+								
+								
+								
+				<li class="dropdown">
+					<a href="/about" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Us <span class="icon-angle-down" aria-hidden="true"></span></a>
+
+											<div class="dropdown-menu">
+							<div class="container">
+								<p><a href="/about">About Us</a></p>
+								
+																																																																																																																																																																																																																																																																																																																																																																				<ul class="dropdown-menu-list">
+																				
+																					<li><a target='_self' href='/about/about-rose'>About Rose</a></li>
+																					<li><a target='_self' href='/about/legal'>Legal</a></li>
+																					<li><a target='_self' href='/about/media-center'>Media Center</a></li>
+																					<li><a target='_self' href='/about/contact-us'>Contact Us</a></li>
+																					<li><a target='_self' href='/about/gift-shop'>Gift Shop</a></li>
+																					<li><a target='_self' href='https://careers.healthonecares.com/pages/rose-medical-center?bid=5260'>Careers</a></li>
+																					<li><a target='_self' href='https://rosemed.com/locations/'>Maps & Directions</a></li>
+																					<li><a target='_self' href='/about/charity-care'>Charity Care</a></li>
+																					<li><a target='_self' href='https://rosemed.com/testimonials/index.dot'>Patient Stories</a></li>
+																					<li><a target='_self' href='https://healthonecares.com/about/annual-reports.dot'>Annual Reports</a></li>
+										
+																			</ul>
+															</div><!-- /.container -->
+						</div><!-- /.dropdown-menu -->
+									</li><!-- /.dropdown -->
+			
+			
+								</ul><!-- /.nav.navbar-nav -->
+
+													<ul class="nav navbar-nav prenav">
+																								<li>
+							<a href="https://careers.hcahealthcare.com/pages/rose-medical-center?bid=5260">Careers</a>
+						</li>
+																									<li>
+							<a href="https://rosemed.com/patients-visitors/patient-information/pre-registration.dot">Pre-Register for Your Visit</a>
+						</li>
+																									<li>
+							<a href="https://rosemed.com/physicians">Need a Physician? Call 303-320-ROSE (7673)</a>
+						</li>
+									
+								
+													<li>
+						<a href="//healthonecares.com">
+							HealthONE <span class="icon-external-link" aria-hidden="true"></span>
+						</a>
+					</li>
+				
+											</ul>
+		
+		
+	</div><!-- /.container-fluid -->
+</nav><!-- #main-nav -->
+
+      
+      
+  
+  
+			
+	  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+
+
+	
+					
+			
+	
+		
+						
+			
+		
+					
+			
+	
+		
+				
+			
+	
+
+	<section id="facility-er-nav" class="ehc-er-wait feed-loading" data-sort="auto">
+		<div class="container">
+			<div class="row">
+								<div class="er-nav-mobile">
+					<div class="col-sm-12">
+						<div class="er-nav-header" data-ertitle="Rose Med Center">
+							<span class="er-nav-heading">
+								Average ER Wait Time
+							</span>
+							<span class="published">
+								as of
+								<a href="/patients-visitors/er-wait-times.dot">
+									<span class="pubtime">...</span> today
+								</a>
+							</span>
+															<div class="er-nav-toggle-btn">
+									<a href="#">View All</a>
+								</div>
+													</div>
+					</div>
+					<div class="col-sm-12">
+						<div class="er-nav-loc-wrapper" data-ertitle="Rose Med Center">
+							<div class="er-nav-loc-info">
+								<div class="wait-time">
+									<span class="time-display"></span>
+									<span class="loading">Loading</span>
+									<div class="time-box">
+										<span class="time"></span>
+										<span class="mins">mins</span>
+									</div>
+								</div>
+								<span class="er-nav-loc">Rose Medical Center</span>
+								<a href="/locations/?directions=Rose Medical Center" class="er-directions-link" data-title="Rose Medical Center" aria-label="Get directions to Rose Medical Center">Get Directions</a>
+							</div>
+						</div>
+					</div>
+				</div>
+								<div class="er-nav-desktop">
+					<div class="col-sm-3">
+						<div class="er-nav-header">
+							<span class="er-nav-heading">
+								<i class="icon-clock" aria-hidden="true"></i> <a href="/patients-visitors/er-wait-times.dot" aria-label="ER wait times are approximate and provided for informational purposes only. Read our ER disclaimer">Average ER Wait Time</a>
+							</span>
+						</div>
+					</div>
+					<div class="col-sm-6">
+						<div class="er-nav-loc-wrapper" data-ertitle="Rose Med Center">
+							<div class="er-nav-loc-info">
+								<span class="er-nav-loc">Rose Medical Center</span>
+								<div class="wait-time">
+									<span class="time-display"></span>
+									<span class="loading">Loading</span>
+									<div class="time-box">
+										<span class="time"></span>
+										<span class="mins">mins</span>
+									</div>
+								</div>
+								<span class="published">
+									as of
+										<span class="pubtime">...</span> today
+								</span>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-3">
+													<div class="er-nav-toggle-btn">
+								<a href="#">View All ER Wait Times <i class='icon-angle-down' aria-hidden='true'></i></a>
+							</div>
+											</div>
+				</div>
+
+								
+									<section id="er-nav-dropdown" class="container">
+						<div class="row">
+							<div class="col-sm-12">
+								<div class="row">
+									<div class="col-sm-6">
+										<div class="er-nav-dropdown-heading" data-ertitle="Rose Med Center">
+											<h3>Average ER Wait Times</h3>
+										</div>
+									</div>
+									<div class="col-sm-3 col-sm-offset-3">
+										<div class="er-nav-dropdown-sort">
+											<div class="btn-group sort-option">
+												<button type="button" class="btn btn-default btn-block dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+													<span class="pull-left" aria-label="Sort ER Wait Times by">Sort by</span>
+													<i class="pull-right icon-angle-down" aria-hidden="true"></i>
+												</button>
+												<ul class="dropdown-menu">
+													<li>
+														<a href="#" data-sort="az">A-Z</a>
+													</li>
+																																																				<li>
+														<a href="#" data-sort="er">Shortest Wait</a>
+													</li>
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="er-locations">
+									
+	<div id="er-locations-1" class="row divider er-location" data-ertitle="Rose Med Center" data-distance="" data-title="Rose Medical Center" data-name="Rose Medical Center" >
+		<meta content="39.732308,-104.93396100000001">
+		<div class="er-title col-sm-4 hidden-xs">
+						<p data-ertitle="Rose Med Center" data-title="Rose Medical Center" data-wait-time="--">Rose Medical Center</p>
+		</div>
+
+		<div class="er-wait-info col-xs-12 col-sm-5">
+			<div class="er-time wait-time">
+				<span class="time-display"></span>
+				<div class="time-box">
+					<span class="time">--</span>
+					<span class="mins">mins</span>
+				</div>
+				<div class="published hidden-xs">
+					as of <a href="/patients-visitors/er-wait-times.dot">
+						<span class="pubtime">...</span> today
+					</a>
+				</div>
+			</div>
+			<div class="er-mobile-info visible-xs">
+				<p data-ertitle="Rose Med Center" data-title="Rose Medical Center" data-wait-time="--">Rose Medical Center</p>
+				<a href="/locations/?directions=Rose Medical Center" class="er-directions-link visible-xs" data-title="Rose Medical Center" aria-label="Get directions to Rose Medical Center">Get Directions</a>
+			</div>
+		</div>
+
+		<div class="er-directions col-sm-3 hidden-xs">
+			<a href="/locations/?directions=Rose Medical Center" class="er-directions-link" data-title="Rose Medical Center" aria-label="Get directions to Rose Medical Center">Get Directions</a>
+		</div>
+	</div>
+	<div id="er-locations-2" class="row divider er-location" data-ertitle="Stapleton ER" data-distance="" data-title="Stapleton ER" data-name="Stapleton ER"  data-coords-error="true">
+		<meta content="0,0">
+		<div class="er-title col-sm-4 hidden-xs">
+						<p data-ertitle="Stapleton ER" data-title="Stapleton ER" data-wait-time="--">Stapleton ER</p>
+		</div>
+
+		<div class="er-wait-info col-xs-12 col-sm-5">
+			<div class="er-time wait-time">
+				<span class="time-display"></span>
+				<div class="time-box">
+					<span class="time">--</span>
+					<span class="mins">mins</span>
+				</div>
+				<div class="published hidden-xs">
+					as of <a href="/patients-visitors/er-wait-times.dot">
+						<span class="pubtime">...</span> today
+					</a>
+				</div>
+			</div>
+			<div class="er-mobile-info visible-xs">
+				<p data-ertitle="Stapleton ER" data-title="Stapleton ER" data-wait-time="--">Stapleton ER</p>
+				<a href="/locations/?directions=Stapleton ER" class="er-directions-link visible-xs" data-title="Stapleton ER" aria-label="Get directions to Stapleton ER">Get Directions</a>
+			</div>
+		</div>
+
+		<div class="er-directions col-sm-3 hidden-xs">
+			<a href="/locations/?directions=Stapleton ER" class="er-directions-link" data-title="Stapleton ER" aria-label="Get directions to Stapleton ER">Get Directions</a>
+		</div>
+	</div>
+								</div>
+							</div><!-- /col-sm-12 -->
+						</div><!-- /row -->
+					</section><!-- /er-dropdown -->
+							</div><!-- /row -->
+		</div><!-- /container -->
+	</section><!-- /facility-er-nav -->
+
+      
+      
+  
+  
+
+      
+      
+  
+  
+		   		  
+   </div><!-- /header-wrap -->
+
+<div id="page">
+							  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          	<div class="heading-bar">
+					<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<h1 id="section-heading" class="heading-underline">Page Not Found - 404</h1>
+											</div>
+				</div>
+			</div>
+							  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+			
+				
+
+	<div class="container-fluid bread-crumb-wrapper hidden-xs">
+		<div class="container">
+			<div class="row">
+				<div class="breadcrumb">
+																																																										
+		
+																									<ul>
+																<li>
+					<a href="/">
+													<i class="icon-sl-house-2" aria-hidden="true"></i>
+												<span class="sr-only"  aria-label="Home" >Rose Medical Center</span>
+					</a>
+					<meta content="1" />
+
+																										<span class="separator">/</span>
+												</li>
+					
+					
+																																																								
+							<li>
+								<span>util</span>
+								<meta content="2" />
+																<span class="separator">/</span>
+							</li>
+											 									
+					
+												
+																																																		<li>
+																																																																							
+																				<span>documents</span>
+										<meta content="3" />
+																				<span class="separator">/</span>
+									
+								</li>
+																<li>Page Not Found - 404</li>
+							
+																	 							</ul>
+		 	
+									</div>
+			</div>
+		</div>
+	</div>
+
+      
+      
+  
+  			</div>
+
+      
+      
+  
+  	
+	<div id="featured-wrap">
+		<div id="featured">
+						   		  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+      
+      
+  
+     
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+      
+      
+  
+   
+   
+					</div>
+	</div><!-- /featured-wrap -->
+
+	<div id="content-wrap">
+		<div class="row">
+			<section id="content-main">
+												<main role="main">
+					<div class="article-pre">
+												   		  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+      
+      
+  
+     
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+      
+      
+  
+   
+   					</div><!-- /article-pre -->
+
+					<article id="content-main-body">
+												   		  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+      
+      
+  
+    	
+		   
+			         				         		
+   		       
+	    
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+<p>We are unable locate the resource you are looking for. Perhaps you typed the address incorrectly or the page you requested no longer exists. This is the most common error on the web. Basically this means that the document you have requested no longer exists or that the URL (site address) is incorrect.</p>
+
+
+      
+      
+  
+          
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+      
+      
+  
+   
+   					</article><!-- /main-content -->
+					
+					<div class="article-post">
+												   		  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+      
+      
+  
+     
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+      
+      
+  
+   
+   					</div><!-- /article-post -->
+				</main><!-- /main -->
+			</section><!-- /content-main -->
+		</div><!-- /row -->
+	</div><!-- /content-wrap -->
+
+	<div id="post-content-wrap">
+		<div id="post-content">
+						   		  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+      
+      
+  
+     
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+      
+      
+  
+   
+   		</div>
+	</div><!-- /post-content-wrap -->
+
+</div><!-- /page -->
+
+<div id="footer-wrap">
+		   		  
+   
+		  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+<footer role="contentinfo">
+
+		
+								  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+			
+			
+		
+	
+					
+			
+
+
+
+
+								
+					
+
+
+
+
+
+<section class="site-info style-4">
+	<div class="container">
+
+		
+			  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+<div class="row footer-divider hidden-xs">
+	<div class="col-sm-3 footer-info">
+		<img src='/contentAsset/raw-data/e5bc4189-affe-4eb6-80e9-8329ad4aaadf/fullColorLogo' alt='Rose Medical Center'>
+		<p>
+			Rose Medical Center<br/>
+			4567 E. 9th Ave.<br/>Denver, CO 80220
+		</p>
+		<p>
+			Telephone: <a href="tel:3033202121">(303) 320-2121</a><br/>
+			
+			
+		</p>
+	</div>
+			
+	
+	
+		
+						
+		
+		
+											<div class="col-sm-3 col-sm-offset-1">
+									
+		
+		
+																	
+										<div class="footer-heading size-14">
+					<h4>About Us</h4>
+				</div>
+				<nav class="footer-nav">
+									<ul>
+							
+			
+					
+						
+						
+							
+										<li>
+						<a href="/about/contact-us/">
+							Contact Us
+						</a>
+					</li>
+							
+					
+						
+						
+							
+										<li>
+						<a href="/locations/">
+							Maps & Directions
+						</a>
+					</li>
+							
+					
+						
+						
+							
+										<li>
+						<a href="https://careers.hcahealthcare.com/pages/rose-medical-center?bid=5260">
+							Careers
+						</a>
+					</li>
+							
+					
+						
+						
+							
+										<li>
+						<a href="/physicians/physician-careers.dot?city=Denver&state=CO&facility=Rose+Medical+Center&division=Continental">
+							Physician Careers
+						</a>
+					</li>
+							
+					
+						
+						
+							
+										<li>
+						<a href="/about/about-rose">
+							About Rose
+						</a>
+					</li>
+							
+					
+						</ul>
+			</nav>
+		
+		</div>
+
+		
+	
+						
+		
+		
+											<div class="col-sm-3">
+									
+		
+		
+																	
+										<div class="footer-heading size-14">
+					<h4>Resources</h4>
+				</div>
+				<nav class="footer-nav">
+									<ul>
+							
+			
+					
+						
+						
+							
+										<li>
+						<a href="https://rosemed.com/myhealthone/bill-pay.dot">
+							Billing
+						</a>
+					</li>
+							
+					
+						
+						
+							
+										<li>
+						<a href="/patients-visitors/patient-information/pre-registration.dot">
+							Online Pre-Registration
+						</a>
+					</li>
+							
+					
+						
+						
+							
+										<li>
+						<a href="/physicians/">
+							Find a Doctor
+						</a>
+					</li>
+							
+					
+						
+						
+							
+										<li>
+						<a href="/myhealthone/">
+							MyHealth<em>One</em> Patient Portal
+						</a>
+					</li>
+							
+					
+						
+						
+							
+										<li>
+						<a href="/about/charity-care/">
+							Charity Care
+						</a>
+					</li>
+							
+					
+						</ul>
+			</nav>
+		
+		</div>
+
+		
+	
+						<div class="col-sm-3">
+			<div class="social-media social-media-links">
+									<div class="footer-heading">
+						<h4>Follow Us</h4>
+					</div>
+									  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+
+
+														
+
+
+	<a href="https://www.facebook.com/RoseMedicalCenter"  class="facebook" title="Follow us on Facebook">
+		<i class="icon-facebook" aria-hidden="true"></i>
+		 <span class="sr-only" aria-label="Facebook">Follow us on Facebook</span>
+	</a>
+	<a href="https://www.linkedin.com/company/rose-medical-center"  class="linkedin" title="Check us out on LinkedIn">
+		<i class="icon-linkedin" aria-hidden="true"></i>
+		<span class="sr-only" aria-label="LinkedIn">Follow us on LinkedIn</span>
+	</a>
+	<a href="https://twitter.com/rosemedical"  class="twitter" title="Follow us on Twitter">
+		<i class="icon-twitter" aria-hidden="true"></i>
+		<span class="sr-only" aria-label="Twitter">Follow us on Twitter</span>
+	</a>
+
+
+
+
+      
+      
+  
+  				</div>
+			</div>
+			</div>
+
+<div class="row visible-xs-block">
+	<div class="footer-info col-sm-8">
+		<img src='/contentAsset/raw-data/e5bc4189-affe-4eb6-80e9-8329ad4aaadf/fullColorLogo' alt='Rose Medical Center'>
+		<p>
+			Rose Medical Center<br/>
+			4567 E. 9th Ave.<br/>Denver, CO 80220
+		</p>
+		<p>
+							Telephone: <a href="tel:3033202121">(303) 320-2121</a><br/>
+											</p>
+	</div>
+</div>
+<div class="row visible-xs-block">
+	<form class="mobile-quick-links col-xs-10 col-xs-offset-1">
+		<select name="mobile-url" class="form-control" onchange="openPage(this);">
+			<option value="--">Quick Links</option>
+			<option value="--">About Us</option><option value="/about/contact-us/">--Contact Us</option><option value="/locations/">--Maps & Directions</option><option value="https://careers.hcahealthcare.com/pages/rose-medical-center?bid=5260">--Careers</option><option value="/physicians/physician-careers.dot?city=Denver&state=CO&facility=Rose+Medical+Center&division=Continental">--Physician Careers</option><option value="/about/about-rose">--About Rose</option><option value="--">Resources</option><option value="https://rosemed.com/myhealthone/bill-pay.dot">--Billing</option><option value="/patients-visitors/patient-information/pre-registration.dot">--Online Pre-Registration</option><option value="/physicians/">--Find a Doctor</option><option value="/myhealthone/">--MyHealth<em>One</em> Patient Portal</option><option value="/about/charity-care/">--Charity Care</option>
+		</select>
+	</form>
+</div>
+<div class="row visible-xs-block">
+	<div class="social-media social-media-links col-xs-12">
+		  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+
+
+														
+
+
+	<a href="https://www.facebook.com/RoseMedicalCenter"  class="facebook" title="Follow us on Facebook">
+		<i class="icon-facebook" aria-hidden="true"></i>
+		 <span class="sr-only" aria-label="Facebook">Follow us on Facebook</span>
+	</a>
+	<a href="https://www.linkedin.com/company/rose-medical-center"  class="linkedin" title="Check us out on LinkedIn">
+		<i class="icon-linkedin" aria-hidden="true"></i>
+		<span class="sr-only" aria-label="LinkedIn">Follow us on LinkedIn</span>
+	</a>
+	<a href="https://twitter.com/rosemedical"  class="twitter" title="Follow us on Twitter">
+		<i class="icon-twitter" aria-hidden="true"></i>
+		<span class="sr-only" aria-label="Twitter">Follow us on Twitter</span>
+	</a>
+
+
+
+
+      
+      
+  
+  	</div>
+</div>
+
+      
+      
+  
+  
+				</div>
+</section>
+      
+      
+  
+  		
+							  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+
+
+      
+      
+  
+  		
+									
+		  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+<div class="legal-container">
+	<div class="container">
+		<section class="legal-info">
+			
+										<div class="visible-xs-block row">
+					<div class="col-xs-12 text-center legal-links"> 
+						<span class="copyright">Copyright 1999-2019 <a href="http://www.hcahealthcare.com/">C-HCA, Inc.</a>; All rights reserved.</span><br/>
+							<a href="/legal/index.dot#terms" data-legal="terms" class="terms-and-conditions">Terms &amp; Conditions</a>
+							| <a href="/legal/index.dot#privacy-policy" data-legal="privacy-policy" class="privacy-policy">Privacy Policy</a>
+							| <a href="/legal/index.dot#social-media" data-legal="social-media" class="social-policy">Social Media Policy</a>
+							| <a href="/legal/index.dot#acceptable-use-policy" data-legal="acceptable-use-policy" class="social-policy">Acceptable Use Policy</a><br />
+							<a href="/legal/index.dot#hca-nondiscrimination-notice" data-legal="hca-nondiscrimination-notice" class="hca-nondiscrimination-notice">HCA Nondiscrimination Notice</a>
+							| <a href="/legal/index.dot#accessibility" data-legal="accessibility" class="accessibility">Accessibility</a>
+							| <a href="/legal/index.dot#responsible-disclosure" data-legal="responsible-disclosure" class="responsible-disclosure">Responsible Disclosure</a>
+					</div>
+				</div>
+				<div class="hidden-xs row">
+					<div class="col-sm-4 text-left">
+						<span class="copyright">Copyright 1999-2019 <a href="http://www.hcahealthcare.com/">C-HCA, Inc.</a>; All rights reserved.</span>
+					</div>
+					<div class="col-sm-8 text-right legal-links">
+							<a href="/legal/index.dot#terms" data-legal="terms" class="terms-and-conditions">Terms &amp; Conditions</a>
+							| <a href="/legal/index.dot#privacy-policy" data-legal="privacy-policy" class="privacy-policy">Privacy Policy</a>
+							| <a href="/legal/index.dot#social-media" data-legal="social-media" class="social-policy">Social Media Policy</a>
+							| <a href="/legal/index.dot#acceptable-use-policy" data-legal="acceptable-use-policy" class="social-policy">Acceptable Use Policy</a><br />
+							<a href="/legal/index.dot#hca-nondiscrimination-notice" data-legal="hca-nondiscrimination-notice" class="hca-nondiscrimination-notice">HCA Nondiscrimination Notice</a> 
+							| <a href="/legal/index.dot#accessibility" data-legal="accessibility" class="accessibility">Accessibility</a>
+							| <a href="/legal/index.dot#responsible-disclosure" data-legal="responsible-disclosure" class="responsible-disclosure">Responsible Disclosure</a>
+					</div>
+				</div>
+					</section>
+	</div>
+</div>
+
+      
+      
+  
+  
+</footer>
+      
+      
+  
+  
+		   		  
+   </div><!-- /footer-wrap -->
+
+  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          		</div><!-- end page-wrap -->
+
+				  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+	
+			
+
+      
+      
+  
+  
+								<script type="text/javascript" src="//d3ejxai3mveu84.cloudfront.net/design/lib/jquery/1.9.0/jquery.min.js?v=06202019114257"></script>
+				
+
+										
+		
+		<script type="text/javascript" src="https://www.youtube.com/iframe_api"></script>
+		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+
+		
+					<script type="text/javascript" src="//core.secure.ehc.com/themes/hut/shared/main.min.js?v=06202019114257"></script>
+		
+				  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+		
+      
+      
+  
+  
+		
+						
+				
+												
+				
+											<!-- BEGIN ER WAIT JAVASCRIPT -->
+				<script type="text/javascript">
+									var widget_data = {
+						"feed_titles"				: "Continental,$location_division,Continental",
+						"facilities"				: "Rose Med Center,Stapleton ER",
+						"min_format"				: "mins",
+						"include_hours"				: "false",
+						"pub_date_format"			: "MMM D YYYY",
+						"pub_time_format"			: "h:mma",
+						"pub_date_format_header"	: "M/DD",
+						"pub_time_format_header"	: "h:mma"
+					};
+					  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          /*
+er_wait_times_v1.js
+Javascript that pulls ER Wait Time Data
+
+Title:          ER Wait Times
+Version:        2.1 (FW2)
+Author:         Jeremiah Weeden-Wright/Brian Traughber
+Based on:		FW2 ER Wait Time widget
+Date Updated:   03/31/15
+
+*/
+
+// Global Vars
+var er_widget_data = []; 	// Date from the widget, saved from the HTML
+var er_feed_results = [];	// Actual results returned from querying the feeds
+var er_feeds = [];			// List of actual URLs to query and status
+var total_er_feeds = 0;
+var er_feeds_processed = 0;
+var er_use_cufon = false;
+var er_max_feed_attempts = 5;
+var er_feed_attempt_interval = 2000;
+var feed_pub_datetime = "";
+var feed_pub_date = "";
+var feed_pub_time = "";
+var er_wait_time_loaded = false;
+
+// Initialize google feeds for AJAX query of ER Feeds
+//	google.load("feeds", "1");
+
+// On Page Load, get the feed
+$(window).load(function () {
+	
+	// vars
+	var er_feed_names = [];	// Unique list of feed names from the widget data
+
+	// Save all the required feeds to a list removing duplicates
+	if(widget_data.feed_titles.indexOf(",") != -1) {
+		$(widget_data.feed_titles.split(",")).each(function() {
+			var found = false;
+			var facility_title = $.trim(this);
+			// Look up feeds from feed titles
+			for(var i = 0; i < er_feed_names.length; i++) {
+				// If it already is in the list, its a dup, ignore it
+				if(facility_title == er_feed_names[i]) {
+					found = true;
+					break;
+				}
+			}
+			if(!found) {
+				er_feed_names.push(facility_title);
+			}
+		});
+	} else {
+		// Only a single record, check for dups
+		var found = false;
+		// Look up feeds from feed titles
+		for(var i = 0; i < er_feed_names.length; i++) {
+			// If it already is in the list, its a dup, ignore it
+			if(widget_data.feed_titles == er_feed_names[i]) {
+				found = true;
+				break;
+			}
+		}
+		if(!found) {
+			er_feed_names.push(widget_data.feed_titles);
+		}
+	}
+
+	// Only setup the drop down functionality if dropdown is selected
+	// ONLY 1 DROPDOWN per page will function correctly
+	if(widget_data.facilities.split(",").length > 2 && widget_data.type != 'list') {
+		$('.ehc-er-disclaimer').hide();
+		$('.ehc-er-facility-select').change(function() {
+			if($(this).val() == 'Select Facility') {
+				$('.ehc-er-facility-option[rel]').hide();
+				$('.ehc-er-disclaimer').hide();
+				$('.ehc-er-facility-dropdown-message').show();
+			} else {
+				$('.ehc-er-facility-option[rel]').hide();
+				$('li[rel="ER Time '+$(this).val() + '"]').show();
+				$('.ehc-er-facility-dropdown-message').hide();
+				$('.ehc-er-disclaimer').show();
+			}
+		});
+	}
+
+	// Cache the widget data
+	er_widget_data.push(widget_data);
+
+	// Look up the actual feed URL and other info in the global variable ER_WAIT_TIME_FEEDS
+	for (var i = 0; i < er_feed_names.length; i ++) {
+		for (var j = 0; j < ER_WAIT_TIME_FEEDS.length; j++) {
+			if (er_feed_names[i] == ER_WAIT_TIME_FEEDS[j].feed_name) {
+
+//				console.log("feed name "+ER_WAIT_TIME_FEEDS[j].feed_name);
+				var er_feed_map = {
+					"feed_info"	: ER_WAIT_TIME_FEEDS[j],
+					"status"	: "setup"
+				};
+				er_feeds.push(er_feed_map);
+				total_er_feeds = total_er_feeds + 1;
+				break;
+			}
+		}
+	}
+
+	// Go through each feed and cache the feed data
+	$(er_feeds).each(function() {
+		getFeed(this);
+//		console.log("get some feeds")
+	});
+	
+	// Sleep in an iterative loop and use a for loop to check if all feeds were successful	
+	setTimeout(function(){checkFeedsForSuccess(0)},3000);
+});
+
+
+// Recursive function - need to make sure it stops itself after max feed attempts is reached
+function checkFeedsForSuccess(attempts) {
+
+	// Double check and make sure that not all feeds have returned
+	if(er_feeds_processed != total_er_feeds) {
+
+		// Hide message, show loader
+//		$('.ehc-er-loading .ehc-er-load-message').hide();
+//		$('.ehc-er-loading img').show();
+		$('.ehc-er-wait').addClass('feed-loading').removeClass('feed-error');
+
+		// Check feeds
+		var done_searching = true;
+		$(er_feeds).each(function() {
+			if(this.status != "success") {
+				getFeed(this);
+				done_searching = false;
+			}
+		});
+
+		attempts = attempts + 1;
+		if (attempts < er_max_feed_attempts && !done_searching) {
+			t=setTimeout("checkFeedsForSuccess("+attempts+")",er_feed_attempt_interval);
+		} else {
+			
+			if (typeof console !== "undefined") {
+				console.log("Too many tries")
+			}
+			
+			// Max tries, hide the loading bar and present message (retry calls this method again)
+			$('.ehc-er-wait').addClass('feed-error').removeClass('feed-loading');
+//			$('.ehc-er-loading .ehc-er-load-message').show()
+//					.html("Could not retrieve ER feeds. <a href='javascript:checkFeedsForSuccess(0)'>Retry</a>");
+		}
+	}
+}
+
+
+// Retrieves the feed and sends the JSON data to processFeed
+function getFeed(er_feed_map,fallback) {
+
+	var er_feed_url = er_feed_map.feed_info.json_url,
+		division_feed = er_feed_map.feed_info.feed_name;
+	
+	$.support.cors = true;
+
+	var json_request;
+	if (window.XDomainRequest) {
+		//	keep old url
+		er_feed_url = location.protocol+"//";
+		er_feed_url += (location.protocol.indexOf("https") > -1) ? "core.secure.ehc.com" : "core.ehc.com";
+		er_feed_url += "/src/widgets/er-wait-times/pages/er-wait-service-controller.dot?feed_title="+division_feed;
+		json_request = new XDomainRequest();
+		json_request.open("GET",er_feed_url);
+	}
+	else if (window.XMLHttpRequest) {
+		//	modern browsers supported IE11+, Chrome, Firefox, Safari
+		json_request = new XMLHttpRequest();
+		json_request.open("GET",er_feed_url,true);
+	}
+	else {
+		json_request = new ActiveXObject("Microsoft.XMLHTTP");
+		er_feed_url = location.protocol+"//";
+		er_feed_url += (location.protocol.indexOf("https") > -1) ? "core.secure.ehc.com" : "core.ehc.com";
+		er_feed_url += "/src/widgets/er-wait-times/pages/er-wait-service-controller.dot?feed_title="+division_feed;
+		json_request = new XDomainRequest();
+		json_request.open("GET",er_feed_url);
+	}
+	
+	json_request.onload = function() {
+		var JSON = $.parseJSON(json_request.responseText);
+		if (JSON == null || typeof (JSON) == 'undefined') {
+			JSON = $.parseJSON(data.firstChild.textContent);
+		}
+		getFeedSuccess(JSON,er_feed_map);
+	}
+	
+	json_request.send();
+
+	json_request.onerror = function () {
+		er_feed_map.status = "fail";
+	};
+}
+
+function getFeedSuccess(data,er_feed_map) {
+	var items = data.rss.channel.item;
+	if (items.length > 0) {
+		$(items).each(function() {
+			// Add all variables from feed into JS array
+			var feed_result = [];
+			er_feed_map.status = "success";
+			feed_result.feed_info = er_feed_map.feed_info;
+			feed_result.facility = this.title;
+			feed_result.pub_date = this.pubDate;
+			feed_result.er_time = this.description;
+			feed_result.pub_date_formatted = false;
+			er_feed_results.push(feed_result);
+		});
+		er_feeds_processed = er_feeds_processed + 1;
+		setupFacilitiesForWidgets();
+	} else {
+		er_feed_map.status = "fail";
+	}
+}
+
+function setupFacilitiesForWidgets() {
+
+	// Only run this function once all facilities are returned
+	if(er_feeds_processed == total_er_feeds) {
+
+		// For each widget, we'll need to find the facilities for those widgets in the cached feeds
+		$(er_widget_data).each(function() {
+			var current_widget_data = this;
+
+			// For each facility specified in the widget
+			var results = [];
+			$(current_widget_data.facilities.split(",")).each(function() {
+				var er_facility = this;
+				er_facility = $.trim(er_facility);
+
+				// For each er_feed_result
+				for(i = 0; i < er_feed_results.length; i++) {
+					// Find a match for the widget's specified facility in the feed results
+					if(er_feed_results[i].facility == er_facility) {
+
+						// Add 00: to beginning and strip off Mins
+						var time = er_feed_results[i].er_time;
+						if(time.indexOf("Coming Soon") == -1) {
+							time = time.replace("Mins","").replace(" ","");
+							if(current_widget_data.include_hours == "true") {
+								// Add hours
+								if (time.length == 1) {
+									time = "0" + time;
+								}
+								time = "00:" + time;
+							}
+						} else {
+							time = "Coming Soon";
+						}
+						er_feed_results[i].er_time = time;
+
+						// Setup the date based on the publication date set
+						var already_formatted = er_feed_results[i].pub_date_formatted;
+						if (already_formatted != true) {
+							var pub_date_org = er_feed_results[i].pub_date;
+							pub_date_org = pub_date_org.replace(/ -0700/,""); //.replace(/AM/," am").replace(/PM/," pm");
+						
+							// Check for and save any timezone info
+							// - all feeds are standard format with last 3 characters as timezone
+							var timezone = pub_date_org.substring(pub_date_org.length - 3, pub_date_org.length);
+							pub_date_org = pub_date_org.substring(0,pub_date_org.length - 4); // includes removing the space
+
+							// Date formats are different for different feeds
+							var old_date_format = er_feed_results[i].feed_info.date_format;
+							
+							var new_date_format = current_widget_data.pub_date_format;
+							var new_time_format = current_widget_data.pub_time_format;
+							var pub_date = moment(pub_date_org,old_date_format).format(new_date_format);
+							pub_time = moment(pub_date_org,old_date_format).format(new_time_format);
+							
+							//	For customizing based on area
+							var new_header_date_format = current_widget_data.pub_date_format_header;
+							var new_header_time_format = current_widget_data.pub_time_format_header;
+							var pub_date_header = moment(pub_date_org,old_date_format).format(new_header_date_format);
+							var pub_time_header = moment(pub_date_org,old_date_format).format(new_header_time_format);
+
+							// Add timezone back to date
+							pub_time = pub_time + " " + timezone;
+							er_feed_results[i].pub_date = pub_date;
+							er_feed_results[i].pub_time = pub_time;
+							er_feed_results[i].pub_date_formatted = true;
+							
+							er_feed_results[i].pub_date_header = pub_date_header;
+							er_feed_results[i].pub_time_header = pub_time_header;
+						}
+						results.push(er_feed_results[i]);
+						break; // Need to use 'for loop' so can break before end if match if found (can't use $.each)
+					}
+				}				
+			});
+				
+			// Calculate columns
+			var columns = current_widget_data.columns;
+			if (columns == undefined || columns == "") {
+				columns = 1;
+			}
+			columns = parseInt(columns);
+
+			// Round down, keep a column count so that if we're on the last column, keep going 
+			if((results.length/columns) % 1 >= 0.5) {
+				var items_per_column = Math.floor(results.length / columns) + 1;
+			} else {
+				var items_per_column = Math.floor(results.length / columns);
+			}
+
+			// Print results in the er-wait div
+			var counter = 0;
+			var column_count = 0;
+			var feed_html = "";
+			
+			
+			var er_wait_container = $(".ehc-er-wait");
+			for(e = 0; e < er_wait_container.length; e++) {
+				if(current_widget_data.facilities.split(",").length > 2
+					&& current_widget_data.type != 'list') {
+					var options = $(".ehc-er-facility-select");
+
+					// Add in column logic
+					$(results).each(function() {
+						// Add results to the DOM
+						
+						var this_er_time = parseInt(this.er_time);
+						var er_wait_time_class = "wait-time";
+						if (this_er_time > 60) {
+							er_wait_time_class += " high";
+						}
+						else if (this_er_time > 30) {
+							er_wait_time_class += " med";
+						}
+						else {
+							er_wait_time_class += " low";
+						}
+						
+						//If wait time is 1 min, change "mins" to "min" or "Minutes" to "Minute"
+						if (this_er_time == 1) {
+							var minsOrMinutes = $(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .wait-time .mins').html();
+							
+							if (minsOrMinutes == "mins") {
+								$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .wait-time .mins').html("min");
+							} else if (minsOrMinutes == "Minutes") {
+								$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .wait-time .mins').html("Minute");
+							}
+						}
+						
+						$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .wait-time').attr('class',er_wait_time_class);
+						
+						$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .wait-time .time').html(this.er_time);
+						$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] a[data-wait-time]').attr("data-wait-time",this.er_time.replace(/\s/g,""));
+						$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .published .pubdate').html(this.pub_date);
+						$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .published .pubtime').html(this.pub_time);
+					});
+					$(er_wait_container[e]).removeClass("feed-loading");
+					
+				} else {
+
+					// Add in column logic
+					$(results).each(function() {
+
+						// Logic for creating columns (ul)
+						if(counter == 0) {
+							column_count = column_count + 1;
+						} else if (counter % items_per_column == 0 && column_count != columns) {
+							column_count = column_count + 1;
+						}
+						
+						var this_er_time = parseInt(this.er_time);
+						var er_wait_time_class = "wait-time";
+						if (this_er_time > 60) {
+							er_wait_time_class += " high";
+						}
+						else if (this_er_time > 30) {
+							er_wait_time_class += " med";
+						}
+						else {
+							er_wait_time_class += " low";
+						}
+						
+						//If wait time is 1 min, change "mins" to "min"
+						if (this_er_time == 1) {
+							var minsOrMinutes = $(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .wait-time .mins').html();
+							
+							if (minsOrMinutes == "mins") {
+								$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .wait-time .mins').html("min");
+							} else if (minsOrMinutes == "Minutes") {
+								$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .wait-time .mins').html("Minute");
+							}
+						}
+						
+//						console.log("Current facility "+this.facility);
+						
+						// Add results to the DOM
+						$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .wait-time').attr('class',er_wait_time_class);
+						$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .wait-time .time').html(this.er_time);
+						$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] a[data-wait-time]').attr("data-wait-time",this.er_time.replace(/\s/g,""));
+
+//						$(er_wait_container[e]).find('.feed.published .pubtime').html(feed_pub_time);
+						
+						if($(er_wait_container[e]).attr("id") == "header-wait-times") {
+							$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .published .pubdate').html(this.pub_date_header);
+							$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .published .pubtime').html(this.pub_time_header);
+						} else {
+							$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .published .pubdate').html(this.pub_date);
+							$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .published .pubtime').html(this.pub_time);
+						}
+						
+						$(er_wait_container[e]).removeClass("feed-loading");
+						
+//						$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .published .pubdate').html(this.pub_date);
+//						$(er_wait_container[e]).find('[data-ertitle="'+this.facility+'"] .published .pubtime').html(this.pub_time);
+
+					});
+				}
+			}
+		});
+		
+ 		// Hide the loading bar
+ 		$('.ehc-er-loading').hide();
+
+		//	TRIGGER EVENT ONCE THE ER WAITS HAVE LOADED
+// 		TRIGGER EVENT ONCE THE ER WAITS HAVE LOADED
+		if (document.createEvent) {
+		     var event = document.createEvent('Event');
+				// Define that the event name is 'build'.
+			 event.initEvent('er_wait_loaded', true, true);
+			 document.dispatchEvent(event);
+		} else {
+		    document.fireEvent("er_wait_loaded");
+		}
+
+		//	set a continuos loop, check for the latest ER Wait Time every 5 minutes
+		if (er_wait_time_loaded === false){
+			window.setInterval(function(){
+				update_er_wait_times()
+			}, 300000);
+		}
+		er_wait_time_loaded = true;
+		
+
+	 // this is for changing image in background if less than 480
+
+ 		$(window).resize(function() {
+ 			var browserWidth = $(window).outerWidth();
+ 			if (browserWidth < 640) {
+ 				$(".map-wrap img").attr("src","//core.ehc.com/src/apps/stacks/er-wait-time/v1/svg-map-mobile.jpg");
+ 			}
+ 			else {
+ 				$(".map-wrap img").attr("src","//core.ehc.com/src/apps/stacks/er-wait-time/v1/svg-map.jpg");
+ 			}
+		}).resize();
+	}
+}
+
+function update_er_wait_times() {
+	// reset counters
+	er_feeds_processed = 0;
+	er_feed_results.length = 0;
+	$(er_feeds).each(function() {
+		getFeed(this);
+	});
+}
+      
+      
+  
+  								</script>
+				<script type="text/javascript" src="//core.secure.ehc.com/templates/header/includes/er-navigator/er-navigator.min.js"></script>
+				<!-- END ER WAIT JAVASCRIPT -->
+					
+									<script type="text/javascript" src="//core.secure.ehc.com/templates/header/includes/emergency-alerts/emergency-alerts.min.js"></script>
+		
+		
+		
+											  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+<script>
+  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          ////////////////////
+//	masonry containers
+var msnry_containers = document.querySelectorAll('.tab-pane.masonry-tab div.row[data-masonry="true"]');
+for (var i=0; msnry_containers.length > i; i++) {
+	var msnry = new Masonry( msnry_containers[i], {
+		itemSelector: '.masonry'
+	});
+	msnry.layout();
+}
+      
+      
+  
+  
+</script>
+
+
+      
+      
+  
+  		
+				  
+  
+      
+              
+        
+          
+
+<script type="text/javascript">
+      var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', "UA-19363153-6"]);
+        _gaq.push(['_setDomainName', "rosemed.com"]);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+      </script>
+
+
+      
+      
+  
+  
+				  
+  
+      
+              
+        
+          
+
+
+
+      
+      
+  
+  
+				
+				  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+
+<input type="hidden" id="gap-facility-title" value="Rose Medical Center"/>
+
+		<script type="text/javascript" src="//core.secure.ehc.com/design/lib/analytics/google-tag-manager/ga-event-tracking.min.js?v=06202019114257"></script>
+
+	
+		<script type="text/javascript" src="//core.secure.ehc.com/design/lib/analytics/google-tag-manager/ga-feature-tracking.dot"></script>
+
+      
+      
+  
+  
+			</body>
+</html>
+
+      
+      
+  
+  

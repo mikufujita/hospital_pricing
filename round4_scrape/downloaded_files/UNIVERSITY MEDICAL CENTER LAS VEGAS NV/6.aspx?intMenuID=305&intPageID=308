@@ -1,0 +1,254 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="ctl00_Head1">
+
+<!--IE-8 fix compatibilty line must be exactly below head tag-->
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" /><meta name="google-site-verification" content="WZB1aPIHysHUSkah3-5BiO2SWIzB8egccpYwaXNhhsQ" /><title>
+	UMC - UMC Board of Trustees
+</title><meta name="ROBOTS" content="INDEX,FOLLOW,NOIMAGEINDEX" /><meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="expires"content="-1" />
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE" /><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" /><meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Expires" content="0" /><meta name="category" content="Healthcare" /><meta name="geography" content="Las Vegas, Nevada" /><meta name="zipcode" content="89102" /><meta name="city" content="Las Vegas" /><meta name="state" content="NV" /><meta name="metropolitan area" content="Las Vegas" /><meta name="country" content="United States" /><meta name="description" /><link rel="Stylesheet" type="text/css" href="../App_Themes/UMCClassic/master.css" media="screen" /><link rel="Stylesheet" type="text/css" href="../App_Themes/UMCClassic/modules.css" media="screen" /><meta name="keywords" content="county, commissioners, governing board, commissioner, government" /><link href="../App_Themes/UMCClassic/master.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/UMCClassic/modules.css" type="text/css" rel="stylesheet" /></head>
+<body topmargin="0">
+<div class="master-wrapper-page">
+    <div class="header">
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+<div style="background-color:#6699ff; height:40px; padding-top:20px; padding-left:520px;">
+
+        <div style="float:left; padding-right:20px;">
+<a href="/EventPay/Payment_Form.aspx" target="_blank" style="background-color:#003399; color:#FFFFFF; padding:8px; border:thin #ccc groove; font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold;">DONATE HERE</a>
+
+
+</div>
+
+
+
+    <div style="width:65%; float:left;">           
+        <div></div>
+<script>
+  (function() {
+    var cx = '016154956610605486002:xtufcliblyg';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+<div></div>
+</div>
+
+
+
+</div>
+
+<div class="UMC-Best-in-Vegas-Header">
+    
+    <a href="/UMC-Home.aspx" title="Return to the UMCSN Home page" id="UMC-Best-in-Vegas-Header-02"></a>
+    <div id="UMC-Best-in-Vegas-Header-03"></div>
+    <div id="UMC-Best-in-Vegas-Header-04"></div>   
+    <div id="UMC-Best-in-Vegas-Header-05"></div>
+    <div id="UMC-Best-in-Vegas-Header-07"></div>  
+    <div id="UMC-Best-in-Vegas-Header-08"></div>
+    <div class="header-linkstext">
+       <a href="/Footer/UMCSN-Mission-Vision-and-Values.aspx?intMenuID=305&intPageID=310" target="_self">Mission, Vision and Values</a>&nbsp; | &nbsp;<a href="/Getting-Around-UMCSN/Directions-and-Parking-at-UMCSN.aspx?intMenuID=7100&intPageID=320" target="_self">Directions</a>&nbsp; | &nbsp;<a href="/Quality-and-Safety/Quality-And-Safety-Index.aspx?intMenuID=2400&intPageID=321" target="_self">Quality & Safety</a>&nbsp; | &nbsp;<a href="/Common/Contact-Us-Index.aspx?intMenuID=7000&intPageID=319" target="_self">Contact Us</a>
+    </div>    
+    
+
+    
+
+
+
+
+
+
+
+   
+
+</div>
+</div>  
+    <div class="master-wrapper-content">
+            <div class="master-wrapper-cph1">
+                
+    <form name="aspnetForm" method="post" action="Clark-County-Board-Members.aspx?intMenuID=305&amp;intPageID=308" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTIyNjUyNTMwNw9kFgJmD2QWBAICD2QWAgIBD2QWAgIDD2QWBAIDDw8WAh4EVGV4dAUVVU1DIEJvYXJkIG9mIFRydXN0ZWVzZGQCBQ8PFgIfAAW6bDxkaXY+PHRhYmxlIHdpZHRoPSIxMDAlImJvcmRlcj0iMCJjZWxscGFkZGluZz0iNSI+PHRyPjx0ZCB3aWR0aD0iMjAlIiBhbGlnbj0iY2VudGVyInZhbGlnbj0idG9wIj48aW1nIHNyYz0iL2ltYWdlcy9Cb2FyZG9mQ291bnR5Q29tbWlzc2lvbmVyczE5LmpwZyIgd2lkdGg9IjMwMCIgaGVpZ2h0PSIyMDYiIGJvcmRlcj0iMSI+PC90ZD48dGQgY29sc3Bhbj0iMyIgYWxpZ249ImxlZnQidmFsaWduPSJ0b3AiPjx0YWJsZSB3aWR0aD0iMTAwJSIgYm9yZGVyPSIwIiBjZWxscGFkZGluZz0iMCI+PHRyPjx0ZCB3aWR0aD0iNTAlIiBhbGlnbj0ibGVmdCIgdmFsaWduPSJ0b3AiPjxoMj5VTUMgQm9hcmQgb2YgVHJ1c3RlZXM8L2gyPjxwPlRoZSBVTUMgQm9hcmQgb2YgVHJ1c3RlZXMgc2l0cyBhcyB0aGUgZ292ZXJuaW5nIGJvYXJkIGZvciBVbml2ZXJzaXR5IE1lZGljYWwgQ2VudGVyLiBUaGUgQm9hcmQncyBtZWV0aW5ncyBhcmUgaGVsZCB0aGUgMXN0IGFuZCAzcmQgVHVlc2RheSBvZiBlYWNoIG1vbnRoIGF0IDk6MTUgYS5tLiBhbmQgYXJlIG9wZW4gdG8gdGhlIHB1YmxpYy4gTWVldGluZ3MgYXJlIGF0IHRoZSBDbGFyayBDb3VudHkgR292ZXJubWVudCBDZW50ZXIsIDUwMCBHcmFuZCBDZW50cmFsIFBhcmt3YXkuIDwvcD48cD48YSBocmVmPSJodHRwOi8vd3d3LmNsYXJrY291bnR5bnYuZ292L2RlcHRzL3B1YmxpY19jb21tdW5pY2F0aW9ucy9wYWdlcy9hZ2VuZGFzMi5hc3B4IiB0YXJnZXQ9ImJsYW5rIj5DbGljayBoZXJlIGZvciBhZ2VuZGEgaW5mb3JtYXRpb24uPC9hPiA8YnIgLz48L3A+PC90ZD48dGQgd2lkdGg9IjM1JSIgYWxpZ249InJpZ2h0IiB2YWxpZ249InRvcCI+PGRpdj48dGFibGUgYm9yZGVyPSIwIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiIGlkPSJuYXZxbGlua3MiPjx0cj48dGQ+PGltZyBzcmM9Ii9JbWFnZXMvTWlzYy9SZWxhdGVkaW5mby5qcGciPjxici8+PGJyLz48YnIvPjxhIGhyZWY9Ii9Gb290ZXIvTGVhZGVyc2hpcC1hdC1VTUMuYXNweD9pbnRNZW51SUQ9MzA1JmludFBhZ2VJRD0zMDYiIHRhcmdldD0iX3NlbGYiPkxlYWRlcnNoaXAgYXQgVU1DPC9hPjxici8+PGEgaHJlZj0iL0Zvb3Rlci9DbGFyay1Db3VudHktQm9hcmQtTWVtYmVycy5hc3B4P2ludE1lbnVJRD0zMDUmaW50UGFnZUlEPTMwOCIgdGFyZ2V0PSJfc2VsZiI+VU1DIEJvYXJkIG9mIFRydXN0ZWVzPC9hPjxici8+PGEgaHJlZj0iL0Zvb3Rlci9VTUNCb2FyZE1lbWJlcnMuYXNweCIgdGFyZ2V0PSJfc2VsZiI+VU1DIEdvdmVybmluZyBCb2FyZDwvYT48YnIvPjxhIGhyZWY9Ii9Gb290ZXIvRXhjZWxsZW5jZS1FdmVyeWRheS1hdC1VTUMuYXNweD9pbnRNZW51SUQ9MzA1JmludFBhZ2VJRD0zMDciIHRhcmdldD0iX3NlbGYiPkF3YXJkcyAmIEFjY3JlZGl0YXRpb25zPC9hPjxici8+PGEgaHJlZj0iL0Zvb3Rlci9TZXJ2aW5nLXRoZS1MYXMtVmVnYXMtQ29tbXVuaXR5LVNpbmNlLTE5MzEuYXNweD9pbnRNZW51SUQ9MzA1JmludFBhZ2VJRD0zMDkiIHRhcmdldD0iX3NlbGYiPkhpc3Rvcnkgb2YgVU1DPC9hPjxici8+PGEgaHJlZj0iL0Zvb3Rlci9VTUNTTi1NaXNzaW9uLVZpc2lvbi1hbmQtVmFsdWVzLmFzcHg/aW50TWVudUlEPTMwNSZpbnRQYWdlSUQ9MzEwIiB0YXJnZXQ9Il9zZWxmIj5NaXNzaW9uLCBWaXNpb24gYW5kIFZhbHVlczwvYT48YnIvPjwvdGQ+PC90cj48L3RhYmxlPjwvZGl2PjwvdGQ+PC90cj48L3RhYmxlPjwvdGQ+PC90cj48L3RhYmxlPjx0YWJsZSB3aWR0aD0iMTAwJSJib3JkZXI9IjAiIGNlbGxwYWRkaW5nPSIxMCIgc3R5bGU9InRleHQtYWxpZ246anVzdGlmeSI+PHRyPjx0ZCB2YWxpZ249InRvcCI+PGgyPkNvbW1pc3Npb25lciBMYXdyZW5jZSBXZWVrbHkgLSBDaGFpcjwvaDI+PGltZyBzcmM9IkltYWdlcy9MYXdyZW5jZS1XZWVrbHkuanBnIiBhbHQ9Ikxhd3JlbmNlIFdlZWtseSIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMjUiIGhzcGFjZT0iMTAiIGJvcmRlcj0iMSIgYWxpZ249InJpZ2h0Ii8+PHA+Q29tbWlzc2lvbmVyIExhd3JlbmNlIFdlZWtseSBpcyBhIG5hdGl2ZSBOZXZhZGFuICAgd2hvIGdyZXcgdXAgaW4gTGFzIFZlZ2FzIGFuZCBoYXMgZGVkaWNhdGVkIGhpcyBwcm9mZXNzaW9uYWwgbGlmZSB0byBzZXJ2aW5nIHRoZSAgIHB1YmxpYyB0aHJvdWdoIGhpcyBpbnZvbHZlbWVudCBpbiBtYW55IG9yZ2FuaXphdGlvbnMsIGFzIGEgQ2l0eSBDb3VuY2lsbWFuIGZvciAgIG1vcmUgdGhhbiBzZXZlbiB5ZWFycyBhbmQgbm93IGFzIGEgQ291bnR5IENvbW1pc3Npb25lci4gPC9wPjxwPkNvbW1pc3Npb25lciBXZWVrbHkgd2FzIGJvcm4gaW7CoExhcyBWZWdhcywgbGl2ZWQgICBoaXMgZWFybHkgY2hpbGRob29kIHllYXJzIGluIFJlbm8sIE5ldi4sIHdoZXJlIGhlIHdhcyByYWlzZWQgYnkgYSBzaW5nbGUgbW90aGVyICAgdW50aWwgdGhleSByZXR1cm5lZCB0b8KgTGFzIFZlZ2FzLiBIZSBncmV3IHVwIGluwqBXZXN0IExhcyBWZWdhcyBhbmTCoGdyYWR1YXRlZCAgIGZyb20gV2VzdGVybiBIaWdoIFNjaG9vbCBpbiAxOTgyLiBDb21taXNzaW9uZXIgV2Vla2x5IHRoZW4gdG9vayBjbGFzc2VzIGF0IENsYXJrICAgQ291bnR5IENvbW11bml0eSBDb2xsZWdlIChub3cgY2FsbGVkIHRoZSBDb2xsZWdlIG9mIFNvdXRoZXJuIE5ldmFkYSkgYW5kIHRoZW4gICBlbnJvbGxlZCBhdCBHcmFtYmxpbmcgU3RhdGUgVW5pdmVyc2l0eSBpbiBMb3Vpc2lhbmEsIHdoZXJlIGhlIGVhcm5lZCBhICAgQmFjaGVsb3LigJlzIERlZ3JlZSBpbiBDb21tdW5pY2F0aW9ucyBpbiAxOTg3LiA8L3A+PHA+Q29tbWlzc2lvbmVyIFdlZWtseSByZXR1cm5lZCB0byBMYXMgVmVnYXMgYWZ0ZXIgICBjb2xsZWdlIHRvIHB1cnN1ZSBjYXJlZXJzIGluIHJhZGlvIGJyb2FkY2FzdGluZyBhbmQgZWR1Y2F0aW9uLCBidXQgc29vbiBmb3VuZCAgIGhpcyB3YXkgdG8gcHVibGljIHNlcnZpY2UuIEluIDE5OTUsIGhlIGpvaW5lZCB0aGUgQ2l0eSBvZiBMYXMgVmVnYXMgTmVpZ2hib3Job29kICAgU2VydmljZXMgRGVwYXJ0bWVudCBhcyBhIG1hbmFnZW1lbnQgYW5hbHlzdC4gVGhlcmUgaGUgd2FzIHJlc3BvbnNpYmxlIGZvciAgIG5laWdoYm9yaG9vZCBvdXRyZWFjaCBlZmZvcnRzIGFuZCBsYXJnZSBjb21tdW5pdHkgY2xlYW51cHMuIFRoZW4gaW4gMTk5OCwgaGUgICB3ZW50IHRvIHdvcmsgYXMgY29tbXVuaXR5IGxpYWlzb24gZm9yIENpdHkgQ291bmNpbG1hbiBHYXJ5IFJlZXNlLiBDb21taXNzaW9uZXIgICBXZWVrbHkgaGVsZCB0aGF0IHBvc2l0aW9uIHVudGlsIERlYy4gMzEsIDE5OTksIHdoZW4gaGUgd2FzIGFwcG9pbnRlZCB0byB0aGUgQ2l0eSAgIENvdW5jaWwgdG8gcmVwcmVzZW50IHRoZSBjaXR54oCZcyBuZXdseSBjcmVhdGVkIFdhcmQgNS7CoENvbW1pc3Npb25lciBXZWVrbHnCoHNlcnZlZCAgIG9uIHRoZSBDb3VuY2lsIHVudGlsIEdvdi4gSmltIEdpYmJvbnMgYXBwb2ludGVkIGhpbSB0byB0aGUgQ291bnR5IENvbW1pc3Npb24uICAgQ29tbWlzc2lvbmVyIFdlZWtseSB3YXMgc3dvcm4gaW50byBvZmZpY2Ugb24gTWFyY2ggNiwgMjAwNy4gSGUgd2FzIGNob3NlbiB0byAgIHJlcHJlc2VudCB0aGUgY291bnR5IGFzIGEgbWVtYmVyIG9mIHRoZSBTb3V0aGVybiBOZXZhZGEgSGVhbHRoIERpc3RyaWN0IEJvYXJkICAgYW5kwqBEZWJ0IE1hbmFnZW1lbnQgQ29tbWlzc2lvbi4gPC9wPkNvbW1pc3Npb25lciBXZWVrbHkgaGFzIGEgTWFzdGVyJ3PCoERlZ3JlZcKgaW4gUHVibGljIEFkbWluaXN0cmF0aW9uIGZyb20gdGhlICAgVW5pdmVyc2l0eSBvZiBOZXZhZGEsIExhcyBWZWdhcy48aDI+PGJyPjwvaDI+PC90ZD48dGQgdmFsaWduPSJ0b3AiPjxoMj5EaXN0cmljdCBBIC0gQ29tbWlzc2lvbmVyIE1pY2hhZWwgTmFmdDwvaDI+PHA+PGltZyBzcmM9Ii9Gb290ZXIvSW1hZ2VzL01pY2hhZWxOYWZ0LmpwZyIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMjUiIGhzcGFjZT0iMTAiIHZzcGFjZT0iMCIgYm9yZGVyPSIxIiBhbGlnbj0icmlnaHQiPkNsYXJrIENvdW50eSBoYXMgYmVlbiBob21lIHRvIENvbW1pc3Npb25lciBNaWNoYWVsIE5hZnQgZm9yIG1vcmUgdGhhbiAyNSB5ZWFycy4gIE1pY2hhZWwgaXMgY29tbWl0dGVkIHRvIHByb3ZpZGluZyBEaXN0cmljdCBBIHdpdGggdGhlIHNhbWUgaGlnaCBsZXZlbCBvZiBjb25zdGl0dWVudCBzZXJ2aWNlIHRoYXQgaGUgaGFzIG9mZmVyZWQgdGhyb3VnaG91dCBoaXMgY2FyZWVyLjwvcD48cD5NaWNoYWVsIGhhcyBzZXJ2ZWQgdGhlIHJlc2lkZW50cyBvZiBDbGFyayBDb3VudHkgc2luY2UgSmFuLiAzLCAyMDEzIGFzIERpc3RyaWN0IERpcmVjdG9yIHRvIENvbmdyZXNzd29tYW4gRGluYSBUaXR1cy4gIEluIHRoYXQgcm9sZSwgTWljaGFlbCB3b3JrZWQgd2l0aCBodW5kcmVkcyBvZiBGZWRlcmFsIEFnZW5jaWVzLCBEZXBhcnRtZW50cywgYW5kIENvbW1pc3Npb25zIG92ZXJzZWVpbmcgb3V0cmVhY2ggYW5kIGNvbnN0aXR1ZW50IHNlcnZpY2VzIGZvciBtb3JlIHRoYW4gNzAwLDAwMCBOZXZhZGFucy4gTWljaGFlbCBoYXMgZm9jdXNlZCBvbiBzdHJlYW1saW5pbmcgYWNjZXNzIHRvIGZlZGVyYWwgcHJvZ3JhbXMsIGFkdm9jYXRpbmcgZm9yIGltcHJvdmVkIHJvYWR3YXlzIGFuZCBwZWRlc3RyaWFuIHNhZmV0eSwgYW5kIGZvciBpbmNyZWFzZWQgdHJhdmVsIGFuZCB0b3VyaXNtIHRvIHNvdXRoZXJuIE5ldmFkYS48L3A+PHA+UHJpb3IgdG8gd29ya2luZyBmb3IgdGhlIFVuaXRlZCBTdGF0ZXMgSG91c2Ugb2YgUmVwcmVzZW50YXRpdmVzLCBNaWNoYWVsIHdvcmtlZCBhbmQgY29uc3VsdGVkIGZvciBudW1lcm91cyBsb2NhbCwgc3RhdGUsIGFuZCBmZWRlcmFsIG9mZmljaWFscywgYW5kIGFkdmlzZWQgc2V2ZXJhbCBub25wcm9maXQgb3JnYW5pemF0aW9ucy48L3A+PHA+TWljaGFlbCBhdHRlbmRlZCB0aGUgTGFzIFZlZ2FzIEFjYWRlbXkgb2YgUGVyZm9ybWluZyBhbmQgVmlzdWFsIEFydHMgYW5kIHRoZSBVbml2ZXJzaXR5IG9mIE5ldmFkYSwgTGFzIFZlZ2FzLiAgQ3VycmVudGx5LCBoZSBzZXJ2ZXMgb24gdGhlIEFudGktRGVmYW1hdGlvbiBMZWFndWUncyBBc3NvY2lhdGUgQm9hcmQgb2YgRGlyZWN0b3JzIGFuZCB0aGUgQm9hcmQgb2YgRGlyZWN0b3JzIGZvciBUZW1wbGUgQmV0aCBTaG9sb20gaW4gTGFzIFZlZ2FzLiA8L3A+PC90ZD48L3RyPjx0cj48dGQgd2lkdGg9IjUwJSIgdmFsaWduPSJ0b3AiPjxoMj5EaXN0cmljdCBCIC0gQ29tbWlzc2lvbmVyIE1hcmlseW4gS2lya3BhdHJpY2s8L2gyPjxpbWcgc3JjPSJJbWFnZXMva2lya3BhdHJpY2suanBnIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEyNSIgaHNwYWNlPSIxMCIgYm9yZGVyPSIxIiBhbGlnbj0icmlnaHQiLz48cD5DbGFyayBDb3VudHkgQ29tbWlzc2lvbmVyIE1hcmlseW4gS2lya3BhdHJpY2sgd2FzIGFwcG9pbnRlZCB0byB0aGUgQm9hcmQgb2YgQ291bnR5IENvbW1pc3Npb25lcnMgb24gVHVlc2RheSwgQXVnLiAxOCwgMjAxNSwgYnkgR292LiBCcmlhbiBTYW5kb3ZhbCB0byByZXBsYWNlIENvbW1pc3Npb25lciBUb20gQ29sbGlucy4gQ29tbWlzc2lvbmVyIEtpcmtwYXRyaWNrIHdpbGwgcmVwcmVzZW50IERpc3RyaWN0IEIgdGhyb3VnaCB0aGUgcmVtYWluZGVyIG9mIHRoZSBmb3VyLXllYXIgdGVybSB0aGF0IGVuZHMgRGVjZW1iZXIgMjAxNi48L3A+PHA+Q29tbWlzc2lvbmVyIEtpcmtwYXRyaWNrIHdhcyBzZXJ2aW5nIGluIHRoZSBjYXBhY2l0eSBvZiBBc3NlbWJseXdvbWFuIGZvciBOZXZhZGEncyBMZWdpc2xhdGl2ZSBEaXN0cmljdCAxIHdoZW4gc2hlIHdhcyB0YXBwZWQgdG8gam9pbiB0aGUgc2V2ZW4tbWVtYmVyIENvdW50eSBib2FyZC4gU2hlIHdhcyBmaXJzdCBlbGVjdGVkIHRvIHRoZSBOZXZhZGEgTGVnaXNsYXR1cmUgaW4gMjAwNCBhbmQgc2VydmVkIGZpdmUgcmVndWxhciBhbmQgc2V2ZW4gc3BlY2lhbCBzZXNzaW9ucyBpbiBDYXJzb24gQ2l0eSBiZWZvcmUgdGhlIGFwcG9pbnRtZW50LiBJbiAyMDEzLCBzaGUgd2FzIGVsZWN0ZWQgU3BlYWtlciBvZiB0aGUgQXNzZW1ibHkgYW5kIHByaW9yIGluIDIwMTEsIHNoZSB3YXMgdGhlIG9ubHkgbWVtYmVyIG9mIHRoZSBBc3NlbWJseSB0byBjaGFpciB0d28gY29tbWl0dGVlczogR292ZXJubWVudCBBZmZhaXJzIGFuZCBUYXhhdGlvbi4gU2hlIGFsc28gc2VydmVkIGFzIGEgbWVtYmVyIG9mIHRoZSBDb21tZXJjZSBhbmQgTGFib3IgYW5kIExlZ2lzbGF0aXZlIE9wZXJhdGlvbnMgYW5kIEVsZWN0aW9ucyBjb21taXR0ZWVzLjwvcD48cD5Db21taXNzaW9uZXIgS2lya3BhdHJpY2sgaXMgYSBuYXRpdmUgTmV2YWRhbiwgd2hvIGdyZXcgdXAgaW4gQ2xhcmsgQ291bnR5LiBTaGUgZ3JhZHVhdGVkIGZyb20gV2VzdGVybiBIaWdoIFNjaG9vbCBhbmQgYXR0ZW5kZWQgS3JvbGFjayBCdXNpbmVzcyBTY2hvb2wgYW5kIHRoZSBDb21tdW5pdHkgQ29sbGVnZSBvZiBTb3V0aGVybiBOZXZhZGEuIENvbW1pc3Npb25lciBLaXJrcGF0cmljayBpcyBtYXJyaWVkIHRvIGhlciBodXNiYW5kLCBNaWNoYWVsLCBhbmQgdG9nZXRoZXIgdGhleSBoYXZlIHNpeCBjaGlsZHJlbiBhbmQgc2l4IGdyYW5kY2hpbGRyZW4uPC9wPjwvdGQ+PHRkIHZhbGlnbj0idG9wIj48aDI+RGlzdHJpY3QgQyAtIENvbW1pc3Npb25lciBMYXJyeSBCcm93bjwvaDI+PGltZyBzcmM9IkltYWdlcy9MYXJyeS1Ccm93bi5qcGciIGFsdD0iTGFycnkgQnJvd24iIHdpZHRoPSIxMDAiIGhlaWdodD0iMTI1IiBoc3BhY2U9IjEwIiBib3JkZXI9IjEiIGFsaWduPSJyaWdodCIvPjxwPkNvbW1pc3Npb24gVmljZSBDaGFpciBMYXJyeSBCcm93biBoYXMgbWFkZSBTb3V0aGVybiBOZXZhZGEgaGlzIGhvbWUgZm9yIG92ZXIgICAzMCB5ZWFycyBhbmQgaGFzIHJlcHJlc2VudGVkIHRoZSBiZWF1dGlmdWwgbm9ydGh3ZXN0IGFyZWEgc2luY2UgMTk5Ny7CoFByZXZpb3VzbHksIExhcnJ5wqBzZXJ2ZWQgYXMgYSBjb3VuY2lsbWFuIGZvciB0aGUgQ2l0eSBvZiBMYXMgVmVnYXMsICAgd2hlbiBoZSBiZWNhbWUgaW52b2x2ZWQgaW4gcHVibGljIHNlcnZpY2UgdG8gYWRkcmVzcyB0aGUgbGFjayBvZiBwdWJsaWMgICBpbmZyYXN0cnVjdHVyZSBpbiB0aGUgbm9ydGh3ZXN0IHBhcnQgb2YgdGhlIHZhbGxleS7CoDwvcD48cD5MYXJyeSdzIHByaW9yaXRpZXMgYXJlwqB0byBpbmNyZWFzZSBjb21tdW5pdHkgaW52b2x2ZW1lbnQsIHRvIHByb3RlY3QgdGhlICAgaGVhbHRoLCBzYWZldHksIGFuZCB0aGUgd2VsZmFyZSBvZiB2YWxsZXkgcmVzaWRlbnRzLCB0byBjcmVhdGUgbW9yZSBwcml2YXRlICAgc2VjdG9yIGpvYnMgdGhyb3VnaCBwdWJsaWMgd29ya3MgcHJvamVjdHMsIGFuZCB0byBoZWxwIG1ha2UgZ292ZXJubWVudCBtb3JlICAgZWZmaWNpZW50IHRvIGJldHRlciBzZXJ2ZSBpdHMgY2l0aXplbnMuwqAgTGFycnkgaGFzIGFsc28gYmVlbiB3aWRlbHkgcmVjb2duaXplZCAgIGFzIGFuIGFkdm9jYXRlIG9mIHRyYW5zcGFyZW50LCBvcGVuIGdvdmVybm1lbnQgYW5kIGZpc2NhbCByZXNwb25zaWJpbGl0eS7CoExhcnJ5ICAgaXMgcGFzc2lvbmF0ZSBhYm91dCBwcmVzZXJ2aW5nIHRoZSBxdWFsaXR5IG9mIGxpZmUgZm9yIGFsbCBpbiBDbGFyayBDb3VudHkuIMKgIDwvcD48cD5MYXJyeSBlYXJuZWQgYSBiYWNoZWxvcuKAmXMgZGVncmVlIGluIEdvdmVybm1lbnQgZnJvbSBIYXJ2YXJkIFVuaXZlcnNpdHksIGFuZCAgIGluIDE5OTkgd2FzIGluZHVjdGVkIGludG8gdGhlIEhhcnZhcmQgQXRobGV0aWMgSGFsbCBvZiBGYW1lIGZvciBoaXMgY29sbGVnaWF0ZSAgIHNwb3J0cyBjYXJlZXIuwqAgTGFycnkgd2FzIGFsc28gYSBwcm9mZXNzaW9uYWwgYmFzZWJhbGwgcGxheWVyLCBoYXZpbmcgY29tZSB0byAgIExhcyBWZWdhcyBpbiAxOTgzIHRvIHBsYXkgZm9yIHRoZSBmb3JtZXIgTGFzIFZlZ2FzIFN0YXJzLsKgTGFycnkgaXMgY3VycmVudGx5IHRoZSAgIE1hbmFnZXIgb2YgQ29tbXVuaXR5IFJlbGF0aW9ucyBmb3IgdGhlIExhcyBWZWdhcyA1MXMuIMKgIDwvcD48L3RkPjwvdHI+PHRyPjx0ZCB2YWxpZ249InRvcCI+PGgyPkRpc3RyaWN0IEUgLSBDb21taXNzaW9uZXIgVGljayBTZWdlcmJsb208L2gyPjxwPjxpbWcgc3JjPSIvRm9vdGVyL0ltYWdlcy9UaWNrU2VnZXJibG9tLmpwZyIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMjUiIGhzcGFjZT0iMTAiIGJvcmRlcj0iMSIgYWxpZ249InJpZ2h0Ij5DbGFyayBDb3VudHkgQ29tbWlzc2lvbmVyIFRpY2sgU2VnZXJibG9tIHdhcyBzd29ybiBpbiB0byBoaXMgZmlyc3QgdGVybSB0byByZXByZXNlbnQgRGlzdHJpY3QgRSBvbiBKYW4uIDcsIDIwMTkuIEEgdGhpcmQtZ2VuZXJhdGlvbiBOZXZhZGFuIGJvcm4gaW4gQm91bGRlciBDaXR5LCBoZSBicmluZ3MgYSBsZWdhY3kgb2Ygc2VydmljZSB0byB0aGUgcmVzaWRlbnRzIG9mIE5ldmFkYSwgc2VydmluZyBpbiB0aGUgc3RhdGUgQXNzZW1ibHkgZnJvbSAyMDA2IHRvIDIwMTIgYW5kIGFzIGEgc3RhdGUgc2VuYXRvciBmcm9tIDIwMTIgdG8gMjAxOC4gSGUgaXMgYSBzdGF1bmNoIHByb2dyZXNzaXZlIG9uIGVxdWFsIHJpZ2h0cyBhbmQgc21hcnQgZ3Jvd3RoIG1hbmFnZW1lbnQuIEhpcyBzZXJ2aWNlIGxlZ2FjeSBoYWlscyBmcm9tIGhpcyBtb3RoZXIgd2hvIHNlcnZlZCBpbiB0aGUgTmV2YWRhIEFzc2VtYmx5IGFuZCBoaXMgZ3JhbmRtb3RoZXIgYW5kIGdyZWF0IGdyYW5kZmF0aGVyIHdobyBhbHNvIHNlcnZlZCBpbiB0aGUgc3RhdGUgTGVnaXNsYXR1cmUsIG1ha2luZyBoaW0gYSBmb3VydGgtZ2VuZXJhdGlvbiBOZXZhZGEgc3RhdGUgcmVwcmVzZW50YXRpdmUuIENvbW1pc3Npb25lciBTZWdlcmJsb20gc2VydmVkIHNpeCByZWd1bGFyIHNlc3Npb25zIGFuZCBlaWdodCBzcGVjaWFsIHNlc3Npb25zIGluIHRoZSBzdGF0ZSBMZWdpc2xhdHVyZS48L3A+PHA+UHJpb3IgdG8gcG9saXRpY3MgaW4gTmV2YWRhLCBDb21taXNzaW9uZXIgU2VnZXJibG9tIHdhcyBpbiB0aGUgV2hpdGUgSG91c2UgUGVyc29ubmVsIE9mZmljZSBmb3IgUHJlc2lkZW50IEppbW15IENhcnRlciBhbmQgd2FzIGxhdGVyIGFwcG9pbnRlZCBieSBmb3JtZXIgTmV2YWRhIEdvdmVybm9yIFJpY2hhcmQgQnJ5YW4gdG8gdGhlIENvbG9yYWRvIFJpdmVyIENvbW1pc3Npb24uIEhlIHNlcnZlZCBvbiB0aGUgUml2ZXIgQ29tbWlzc2lvbiBmcm9tIDE5ODggdG8gMTk5MCBhbmQgaW4gMTk5MCB3YXMgZWxlY3RlZCB0byBhIGZvdXIteWVhciBzdGludCBhcyBzdGF0ZSBjaGFpciBvZiB0aGUgTmV2YWRhIERlbW9jcmF0aWMgUGFydHkuPC9wPjxwPkEgZ3JhZHVhdGUgb2YgUG9tb25hIENvbGxlZ2UgaW4gQ2FsaWZvcm5pYSBhbmQgdGhlIFVuaXZlcnNpdHkgb2YgRGVudmVyIExhdyBTY2hvb2wsIENvbW1pc3Npb25lciBTZWdlcmJsb20gcHJhY3RpY2VzIGxhdywgc3BlY2lhbGl6aW5nIGluIGVtcGxveWVlLWVtcGxveWVyIHJlbGF0aW9ucy4gSGUgd2FzIHJlY29nbml6ZWQgYnkgdGhlIEFtZXJpY2FuIENpdmlsIExpYmVydGllcyBVbmlvbiAoQUNMVSkgaW4gMTk5MiBhcyB0aGUgJnF1b3Q7Q2l2aWwgTGliZXJ0YXJpYW4gb2YgdGhlIFllYXImcXVvdDsgZm9yIGhpcyB3b3JrIG9uIGJlaGFsZiBvZiBOZXZhZGEncyB3b3JraW5nIGNsYXNzLiBIZSBhbHNvIHdhcyBjaG9zZW4gdG8gcmVjZWl2ZSB0aGUgTmV2YWRhIFN0YXRlIEFtZXJpY2FuIEZlZGVyYXRpb24gb2YgTGFib3IgYW5kIENvbmdyZXNzIG9mIEluZHVzdHJpYWwgT3JnYW5pemF0aW9uIChBRkwtQ0lPKSdzICZxdW90O0ZyaWVuZCB0byBOZXZhZGEncyBXb3JraW5nIEZhbWlsaWVzIEF3YXJkJnF1b3Q7IGluIDIwMDYuIEFkZGl0aW9uYWxseSwgQ29tbWlzc2lvbmVyIFNlZ2VyYmxvbSBzZXJ2ZWQgb24gdGhlIENsYXJrIENvdW50eSBMZWdhbCBBaWQgU29jaWV0eSBib2FyZCBhbmQgYXMgbGVnYWwgY291bnNlbCB0byB0aGUgTmV2YWRhIEZhY3VsdHkgQWxsaWFuY2UuPC9wPjxwPkZyb20gMTk5MSB0byAxOTk1IGhlIHNlcnZlZCBvbiB0aGUgTGFzIFZlZ2FzIFBsYW5uaW5nIENvbW1pc3Npb24uIEZyb20gMTk5NiB0byAyMDAwLCBoZSB3YXMgYSBtZW1iZXIgYW5kLCBmb3IgYSB0aW1lLCBjaGFpcmVkIHRoZSBMYXMgVmVnYXMgSGlzdG9yaWMgUHJlc2VydmF0aW9uIENvbW1pc3Npb24sIHdvcmtpbmcgdG8gcHJvdGVjdCB0aGUgYXJjaGl0ZWN0dXJlIG9mIGxvY2FsIGJ1aWxkaW5ncy48YnI+PGJyPjwvcD48L3RkPjx0ZCBhbGlnbj0ibGVmdCIgdmFsaWduPSJ0b3AiPjxoMj5EaXN0cmljdCBGIC0gQ29tbWlzc2lvbmVyIEp1c3RpbiBKb25lczwvaDI+PHA+PGltZyBzcmM9Ii9Gb290ZXIvSW1hZ2VzL0p1c3RpbkpvbmVzLmpwZyIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMjUiIGhzcGFjZT0iMTAiIGJvcmRlcj0iMSIgYWxpZ249InJpZ2h0Ij5DbGFyayBDb3VudHkgQ29tbWlzc2lvbmVyIEp1c3RpbiBKb25lcyB3YXMgZWxlY3RlZCB0byB0aGUgQ2xhcmsgQ291bnR5IENvbW1pc3Npb24gaW4gMjAxOCBhbmQgc3dvcm4gaW4gZm9yIGhpcyBmaXJzdCB0ZXJtIGluIEphbnVhcnkgMjAxOS4gQ29tbWlzc2lvbmVyIEpvbmVzIHByZXZpb3VzbHkgc2VydmVkIGluIHRoZSBOZXZhZGEgU3RhdGUgU2VuYXRlICgyMDEyLTIwMTQpLCB3aGVyZSBoZSB3YXMgYW4gQXNzaXN0YW50IE1ham9yaXR5IFdoaXAgYW5kIGNoYWlyZWQgdGhlIEhlYWx0aCBhbmQgSHVtYW4gU2VydmljZXMgQ29tbWl0dGVlLiBXaGlsZSBpbiB0aGUgTGVnaXNsYXR1cmUsIENvbW1pc3Npb25lciBKb25lcyBoYWQgdGhlIG9wcG9ydHVuaXR5IHRvIHdvcmsgb24gaW1wb3J0YW50IGNvbW11bml0eSBpc3N1ZXMgaW5jbHVkaW5nIHByb3RlY3Rpb25zIGZvciBob21lb3duZXJzIGZhY2luZyBmb3JlY2xvc3VyZSwgZ3VuIHZpb2xlbmNlIHByZXZlbnRpb24sIG1hcnJpYWdlIGVxdWFsaXR5IGFuZCBjb25zZXJ2YXRpb24gb2YgUmVkIFJvY2sgQ2FueW9uLiBDb21taXNzaW9uZXIgSm9uZXMgYWxzbyBzdWNjZXNzZnVsbHkgY29tcGxldGVkIHRoZSBDbGFyayBDb3VudHkgTmVpZ2hib3Job29kIENvbGxlZ2UgUHJvZ3JhbSBpbiAyMDE2LiA8L3A+PHA+Rm9yIG1hbnkgeWVhcnMsIENvbW1pc3Npb25lciBKb25lcyBoYXMgcHJvdmlkZWQgcHJvIGJvbm8gcmVwcmVzZW50YXRpb24gdG8gY2hpbGQgdmljdGltcyBvZiBkb21lc3RpYyBhYnVzZSBhbmQgbmVnbGVjdCB0aHJvdWdoIHRoZSBMZWdhbCBBaWQgQ2VudGVyIG9mIFNvdXRoZXJuIE5ldmFkYSdzIENoaWxkcmVuJ3MgQXR0b3JuZXkgUHJvamVjdC4gQ29tbWlzc2lvbmVyIEpvbmVzIGhhcyBhbHNvIHByZXZpb3VzbHkgc2VydmVkIGFzIENoYWlyIG9mIHRoZSBWb2x1bnRlZXIgQ2VudGVyIG9mIFNvdXRoZXJuIE5ldmFkYSBhbmQgQmF0dGxlIEJvcm4gUHJvZ3Jlc3Mgb3JnYW5pemF0aW9ucyBhbmQgb24gdGhlIEJvYXJkIG9mIERpcmVjdG9ycyBmb3IgVW5pdGVkIFdheSBvZiBTb3V0aGVybiBOZXZhZGEgYW5kIEVtZXJnZSBOZXZhZGEuIENvbW1pc3Npb25lciBKb25lcyB3YXMgYWxzbyBhIGZvdW5kaW5nIGJvYXJkIG1lbWJlciBvZiBOZXZhZGFucyBmb3IgQmFja2dyb3VuZCBDaGVja3Mgd2hpY2ggc3VjY2Vzc2Z1bGx5IGFkdm9jYXRlZCBmb3IgYSAyMDE2IGJhbGxvdCBpbml0aWF0aXZlIHJlcXVpcmluZyBiYWNrZ3JvdW5kIGNoZWNrcyBvbiBhbGwgZ3VuIHB1cmNoYXNlcy4gPC9wPjxwPkNvbW1pc3Npb25lciBKb25lcyBoYXMgYmVlbiBhIHByYWN0aWNpbmcgYXR0b3JuZXkgaW4gTmV2YWRhIHNpbmNlIGdyYWR1YXRpbmcgZnJvbSBHZW9yZ2UgV2FzaGluZ3RvbiBVbml2ZXJzaXR5IExhdyBTY2hvb2wgaW4gMjAwMS4gQ29tbWlzc2lvbmVyIEpvbmVzIGlzIGEgcGFydG5lciBpbiB0aGUgbGF3IGZpcm0gb2YgSm9uZXMgTG92ZWxvY2sgcHJhY3RpY2luZyBwcmltYXJpbHkgaW4gdGhlIGFyZWEgb2YgYnVzaW5lc3MgbGl0aWdhdGlvbi4gUHJpb3IgdG8gZW50ZXJpbmcgcHJpdmF0ZSBwcmFjdGljZSwgQ29tbWlzc2lvbmVyIEpvbmVzIHNlcnZlZCBhcyBhIGxhdyBjbGVyayB0byB0aGUgSG9ub3JhYmxlIFJvZ2VyIEwuIEh1bnQgb2YgdGhlIFVuaXRlZCBTdGF0ZXMgRGlzdHJpY3QgQ291cnQsIERpc3RyaWN0IG9mIE5ldmFkYS4gPC9wPjwvdGQ+PC90cj48dHI+PHRkIHZhbGlnbj0idG9wIj48aDI+RGlzdHJpY3QgRyAtIENvbW1pc3Npb25lciBKaW0gR2lic29uPC9oMj48cD48aW1nIHNyYz0iSW1hZ2VzL0ppbUdpYnNvbi5qcGciIGFsdD0iTGFycnkgQnJvd24iIHdpZHRoPSIxMDAiIGhlaWdodD0iMTI1IiBoc3BhY2U9IjEwIiBib3JkZXI9IjEiIGFsaWduPSJyaWdodCIvPkEgZm9ybWVyIHRocmVlLXRlcm0gTWF5b3Igb2YgSGVuZGVyc29uIGFuZCBhIHByYWN0aWNpbmcgYXR0b3JuZXkgaW4gYnVzaW5lc3MgYW5kIGNvbW1lcmNpYWwgbGF3IGZvciBtb3JlIHRoYW4gMzUgeWVhcnMsIEppbSBHaWJzb24gYnJpbmdzIGhpcyBleHRlbnNpdmUgZXhwZXJpZW5jZSBpbiBsb2NhbCBnb3Zlcm5tZW50IGFuZCBpbiBOZXZhZGEncyB0b3VyaXNtLCBob3NwaXRhbGl0eSwgZW50ZXJ0YWlubWVudCBhbmQgYnVzaW5lc3MgaW5kdXN0cmllcyB0byBoaXMgcG9zaXRpb24gYXMgQ291bnR5IENvbW1pc3Npb25lci4gPC9wPjxwPldoaWxlIG1heW9yIG9mIEhlbmRlcnNvbiAoMTk5NyAtIDIwMDkpLCBHaWJzb24gZ3VpZGVkIHRoZSBjaXR5IHRocm91Z2ggYSBwZXJpb2Qgb2YgdW5wcmVjZWRlbnRlZCBncm93dGggYXMgaXQgYmVjYW1lIHRoZSBzZWNvbmQtbGFyZ2VzdCBjaXR5IGluIE5ldmFkYS4gIEFtb25nIG1hbnkgb3RoZXIgbm90YWJsZSBhY2NvbXBsaXNobWVudHMsIGhlIHdhcyBpbnN0cnVtZW50YWwgaW4gdXBkYXRpbmcgdGhlIGNpdHkncyBjb21wcmVoZW5zaXZlIHBsYW4sIHNlY3VyaW5nIENvbmdyZXNzaW9uYWwgYXBwcm92YWwgZm9yIHRoZSBlc3RhYmxpc2htZW50IG9mIGEgTGltaXRlZCBUcmFuc2l0aW9uIEFyZWEgY29tcHJpc2VkIG9mIG1vcmUgdGhhbiA1MDAgYWNyZXMgb2Ygd2VzdCBIZW5kZXJzb24gaW5kdXN0cmlhbCBwcm9wZXJ0eSwgY3JlYXRpbmcgSGVuZGVyc29uJ3MgbmF0aW9uYWxseSBhd2FyZC13aW5uaW5nIERldmVsb3BtZW50IFNlcnZpY2VzIENlbnRlciwgZXN0YWJsaXNoaW5nIHRoZSBBcHBsZSBQYXJ0bmVyc2hpcCwgYSBjaXR5LXdpZGUgSy0zcmQgZ3JhZGUgbGl0ZXJhY3kgcHJvZ3JhbSB3aGljaCBoYXMgYmVlbiBhZG9wdGVkIGJ5IHRoZSBDbGFyayBDb3VudHkgU2Nob29sIERpc3RyaWN0LCBhbmQgbGVhZGluZyB0aGUgZWZmb3J0IHRvIGVzdGFibGlzaCBOZXZhZGEgU3RhdGUgQ29sbGVnZS48L3A+PHA+QSBuYXRpdmUgTmV2YWRhbiwgYm9ybiBpbiBMYXMgVmVnYXMgYW5kIGEgbmVhciBsaWZldGltZSByZXNpZGVudCBvZiBIZW5kZXJzb24sIEdpYnNvbiBoYXMgc2VydmVkIG9uIG51bWVyb3VzIGJvYXJkcyBhbmQgY29tbWlzc2lvbnMsIGluY2x1ZGluZyB0aGUgTGFzIFZlZ2FzIENvbnZlbnRpb24gYW5kIFZpc2l0b3JzIEF1dGhvcml0eSBCb2FyZCBvZiBEaXJlY3RvcnMsIHRoZSBOZXZhZGEgRGV2ZWxvcG1lbnQgQXV0aG9yaXR5IEJvYXJkIG9mIERpcmVjdG9ycywgdGhlIExhcyBWZWdhcyBFdmVudHMgQm9hcmQgb2YgRGlyZWN0b3JzLCB0aGUgUmVnaW9uYWwgVHJhbnNwb3J0YXRpb24gQ29tbWlzc2lvbiBhbmQgYXMgQ28tQ2hhaXIgb2YgdGhlIENpdmlsaWFuIE1pbGl0YXJ5IENvdW5jaWwgZm9yIE5lbGxpcyBBaXIgRm9yY2UgQmFzZSwgd2hpbGUgbWF5b3IuIEluIHRoZSBwcml2YXRlIHNlY3RvciwgYW1vbmcgb3RoZXIgYm9hcmRzLCBHaWJzb24gc2VydmVkIG9uIHRoZSBTdC4gUm9zZSBEb21pbmljYW4gSG9zcGl0YWwgQm9hcmQgb2YgRGlyZWN0b3JzIGluY2x1ZGluZyBhIHRlcm0gYXMgaXRzIGNoYWlyLiA8L3A+PC90ZD48dGQgYWxpZ249ImxlZnQiIHZhbGlnbj0idG9wIj48aDI+Jm5ic3A7PC9oMj48L3RkPjwvdHI+PC90YWJsZT48L2Rpdj5kZAIDD2QWFAIBDw8WAh4LTmF2aWdhdGVVcmwFTX4vRm9vdGVyL0Fib3V0LVVNQy1vZi1Tb3V0aGVybi1OZXZhZGEtSW5kZXguYXNweD9pbnRNZW51SUQ9NjYwMCZpbnRQYWdlSUQ9MzA1ZGQCAw8PFgIfAQVEfi9Gb290ZXIvQ2xhcmstQ291bnR5LUJvYXJkLU1lbWJlcnMuYXNweD9pbnRNZW51SUQ9MzA1JmludFBhZ2VJRD0zMDhkZAIFDw8WAh8BBR1+L0Zvb3Rlci9VTUNCb2FyZE1lbWJlcnMuYXNweGRkAgcPDxYCHwEFRH4vQ29tbW9uL0VkdWNhdGlvbi1BbmQtRXZlbnRzLUluZGV4LmFzcHg/aW50TWVudUlEPTExNSZpbnRQYWdlSUQ9NzM4ZGQCCQ8PFgIfAQVGfi9OZXdzLWFuZC1NZWRpYS9OZXdzLWFuZC1NZWRpYS1JbmRleC5hc3B4P2ludE1lbnVJRD0xMTUmaW50UGFnZUlEPTE0OWRkAgsPDxYCHwEFFn4vRm91bmRhdGlvbi9Ib21lLmFzcHhkZAINDw8WAh8BBU9+L1ZvbHVudGVlci1TZXJ2aWNlcy9Wb2x1bnRlZXJpbmctYXQtVU1DLUluZGV4LmFzcHg/aW5NZW51SUQ9NTkwMCZpbnRwYWdlSUQ9Mjg5ZGQCDw8PFgIfAQVEfi9Gb290ZXIvRG9pbmctQnVzaW5lc3MtV2l0aC1VTUNTTi5hc3B4P2ludE1lbnVJRD02NTAwJmludFBhZ2VJRD0zMDRkZAIRDw8WAh8BBUh+L0Zvb3Rlci9Fc3BlY2lhbGx5LWZvci1FbXBsb3llZXMtSW5kZXguYXNweD9pbnRNZW51SUQ9MTE1JmludFBhZ2VJRD0zMjNkZAITDw8WAh8BBUZ+L0Zvb3Rlci9VTUNTTi1Qcml2YWN5LVBvbGljeS1hbmQtWW91LmFzcHg/aW5NZW51SUQ9NjcwMCZpbnRwYWdlSUQ9MzEzZGRkZpAOyulsYgf7VhpQzWY6wgkSZ2I=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="40B147BC" />
+    <div>
+    
+
+<div class="menuprint">
+<script type="text/javascript" src="/js/stmenu.js"></script>
+<script type="text/javascript" src="/js/MainMenu.js"></script>
+</div>
+
+
+
+
+
+
+    
+
+<div id="full-width-content-top-image-wrapper-page">
+              
+<script type="text/javascript">
+function MM_CheckFlashVersion(reqVerStr,msg){
+  with(navigator){
+    var isIE  = (appVersion.indexOf("MSIE") != -1 && userAgent.indexOf("Opera") == -1);
+    var isWin = (appVersion.toLowerCase().indexOf("win") != -1);
+    if (!isIE || !isWin){  
+      var flashVer = -1;
+      if (plugins && plugins.length > 0){
+        var desc = plugins["Shockwave Flash"] ? plugins["Shockwave Flash"].description : "";
+        desc = plugins["Shockwave Flash 2.0"] ? plugins["Shockwave Flash 2.0"].description : desc;
+        if (desc == "") flashVer = -1;
+        else{
+          var descArr = desc.split(" ");
+          var tempArrMajor = descArr[2].split(".");
+          var verMajor = tempArrMajor[0];
+          var tempArrMinor = (descArr[3] != "") ? descArr[3].split("r") : descArr[4].split("r");
+          var verMinor = (tempArrMinor[1] > 0) ? tempArrMinor[1] : 0;
+          flashVer =  parseFloat(verMajor + "." + verMinor);
+        }
+      }
+      // WebTV has Flash Player 4 or lower -- too low for video
+      else if (userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 4.0;
+
+      var verArr = reqVerStr.split(",");
+      var reqVer = parseFloat(verArr[0] + "." + verArr[2]);
+  
+      if (flashVer < reqVer){
+        if (confirm(msg))
+          window.location = "http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash";
+      }
+    }
+  } 
+}
+</script>
+
+<script src="/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+function GP_AdvOpenWindow(theURL,winName,features,popWidth,popHeight,winAlign,ignorelink,alwaysOnTop,autoCloseTime,borderless) { //v2.0
+  var leftPos=0,topPos=0,autoCloseTimeoutHandle, ontopIntervalHandle, w = 480, h = 500;  
+  if (popWidth > 0) features += (features.length > 0 ? ',' : '') + 'width=' + popWidth;
+  if (popHeight > 0) features += (features.length > 0 ? ',' : '') + 'height=' + popHeight;
+  if (winAlign && winAlign != "" && popWidth > 0 && popHeight > 0) {
+    if (document.all || document.layers || document.getElementById) {w = screen.availWidth; h = screen.availHeight;}
+		if (winAlign.indexOf("center") != -1) {topPos = (h-popHeight)/2;leftPos = (w-popWidth)/2;}
+		if (winAlign.indexOf("bottom") != -1) topPos = h-popHeight; if (winAlign.indexOf("right") != -1) leftPos = w-popWidth; 
+		if (winAlign.indexOf("left") != -1) leftPos = 0; if (winAlign.indexOf("top") != -1) topPos = 0; 						
+    features += (features.length > 0 ? ',' : '') + 'top=' + topPos+',left='+leftPos;}
+  if (document.all && borderless && borderless != "" && features.indexOf("fullscreen") != -1) features+=",fullscreen=1";
+  if (window["popupWindow"] == null) window["popupWindow"] = new Array();
+  var wp = popupWindow.length;
+  popupWindow[wp] = window.open(theURL,winName,features);
+  if (popupWindow[wp].opener == null) popupWindow[wp].opener = self;  
+  if (document.all || document.layers || document.getElementById) {
+    if (borderless && borderless != "") {popupWindow[wp].resizeTo(popWidth,popHeight); popupWindow[wp].moveTo(leftPos, topPos);}
+    if (alwaysOnTop && alwaysOnTop != "") {
+    	ontopIntervalHandle = popupWindow[wp].setInterval("window.focus();", 50);
+    	popupWindow[wp].document.body.onload = function() {window.setInterval("window.focus();", 50);}; }
+    if (autoCloseTime && autoCloseTime > 0) {
+    	popupWindow[wp].document.body.onbeforeunload = function() {
+  			if (autoCloseTimeoutHandle) window.clearInterval(autoCloseTimeoutHandle);
+    		window.onbeforeunload = null;	}  
+   		autoCloseTimeoutHandle = window.setTimeout("popupWindow["+wp+"].close()", autoCloseTime * 1000); }
+  	window.onbeforeunload = function() {for (var i=0;i<popupWindow.length;i++) popupWindow[i].close();}; }   
+  document.MM_returnValue = (ignorelink && ignorelink != "") ? false : true;
+}
+//-->
+</script>
+
+<script type="text/javascript" src="/js/email.js"></script>
+<style type="text/css">
+<!--
+.style1 {color: #FFFFFF}
+-->
+</style>
+
+<div id="breadcrumbMenu">
+  
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+        
+  <div id="breadcrumbTextSize"><a href="http://www.twitter.com/UMCSN"><img align="absmiddle" src="/Images/Misc/FollowUsnav.jpg" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.facebook.com/UMCSN"><img align="absmiddle" src="/Images/Misc/LikeUSnav.jpg" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.youtube.com/umcsouthernnevada"><img align="absmiddle" src="/Images/Misc/WatchUsnav.jpg" border="0"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:mailpage()"><img align="absmiddle" src="/Images/Misc/Emailnav.jpg" border="0" style="margin-left:10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:window.print()"><img align="absmiddle" src="/Images/Misc/Printnav.jpg" border="0" /></a></div>
+  </div>
+          <div id="sectionHeader">
+            <span id="ctl00_cph1_CtrlLContentRMenu1_SectionHeader">UMC Board of Trustees</span>
+          </div>
+
+              <div id="lcontentrmenu-wrapper-content">
+              <span id="ctl00_cph1_CtrlLContentRMenu1_Content"><div><table width="100%"border="0"cellpadding="5"><tr><td width="20%" align="center"valign="top"><img src="/images/BoardofCountyCommissioners19.jpg" width="300" height="206" border="1"></td><td colspan="3" align="left"valign="top"><table width="100%" border="0" cellpadding="0"><tr><td width="50%" align="left" valign="top"><h2>UMC Board of Trustees</h2><p>The UMC Board of Trustees sits as the governing board for University Medical Center. The Board's meetings are held the 1st and 3rd Tuesday of each month at 9:15 a.m. and are open to the public. Meetings are at the Clark County Government Center, 500 Grand Central Parkway. </p><p><a href="http://www.clarkcountynv.gov/depts/public_communications/pages/agendas2.aspx" target="blank">Click here for agenda information.</a> <br /></p></td><td width="35%" align="right" valign="top"><div><table border="0" cellpadding="0" cellspacing="0" id="navqlinks"><tr><td><img src="/Images/Misc/Relatedinfo.jpg"><br/><br/><br/><a href="/Footer/Leadership-at-UMC.aspx?intMenuID=305&intPageID=306" target="_self">Leadership at UMC</a><br/><a href="/Footer/Clark-County-Board-Members.aspx?intMenuID=305&intPageID=308" target="_self">UMC Board of Trustees</a><br/><a href="/Footer/UMCBoardMembers.aspx" target="_self">UMC Governing Board</a><br/><a href="/Footer/Excellence-Everyday-at-UMC.aspx?intMenuID=305&intPageID=307" target="_self">Awards & Accreditations</a><br/><a href="/Footer/Serving-the-Las-Vegas-Community-Since-1931.aspx?intMenuID=305&intPageID=309" target="_self">History of UMC</a><br/><a href="/Footer/UMCSN-Mission-Vision-and-Values.aspx?intMenuID=305&intPageID=310" target="_self">Mission, Vision and Values</a><br/></td></tr></table></div></td></tr></table></td></tr></table><table width="100%"border="0" cellpadding="10" style="text-align:justify"><tr><td valign="top"><h2>Commissioner Lawrence Weekly - Chair</h2><img src="Images/Lawrence-Weekly.jpg" alt="Lawrence Weekly" width="100" height="125" hspace="10" border="1" align="right"/><p>Commissioner Lawrence Weekly is a native Nevadan   who grew up in Las Vegas and has dedicated his professional life to serving the   public through his involvement in many organizations, as a City Councilman for   more than seven years and now as a County Commissioner. </p><p>Commissioner Weekly was born in Las Vegas, lived   his early childhood years in Reno, Nev., where he was raised by a single mother   until they returned to Las Vegas. He grew up in West Las Vegas and graduated   from Western High School in 1982. Commissioner Weekly then took classes at Clark   County Community College (now called the College of Southern Nevada) and then   enrolled at Grambling State University in Louisiana, where he earned a   Bachelor’s Degree in Communications in 1987. </p><p>Commissioner Weekly returned to Las Vegas after   college to pursue careers in radio broadcasting and education, but soon found   his way to public service. In 1995, he joined the City of Las Vegas Neighborhood   Services Department as a management analyst. There he was responsible for   neighborhood outreach efforts and large community cleanups. Then in 1998, he   went to work as community liaison for City Councilman Gary Reese. Commissioner   Weekly held that position until Dec. 31, 1999, when he was appointed to the City   Council to represent the city’s newly created Ward 5. Commissioner Weekly served   on the Council until Gov. Jim Gibbons appointed him to the County Commission.   Commissioner Weekly was sworn into office on March 6, 2007. He was chosen to   represent the county as a member of the Southern Nevada Health District Board   and Debt Management Commission. </p>Commissioner Weekly has a Master's Degree in Public Administration from the   University of Nevada, Las Vegas.<h2><br></h2></td><td valign="top"><h2>District A - Commissioner Michael Naft</h2><p><img src="/Footer/Images/MichaelNaft.jpg" width="100" height="125" hspace="10" vspace="0" border="1" align="right">Clark County has been home to Commissioner Michael Naft for more than 25 years.  Michael is committed to providing District A with the same high level of constituent service that he has offered throughout his career.</p><p>Michael has served the residents of Clark County since Jan. 3, 2013 as District Director to Congresswoman Dina Titus.  In that role, Michael worked with hundreds of Federal Agencies, Departments, and Commissions overseeing outreach and constituent services for more than 700,000 Nevadans. Michael has focused on streamlining access to federal programs, advocating for improved roadways and pedestrian safety, and for increased travel and tourism to southern Nevada.</p><p>Prior to working for the United States House of Representatives, Michael worked and consulted for numerous local, state, and federal officials, and advised several nonprofit organizations.</p><p>Michael attended the Las Vegas Academy of Performing and Visual Arts and the University of Nevada, Las Vegas.  Currently, he serves on the Anti-Defamation League's Associate Board of Directors and the Board of Directors for Temple Beth Sholom in Las Vegas. </p></td></tr><tr><td width="50%" valign="top"><h2>District B - Commissioner Marilyn Kirkpatrick</h2><img src="Images/kirkpatrick.jpg" width="100" height="125" hspace="10" border="1" align="right"/><p>Clark County Commissioner Marilyn Kirkpatrick was appointed to the Board of County Commissioners on Tuesday, Aug. 18, 2015, by Gov. Brian Sandoval to replace Commissioner Tom Collins. Commissioner Kirkpatrick will represent District B through the remainder of the four-year term that ends December 2016.</p><p>Commissioner Kirkpatrick was serving in the capacity of Assemblywoman for Nevada's Legislative District 1 when she was tapped to join the seven-member County board. She was first elected to the Nevada Legislature in 2004 and served five regular and seven special sessions in Carson City before the appointment. In 2013, she was elected Speaker of the Assembly and prior in 2011, she was the only member of the Assembly to chair two committees: Government Affairs and Taxation. She also served as a member of the Commerce and Labor and Legislative Operations and Elections committees.</p><p>Commissioner Kirkpatrick is a native Nevadan, who grew up in Clark County. She graduated from Western High School and attended Krolack Business School and the Community College of Southern Nevada. Commissioner Kirkpatrick is married to her husband, Michael, and together they have six children and six grandchildren.</p></td><td valign="top"><h2>District C - Commissioner Larry Brown</h2><img src="Images/Larry-Brown.jpg" alt="Larry Brown" width="100" height="125" hspace="10" border="1" align="right"/><p>Commission Vice Chair Larry Brown has made Southern Nevada his home for over   30 years and has represented the beautiful northwest area since 1997. Previously, Larry served as a councilman for the City of Las Vegas,   when he became involved in public service to address the lack of public   infrastructure in the northwest part of the valley. </p><p>Larry's priorities are to increase community involvement, to protect the   health, safety, and the welfare of valley residents, to create more private   sector jobs through public works projects, and to help make government more   efficient to better serve its citizens.  Larry has also been widely recognized   as an advocate of transparent, open government and fiscal responsibility. Larry   is passionate about preserving the quality of life for all in Clark County.   </p><p>Larry earned a bachelor’s degree in Government from Harvard University, and   in 1999 was inducted into the Harvard Athletic Hall of Fame for his collegiate   sports career.  Larry was also a professional baseball player, having come to   Las Vegas in 1983 to play for the former Las Vegas Stars. Larry is currently the   Manager of Community Relations for the Las Vegas 51s.   </p></td></tr><tr><td valign="top"><h2>District E - Commissioner Tick Segerblom</h2><p><img src="/Footer/Images/TickSegerblom.jpg" width="100" height="125" hspace="10" border="1" align="right">Clark County Commissioner Tick Segerblom was sworn in to his first term to represent District E on Jan. 7, 2019. A third-generation Nevadan born in Boulder City, he brings a legacy of service to the residents of Nevada, serving in the state Assembly from 2006 to 2012 and as a state senator from 2012 to 2018. He is a staunch progressive on equal rights and smart growth management. His service legacy hails from his mother who served in the Nevada Assembly and his grandmother and great grandfather who also served in the state Legislature, making him a fourth-generation Nevada state representative. Commissioner Segerblom served six regular sessions and eight special sessions in the state Legislature.</p><p>Prior to politics in Nevada, Commissioner Segerblom was in the White House Personnel Office for President Jimmy Carter and was later appointed by former Nevada Governor Richard Bryan to the Colorado River Commission. He served on the River Commission from 1988 to 1990 and in 1990 was elected to a four-year stint as state chair of the Nevada Democratic Party.</p><p>A graduate of Pomona College in California and the University of Denver Law School, Commissioner Segerblom practices law, specializing in employee-employer relations. He was recognized by the American Civil Liberties Union (ACLU) in 1992 as the &quot;Civil Libertarian of the Year&quot; for his work on behalf of Nevada's working class. He also was chosen to receive the Nevada State American Federation of Labor and Congress of Industrial Organization (AFL-CIO)'s &quot;Friend to Nevada's Working Families Award&quot; in 2006. Additionally, Commissioner Segerblom served on the Clark County Legal Aid Society board and as legal counsel to the Nevada Faculty Alliance.</p><p>From 1991 to 1995 he served on the Las Vegas Planning Commission. From 1996 to 2000, he was a member and, for a time, chaired the Las Vegas Historic Preservation Commission, working to protect the architecture of local buildings.<br><br></p></td><td align="left" valign="top"><h2>District F - Commissioner Justin Jones</h2><p><img src="/Footer/Images/JustinJones.jpg" width="100" height="125" hspace="10" border="1" align="right">Clark County Commissioner Justin Jones was elected to the Clark County Commission in 2018 and sworn in for his first term in January 2019. Commissioner Jones previously served in the Nevada State Senate (2012-2014), where he was an Assistant Majority Whip and chaired the Health and Human Services Committee. While in the Legislature, Commissioner Jones had the opportunity to work on important community issues including protections for homeowners facing foreclosure, gun violence prevention, marriage equality and conservation of Red Rock Canyon. Commissioner Jones also successfully completed the Clark County Neighborhood College Program in 2016. </p><p>For many years, Commissioner Jones has provided pro bono representation to child victims of domestic abuse and neglect through the Legal Aid Center of Southern Nevada's Children's Attorney Project. Commissioner Jones has also previously served as Chair of the Volunteer Center of Southern Nevada and Battle Born Progress organizations and on the Board of Directors for United Way of Southern Nevada and Emerge Nevada. Commissioner Jones was also a founding board member of Nevadans for Background Checks which successfully advocated for a 2016 ballot initiative requiring background checks on all gun purchases. </p><p>Commissioner Jones has been a practicing attorney in Nevada since graduating from George Washington University Law School in 2001. Commissioner Jones is a partner in the law firm of Jones Lovelock practicing primarily in the area of business litigation. Prior to entering private practice, Commissioner Jones served as a law clerk to the Honorable Roger L. Hunt of the United States District Court, District of Nevada. </p></td></tr><tr><td valign="top"><h2>District G - Commissioner Jim Gibson</h2><p><img src="Images/JimGibson.jpg" alt="Larry Brown" width="100" height="125" hspace="10" border="1" align="right"/>A former three-term Mayor of Henderson and a practicing attorney in business and commercial law for more than 35 years, Jim Gibson brings his extensive experience in local government and in Nevada's tourism, hospitality, entertainment and business industries to his position as County Commissioner. </p><p>While mayor of Henderson (1997 - 2009), Gibson guided the city through a period of unprecedented growth as it became the second-largest city in Nevada.  Among many other notable accomplishments, he was instrumental in updating the city's comprehensive plan, securing Congressional approval for the establishment of a Limited Transition Area comprised of more than 500 acres of west Henderson industrial property, creating Henderson's nationally award-winning Development Services Center, establishing the Apple Partnership, a city-wide K-3rd grade literacy program which has been adopted by the Clark County School District, and leading the effort to establish Nevada State College.</p><p>A native Nevadan, born in Las Vegas and a near lifetime resident of Henderson, Gibson has served on numerous boards and commissions, including the Las Vegas Convention and Visitors Authority Board of Directors, the Nevada Development Authority Board of Directors, the Las Vegas Events Board of Directors, the Regional Transportation Commission and as Co-Chair of the Civilian Military Council for Nellis Air Force Base, while mayor. In the private sector, among other boards, Gibson served on the St. Rose Dominican Hospital Board of Directors including a term as its chair. </p></td><td align="left" valign="top"><h2>&nbsp;</h2></td></tr></table></div></span>
+            </div>
+ 
+   </div>
+    </div>
+    </form>
+
+<!-- 				this is a test
+               <div class="clear">
+                </div>-->
+                
+                <div style="font-size:12px; text-align:center; font-style:italic; margin-top:60px;">This translation is provided by Google Translate.  University Medical Center of Southern Nevada makes no representations or warranties of any kind, <br /> whether express or implied, regarding the accuracy of the translation provided above.</div>
+                
+            </div>
+    </div>
+	<div>
+
+<div class="footer">
+    <div class="footer-linkstext">
+        <a id="ctl00_CtrlFooter1_hlFooter1" href="About-UMC-of-Southern-Nevada-Index.aspx?intMenuID=6600&amp;intPageID=305">About Us</a> | 
+        <a id="ctl00_CtrlFooter1_hlFooter11" href="Clark-County-Board-Members.aspx?intMenuID=305&amp;intPageID=308">Board of Trustees</a> |
+       <a id="ctl00_CtrlFooter1_hlFooter3" href="UMCBoardMembers.aspx">Governing Board</a> |
+        <a id="ctl00_CtrlFooter1_hlFooter2" href="../Common/Education-And-Events-Index.aspx?intMenuID=115&amp;intPageID=738">Education &amp; Events</a> |  
+        <a id="ctl00_CtrlFooter1_hlFooter9" href="../News-and-Media/News-and-Media-Index.aspx?intMenuID=115&amp;intPageID=149">News &amp; Media</a> |
+        <a id="ctl00_CtrlFooter1_hlFooter4" href="../Foundation/Home.aspx">Foundation</a> | 
+        <a id="ctl00_CtrlFooter1_hlFooter5" href="../Volunteer-Services/Volunteering-at-UMC-Index.aspx?inMenuID=5900&amp;intpageID=289">Volunteers</a> | 
+        <a id="ctl00_CtrlFooter1_hlFooter6" href="Doing-Business-With-UMCSN.aspx?intMenuID=6500&amp;intPageID=304">Vendors</a> | 
+        <a id="ctl00_CtrlFooter1_hlFooter8" href="Especially-for-Employees-Index.aspx?intMenuID=115&amp;intPageID=323">Employee Access</a> |        
+        <a id="ctl00_CtrlFooter1_hlFooter7" href="UMCSN-Privacy-Policy-and-You.aspx?inMenuID=6700&amp;intpageID=313">Privacy Policy</a>
+        <div id="copyright">
+            &copy; University Medical Center of Southern Nevada 2014 &nbsp; | &nbsp; All rights reserved.
+        </div>
+    </div>
+</div>
+
+
+
+</div>
+</div>
+</body>
+</html>

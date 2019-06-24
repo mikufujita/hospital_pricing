@@ -1,0 +1,459 @@
+
+<!DOCTYPE html>
+    <html lang="en">
+    <head id="ctl00_ctl00_ctl00_Head1"><title>
+	C. L. Brumback Primary Care Clinics Finance Committee - hcdpbc.org
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+  <meta name="description" content="C. L. Brumback Primary Care Clinics Finance Committee">
+
+  <script src="/include/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="/include/js/precustomjavascript.js" type="text/javascript"></script>
+<script src="/include/js/responsiveimage.js" type="text/javascript"></script>
+<script type="text/javascript">var responsive_threshold= { small:0, medium:401, source:601 };
+</script>
+<script src="/include/js/validation.js" type="text/javascript"></script>
+<script src="/include/js/quicksearchcontroller.js" type="text/javascript"></script>
+<script src="/include/js/json.min.js" type="text/javascript"></script>
+<link type="text/css" rel="stylesheet" media="all" href="/include/css/bootstrap.min.css" /><link type="text/css" rel="stylesheet" media="all" href="/include/css/jqmodal.css" /><link type="text/css" href="/include/css/font-awesome.min.css" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" /><link href="/ecThemes/3/CSS/cms-modules.min.css" rel="stylesheet" type="text/css" media="screen,print,pdf" /><link href="/ecThemes/3/CSS/theme.min.css" rel="stylesheet" type="text/css" media="screen,print,pdf" /><link href="/ecThemes/3/CSS/print.min.css" rel="stylesheet" type="text/css" media="print,pdf" /><link href="/ecThemes/3/CSS/pdfStyles.min.css" rel="stylesheet" type="text/css" media="pdf" />
+        <script type="text/javascript" src="/ecThemes/3/JS/jquery.bxslider.min.js"></script>
+        <script type="text/javascript" src="/ecThemes/3/JS/jquery.fitvids.min.js"></script>
+        <script type="text/javascript" src="/include/js/jqmodal.js"></script>
+        <script type="text/javascript" src="/include/js/bootstrap.min.js"></script>
+        
+
+<link href="/ecThemes/3/CSS/hcdpbc-styles.css" rel="stylesheet" type="text/css" media="screen,print,pdf" />
+        <!--[if lt IE 9]>
+            <link href="/ecThemes/3/CSS/ie8.min.css" rel="stylesheet" type="text/css" media="screen,print,pdf" />
+            <script type="text/javascript" src="/ecThemes/3/JS/ie8.min.js"></script>
+            <script type="text/javascript" src="/include/js/html5shiv.js"></script>
+            <script type="text/javascript" src="/ecThemes/3/JS/respond.min.js"></script>
+        <![endif]-->
+
+<!-- back to top -->
+<script>
+$(document).ready(function(){
+
+	// hide #back-top first
+	$("#back-top").hide();
+	
+	// fade in #back-top
+	$(function () {
+		$(window).scroll(function () {
+			if ($(this).scrollTop() > 100) {
+				$('#back-top').fadeIn();
+			} else {
+				$('#back-top').fadeOut();
+			}
+		});
+
+		// scroll body to 0px on click
+		$('#back-top a').click(function () {
+			$('body,html').animate({
+				scrollTop: 0
+			}, 800);
+			return false;
+		});
+	});
+
+});
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-38623561-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-38623561-1');
+</script>
+
+
+    <link href="/Telerik.Web.UI.WebResource.axd?compress=1&amp;_TSM_CombinedScripts_=%3b%3bCMDotNet%3aen-US%3a1a9a48eb-cbcd-4126-ace6-9954bf2094e8%3a13c9d24e%3bCMDotNet.Skins%3aen-US%3a49a4231d-67b8-4215-9469-253e1ec86564%3ab5dc755c%3a301aceb2" type="text/css" rel="stylesheet" /></head>
+    <body id="ctl00_ctl00_ctl00_BodyTag">
+        <form name="aspnetForm" method="post" action="./EventViewTrainingDetails.aspx?Bck=Y&amp;EventID=273&amp;m=0%7c0&amp;DisplayType=C" id="aspnetForm">
+<div>
+<input type="hidden" name="returnurlforpage" id="returnurlforpage" value="/" />
+<input type="hidden" name="ctl00_ctl00_ctl00_ctl14_TSSM" id="ctl00_ctl00_ctl00_ctl14_TSSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2MzE3MTE1MzEPZBYCZg9kFgJmD2QWAmYPZBYCAgMPZBYCAgEPZBYCAhIPZBYCAgcPZBYCAgMPZBYCAgsPFgIeB1Zpc2libGVnZBgMBUBjdGwwMCRjdGwwMCRjdGwwMCRuZXN0ZWRBcmVhVHdvJG5lc3RlZFV0aWxpdGllcyRjdGwwMSRNdWx0aVZpZXcxDw9kZmQFImN0bDAwJGN0bDAwJGN0bDAwJGN0bDIxJE11bHRpVmlldzEPD2RmZAUiY3RsMDAkY3RsMDAkY3RsMDAkY3RsMTckTXVsdGlWaWV3MQ8PZGZkBSJjdGwwMCRjdGwwMCRjdGwwMCRjdGwyNSRNdWx0aVZpZXcxDw9kZmQFImN0bDAwJGN0bDAwJGN0bDAwJGN0bDI3JE11bHRpVmlldzEPD2RmZAUiY3RsMDAkY3RsMDAkY3RsMDAkY3RsMTkkTXVsdGlWaWV3MQ8PZGZkBSJjdGwwMCRjdGwwMCRjdGwwMCRjdGwzNCRNdWx0aVZpZXcxDw9kZmQFImN0bDAwJGN0bDAwJGN0bDAwJGN0bDMyJE11bHRpVmlldzEPD2RmZAUmY3RsMDAkY3RsMDAkY3RsMDAkX1NlYXJjaF8xMyRndkZpbHRlcnMPZ2QFImN0bDAwJGN0bDAwJGN0bDAwJGN0bDMwJE11bHRpVmlldzEPD2RmZAU7Y3RsMDAkY3RsMDAkY3RsMDAkX1NlYXJjaF8xMyRmb2xkZXJNYXN0ZXJwYWdlJGNib01hc3RlclBhZ2UPFCsAAgUrVXNlIFNlYXJjaCBwcmVzZXQgOiBtb2R1bGUgLSBzZWFyY2ggcmVzdWx0cwUEOTEwNGQFKWN0bDAwJGN0bDAwJGN0bDAwJF9TZWFyY2hfMTMkVmlld0VkaXRWaWV3Dw9kZmR0WpuT4Rj0I7GXSOORMqCnbwgMcA==" />
+</div>
+
+
+<script src="/ScriptResource.axd?d=iOLKoNGWZ5njBwHBPIg3WQSB2LlejBfEO7-cBplSKP6K4Oi5LbV3wACGQ6PqO9sLPl9YJJvesWpMdUX6watLDq4JaII10oQ9eXh1oy1VYQmFC9zw0&amp;t=23c9c237" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="9C2D5E6B" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAcCdygXrnh0NY+hoEdFgKaBXU1dfi9ONGmfDXy4uB6EdAqNHoa/f5MulptW8sQIYQ7ZZfsp0fjHV/knkTO+sQWD/rg0FoxZektvXmg4saGaiYW7jCkIMM/wT/59Ml2F+kO5bjwoQDcSCBuKlhiOLimBM077DuvTxeWeRb8MYdRPy9KwerU=" />
+</div><span></span>
+            
+            
+            
+
+            
+
+
+
+            
+<div class="header">
+<div class="container">
+			<div class="preheader">
+				<div class="row">
+					<div class="col-sm-8">
+						<div class="lang-section dropdown">
+<div style="display: inline-block; float: left; margin-top: 7px;"><span class="fa fa-language" style="color:#11375E; font-size: 1.3em;"></span></div>
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+							
+						</div>
+						<div>
+							<span class="fa fa-phone" style="color:#67BF6B;"></span>&nbsp; 
+
+        561-659-1270&nbsp;|&nbsp;<a href="/Contact-Us/contact-us">Contact Us</a>&nbsp;&nbsp;
+<div class="btn-group" style="min-width: 340px;" aria-label="Change Current Site" tabindex="-1">
+<button class="btn btn-secondary btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="background: #ffffff; border: 1px solid #cccccc;" tabindex="-1">
+<img alt="Change current site logo" src="/Images/UserUploadedImages/417/ILoad847___Source.png" datasrc="/Images/UserUploadedImages/417/ILoad847___Source.png" class="responsive-image" style="width: 30px; padding-right: 5px;" />Change Current Site&nbsp;&nbsp;&nbsp;<img alt="down arrow" src="/images/UserUploadedImages/176/menuLeft_has_black.png" style="width: 8px; vertical-align: middle;" />
+</button>
+<div class="dropdown-menu" style="z-index: 99999; padding: 20px 10px 25px;" tabindex="-1">
+<a class="dropdown-item btn-responsive" href="/for-patients/primary-care-clinics">
+<img alt="C. L. Brumback Primary Care Clinics logo" src="/Images/UserUploadedImages/417/ILoad847___Source.png" datasrc="/Images/UserUploadedImages/417/ILoad847___Source.png" class="responsive-image" style="width: 30px; padding-right: 5px;" />C. L. Brumback Primary Care Clinics</a>
+<hr />
+<a class="dropdown-item btn-responsive" href="/for-patients/skilled-nursing-rehab"><img alt="Healey Center logo" src="/Images/UserUploadedImages/417/ILoad847___Source.png" datasrc="/Images/UserUploadedImages/417/ILoad847___Source.png" class="responsive-image" style="width: 30px; padding-right: 5px;" />Edward J. Healey Nursing &amp; Rehabilitation Center</a>
+<hr />
+<a class="dropdown-item btn-responsive" href="/for-patients/hospital"><img alt="Lakeside Medical Center logo" src="/Images/UserUploadedImages/19/ILoad968___Source.jpg" datasrc="/Images/UserUploadedImages/19/ILoad968___Source.jpg" class="responsive-image" style="width: 30px; padding-right: 5px;" />Lakeside Medical Center</a>
+</div>
+</div>
+        
+    
+
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="social-section">
+							
+
+        <a href="https://www.facebook.com/healthcaredistrict" class="fa fa-facebook" aria-label="Facebook"></a>
+<a href="https://twitter.com/healthcaredist" class="fa fa-twitter" aria-label="Twitter"></a>
+<a href="https://www.linkedin.com/company/health-care-district-of-palm-beach-county/" class="fa fa-linkedin" aria-label="LinkedIn"></a>
+<!--<a href="#" class="fa fa-google-plus" aria-label="Google Plus"></a>-->
+<a href="https://www.youtube.com/user/hcdpbc" class="fa fa-youtube" aria-label="YouTube"></a>
+<a href="https://www.instagram.com/healthcaredistrict/" class="fa fa-instagram" aria-label="Instragram"></a>
+        
+    
+
+						</div>
+					</div>
+				</div>	
+			</div>
+		</div>
+</div>
+<header>
+		<div class="container">
+			<nav  aria-label="Top Menu" class="navbar">
+		
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<div class="navbar-logo"> 
+
+        <a href="/"><img src="/Images/UserUploadedImages/188/hcdpbc-logo.png" alt="Health Care District of Palm Beach county logo" style="border: 0px solid;" aria-label="Health Care District of Palm Beach County home page" /></a>
+        
+    
+</div>
+				</div>
+				
+		
+                                   <div class="header-search pull-right">
+                                                        <a href="#" class="search-toggle" aria-label="Search"><span class="fa fa-search"></span></a>
+                                                              
+
+        <div id="_Search_13_SearchPanel" class="searchPanel ">
+	
+            
+            
+            
+            <label for="_Search_13_strSearchKeyword">Search all District sites</label>
+            <input name="ctl00$ctl00$ctl00$_Search_13$strSearchKeyword" type="text" maxlength="50" id="_Search_13_strSearchKeyword" class="clsnormal555555 searchInput form-control" />
+            
+            <input name="ctl00$ctl00$ctl00$_Search_13$textNewWindowWidth" type="hidden" id="_Search_13_textNewWindowWidth" />
+            <input name="ctl00$ctl00$ctl00$_Search_13$textNewWindowHeight" type="hidden" id="_Search_13_textNewWindowHeight" />
+            <input name="ctl00$ctl00$ctl00$_Search_13$textNewWindiwResize" type="hidden" id="_Search_13_textNewWindiwResize" />
+            
+            <a id="_Search_13_SearchLinkButton" class="btn btn-primary" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$ctl00$_Search_13$SearchLinkButton&quot;, &quot;&quot;, true, &quot;SearchGroup_Module13__Search_13&quot;, &quot;&quot;, false, true))">Search</a>
+            
+            
+            <div id="_Search_13_QuickSearchPanel" class="quickSearchPanel">
+		
+                <div id="_Search_13_dynamicResults" class="dynamic-results" style="display: none;">
+                    <div id="_Search_13_dynamicResultsMask" class="dynamic-results-mask">
+                        Loading results...
+                    </div>
+                    <div id="_Search_13_dynamicResultsInner" class="dynamic-results-inner">
+                    </div>
+                    <div id="_Search_13_dynamicResultsLinks" class="dynamic-results-links">
+                        <a id="_Search_13_moreResults" class="more-results" onclick="javascript:document.getElementById(&#39;_Search_13_SearchLinkButton&#39;).click();">More Results</a>
+                        <a id="close-results">Close</a>
+                    </div>
+                </div>
+                <script type="text/javascript">
+                                  
+                    // Init in document.ready
+                    $(document).ready(function () {
+                        var myController_13 = new quickSearchController();
+                        var parentControl = $("#_Search_13_SearchPanel");   
+                        myController_13.init(parentControl, 13, 4, 500, 15);
+                    });
+
+                </script>
+            
+	</div>
+        
+</div>
+    
+    
+                                   </div>
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				  <div class="nav navbar-nav navbar-right">
+					 <a id="main-menu" href="#" role="button" class="accessible-heading">Main Navigation</a>
+<ul class="hmenu menu7"><li class="iFOL184 first"><a href="https://www.hcdpbc.org/about-us"><span>About Us</span></a><ul><li class="iFOL228 first"><a href="https://www.hcdpbc.org/About-Us/awards-recognition"><span>Awards &amp; Recognition</span></a></li><li class="iFOL222"><a href="https://www.hcdpbc.org/About-Us/board-of-commissioners"><span>Board of Commissioners</span></a></li><li class="iFOL475"><a href="https://www.hcdpbc.org/About-Us/charter"><span>Charter</span></a></li><li class="iFOL238"><a href="https://www.hcdpbc.org/About-Us/in-the-community"><span>In the Community</span></a></li><li class="iFOL285"><a href="https://www.hcdpbc.org/About-Us/newsroom"><span>Newsroom</span></a></li><li class="iFOL226 last"><a href="https://www.hcdpbc.org/About-Us/timeline"><span>Timeline</span></a></li></ul></li><li class="iFOL411"><a href="https://www.hcdpbc.org/for-patients"><span>For Patients</span></a><ul><li class="iFOL233 first"><a href="https://www.hcdpbc.org/For-Patients/health-coverage"><span>Health Coverage</span></a><ul><li class="iFOL287 first"><a href="https://www.hcdpbc.org/For-Patients/Health-Coverage/district-cares-program"><span>District Cares Program</span></a></li><li class="iFOL288"><a href="https://www.hcdpbc.org/For-Patients/Health-Coverage/maternity-care-program"><span>Maternity Care Program</span></a></li><li class="iFOL289"><a href="https://www.hcdpbc.org/For-Patients/Health-Coverage/vita-health"><span>Vita Health</span></a></li><li class="iFOL290"><a href="https://www.hcdpbc.org/For-Patients/Health-Coverage/resource-links"><span>Resource Links</span></a></li><li class="iFOL291 last"><a href="https://www.hcdpbc.org/For-Patients/Health-Coverage/faqs-health-care-district-coverage-aca"><span>FAQs Health Care District Coverage &amp; ACA</span></a></li></ul></li><li class="iFOL236"><a href="https://www.hcdpbc.org/For-Patients/hospital"><span>Hospital</span></a><ul><li class="iFOL413 first"><a href="https://www.hcdpbc.org/for-patients/hospital/your-health-information"><span>Your Health Information</span></a></li><li class="iFOL414"><a href="https://www.hcdpbc.org/For-Patients/Hospital/billing-financial-assistance"><span>Billing &amp; Financial Assistance</span></a></li><li class="iFOL415"><a href="https://www.hcdpbc.org/for-patients/hospital/find-a-doctor"><span>Find A Doctor</span></a></li><li class="iFOL416"><a href="https://www.hcdpbc.org/for-patients/hospital/find-a-job"><span>Find A Job</span></a></li><li class="iFOL422"><a href="https://www.hcdpbc.org/for-patients/hospital/patient-services"><span>Patient Services</span></a></li><li class="iFOL425"><a href="https://www.hcdpbc.org/for-patients/hospital/visitors"><span>Visitors</span></a></li><li class="iFOL471"><a href="https://www.hcdpbc.org/for-patients/hospital/about-us"><span>About Us</span></a></li><li class="iFOL485"><a href="https://www.hcdpbc.org/for-patients/hospital/contact-us"><span>Contact Us</span></a></li><li class="iFOL486"><a href="https://www.hcdpbc.org/for-patients/hospital/provider-login"><span>Provider Login</span></a></li><li class="iFOL490 last"><a href="https://www.hcdpbc.org/for-patients/hospital/family-medicine-residency"><span>Family Medicine Residency</span></a></li></ul></li><li class="iFOL235"><a href="https://www.hcdpbc.org/For-Patients/primary-care-clinics"><span>Primary Care Clinics</span></a><ul><li class="iFOL521 first"><a href="https://www.hcdpbc.org/for-patients/primary-care-clinics/hours-locations"><span>Hours &amp; Locations</span></a></li><li class="iFOL531"><a href="https://www.hcdpbc.org/for-patients/primary-care-clinics/patient-services"><span>Patient Services</span></a></li><li class="iFOL540"><a href="https://www.hcdpbc.org/for-patients/primary-care-clinics/your-health-information"><span>Your Health Information</span></a></li><li class="iFOL544"><a href="https://www.hcdpbc.org/for-patients/primary-care-clinics/contact-us"><span>Contact Us</span></a></li><li class="iFOL549"><a href="https://www.hcdpbc.org/for-patients/primary-care-clinics/about-us"><span>About Us</span></a></li><li class="iFOL554 last"><a href="https://www.hcdpbc.org/for-patients/primary-care-clinics/find-a-job"><span>Find A Job</span></a></li></ul></li><li class="iFOL234"><a href="https://www.hcdpbc.org/For-Patients/school-health-program"><span>School Health Program</span></a><ul><li class="iFOL308 first"><a href="https://www.hcdpbc.org/For-Patients/School-Health-Program/role-of-the-school-nurse"><span>Role of the School Nurse</span></a></li><li class="iFOL309"><a href="https://www.hcdpbc.org/For-Patients/School-Health-Program/health-screenings"><span>Health Screenings</span></a></li><li class="iFOL310"><a href="https://www.hcdpbc.org/For-Patients/School-Health-Program/physical-exams-immunizations"><span>Physical Exams &amp; Immunizations</span></a></li><li class="iFOL404 last"><a href="https://www.hcdpbc.org/For-Patients/School-Health-Program/nurse-notes"><span>Nurse Notes</span></a></li></ul></li><li class="iFOL237"><a href="https://www.hcdpbc.org/for-patients/skilled-nursing-rehab"><span>Skilled Nursing &amp; Rehab</span></a></li><li class="iFOL232 last"><a href="https://www.hcdpbc.org/For-Patients/trauma-system"><span>Trauma System</span></a><ul><li class="iFOL277 first"><a href="https://www.hcdpbc.org/For-Patients/Trauma-System/coordinated-trauma-system"><span>Coordinated Trauma System</span></a></li><li class="iFOL278"><a href="https://www.hcdpbc.org/for-patients/trauma-system/trauma-hawk"><span>Trauma Hawk</span></a></li><li class="iFOL279"><a href="https://www.hcdpbc.org/For-Patients/Trauma-System/trauma-centers"><span>Trauma Centers</span></a></li><li class="iFOL280"><a href="https://www.hcdpbc.org/For-Patients/Trauma-System/trauma-agency"><span>Trauma Agency</span></a></li><li class="iFOL283"><a href="https://www.hcdpbc.org/For-Patients/Trauma-System/milestones-in-our-mission"><span>Milestones in our Mission</span></a></li><li class="iFOL284"><a href="https://www.hcdpbc.org/For-Patients/Trauma-System/education-and-prevention"><span>Education and Prevention</span></a></li><li class="iFOL336 last"><a href="https://www.hcdpbc.org/For-Patients/Trauma-System/profiles-of-success"><span>Profiles of Success</span></a></li></ul></li></ul></li><li class="iFOL412"><a href="https://www.hcdpbc.org/for-providers"><span>For Providers</span></a><ul><li class="iFOL580 first"><a href="https://www.hcdpbc.org/For-Providers/provider-portal-planlink-registration"><span>Provider Portal – PlanLink – Registration</span></a></li><li class="iFOL403"><a href="https://www.hcdpbc.org/For-Providers/bulletins-notices-newsletters"><span>Bulletins, Notices &amp; Newsletters</span></a></li><li class="iFOL304"><a href="https://www.hcdpbc.org/For-Providers/file-a-claim"><span>File a Claim</span></a><ul><li class="iFOL305 first last"><a href="https://www.hcdpbc.org/For-Providers/File-a-Claim/electronic-claim-transaction"><span>Electronic Claim Transaction</span></a></li></ul></li><li class="iFOL307"><a href="https://www.hcdpbc.org/For-Providers/handbook-directory-forms"><span>Handbook, Directory &amp; Forms</span></a></li><li class="iFOL303"><a href="https://www.hcdpbc.org/For-Providers/member-information-for-providers"><span>Member Information for Providers</span></a></li><li class="iFOL306"><a href="https://www.hcdpbc.org/For-Providers/pharmacy"><span>Pharmacy</span></a></li><li class="iFOL402"><a href="https://www.hcdpbc.org/For-Providers/prescription-legibility-state-law"><span>Prescription Legibility State Law</span></a></li><li class="iFOL401"><a href="https://www.hcdpbc.org/For-Providers/provider-representative-assistance-request-form"><span>Provider Representative Assistance Request Form</span></a></li><li class="iFOL331 last"><a href="https://www.hcdpbc.org/For-Providers/trauma-hawk-transport"><span>Trauma Hawk Transport</span></a></li></ul></li><li class="iFOL183"><a href="https://www.hcdpbc.org/resources"><span>Resources</span></a><ul><li class="iFOL227 first"><a href="https://www.hcdpbc.org/Resources/community-benefits-report"><span>Community Benefits Report</span></a></li><li class="iFOL224"><a href="https://www.hcdpbc.org/Resources/compliance"><span>Compliance</span></a></li><li class="iFOL273"><a href="https://www.hcdpbc.org/resources/financials"><span>Financials</span></a></li><li class="iFOL275"><a href="https://www.hcdpbc.org/Resources/public-meetings"><span>Public Meetings</span></a></li><li class="iFOL274"><a href="https://www.hcdpbc.org/resources/purchasing"><span>Purchasing</span></a></li><li class="iFOL332 last"><a href="https://www.hcdpbc.org/Resources/request-public-records"><span>Request Public Records</span></a></li></ul></li><li class="iFOL229 last"><a href="https://www.hcdpbc.org/about-us/careers"><span>Careers</span></a></li></ul></div>
+
+				</div>
+                <div class="skip-link">
+                                 
+                                                               <a href="#module-area">Skip to main content</a>
+
+                            </div><!-- /.navbar-collapse --><!-- /.container-fluid -->
+			</nav>
+		</div>
+	</header>
+
+
+
+                
+<div id="module-area" class="container">
+	<div class="row">
+		<div id="breadcrumb-panel" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			<div id="breadcrumbs">
+				<p id="breadcrumblabel">You are here:</p>
+				
+<ol aria-labelledby="breadcrumblabel" class="breadcrumb"><li itemtype="http://data-vocabulary.org/Breadcrumb" itemscope=""><a href="/" itemprop="url" class="clsAltNormalOneSmaller"><span itemprop="title">Home</span></a></li><li itemtype="http://data-vocabulary.org/Breadcrumb" itemscope=""><span itemprop="title" class="clsBreadCrumbsHighlighted">Events</span></li></ol>
+
+			</div>
+			<div id="utilities">
+				
+                                   
+
+        <ul>
+    <li><a class="fontChange" id="small" href="#"><img alt="Decrease font size" src="/images/useruploadedimages/small-text-icon.gif" /></a> </li>
+    <li><a class="fontChange" id="large" href="#"><img alt="Increase font size" src="/images/useruploadedimages/large-text-icon.gif" /></a> </li>
+    <li><a href="javascript:window.print()" rel="nofollow" title="Print Page" ><img alt="Print Page" src="https://www.hcdpbc.org/images/UserUploadedImages/print-icon.gif" style="vertical-align:middle;" /></a> </li>
+    <li><a title="Print to PDF" href="/PrintToPDF.aspx?url=https%3a%2f%2fwww.hcdpbc.org%2fEventViewTrainingDetails.aspx%3fBck%3dY%26EventID%3d273%26m%3d0%257C0%26DisplayType%3dC%26PrintToPDF%3dTrue&amp;pagename=C.+L.+Brumback+Primary+Care+Clinics+Finance+Committee" target="_New" rel="nofollow"><img alt="Print to PDF" src="https://www.hcdpbc.org/images/UserUploadedImages/pdf-icon.gif" style="vertical-align:middle;" /></a></li>
+</ul>
+        
+    
+
+
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			<h1>Events</h1>
+			
+                            
+    
+
+                            
+    <input name="ctl00$ctl00$ctl00$nestedAreaTwo$moduleContentZone$ContentPlaceHolderMainNoAjax$HiddenUnavail" type="hidden" id="ctl00_ctl00_ctl00_nestedAreaTwo_moduleContentZone_ContentPlaceHolderMainNoAjax_HiddenUnavail" value="False" />
+    <div class="event-view-training-details">
+        
+        
+        <h2>C. L. Brumback Primary Care Clinics Finance Committee</h2>
+<div class="right-float"></div>
+<p>C. L. Brumback Primary Care Clinics Finance Committee</p>
+<table cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+        <tr>
+            <th>Venue</th>
+            <td>Health Care District of Palm Beach County<div class="event-view-venue-details-address"><span class="event-view-venue-address"><a href="https://www.google.com/maps?f=l&hl=en&q=1515+N.+Flagler+Drive%2c+Suite+101%2c+West+Palm+Beach%2c+Florida+33401" target="_blank">1515 N. Flagler Drive, Suite 101<br/>West Palm Beach, FL 33401</a></span><span class="event-view-venue-suburb">West Palm Beach</span><span class="event-view-venue-state">, Florida</span><span class="event-view-venue-country">, United States Of America</span></div></td>
+        </tr>
+        <tr>
+            <th>Date</th>
+            <td>Jun 26 2019 12:15 PM</td>
+        </tr>
+        <tr>
+            <th>Agenda/Minutes</th>
+            <td><br />
+            </td>
+        </tr>
+        <tr>
+            <th>Status</th>
+            <td>Active<br />
+            </td>
+        </tr>
+    </tbody>
+</table>
+        <div class="button-group">
+            
+            
+            
+        </div>
+    </div>
+    <div id="ctl00_ctl00_ctl00_nestedAreaTwo_moduleContentZone_ContentPlaceHolderMainNoAjax_BackLink">
+        <a href="javascript:history.back(-1);">Back to search</a>
+    </div>
+
+
+		</div>
+	</div>
+</div>
+
+
+		<p id="back-top">
+		<a href="#top"><span></span>Top</a>
+	</p>
+
+<footer class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 footer-left-section">
+					      
+
+        <h2>Support</h2>
+<ul>
+    <li><a href="/Contact-Us/contact-us">Contact Us</a></li>
+    <li><a class="document pdf" href="/ArticleDocuments/224/Notice%20of%20Privacy%20Practices.pdf.aspx" target="_blank">Notice of Privacy Practices<span class="file-info">&nbsp;(<span class="file-type">PDF</span>)</span></a></li>
+    <li><a href="/resources/compliance#privacy-policy-and-disclaimer">Privacy Policy &amp; Disclaimer</a></li>
+    <li><a class="document pdf" href="/ArticleDocuments/189/FEMA%20DR-4337-FL%20Public%20Notice.pdf.aspx" target="_blank" cm:articlefileid="480" cm:newwindow="true" cm:displayas="link" cm:externalurltype="0">FEMA DR-4337-FL Public Notice<span class="file-info">&nbsp;(<span class="file-type">PDF</span>)</span></a></li>
+    <li><a href="/resources/compliance#non-discrimination-notice">Non-discrimination Notice</a></li>
+    <li><a href="/resources/compliance#ada-notice">ADA Notice</a></li>
+    <li><a href="/resources/compliance#faa">Department of Transportation Notice</a></li>
+    <li><a href="https://eac.hcdpbc.org/EAC51/Login.aspx">Employee Access Center</a></li>
+</ul>
+        
+    
+
+				</div>
+				<div class="col-sm-4 footer-center-section">
+					                          
+
+        <h2>Public Meetings</h2>
+<h3><a href="/resources/public-meetings">see all meetings</a></h3>
+        
+    
+
+<div class="widget" id="Widget1104">	<div class="widget-row flexBox">
+<div class="col-md-12 no-gutters">
+        <h4><a href="https://www.hcdpbc.org/EventViewTrainingDetails.aspx?Bck=Y&amp;EventID=273&amp;m=0|0&amp;DisplayType=C" title="">C. L. Brumback Primary Care Clinics Finance Committee</a></h4>
+	<p><strong>Date: </strong><span class="mainItemDate">June 26, 2019</span></p>
+<p><strong>Location:</strong><br/><span class="mainItemEventLocationVenueName">Health Care District of Palm Beach County</span><br/><span class="mainItemEventLocationVenueAddr"><a href="https://www.google.com/maps?f=l&hl=en&q=1515+N.+Flagler+Drive%2c+Suite+101%2c+West+Palm+Beach%2c+Florida+33401" target="_blank">1515 N. Flagler Drive, Suite 101<br/>West Palm Beach, FL 33401</a></span></p>
+</div>
+</div>
+</div>
+
+
+				</div>
+				<div class="col-sm-4 footer-right-section">
+					              
+
+        <h2>Social Media</h2>
+<div class="row">
+<div class="col-xs-2  col-md-2">
+<a href="https://www.facebook.com/healthcaredistrict" aria-label="Visit us on Facebook" style="color: #ffffff;"><em aria-hidden="true" class="fa fa-facebook fa-2x"></em></a>
+</div>
+<div class="col-xs-2 col-md-2">
+<a href="https://www.twitter.com/healthcaredist" aria-label="Visit us on Twitter" style="color: #ffffff;"><em aria-hidden="true" class="fa fa-twitter fa-2x"></em></a>
+</div>
+<div class="col-xs-2 col-md-2">
+<a href="https://www.linkedin.com/company/health-care-district-of-palm-beach-county" aria-label="Visit us on LinkedIn" style="color: #ffffff;"><em aria-hidden="true" class="fa fa-linkedin fa-2x"></em></a>
+</div>
+<div class="col-xs-2 col-md-2">
+<a href="https://www.youtube.com/user/hcdpbc" aria-label="Visit us on YouTube" style="color: #ffffff;"><em aria-hidden="true" class="fa fa-youtube fa-2x"></em></a>
+</div>
+<div class="col-xs-2 col-md-2">
+<a href="https://www.instagram.com/healthcaredistrict/" aria-label="Visit us on Instagram" style="color: #ffffff;"><em aria-hidden="true" class="fa fa-instagram fa-2x"></em></a>
+</div>
+<div class="col-xs-2 col-md-2">
+</div>
+</div>
+        
+    
+
+				</div>
+			</div>
+<div class="row">
+				<div class="col-sm-12 footer-center-logo">
+					      
+
+        <a href="/"><img src="/Images/UserUploadedImages/189/logo-white.png" alt="White version of the Health Care District of Palm Beach County logo" style="border: 0px solid;" /></a>
+        
+    
+
+				</div>
+			</div>
+		</div>
+	</footer>
+            <div class="footer-bottom">
+	
+
+        <a href="/site-map/site-map">Sitemap</a>&nbsp;| &copy;
+<script language="JavaScript" type="text/javascript">
+    now = new Date
+    theYear=now.getYear()
+    if (theYear &lt; 1900)
+    theYear=theYear+1900
+    document.write(theYear)
+</script>
+Health Care District of Palm Beach County  
+        
+    
+
+    
+	</div>
+
+	<script src="/ecThemes/3/JS/jquery.sticky-kit.min.js"></script>	
+      <script type="text/javascript" src="/ecThemes/3/JS/scripts.min.js"></script>
+
+            
+        <div class="jqmWindow" id="refer-friend">
+            <button onclick="closeModal()">X</button>
+        </div>
+
+        <div> <!-- Required elements which were missing (Added by CM to ensure masterpage integrity) -->
+	
+	
+	
+	
+	
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+;(function() {
+                        function loadHandler() {
+                            var hf = $get('ctl00_ctl00_ctl00_ctl14_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';CMDotNet:en-US:1a9a48eb-cbcd-4126-ace6-9954bf2094e8:13c9d24e;CMDotNet.Skins:en-US:49a4231d-67b8-4215-9469-253e1ec86564:b5dc755c:301aceb2';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();//]]>
+</script>
+</form>
+ <script type="text/javascript">
+        var _monsido = _monsido || [];
+            _monsido.push(['_setDomainToken', 'imMRItuXUpfbKO9HzcX3sA']);
+            _monsido.push(['_withStatistics', 'false']);
+
+    </script>
+    <script async src="//cdn.monsido.com/tool/javascripts/monsido.js"></script>
+    </body>
+</html>

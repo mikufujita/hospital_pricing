@@ -1,0 +1,765 @@
+MidMichigan Medical Center-West Branch,,
+"Updated:  December 19, 2018",,
+,,
+MS-DRG,MS-DRG DESCRIPTION,AVERAGE CHARGE
+003,"ECMO or trach w MV 96+ hrs or PDX exc face, mouth",*
+004,"Trach w MV 96+ hrs or PDX exc face, mouth & neck w",*
+011,"Tracheostomy for face,mouth & neck diagnoses w MCC",*
+012,"Tracheostomy for face,mouth & neck diagnoses w CC",*
+023,Cranio w major dev impl/acute complex CNS PDX w MC,*
+025,Craniotomy & endovascular intracranial procedures,*
+026,Craniotomy & endovascular intracranial procedures,*
+027,Craniotomy & endovascular intracranial procedures,*
+030,Spinal procedures w/o CC/MCC,*
+032,Ventricular shunt procedures w CC,*
+033,Ventricular shunt procedures w/o CC/MCC,*
+037,Extracranial procedures w MCC,*
+038,Extracranial procedures w CC,*
+039,Extracranial procedures w/o CC/MCC,*
+040,Periph/cranial nerve & other nerv syst proc w MCC,*
+041,Periph/cranial nerve & other nerv syst proc w CC o,*
+042,Periph/cranial nerve & other nerv syst proc w/o CC,*
+054,Nervous system neoplasms w MCC,*
+055,Nervous system neoplasms w/o MCC,*
+056,Degenerative nervous system disorders w MCC,*
+057,Degenerative nervous system disorders w/o MCC,*
+060,Multiple sclerosis & cerebellar ataxia w/o CC/MCC,*
+061,Acute ischemic stroke w use of thrombolytic agent,*
+062,Acute ischemic stroke w use of thrombolytic agent,*
+063,Acute ischemic stroke w use of thrombolytic agent,*
+064,Intracranial hemorrhage or cerebral infarction w M,*
+065,Intracranial hemorrhage or cerebral infarction w C,*
+066,Intracranial hemorrhage or cerebral infarction w/o,*
+067,Nonspecific cva & precerebral occlusion w/o infarc,*
+068,Nonspecific cva & precerebral occlusion w/o infarc,*
+069,Transient ischemia,*
+070,Nonspecific cerebrovascular disorders w MCC,*
+071,Nonspecific cerebrovascular disorders w CC,*
+072,Nonspecific cerebrovascular disorders w/o CC/MCC,*
+073,Cranial & peripheral nerve disorders w MCC,*
+074,Cranial & peripheral nerve disorders w/o MCC,*
+078,Hypertensive encephalopathy w CC,*
+082,"Traumatic stupor & coma, coma >1 hr w MCC",*
+083,"Traumatic stupor & coma, coma >1 hr w CC",*
+084,"Traumatic stupor & coma, coma >1 hr w/o CC/MCC",*
+085,"Traumatic stupor & coma, coma <1 hr w MCC",*
+086,"Traumatic stupor & coma, coma <1 hr w CC",*
+087,"Traumatic stupor & coma, coma <1 hr w/o CC/MCC",*
+089,Concussion w CC,*
+091,Other disorders of nervous system w MCC,*
+092,Other disorders of nervous system w CC,*
+093,Other disorders of nervous system w/o CC/MCC,*
+097,Non-bacterial infect of nervous sys exc viral meni,*
+099,Non-bacterial infect of nervous sys exc viral meni,*
+100,Seizures w MCC,*
+101,Seizures w/o MCC,*
+102,Headaches w MCC,*
+103,Headaches w/o MCC,*
+125,Other disorders of the eye w/o MCC,*
+130,Major head & neck procedures w/o CC/MCC,*
+133,"Other ear, nose, mouth & throat O.R. procedures w",*
+134,"Other ear, nose, mouth & throat O.R. procedures w/",*
+149,Dysequilibrium,*
+150,Epistaxis w MCC,*
+151,Epistaxis w/o MCC,*
+152,Otitis media & URI w MCC,*
+153,Otitis media & URI w/o MCC,*
+155,Nasal trauma & deformity w CC,*
+156,Nasal trauma & deformity w/o CC/MCC,*
+157,Dental & Oral Diseases w MCC,*
+158,Dental & Oral Diseases w CC,*
+163,Major chest procedures w MCC,*
+164,Major chest procedures w CC,*
+165,Major chest procedures w/o CC/MCC,*
+166,Other resp system O.R. procedures w MCC,*
+167,Other resp system O.R. procedures w CC,*
+168,Other resp system O.R. procedures w/o CC/MCC,*
+175,Pulmonary embolism w MCC,*
+176,Pulmonary embolism w/o MCC,*
+177,Respiratory infections & inflammations w MCC,*
+178,Respiratory infections & inflammations w CC,*
+179,Respiratory infections & inflammations w/o CC/MCC,*
+180,Respiratory neoplasms w MCC,*
+181,Respiratory neoplasms w CC,*
+183,Major chest trauma w MCC,*
+184,Major chest trauma w CC,*
+185,Major chest trauma w/o CC/MCC,*
+186,Pleural effusion w MCC,*
+187,Pleural effusion w CC,*
+188,Pleural effusion w/o CC/MCC,*
+189,Pulmonary edema & respiratory failure,"$15,440 "
+190,Chronic obstructive pulmonary disease w MCC,"$14,374 "
+191,Chronic obstructive pulmonary disease w CC,"$16,370 "
+192,Chronic obstructive pulmonary disease w/o CC/MCC,"$9,855 "
+193,Simple pneumonia & pleurisy w MCC,"$18,468 "
+194,Simple pneumonia & pleurisy w CC,"$13,700 "
+195,Simple pneumonia & pleurisy w/o CC/MCC,"$7,866 "
+196,Interstitial lung disease w MCC,*
+197,Interstitial lung disease w CC,*
+199,Pneumothorax w MCC,*
+200,Pneumothorax w CC,*
+201,Pneumothorax w/o CC/MCC,*
+202,Bronchitis & asthma w CC/MCC,*
+203,Bronchitis & asthma w/o CC/MCC,*
+204,Respiratory signs & symptoms,*
+205,Other respiratory system diagnoses w MCC,*
+206,Other respiratory system diagnoses w/o MCC,*
+207,Respiratory system diagnosis w ventilator support,*
+208,Respiratory system diagnosis w ventilator support,*
+215,Other heart assist system implant,*
+216,Cardiac valve & oth maj cardiothoracic proc w card,*
+217,Cardiac valve & oth maj cardiothoracic proc w card,*
+219,Cardiac valve & oth maj cardiothoracic proc w/o ca,*
+220,Cardiac valve & oth maj cardiothoracic proc w/o ca,*
+221,Cardiac valve & oth maj cardiothoracic proc w/o ca,*
+222,Cardiac defib implant w cardiac cath w AMI/HF/shoc,*
+223,Cardiac defib implant w cardiac cath w AMI/HF/shoc,*
+224,Cardiac defib implant w cardiac cath w/o AMI/HF/sh,*
+225,Cardiac defib implant w cardiac cath w/o AMI/HF/sh,*
+226,Cardiac defibrillator implant w/o cardiac cath w M,*
+227,Cardiac defibrillator implant w/o cardiac cath w/o,*
+228,Other cardiothoracic procedures w MCC,*
+229,Other cardiothoracic procedures w CC,*
+231,Coronary bypass w PTCA w MCC,*
+232,Coronary bypass w PTCA w/o MCC,*
+233,Coronary bypass w cardiac cath w MCC,*
+234,Coronary bypass w cardiac cath w/o MCC,*
+235,Coronary bypass w/o cardiac cath w MCC,*
+236,Coronary bypass w/o cardiac cath w/o MCC,*
+239,Amputation for circ sys disorders exc upper limb &,*
+240,Amputation for circ sys disorders exc upper limb &,*
+242,Permanent cardiac pacemaker implant w MCC,*
+243,Permanent cardiac pacemaker implant w CC,*
+244,Permanent cardiac pacemaker implant w/o CC/MCC,*
+245,AICD lead & generator procedures,*
+246,Perc cardiovasc proc w drug-eluting stent w MCC or,*
+247,Perc cardiovasc proc w drug-eluting stent w/o MCC,*
+248,Perc cardiovasc proc w non-drug-eluting stent w MC,*
+249,Perc cardiovasc proc w non-drug-eluting stent w/o,*
+250,Perc cardiovasc proc w/o coronary artery stent or,*
+251,Perc cardiovasc proc w/o coronary artery stent or,*
+252,Other vascular procedures w MCC,*
+253,Other vascular procedures w CC,*
+254,Other vascular procedures w/o CC/MCC,*
+256,Upper limb & toe amputation for circ system disord,*
+258,Cardiac pacemaker device replacement w MCC,*
+259,Cardiac pacemaker device replacement w/o MCC,*
+260,Cardiac pacemaker revision except device replaceme,*
+261,Cardiac pacemaker revision except device replaceme,*
+264,Other circulatory system O.R. procedures,*
+265,AICD Lead Procedures,*
+266,Endovascular Cardiac Valve Replacement W MCC,*
+267,Endovascular Cardiac Valve Replacement W/O MCC,*
+268,Aortic And Heart Assist Procedures Except Pulsatio,*
+269,Aortic And Heart Assist Procedures Except Pulsatio,*
+270,Other Major Cardiovascular Procedures W MCC,*
+271,Other Major Cardiovascular Procedures W CC,*
+272,Other Major Cardiovascular Procedures W/O CC/MCC,*
+273,Percutaneous Intracardiac Procedures W MCC,*
+274,Percutaneous Intracardiac Procedures W/O MCC,*
+280,"Acute myocardial infarction, discharged alive w MC","$16,210 "
+281,"Acute myocardial infarction, discharged alive w CC",*
+282,"Acute myocardia infarction, discharged alive w/o C",*
+283,"Acute myocardial infarction, expired w MCC",*
+284,"Acute myocardial infarction, expired w CC",*
+285,"Acute myocardial infarction, expired w/o CC/MCC",*
+286,"Circulatory disorders except AMI, w card cath w MC",*
+287,"Circulatory disorders except AMI, w card cath w/o",*
+289,Acute & subacute endocarditis w CC,*
+291,Heart failure & shock w MCC,"$14,026 "
+292,Heart failure & shock w CC,"$13,555 "
+293,Heart failure & shock w/o CC/MCC,*
+296,"Cardiac arrest, unexplained w MCC",*
+299,Peripheral vascular disorders w MCC,*
+300,Peripheral vascular disorders w CC,*
+301,Peripheral vascular disorders w/o CC/MCC,*
+302,Atherosclerosis w MCC,*
+303,Atherosclerosis w/o MCC,*
+304,Hypertension w MCC,*
+305,Hypertension w/o MCC,*
+306,Cardiac congenital & valvular disorders w MCC,*
+308,Cardiac arrhythmia & conduction disorders w MCC,*
+309,Cardiac arrhythmia & conduction disorders w CC,"$8,898 "
+310,Cardiac arrhythmia & conduction disorders w/o CC/M,"$15,038 "
+311,Angina pectoris,*
+312,Syncope & collapse,"$12,615 "
+313,Chest pain,"$8,198 "
+314,Other circulatory system diagnoses w MCC,*
+315,Other circulatory system diagnoses w CC,*
+316,Other circulatory system diagnoses w/o CC/MCC,*
+326,"Stomach, esophageal & duodenal proc w MCC",*
+327,"Stomach, esophageal & duodenal proc w CC",*
+328,"Stomach, esophageal & duodenal proc w/o CC/MCC",*
+329,Major small & large bowel procedures w MCC,*
+330,Major small & large bowel procedures w CC,*
+331,Major small & large bowel procedures w/o CC/MCC,*
+334,Rectal resection w/o CC/MCC,*
+335,Peritoneal adhesiolysis w MCC,*
+336,Peritoneal adhesiolysis w CC,*
+337,Peritoneal adhesiolysis w/o CC/MCC,*
+338,Appendectomy w complicated principal diag w MCC,*
+339,Appendectomy w complicated principal diag w CC,*
+340,Appendectomy w complicated principal diag w/o CC/M,*
+342,Appendectomy w/o complicated principal diag w CC,*
+343,Appendectomy w/o complicated principal diag w/o CC,*
+344,Minor small & large bowel procedures w MCC,*
+345,Minor small & large bowel procedures w CC,*
+347,Anal & stomal procedures w MCC,*
+348,Anal & stomal procedures w CC,*
+353,Hernia procedures except inguinal & femoral w MCC,*
+355,Hernia procedures except inguinal & femoral w/o CC,*
+356,Other digestive system O.R. procedures w MCC,*
+357,Other digestive system O.R. procedures w CC,*
+368,Major esophageal disorders w MCC,*
+369,Major esophageal disorders w CC,*
+371,Major gastrointestinal disorders & peritoneal infe,*
+372,Major gastrointestinal disorders & peritoneal infe,*
+373,Major gastrointestinal disorders & peritoneal infe,*
+374,Digestive malignancy w MCC,*
+375,Digestive malignancy w CC,*
+376,Digestive malignancy w/o CC/MCC,*
+377,G.I. hemorrhage w MCC,*
+378,G.I. hemorrhage w CC,"$12,014 "
+379,G.I. hemorrhage w/o CC/MCC,*
+380,Complicated peptic ulcer w MCC,*
+381,Complicated peptic ulcer w CC,*
+384,Uncomplicated peptic ulcer w/o MCC,*
+386,Inflammatory bowel disease w CC,*
+387,Inflammatory bowel disease w/o CC/MCC,*
+388,G.I. obstruction w MCC,*
+389,G.I. obstruction w CC,*
+390,G.I. obstruction w/o CC/MCC,*
+391,"Esophagitis, gastroent & misc digest disorders w M",*
+392,"Esophagitis, gastroent & misc digest disorders w/o","$10,495 "
+393,Other digestive system diagnoses w MCC,*
+394,Other digestive system diagnoses w CC,*
+395,Other digestive system diagnoses w/o CC/MCC,*
+409,Biliary tract proc except only cholecyst w or w/o,*
+412,Cholecystectomy w c.d.e. w CC,*
+415,Cholecystectomy except by laparoscope w/o c.d.e. w,*
+416,Cholecystectomy except by laparoscope w/o c.d.e. w,*
+417,Laparoscopic cholecystectomy w/o c.d.e. w MCC,*
+418,Laparoscopic cholecystectomy w/o c.d.e. w CC,*
+419,Laparoscopic cholecystectomy w/o c.d.e. w/o CC/MCC,*
+432,Cirrhosis & alcoholic hepatitis w MCC,*
+433,Cirrhosis & alcoholic hepatitis w CC,*
+435,Malignancy of hepatobiliary system or pancreas w M,*
+436,Malignancy of hepatobiliary system or pancreas w C,*
+438,Disorders of pancreas except malignancy w MCC,*
+439,Disorders of pancreas except malignancy w CC,*
+440,Disorders of pancreas except malignancy w/o CC/MCC,*
+441,"Disorders of liver except malig,cirr,alc hepa w MC",*
+442,"Disorders of liver except malig,cirr,alc hepa w CC",*
+443,"Disorders of liver except malig,cirr,alc hepa w/o",*
+444,Disorders of the biliary tract w MCC,*
+445,Disorders of the biliary tract w CC,*
+446,Disorders of the biliary tract w/o CC/MCC,*
+453,Combined anterior/posterior spinal fusion w MCC,*
+454,Combined anterior/posterior spinal fusion w CC,"$92,778 "
+455,Combined anterior/posterior spinal fusion w/o CC/M,*
+459,Spinal fusion except cervical w MCC,*
+460,Spinal fusion except cervical w/o MCC,"$88,765 "
+462,Bilateral or multiple major joint procs of lower e,*
+463,"Wnd debrid & skn grft exc hand, for musculo-conn t",*
+464,"Wnd debrid & skn grft exc hand, for musculo-conn t",*
+465,"Wnd debrid & skn grft exc hand, for musculo-conn t",*
+466,Revision of hip or knee replacement w MCC,*
+467,Revision of hip or knee replacement w CC,*
+468,Revision of hip or knee replacement w/o CC/MCC,*
+469,Major joint replacement or reattachment of lower e,*
+470,Major joint replacement or reattachment of lower e,"$32,016 "
+471,Cervical spinal fusion w MCC,*
+472,Cervical spinal fusion w CC,*
+473,Cervical spinal fusion w/o CC/MCC,"$46,935 "
+474,Amputation for musculoskeletal sys & conn tissue d,*
+475,Amputation for musculoskeletal sys & conn tissue d,*
+477,Biopsies of musculoskeletal system & connective ti,*
+478,Biopsies of musculoskeletal system & connective ti,*
+480,Hip & femur procedures except major joint w MCC,*
+481,Hip & femur procedures except major joint w CC,*
+482,Hip & femur procedures except major joint w/o CC/M,*
+483,Major joint & limb reattachment proc of upper extr,*
+488,Knee procedures w/o pdx of infection w CC/MCC,*
+489,Knee procedures w/o pdx of infection w/o CC/MCC,*
+492,"Lower extrem & humer proc except hip,foot,femur w",*
+493,"Lower extrem & humer proc except hip,foot,femur w",*
+494,"Lower extrem & humer proc except hip,foot,femur w/",*
+496,Local excision & removal int fix devices exc hip &,*
+497,Local excision & removal int fix devices exc hip &,*
+500,Soft tissue procedures w MCC,*
+501,Soft tissue procedures w CC,*
+502,Soft tissue procedures w/o CC/MCC,*
+504,Foot procedures w CC,*
+505,Foot procedures w/o CC/MCC,*
+512,"Shoulder,elbow or forearm proc,exc major joint pro",*
+515,Other musculoskelet sys & conn tiss O.R. proc w MC,*
+516,Other musculoskelet sys & conn tiss O.R. proc w CC,*
+517,Other musculoskelet sys & conn tiss O.R. proc w/o,*
+518,Back & Neck Proc Exc Spinal Fusion W MCC Or Disc D,*
+519,Back & Neck Proc Exc Spinal Fusion W CC,*
+520,Back & Neck Proc Exc Spinal Fusion W/O CC/MCC,*
+533,Fractures of femur w MCC,*
+535,Fractures of hip & pelvis w MCC,*
+536,Fractures of hip & pelvis w/o MCC,*
+537,"Sprains, strains, & dislocations of hip, pelvis &",*
+539,Osteomyelitis w MCC,*
+540,Osteomyelitis w CC,*
+542,Pathological fractures & musculoskelet & conn tiss,*
+543,Pathological fractures & musculoskelet & conn tiss,*
+544,Pathological fractures & musculoskelet & conn tiss,*
+546,Connective tissue disorders w CC,*
+547,Connective tissue disorders w/o CC/MCC,*
+549,Septic arthritis w CC,*
+550,Septic arthritis w/o CC/MCC,*
+551,Medical back problems w MCC,*
+552,Medical back problems w/o MCC,*
+553,Bone diseases & arthropathies w MCC,*
+554,Bone diseases & arthropathies w/o MCC,*
+556,Signs & symptoms of musculoskeletal system & conn,*
+557,"Tendonitis, myositis & bursitis w MCC",*
+558,"Tendonitis, myositis & bursitis w/o MCC",*
+559,"Aftercare, musculoskeletal system & connective tis",*
+561,"Aftercare, musculoskeletal system & connective tis",*
+562,"Fx, sprn, strn & disl except femur, hip, pelvis &",*
+563,"Fx, sprn, strn & disl except femur, hip, pelvis &",*
+564,Other musculoskeletal sys & connective tissue diag,*
+565,Other musculoskeletal sys & connective tissue diag,*
+571,Skin Debridement W CC,*
+572,Skin Debridement W/O CC/MCC,*
+579,"Other skin, subcut tiss & breast proc w MCC",*
+581,"Other skin, subcut tiss & breast proc w/o CC/MCC",*
+592,Skin ulcers w MCC,*
+593,Skin ulcers w CC,*
+597,Malignant breast disorders w MCC,*
+598,Malignant breast disorders w CC,*
+602,Cellulitis w MCC,*
+603,Cellulitis w/o MCC,"$11,121 "
+605,"Trauma to the skin, subcut tiss & breast w/o MCC",*
+606,Minor skin disorders w MCC,*
+607,Minor skin disorders w/o MCC,*
+614,Adrenal & pituitary procedures w CC/MCC,*
+617,"Amputat of lower limb for endocrine,nutrit,& metab",*
+619,O.R. procedures for obesity w MCC,*
+620,O.R. procedures for obesity w CC,*
+621,O.R. procedures for obesity w/o CC/MCC,*
+623,"Skin grafts & wound debrid for endoc, nutrit & met",*
+627,"Thyroid, parathyroid & thyroglossal procedures w/o",*
+629,"Other endocrine, nutrit & metab O.R. proc w CC",*
+637,Diabetes w MCC,*
+638,Diabetes w CC,"$11,129 "
+639,Diabetes w/o CC/MCC,*
+640,Nutritional & misc metabolic disorders w MCC,*
+641,Nutritional & misc metabolic disorders w/o MCC,"$8,220 "
+642,Inborn errors of metabolism,*
+643,Endocrine disorders w MCC,*
+644,Endocrine disorders w CC,*
+645,Endocrine disorders w/o CC/MCC,*
+655,Major bladder procedures w/o CC/MCC,*
+657,Kidney & ureter procedures for neoplasm w CC,*
+658,Kidney & ureter procedures for neoplasm w/o CC/MCC,*
+659,Kidney & ureter procedures for non-neoplasm w MCC,*
+660,Kidney & ureter procedures for non-neoplasm w CC,*
+661,Kidney & ureter procedures for non-neoplasm w/o CC,*
+663,Minor bladder procedures w CC,*
+665,Prostatectomy w MCC,*
+668,Transurethral procedures w MCC,*
+669,Transurethral procedures w CC,*
+670,Transurethral procedures w/o CC/MCC,*
+673,Other kidney & urinary tract procedures w MCC,*
+674,Other kidney & urinary tract procedures w CC,*
+675,Other kidney & urinary tract procedures w/o CC/MCC,*
+682,Renal failure w MCC,*
+683,Renal failure w CC,"$10,375 "
+684,Renal failure w/o CC/MCC,*
+686,Kidney & urinary tract neoplasms w MCC,*
+687,Kidney & urinary tract neoplasms w CC,*
+689,Kidney & urinary tract infections w MCC,*
+690,Kidney & urinary tract infections w/o MCC,"$11,669 "
+693,Urinary stones w/o esw lithotripsy w MCC,*
+694,Urinary stones w/o esw lithotripsy w/o MCC,*
+696,Kidney & urinary tract signs & symptoms w/o MCC,*
+698,Other kidney & urinary tract diagnoses w MCC,*
+699,Other kidney & urinary tract diagnoses w CC,*
+700,Other kidney & urinary tract diagnoses w/o CC/MCC,*
+707,Major male pelvic procedures w CC/MCC,*
+708,Major male pelvic procedures w/o CC/MCC,*
+712,Testes procedures w/o CC/MCC,*
+713,Transurethral prostatectomy w CC/MCC,*
+717,Other male reproductive system O.R. proc exc malig,*
+723,"Malignancy, male reproductive system w CC",*
+725,Benign prostatic hypertrophy w MCC,*
+728,Inflammation of the male reproductive system w/o M,*
+729,Other male reproductive system diagnoses w CC/MCC,*
+742,Uterine & adnexa proc for non-malignancy w CC/MCC,*
+743,Uterine & adnexa proc for non-malignancy w/o CC/MC,*
+744,"D&C, conization, laparascopy & tubal interruption",*
+747,"Vagina, cervix & vulva procedures w/o CC/MCC",*
+748,Female reproductive system reconstructive procedur,*
+758,"Infections, female reproductive system w CC",*
+759,"Infections, female reproductive system w/o CC/MCC",*
+761,Menstrual & other female reproductive system disor,*
+765,Cesarean section w CC/MCC,*
+766,Cesarean section w/o CC/MCC,*
+774,Vaginal delivery w complicating diagnoses,*
+775,Vaginal delivery w/o complicating diagnoses,*
+778,Threatened abortion,*
+799,Splenectomy w MCC,*
+803,Other O.R. proc of the blood & blood forming organ,*
+808,Major hematol/immun diag exc sickle cell crisis &,*
+809,Major hematol/immun diag exc sickle cell crisis &,*
+810,Major hematol/immun diag exc sickle cell crisis &,*
+811,Red blood cell disorders w MCC,*
+812,Red blood cell disorders w/o MCC,*
+813,Coagulation disorders,*
+814,Reticuloendothelial & immunity disorders w MCC,*
+815,Reticuloendothelial & immunity disorders w CC,*
+820,Lymphoma & leukemia w major O.R. procedure w MCC,*
+824,Lymphoma & non-acute leukemia w other O.R. proc w,*
+840,Lymphoma & non-acute leukemia w MCC,*
+841,Lymphoma & non-acute leukemia w CC,*
+842,Lymphoma & non-acute leukemia w/o CC/MCC,*
+843,Other myeloprolif dis or poorly diff neopl diag w,*
+844,Other myeloprolif dis or poorly diff neopl diag w,*
+846,Chemotherapy w/o acute leukemia as secondary diagn,*
+847,Chemotherapy w/o acute leukemia as secondary diagn,*
+853,Infectious & parasitic diseases w O.R. procedure w,*
+854,Infectious & parasitic diseases w O.R. procedure w,*
+856,Postoperative or post-traumatic infections w O.R.,*
+857,Postoperative or post-traumatic infections w O.R.,*
+862,Postoperative & post-traumatic infections w MCC,*
+863,Postoperative & post-traumatic infections w/o MCC,*
+864,Fever of unknown origin,*
+865,Viral illness w MCC,*
+867,Other infectious & parasitic diseases diagnoses w,*
+868,Other infectious & parasitic diseases diagnoses w,*
+870,Septicemia w MV 96+ hours,*
+871,Septicemia w/o MV 96+ hours w MCC,"$20,072 "
+872,Septicemia w/o MV 96+ hours w/o MCC,"$14,307 "
+876,O.R. procedure w principal diagnoses of mental ill,*
+880,Acute adjustment reaction & psychosocial dysfuncti,*
+882,Neuroses except depressive,*
+883,Disorders of personality & impulse control,*
+884,Organic disturbances & mental retardation,*
+885,Psychoses,*
+894,"Alcohol/drug abuse or dependence, left ama",*
+896,Alcohol/drug abuse or dependence w/o rehabilitatio,*
+897,Alcohol/drug abuse or dependence w/o rehabilitatio,*
+902,Wound debridements for injuries w CC,*
+907,Other O.R. procedures for injuries w MCC,*
+908,Other O.R. procedures for injuries w CC,*
+909,Other O.R. procedures for injuries w/o CC/MCC,*
+913,Traumatic injury w MCC,*
+914,Traumatic injury w/o MCC,*
+916,Allergic reactions w/o MCC,*
+917,Poisoning & toxic effects of drugs w MCC,*
+918,Poisoning & toxic effects of drugs w/o MCC,*
+919,Complications of treatment w MCC,*
+920,Complications of treatment w CC,*
+921,Complications of treatment w/o CC/MCC,*
+922,"Other injury, poisoning & toxic effect diag w MCC",*
+923,"Other injury, poisoning & toxic effect diag w/o MC",*
+939,O.R. proc w diagnoses of other contact w health se,*
+947,Signs & symptoms w MCC,*
+948,Signs & symptoms w/o MCC,"$11,636 "
+951,Other factors influencing health status,*
+956,"Limb reattachment, hip & femur proc for multiple s",*
+958,Other O.R. procedures for multiple significant tra,*
+963,Other multiple significant trauma w MCC,*
+964,Other multiple significant trauma w CC,*
+965,Other multiple significant trauma w/o CC/MCC,*
+974,HIV w major related condition w MCC,*
+981,Extensive O.R. procedure unrelated to principal di,*
+982,Extensive O.R. procedure unrelated to principal di,*
+983,Extensive O.R. procedure unrelated to principal di,*
+987,Non-extensive O.R. proc unrelated to principal dia,*
+988,Non-extensive O.R. proc unrelated to principal dia,*
+989,Non-extensive O.R. proc unrelated to principal dia,*
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

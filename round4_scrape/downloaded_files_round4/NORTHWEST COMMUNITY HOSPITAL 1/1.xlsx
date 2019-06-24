@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns:adam="urn:DataProcessor" xmlns:ax="http://www.adam.com" xmlns:exsl="http://exslt.org/common"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><meta http-equiv="x-ua-compatible" content="IE=edge" /><head><title></title><meta name="Keywords" content=""></meta>    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+	<script src="http://www.google-analytics.com/plugins/ua/linkid.js" type=text/javascript async="true"></script>
+	<script src="//www.google-analytics.com/analytics.js" async="1"></script>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-56800782-1', 'auto');
+	  ga('require', 'displayfeatures');
+	  ga('require', 'linkid', 'linkid.js');
+	  ga('send', 'pageview');
+	</script>
+	
+	<meta id="MetaCopyright" name="COPYRIGHT" content="&amp;copy; 2015 Northwest Community Healthcare. All rights reserved." />
+    <meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke " />
+	<meta name="ROBOTS" id="MetaRobots" content="INDEX, FOLLOW" />	
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <meta content="text/javascript" http-equiv="Content-Script-Type" />
+    <meta content="text/css" http-equiv="Content-Style-Type" />
+    <meta name="RESOURCE-TYPE" content="DOCUMENT" />
+    <meta name="REVISIT-AFTER" content="1 DAYS" />
+    <meta name="RATING" content="GENERAL" />
+
+    <link href="http://www.nch.org/Portals/_default/default.css?cdv=23" media="all" type="text/css" rel="stylesheet"/>
+    <link href="http://www.nch.org/Portals/_default/Skins/NCH/skin.css?cdv=23" media="all" type="text/css" rel="stylesheet"/>
+    <link href="http://www.nch.org/Portals/0/portal.css?cdv=23" media="all" type="text/css" rel="stylesheet"/>
+    <link href="http://www.nch.org/DesktopModules/SearchBoost/module.css?cdv=23" media="all" type="text/css" rel="stylesheet"/>
+	
+	<script src="http://www.nch.org/Resources/libraries/jQuery/01_09_01/jquery.js?cdv=23" type="text/javascript"></script>
+	<script src="http://www.nch.org/Resources/libraries/jQuery-Migrate/01_02_01/jquery-migrate.js?cdv=23" type="text/javascript"></script>
+	
+    <link rel='SHORTCUT ICON' href='http://www.nch.org/portals/0/favicon.ico' type='image/x-icon' />
+
+    <link href="http://www.nch.org/DesktopModules/NavXp/skins/HorizontalBars/Simple/cache_skin_Top%20Menu.css" type="text/css" rel="stylesheet" />
+    <link href="http://www.nch.org/DesktopModules/NavXp/skins/HorizontalBars/Simple/cache_skin_Main%20Menu.css" type="text/css" rel="stylesheet" />
+    <link href="http://www.nch.org/DesktopModules/NavXp/skins/HorizontalBars/Link%20Groups/cache_skin_Footer.css" type="text/css" rel="stylesheet" />
+
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+	<style type="text/css">.nxp-init-hide { display: none !important; }</style><script src="../../graphics/global/scripts/jquery-1.9.1.js"> </script><script src="//code.jquery.com/jquery-migrate-1.1.1.js"> </script><script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"> </script><script src="../../graphics/global/scripts/modernizr-2.5.3.min.js"> </script><script src="../../graphics/global/scripts/popeye/jquery.popeye-2.1.js"> </script><script type="text/javascript" src="../../graphics/global/jquery.innerfade.js"> </script><script type="text/javascript" src="../../graphics/global/jcarousel.js"> </script><script src="../../graphics/global/scripts/video.js" type="text/javascript"> </script><script language="javascript" type="text/javascript">                      function ADAM() { }                    </script><link rel="stylesheet" href="/clients/1843/127/css/mme-hm-mobile.css" type="text/css" /><script type="text/javascript"><!--
+          var Protocol = (("https:" == document.location.protocol) ? "https" : "http");
+          var JSLocationSSL='https://sdk.adam.com/javascriptlibraries/';
+          var JSLocation='http://sdk.adam.com/javascriptlibraries/';
+          if (typeof($) == "undefined")
+          {
+          document.write(unescape("%3Cscript src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+          }
+          
+          if(Protocol=="https")
+          {
+          if (typeof(ADAM$) == "undefined")
+          {
+          document.write(unescape("%3Cscript src='" + JSLocationSSL + "adamcore.1.0.js' type='text/javascript'%3E%3C/script%3E"));
+          }
+
+          document.write(unescape("%3Cscript src='" + JSLocationSSL + "ContentTracking.js' type='text/javascript'%3E%3C/script%3E"));
+          }
+          else
+          {
+          if (typeof(ADAM$) == "undefined")
+          {
+          document.write(unescape("%3Cscript src='" + JSLocation + "adamcore.1.0.js' type='text/javascript'%3E%3C/script%3E"));
+          }
+
+          document.write(unescape("%3Cscript src='" + JSLocation + "ContentTracking.js' type='text/javascript'%3E%3C/script%3E"));
+          }
+        --></script><script type="text/javascript">
+            $(document).ready(function() {
+            var previousUrl = document.referrer;
+            if(previousUrl == '' || previousUrl == 'null')
+            previousUrl = window.location.href;
+            
+            JsCaptureClient('1843','127','0','200000',previousUrl,'');
+            
+            });
+          </script></head><body id="body">	<form method="post" id="Form" enctype="multipart/form-data">
+
+	<script src="http://www.nch.org/DesktopModules/NavXp/js/cache/NavXpJsClient-1912425007.js" type="text/javascript"></script>
+	<script src="http://www.nch.org/Portals/_default/Skins/NCH/js/doubletaptogo.min.js" type="text/javascript"></script>
+	<script src="http://www.nch.org/js/dnncore.js" type="text/javascript"></script>
+	<script src="http://www.nch.org/Portals/_default/Skins/NCH/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>			
+	<script src="http://www.nch.org/Portals/_default/Skins/NCH/js/scripts.js" type="text/javascript"></script>
+
+	<div class="interiorPage contentPage noShowMore" id="siteWrapper">
+		<!--[if IE 8]>
+			<link rel="stylesheet" type="text/css" href="http://www.nch.org/Portals/_default/Skins/NCH/ie8.css">
+			<style>html {min-width: 1180px; overflow-x: auto!important } .container {  padding-left: 10px; }</style>
+		<!--[if IE 9]>
+			<link rel="stylesheet" type="text/css" href="http://www.nch.org/Portals/_default/Skins/NCH/ie9.css">
+		<![endif]-->
+		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" />
+		<link rel="stylesheet" href="http://cdn.datatables.net/1.10.2/css/jquery.dataTables.min.css">
+		<link href="http://www.nch.org/portals/_default/skins/NCH/Includes/captionjs/captionjs.css" rel="stylesheet"/>
+
+		<div id="siteHeadouter" class="clearfix">
+			<div id="siteHeadInner" class="container clearfix">
+				<div class="row-fluid">
+				<div class="span2" id="nchLogo">
+					<span class="brand visible-desktop">
+						<a id="dnn_Header_dnnLOGO_hypLogo" title="Northwest Community Healthcare" href="http://www.nch.org/"><img id="dnn_Header_dnnLOGO_imgLogo" src="http://www.nch.org/Portals/0/nchLogo.png" alt="Northwest Community Healthcare" shape="" /></a>
+					</span>
+					<span class="brand hidden-desktop">
+						<a id="dnn_Header_dnnLOGOmobi_hypLogo" title="Northwest Community Healthcare" href="http://www.nch.org/"><img id="dnn_Header_dnnLOGOmobi_imgLogo" src="http://www.nch.org/Portals/0/nchLogo.png" alt="Northwest Community Healthcare" /></a>
+					</span>
+				</div>
+				<div class="span10 pull-right" id="nchNav">
+					<div class="brand hidden-desktop " style="background: transparent url(http://www.nch.org/images/phoneIcon.png) no-repeat left 1px">
+						<div class="phoneNumberBrown mobile">
+							<a href="tel:847-618-1000">847-618-1000</a>
+						</div>
+					</div>
+					<div id="headerTop" class="clearfix">
+						<div id="search">
+							<div id="dnn_Header_searchBoost_pnlInput">
+								<div class="sbInp sbInp_Default"><input type="text" id="txtQuery" name="txtQuery"  class="searchBox searchBoxEmpty" value="" />
+									<a href="#" class="searchBtn" style="background:transparent url(http://www.nch.org/images/magnifyingGlassIcon.png) no-repeat scroll 8px center" onclick="window.location.href = 'http://www.nch.org/Search-Results/search/' + document.getElementById('txtQuery').value; return false;"></a>
+								</div>
+							</div>
+						</div>
+						<div class="phoneNumberBrown" style="background: transparent url(http://www.nch.org/images/phoneIcon.png) no-repeat left 1px"><a href="tel:847-618-1000" shape="">847-618-1000</a></div>
+						<div id="topHeaderMenu">
+							<div id="dnn_Header_topMenu_pnlErr"></div>
+							<div id="dnn_Header_topMenu_menuRender">
+								<div style="" class="navxp_HB_SimpleText navxp_HB_SimpleText_Top_Menu NavXpRoot">
+									<a class="itemL0 nxp-first nxp-lvl0 nxp-page nxp-no-child" href="https://mychart.nch.org/Mychart/">NCH MyChart</a>
+									<div class="sepBk">&nbsp;</div>
+									<a class="itemL0 nxp-first nxp-lvl0 nxp-page nxp-no-child" href="http://www.nch.org/Careers">Careers</a>
+									<div class="sepBk">&nbsp;</div>
+									<a class="itemL0 itemL0Sel  nxp-lvl0 nxp-page nxp-no-child" href="http://www.nch.org/Giving">Giving</a>
+									<div class="sepBk">&nbsp;</div>
+									<a class="itemL0 nxp-last nxp-lvl0 nxp-link nxp-no-child" href="https://onesource.passporthealth.com/_members/Financial/eCashiering/Hosting/NCH/autopost.aspx?g=6f50811d-74b5-42f3-9c02-766ee3d928ce">Pay Bill</a>
+									<div style="clear: both"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="navbar clearfix">
+						<div class="navbar-inner clearfix">
+							<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">Menu</a>
+							<div id="navdttg" class="nav-collapse collapse pull-right">
+                            <div id="dnn_Header_mainMenu_pnlErr"></div>
+                            <div id="dnn_Header_mainMenu_menuRender">
+                                <div style="" class="navxp_HB_SimpleText navxp_HB_SimpleText_Main_Menu NavXpRoot">
+                                    <a class="itemL0 nxp-first nxp-lvl0 nxp-page nxp-no-child" href="http://www.nch.org/Doctors-Specialists">Doctors &amp; Specialists</a>
+                                    <div class="sepBk">&nbsp;</div>
+                                    <a class="itemL0  nxp-lvl0 nxp-page nxp-no-child" href="http://www.nch.org/Treatment-Care">Treatment &amp; Care</a>
+                                    <div class="sepBk">&nbsp;</div>
+                                    <a class="itemL0  nxp-lvl0 nxp-page nxp-no-child" href="http://www.nch.org/Patients-Visitors">Patients &amp; Visitors</a>
+                                    <div class="sepBk">&nbsp;</div>
+                                    <a class="itemL0  nxp-lvl0 nxp-page nxp-no-child" href="http://www.nch.org/Location-Contact-Info">Location &amp; Contact Info</a>
+                                    <div class="sepBk">&nbsp;</div>
+                                    <a class="itemL0 nxp-last nxp-lvl0 nxp-page nxp-no-child" href="http://www.nch.org/About-NCH">About NCH</a>
+                                    <div style="clear: both"></div>
+                                </div>
+                            </div>
+							</div>
+						</div>
+					</div>
+				</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="contentWrapper">
+			<div class="container">
+			    <div class="row-fluid">
+					<div class="span12 breadcrumbPane" id="breadcrumbPane">
+						<a class="homeIconLink" href="http://www.nch.org/"><img title="Home" src="http://www.nch.org/images/homeIcon.png"></a>\<span id="dnn_breadcrumb_lblBreadCrumb"><a class="SkinObject" href="http://www.nch.org/Treatment-Care">Treatment &amp; Care</a>\<a class="SkinObject" href="http://www.nch.org/Treatment-Care#allServices">All Services</a>\<a class="SkinObject" href="http://www.nch.org/Treatment-Care/Health-Library">Health Library</a>
+						</span>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="row-fluid">
+					<div class="span12 titlePane" id="dnn_titlePane">
+						<div class="DnnModule DnnModule-NCHPage_Title DnnModule-690">
+							<a name=690></a>
+							<div class="DNNContainer_Title_page-title SpacingBottom">
+								<h3><SPAN class="Head" id="dnn_ctr690_dnnTITLE_titleLabel">Treatments &amp; Care at NCH</span></h3>
+								<h1 class="darkBrown" id="dnn_ctr690_ContentPane">
+									<div class="DNNModuleContent ModNCHPageTitleC" id="dnn_ctr690_ModuleContent">Health Library</div>
+								</h1>
+								<div class="clear"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row-fluid">
+					<div class="span10" style="margin-left:10px;margin-bottom:10px;font-family: Arial, tahmoa,verdana;font-size: 12pt;">
+					<strong>Call <a href="tel:8476184968"><span class="nchGreen">847-618-4968</span> and let us help you </a><a href="http://www.nch.org/doctors-specialists">find a doctor</a> at any <a href="http://www.nch.org/location-contact-info">NCH location.</a></strong>
+					</div>
+				</div>
+				<div class="row-fluid">
+					<div class="span10" id="dnn_topLeftPane">
+						<div class="DnnModule DnnModule-DNN_HTML DnnModule-972">
+							<!-- BEGIN INSERTED CONTENT --><article class="ADAMContent" align="center"><!--[if IE 8]><link rel="stylesheet" href="../clients/1843/127/css/NewIE8.css"  type="text/css"></link><![endif]--><style type="text/css">      Body .navbar-inner {    background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;    border: medium none !important;    box-shadow: none !important;    filter: none;    padding-right: 0 !important;    min-height: 49px;}      tr, td {      border:none!important;      }      main ul {      margin: 0px!important;      padding: 0px!important;      }    </style><style type="text/css">      .ADAMContent {      Width: 100%;            position: relative;      margin: 0px auto;      top: 0;      z-index: 0;      text-align:left;      }      .ADAMContent body {      color: #403324;      font-family: Georgia Regular;      }    </style><script type="text/javascript">      $(document).ready(function(){      if(navigator.appName == 'Microsoft Internet Explorer')      if($.browser.version != '10.0'){      $("div#browse-a-z-nav").css('background','none');      }      });    </script><script type="text/javascript" src="../../graphics/global/loader/jquery.loader.js"> </script><script language="javascript"><!--        $(document).ready(function() {        $('[placeholder]').focus(function () {        var input = $(this);        if (input.val() == input.attr('placeholder')) {        input.val('');        input.removeClass('placeholder');        }        }).blur(function () {        var input = $(this);        if (input.val() == '' || input.val() == input.attr('placeholder')) {        input.addClass('placeholder');        input.val(input.attr('placeholder'));        }        }).blur();        });        function checkEnter(event)        {        var iAscii = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;        if (iAscii == null) return false;        if (iAscii == 13) ADAMDefaultSearch('Article');        }        function InitForm()        {        var searchType = '';        var searchBox = document.getElementById('ADAMSearchBox');        /*searchBox.focus();*/        searchBox.onKeyPress = checkEnter;        if (searchType == 'taxa')        {        var searchTaxo = '';        var searchTaxoCode = '';        var taxoCheck = document.getElementById('ADAMMedicalCodeCheckBox');        var taxoPulldown = document.getElementById('ADAMTaxaVocab');        searchBox.value = searchTaxoCode;        taxoCheck.checked = true;        taxoPulldown.style.display = 'inline';        if (searchTaxo == 'ICD9CM') document.getElementById('ADAMTaxaVocabICD9CM').selected = 'selected';        else if (searchTaxo == 'MSH') document.getElementById('ADAMTaxaVocabMSH').selected = 'selected';        else if (searchTaxo == 'CPT') document.getElementById('ADAMTaxaVocabCPT').selected = 'selected';        else if (searchTaxo == 'SNOMEDCT') document.getElementById('ADAMTaxaVocabSNOMEDCT').selected = 'selected';        }        else if (searchType == 'keyword')        {        var searchInput = "";        /*searchBox.value = searchInput;*/        }        }        function ADAMDefaultSearch(searchScope)        {        var searchBox = document.getElementById('ADAMSearchBox');        var Language= "en";        if (searchBox.value =='')        {        alert('Please be more specific with your search.');        searchBox.focus();        }        else        {        ADAMSearchRedirect('&keyword=' + searchBox.value + '&searchScope=' + searchScope + '&lang=' + Language);                }        }        function ADAMChangeResultPage(resultSetPage)        {        var searchScope = '';        var searchInput = "";        var Language= "en";        ADAMSearchRedirect('&keyword=' + searchInput + '&searchScope=' + searchScope + '&resultSetPage=' + resultSetPage + '&lang=' + Language);        }        function ADAMNextResultPage() { ADAMChangeResultPage( + 1); }        function ADAMPrevResultPage() { ADAMChangeResultPage( - 1); }        function ADAMSearchRedirect(queryString)        {        var resultCount = '20';        if (resultCount == '') resultCount = 20;                    document.location = 'content.aspx?productid=26&pid=26' + queryString + '&count=' + resultCount;                  }        function ADAM()        {        InitForm();        }      --></script><link rel="stylesheet" href="/clients/1843/127/css/layout.css" /><script>      $(document).ready(function(){      if($('ul#your-care-nav li').length==0){      $('div#your-care-hdr').css('display','none');      $('div#your-care-nav').css('display','none');      }      if($('ul#your-symptoms-nav li').length==0){      $('div#your-symptoms-hdr').css('display','none');      $('ul#your-symptoms-nav').css('display','none');      }      if($('ul#your-patient-nav li').length==0){      $('div#your-patients-hdr').css('display','none');      $('div#your-patient-nav').css('display','none');      }      if($('ul#your-health-nav li').length==0){      $('div#your-health-hdr').css('display','none');      $('div#your-health-nav').css('display','none');      }      });    </script><div id="page-127"><header id="branding"><div id="header-inner"><div class="se-logo-127"><h1 id="site-title">Northwest Community Healthcare								            </h1></div></div></header><div id="main-127" class="stretch-me"><img id="bg-img" src="/clients/1843/127/img/127-hero.png" /><div id="tag-line-127"><p class="ttl-127">Search for a health topic:</p><div id="hm-search"><div id="browse-a-z-hm"><a id="toggle-a-z" href="">Browse A-Z</a></div><input type="text" onkeypress="javascript:checkEnter(event)" id="ADAMSearchBox" style="width:140px;margin-top: 11px;height:30px;" placeholder="Health Search" class="placeholder" /><div style="margin-top:-32px; margin-left:245px; position:relative;border:none;" id="searchbtn"><input type="button" style="width: 40px; margin-left: 3px; height: 33px; background-image: none; background-attachment: scroll; background-repeat: repeat; background-size: auto auto; background-origin: padding-box; background-clip: border-box; background-color: transparent; cursor: pointer;border:none;" value="" onmouseover="javascript:document.getElementById('searchClick').style.cursor = 'pointer';" onclick="javascript:ADAMDefaultSearch('Article');" id="searchClick" /></div><div id="browse-a-z-nav" style="filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/clients/1843/127/img/browse-a-z-bg.png', sizingMethod='scale') !important;"><ul><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=a">A</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=b">B</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=c">C</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=d">D</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=e">E</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=f">F</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=g">G</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=h">H</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=i">I</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=j">J</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=k">K</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=l">L</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=m">M</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=n">N</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=o">O</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=p">P</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=q">Q</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=r">R</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=s">S</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=t">T</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=u">U</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=v">V</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=w">W</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=x">X</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=y">Y</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=z">Z</a></li><li><a href="content.aspx?productid=26&amp;pid=26&amp;alpha=0">0-9                      </a></li></ul></div></div><div id="autoSearchTitle" style="border: 2px solid #5e9732; top: -3px; z-index: 500; width:280px; display:none; background-color:white; float: left; /*right:10px;*/"><style>					ul#autoSearchUL li {					padding-left: 10px;					font: 300 18px/1.625 Georgia Regular !important;list-style: outside none !important;					color: #403324;margin-top: 0px !important;margin-bottom: 0px !important;					}				</style><ul id="autoSearchUL" style="list-style: none; margin-left:0px;margin-top: 0px;"></ul></div></div><div id="hm-main-nav"><div id="menu-col-1"><div id="your-care-hdr"><p>Your Care</p></div><ul id="your-care-nav"><li class="active"><a href="content.aspx?productid=117&amp;pid=1&amp;alpha=a&amp;sub=Symptoms">Your Symptoms                </a></li><li class="active"><a href="content.aspx?productid=117&amp;pid=60&amp;alpha=a&amp;sub=Self-Care%20Instructions">Self Care                </a></li><li class="active"><a href="content.aspx?productid=117&amp;pid=1&amp;alpha=a&amp;sub=Disease">Diseases &amp; Conditions                </a></li><li class="active"><a href="content.aspx?productid=117&amp;pid=1&amp;alpha=a&amp;sub=Surgery">Surgeries &amp; Procedures                </a></li><li class="active"><a href="content.aspx?productid=117&amp;pid=1&amp;alpha=a&amp;sub=Injury">Injuries                </a></li><li class="active"><a href="content.aspx?productid=117&amp;pid=1&amp;alpha=a&amp;sub=Test">Tests                </a></li><li class="in-active"><a href="content.aspx?productid=45&amp;pid=45">Drug Information                    </a><a href=""></a></li></ul></div><div id="menu-col-2"><div id="your-symptoms-hdr"><p>Your Symptoms</p></div><ul id="your-symptoms-nav"><li class="active"><a href="content.aspx?productid=65&amp;pid=65">Health Navigator                    </a></li></ul></div><div id="menu-col-3"><div id="your-health-hdr"><p>Your Health</p></div><ul id="your-health-nav"><li class="active"><a href="content.aspx?productid=20&amp;pid=20">Wellness Tools                    </a></li><li class="active"><a href="content.aspx?productid=43&amp;pid=43">My Checkups                    </a></li></ul></div></div><div id="hm-navigation-bg"></div></div><footer class="se-footer"> </footer></div><div style="width:100%; font-size:11px;text-align:center; float: left;padding-bottom:10px">A.D.A.M. content is best viewed in IE9 or above, Firefox and Google Chrome browser.</div><script type="text/javascript"><!--            $(document).ready(function(){            $('#news').innerfade({            animationtype: 'fade',            speed: 'slow',            timeout: 5000,            type: 'sequence',            containerheight: '18px'            });            $('#toggle-a-z').click(function(event) {            event.preventDefault();            $('#browse-a-z-nav').toggle();            });            })          --></script><script type="text/javascript" src="http://sdk.adam.com/javascriptlibraries/adamcore.1.0.js"> </script><script type="text/javascript" src="http://sdk.adam.com/javascriptlibraries/TypeAheadSearch.js"> </script><script type="text/javascript" src="../../graphics/global/loader/jquery.loader.js"> </script><script src="/clients/1843/127/js/css3-mediaqueries.js"> </script><script type="text/javascript"><!--        var current_index = 0;        function change_selection(len)        {        $('ul#autoSearchUL li').removeClass('selected');        $('ul#autoSearchUL li').eq(len).addClass('selected');        }        $(document).ready(function() {        $('#autoSearchUL li').on("mouseover", function() {        $('ul#autoSearchUL li').removeClass('selected');        current_index=0;        });        $("#ADAMSearchBox").keyup(function(e){        if (e.keyCode == 38) {        if (current_index > 1) {        current_index = current_index - 1;        change_selection(current_index-1);        $('#ADAMSearchBox').val($('ul#autoSearchUL li').eq(current_index-1).text());        }        }        else if (e.keyCode == 40) {        var items_total = $('ul#autoSearchUL li').length;        if (current_index < items_total) {        change_selection(current_index);        current_index++;        $('#ADAMSearchBox').val($('ul#autoSearchUL li').eq(current_index-1).text());        }        }        else        {        var searchboxValue = $("#ADAMSearchBox").val();        if(jQuery.trim(searchboxValue).length > 0)        {                jsGetSearchedItem('http://sdk.adam.com/webapi/',$(this).val());        }        else        {                $('#autoSearchTitle').css('display', 'none');        current_index=0;        }        }        });        });      --></script><script type="text/javascript"><!--        function Setvalue(e)        {        var innerText = e.innerHTML;        $('#ADAMSearchBox').val(innerText);        ADAMDefaultSearch(innerText);        }      --></script><script type="text/javascript"><!--        var health=$("div#mme-hm-col3 > ul > li").length;        if(health < 1)        {        $("div#mme-hm-col3").css("visibility","hidden");        $("div#mme-hm-col3").hide();        }      --></script><style type="text/css">      #autoSearchUL li:hover {      background: #c0c0c0;      /*padding-left:11px;*/      cursor:pointer;      }    </style><style type="text/css">      .selected {background: #c0c0c0}    </style></article>							<!-- END INSERTED CONTENT -->
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>
+			<div id="footerWrapper">
+				<div class="container">
+					<div id="footer">
+						<div class="row-fluid footerTop">
+							<div id="footerTopLeftPane" class="span6 footerPane">
+								<h2><a href="tel:847-618-1000">847-618-1000</a></h2>
+								<p>800 W. Central Road<br />
+									Arlington Heights, IL 60005</p>
+							</div>
+							<div id="footerTopRightPane" class="span6 footerPane">
+								<a href="http://nch.netreturns.biz/giving/ " class="nchButton darkButton heartIcon pull-right" style="background-image:url(http://www.nch.org/images/givingIcons.png)">Give Now</a>
+							</div>
+						</div>
+						<div class="row-fluid">
+							<div id="footerLinksPane1" class="span3 footerPane">
+								<div id="dnn_Footer_footerMenu1_pnlErr"></div>
+								<div id="dnn_Footer_footerMenu1_menuRender">
+									<div class="navxp_HB_LinkGroups navxp_HB_LinkGroups_Footer NavXpRoot">
+										<div class="root_container">
+											<a class="itemL0 itemL0Last nxp-first nxp-last nxp-lvl0 nxp-link nxp-has-child" href="javascript: ;" rel="FooterListHeader">Quick Links</a>
+											<div class="child_container">
+												<a class="itemLN nxp-first nxp-lvl1 nxp-child nxp-page nxp-no-child" href="http://www.nch.org/About-NCH">About NCH</a>
+												<a class="itemLN  nxp-lvl1 nxp-child nxp-page nxp-no-child" href="http://www.nch.org/Careers">Careers</a>
+												<a class="itemLN  nxp-lvl1 nxp-child nxp-page nxp-no-child" href="http://www.nch.org/Patients-Visitors/Fees-and-Bill-Payment">Pay Bill</a>
+												<a class="itemLN  nxp-lvl1 nxp-child nxp-page nxp-no-child" href="http://www.nch.org/Media">Media</a>
+												<a class="itemLN  nxp-lvl1 nxp-child nxp-page nxp-no-child" href="http://www.nch.org/Community">Community</a>
+											</div>
+										</div>
+										<div style="clear: both"></div>
+									</div>
+								</div>
+							</div>
+							<div id="footerLinksPane2" class="span3 footerPane">
+								<div id="dnn_Footer_footerMenu2_pnlErr"></div>
+								<div id="dnn_Footer_footerMenu2_menuRender">
+									<div class="navxp_HB_LinkGroups navxp_HB_LinkGroups_Footer NavXpRoot">
+										<div class="root_container">
+											<a class="itemL0 itemL0Last nxp-first nxp-last nxp-lvl0 nxp-link nxp-has-child" href="javascript: ;" rel="FooterListHeader">Healthcare For Everyone</a>
+											<div class="child_container">
+												<a class="itemLN nxp-first nxp-lvl1 nxp-child nxp-page nxp-no-child" href="http://www.nch.org/Treatment-Care/Womens-Health">Women</a>
+												<a class="itemLN  nxp-lvl1 nxp-child nxp-page nxp-no-child" href="http://www.nch.org/Treatment-Care/Mens-Health">Men</a>
+												<a class="itemLN  nxp-lvl1 nxp-child nxp-page nxp-no-child" href="http://www.nch.org/Treatment-Care/Senior-Health">Seniors</a>
+												<a class="itemLN  nxp-lvl1 nxp-child nxp-link nxp-no-child" href="http://www.nch.org/Treatment-Care/Pediatrics">Children</a>
+											</div>
+										</div>
+										<div style="clear: both"></div>
+									</div>
+								</div>
+							</div>
+							<div id="footerLinksPane3" class="span3 footerPane">
+								<div id="dnn_Footer_footerMenu3_pnlErr"></div>
+								<div id="dnn_Footer_footerMenu3_menuRender">
+									<div class="navxp_HB_LinkGroups navxp_HB_LinkGroups_Footer NavXpRoot">
+										<div class="root_container">
+											<a class="itemL0 itemL0Last nxp-first nxp-last nxp-lvl0 nxp-link nxp-has-child" href="javascript: ;" rel="FooterListHeader">For Healthcare Professionals</a>
+											<div class="child_container">
+												<a class="itemLN nxp-first nxp-lvl1 nxp-child nxp-page nxp-no-child" href="http://www.nch.org/Physicians">Physicians</a>
+												<a class="itemLN  nxp-lvl1 nxp-child nxp-page nxp-no-child" href="http://www.nch.org/Nurses">Nurses</a>
+												<a class="itemLN  nxp-lvl1 nxp-child nxp-page nxp-no-child" href="http://www.nch.org/Employees">Employees</a>
+											</div>
+										</div>
+										<div style="clear: both"></div>
+									</div>
+								</div>
+							</div>
+							<div id="footerLinksPane4" class="span3 footerPane">
+								<div id="dnn_Footer_footerMenu4_pnlErr"></div>
+								<div id="dnn_Footer_footerMenu4_menuRender">
+									<div class="navxp_HB_LinkGroups navxp_HB_LinkGroups_Footer NavXpRoot">
+										<div class="root_container">
+											<a class="itemL0 itemL0Last nxp-first nxp-last nxp-lvl0 nxp-link nxp-has-child" href="javascript: ;" rel="FooterListHeader">Northwest Community Healthcare</a>
+											<div class="child_container">
+												<a class="itemLN nxp-first nxp-lvl1 nxp-child nxp-page nxp-no-child" href="http://www.nch.org/Location-Contact-Info/NCH-Hospital">NCH Hospital</a>
+												<a class="itemLN  nxp-lvl1 nxp-child nxp-page nxp-no-child" href="http://www.nch.org/Treatment-Care/NCH-Medical-Group">NCH Medical Group</a>
+												<a class="itemLN  nxp-lvl1 nxp-child nxp-page nxp-no-child" href="http://www.nch.org/Treatment-Care/Prevention-and-Wellness-Center">NCH Wellness Center</a>
+												<a class="itemLN  nxp-lvl1 nxp-child nxp-page nxp-no-child" href="https://mychart.nch.org/Mychart/">NCH MyChart</a>
+											</div>
+										</div>
+										<div style="clear: both"></div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div id="footerBottom" class="row-fluid">
+							<div class="span4" style="min-height:30px!important">
+								<span class="footerCopyright" id="dnn_Footer_dnnCopyright_lblCopyright">&copy; 2015 Northwest Community Healthcare. All rights reserved.</span> 
+								<div id="login">
+									<div class="loginGroup" id="dnn_Footer_dnnLogin_loginGroup"></div>
+								</div>
+							</div>
+							<div class="span8">
+								<div class="footerSocial">
+									<a class="socialButton socialTwitter" style="background-image:url(http://www.nch.org/images/twitterIcon.png)" href="https://twitter.com/nchonline/" target=_blank>Twitter</a>
+									<a class="socialButton socialFacebook" style="background-image:url(http://www.nch.org/images/facebookIcon.png)" href="https://www.facebook.com/NCHonline" target=_blank>Facebook</a>
+									<a class="socialButton socialYoutube" style="background-image:url(http://www.nch.org/images/youtubeIcon.png)" href="http://www.youtube.com/user/NCHospital" target=_blank>Youtube</a>
+								</div>
+								<div class="footerButtons" style="margin: 0px; padding: 0px;">
+									<a class="nchButton darkButton newsletterIcon pie_first-child" style="background-image:url(http://www.nch.org/images/newsletterIcons.png)" href="http://www.nch.org/Email">Sign up for Email</a>
+									<a class="nchButton darkButton padlockIcon" style="background-image:url(http://www.nch.org/images/padlockIcons.png)" href="https://remote.nch.org/vpn/index.html" _pieId="_35">Physician/Employee Login</a>
+								</div>
+							</div>					
+						</div>
+					</div>
+				</div>
+			</div>
+			<script src="http://cdn.datatables.net/1.10.2/js/jquery.dataTables.min.js"></script>
+			<script src="http://www.nch.org/js/jquery.fittext.js"></script>
+		</div>           
+	</div>
+	<script type="text/javascript">
+		$(function () {
+			$('#navdttg li:has(ul)').doubleTapToGo();
+		});
+	</script>
+	<input name="ScrollTop" id="ScrollTop" type="hidden">
+	</form><script type="text/javascript" src="../../graphics/global/ga.js"> </script><script type="text/javascript">                  try {                  var adamPageTracker = _gat._getTracker("UA-47850291-42");                  adamPageTracker._trackPageview();                  } catch(err) {}                  try {                  var adamGlobalPageTracker = _gat._getTracker("UA-7878983-1");                  adamGlobalPageTracker._trackPageview();                  } catch(err) {}                </script><script type="text/javascript">                      try {                      var pageTracker = _gat._getTracker("UA-56800782-5");                      pageTracker._trackPageview();                      } catch(err) {}                    </script></body></html>
